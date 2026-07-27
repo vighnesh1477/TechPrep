@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import CreditsScroll from "../components/CreditsScroll";
-import profilePic from "../assets/images/vighnesh.png";
+import profilePic from "../assets/images/Vighnesh.png";
 import "./About.css";
 
 function About() {
