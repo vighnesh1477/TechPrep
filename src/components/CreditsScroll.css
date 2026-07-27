@@ -1,0 +1,141 @@
+.cs-wrapper {
+  position: relative;
+  width: 100%;
+  height: 65vh;
+  min-height: 500px;
+  overflow: hidden;
+  margin-top: 32px;
+}
+
+.cs-fade-top,
+.cs-fade-bottom {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 80px;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.cs-fade-top {
+  top: 0;
+  background: linear-gradient(
+    to bottom,
+    var(--bg-primary) 0%,
+    transparent 100%
+  );
+}
+
+.cs-fade-bottom {
+  bottom: 0;
+  background: linear-gradient(
+    to top,
+    var(--bg-primary) 0%,
+    transparent 100%
+  );
+}
+
+.cs-viewport {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.cs-track {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 24px;
+  /* Seamless infinite scroll: moves exactly half (one copy) then resets */
+  animation: cs-scroll 30s linear infinite;
+  will-change: transform;
+}
+
+@keyframes cs-scroll {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.cs-block {
+  text-align: center;
+  padding: 20px 0;
+  max-width: 700px;
+}
+
+.cs-role {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 16px;
+}
+
+.cs-title {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--text-primary);
+}
+
+.cs-name {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.9;
+}
+
+.cs-name-main {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+.cs-divider {
+  width: 50px;
+  height: 1px;
+  margin: 10px auto;
+  background: var(--border);
+}
+
+@media (max-width: 768px) {
+  .cs-wrapper {
+    height: 55vh;
+    min-height: 420px;
+  }
+
+  .cs-title {
+    font-size: 1.5rem;
+  }
+
+  .cs-name-main {
+    font-size: 1.3rem;
+  }
+
+  .cs-name {
+    font-size: 0.95rem;
+  }
+
+  .cs-block {
+    padding: 18px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .cs-wrapper {
+    height: 50vh;
+    min-height: 350px;
+  }
+
+  .cs-title {
+    font-size: 1.3rem;
+  }
+
+  .cs-role {
+    font-size: 0.65rem;
+  }
+}

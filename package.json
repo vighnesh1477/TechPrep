@@ -1,0 +1,31 @@
+{
+  "name": "techprep",
+  "version": "1.0.0",
+  "description": "Open Source Technical Interview Preparation Platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "quiz",
+    "technical-interview",
+    "open-source"
+  ],
+  "author": "Vighnesh",
+  "license": "MIT",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.1.0"
+  }
+}

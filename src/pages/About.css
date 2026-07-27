@@ -1,0 +1,290 @@
+.about-page {
+  min-height: 100vh;
+  background: var(--bg-primary);
+  padding: 50px 24px 0;
+}
+
+.about-container {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+/* ===== Hero: Side by Side ===== */
+.about-hero {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 60px;
+  align-items: start;
+  margin-bottom: 48px;
+}
+
+/* Left: Creator */
+.about-hero-left {
+  position: sticky;
+  top: 80px;
+  text-align: center;
+}
+
+.about-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;      /* Maintains aspect ratio while filling the circle */
+  object-position: center; /* Centers the face */
+  display: block;
+  margin: 0 auto 16px;
+}
+
+.about-creator-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.about-creator-role {
+  font-size: 0.82rem;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.about-creator-bio {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.65;
+  margin-bottom: 16px;
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-creator-links {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.about-creator-links a {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.about-creator-links a:hover {
+  color: var(--accent);
+}
+
+/* Right: Philosophy */
+.about-hero-right {
+  padding-top: 8px;
+}
+
+.about-hero-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-tertiary);
+  margin-bottom: 16px;
+}
+
+.about-hero-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  margin-bottom: 32px;
+}
+
+.about-hero-statement {
+  border-left: 3px solid var(--accent);
+  padding-left: 20px;
+}
+
+.about-hero-statement p {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  margin: 0;
+}
+
+.about-hero-statement p:last-child {
+  margin-top: 4px;
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 1.1rem;
+}
+
+/* ===== Divider ===== */
+.about-divider {
+  width: 100%;
+  height: 1px;
+  background: var(--border);
+  margin-bottom: 48px;
+}
+
+/* ===== Sections ===== */
+.about-section {
+  margin-bottom: 48px;
+}
+
+.about-section-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+}
+
+.about-section-desc {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+/* ===== Help Grid ===== */
+.about-help-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.about-help-card {
+  display: flex;
+  gap: 14px;
+  padding: 18px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  transition: border-color 0.15s ease;
+}
+
+.about-help-card:hover {
+  border-color: var(--accent);
+}
+
+.about-help-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+  min-width: 28px;
+  padding-top: 2px;
+}
+
+.about-help-body h3 {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.about-help-body p {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* CTA Button */
+.about-help-cta {
+  text-align: center;
+}
+
+.about-help-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 24px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.about-help-btn:hover {
+  background: var(--accent-hover);
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .about-hero {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+
+  .about-hero-left {
+    position: static;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .about-hero-right {
+    padding-top: 0;
+  }
+
+  .about-hero-title {
+    font-size: 2.2rem;
+    text-align: center;
+  }
+
+  .about-hero-label {
+    text-align: center;
+  }
+
+  .about-hero-statement {
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .about-help-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-page {
+    padding: 40px 16px 0;
+  }
+
+  .about-hero-title {
+    font-size: 1.8rem;
+  }
+
+  .about-hero-statement p {
+    font-size: 0.95rem;
+  }
+
+  .about-hero-statement p:last-child {
+    font-size: 1rem;
+  }
+
+  .about-avatar {
+    width: 72px;
+    height: 72px;
+    font-size: 1.6rem;
+  }
+
+  .about-creator-bio {
+    max-width: 100%;
+  }
+
+  .about-help-card {
+    padding: 14px;
+  }
+}
+
+#contribute {
+  scroll-margin-top: 100px;
+}

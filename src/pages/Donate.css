@@ -1,0 +1,219 @@
+.donate-page {
+  padding: 50px 24px 60px;
+  min-height: 100vh;
+  background: var(--bg-primary);
+}
+
+.donate-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.donate-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.donate-heart-icon {
+  width: 48px;
+  height: 48px;
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+
+.donate-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+
+.donate-subtitle {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.donate-methods {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 48px;
+}
+
+.donate-method-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 32px 24px;
+  text-align: center;
+  transition: box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.donate-method-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.method-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  background: var(--bg-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 20px;
+}
+
+.icon-qr,
+.icon-star {
+  width: 28px;
+  height: 28px;
+  color: var(--accent);
+}
+
+.donate-method-card h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.donate-method-card p {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.qr-placeholder {
+  width: 180px;
+  height: 180px;
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0 auto;
+}
+
+.qr-placeholder-icon {
+  width: 40px;
+  height: 40px;
+  color: var(--text-tertiary);
+  opacity: 0.4;
+}
+
+.qr-placeholder span {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+}
+
+/* Contribute list */
+.contribute-list {
+  width: 100%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.contribute-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: var(--bg-primary);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+}
+
+.contribute-icon {
+  width: 18px;
+  height: 18px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.contribute-note {
+  font-size: 0.85rem;
+  color: var(--text-tertiary);
+  margin-bottom: 20px !important;
+  font-style: italic;
+}
+
+/* GitHub star button */
+.github-star-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 22px;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  margin-top: auto;
+}
+
+.github-star-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 5%, transparent);
+}
+
+.star-btn-icon {
+  width: 18px;
+  height: 18px;
+}
+
+/* Thank you */
+.donate-thankyou {
+  text-align: center;
+  padding: 32px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.thankyou-icon {
+  width: 32px;
+  height: 32px;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+
+.donate-thankyou p {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .donate-methods {
+    grid-template-columns: 1fr;
+  }
+
+  .donate-header h1 {
+    font-size: 1.6rem;
+  }
+
+  .donate-page {
+    padding: 40px 16px 40px;
+  }
+}

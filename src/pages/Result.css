@@ -1,0 +1,567 @@
+.res-page {
+  min-height: 100vh;
+  background: var(--bg-primary);
+  padding: 50px 24px 60px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.res-container {
+  width: 100%;
+  max-width: 600px;
+}
+
+/* Empty */
+.res-empty {
+  text-align: center;
+  padding: 80px 24px;
+}
+
+.res-empty-icon {
+  width: 48px;
+  height: 48px;
+  color: var(--text-tertiary);
+  margin: 0 auto 16px;
+}
+
+.res-empty h2 {
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.res-empty p {
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+}
+
+/* Main Card */
+.res-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 36px 32px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.res-topic {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 24px;
+}
+
+/* Score Ring */
+.res-ring-wrap {
+  position: relative;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto 20px;
+}
+
+.res-ring-svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.res-ring-bg {
+  stroke: var(--border);
+}
+
+.res-ring-fill {
+  stroke: var(--accent);
+  transition: stroke-dashoffset 1s ease;
+}
+
+.res-ring-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.res-ring-percent {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.res-ring-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 4px;
+}
+
+/* Message */
+.res-message {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.res-message-sub {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.res-msg-outstanding { color: var(--success); }
+.res-msg-great { color: var(--accent); }
+.res-msg-good { color: var(--warning); }
+.res-msg-keep { color: #f97316; }
+.res-msg-dont { color: var(--error); }
+
+/* Stats Grid */
+.res-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.res-stat-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 12px;
+  text-align: center;
+}
+
+.res-stat-icon-wrap {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+}
+
+.res-stat-total { background: rgba(37, 99, 235, 0.08); }
+.res-stat-total .res-stat-icon { color: var(--accent); }
+.res-stat-correct { background: rgba(22, 163, 74, 0.08); }
+.res-stat-correct .res-stat-icon { color: var(--success); }
+.res-stat-wrong { background: rgba(220, 38, 38, 0.08); }
+.res-stat-wrong .res-stat-icon { color: var(--error); }
+.res-stat-skip { background: rgba(245, 158, 11, 0.08); }
+.res-stat-skip .res-stat-icon { color: var(--warning); }
+
+.res-stat-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.res-stat-num {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+.res-stat-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Time Card */
+.res-time-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 20px;
+}
+
+.res-time-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.res-time-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.res-time-icon {
+  width: 18px;
+  height: 18px;
+  color: var(--accent);
+}
+
+.res-time-val {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+.res-time-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.res-time-divider {
+  width: 1px;
+  height: 32px;
+  background: var(--border);
+}
+
+/* Difficulty Card */
+.res-diff-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 28px;
+}
+
+.res-diff-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 18px;
+}
+
+.res-diff-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.res-diff-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 4px 12px;
+  align-items: center;
+}
+
+.res-diff-header {
+  grid-column: 1;
+}
+
+.res-diff-label-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.res-diff-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.res-diff-easy { background: var(--success); }
+.res-diff-medium { background: var(--warning); }
+.res-diff-hard { background: var(--error); }
+
+.res-diff-name {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.res-diff-score {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-align: right;
+  grid-column: 2;
+  grid-row: 1 / 3;
+  align-self: center;
+}
+
+.res-diff-bar-track {
+  grid-column: 1;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.res-diff-bar-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.8s ease;
+}
+
+.res-diff-pct {
+  grid-column: 3;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-tertiary);
+  text-align: right;
+  min-width: 32px;
+  grid-row: 1 / 3;
+  align-self: center;
+}
+
+/* Actions */
+.res-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.res-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border: none;
+}
+
+.res-btn-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.res-btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+
+.res-btn-primary:hover {
+  background: var(--accent-hover);
+}
+
+.res-btn-outline {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+}
+
+.res-btn-outline:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.res-btn-ghost {
+  background: transparent;
+  color: var(--text-secondary);
+}
+
+.res-btn-ghost:hover {
+  color: var(--text-primary);
+  background: var(--bg-surface);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .res-page {
+    padding: 50px 16px 40px;
+  }
+
+  .res-card {
+    padding: 28px 20px;
+  }
+
+  .res-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .res-time-row {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .res-time-divider {
+    width: 40px;
+    height: 1px;
+  }
+
+  .res-diff-pct {
+    grid-column: 2;
+    text-align: left;
+  }
+
+  .res-actions {
+    flex-direction: column;
+  }
+
+  .res-btn {
+    justify-content: center;
+  }
+}
+/* ===== Download Area — hidden from user, captured by html2canvas ===== */
+.res-download-area {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 560px;
+  z-index: -1;
+  clip-path: inset(0 0 0 0);
+  pointer-events: none;
+}
+
+/* Download card — dark theme always, system-ui font for consistent rendering across platforms */
+.res-download-inner {
+  padding: 36px;
+  background: #0f0f1a;
+  border-radius: 16px;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: #e8e8f0;
+}
+
+/* Download header */
+.res-dl-header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.res-dl-brand {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: #3b82f6;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.res-dl-topic {
+  font-size: 22px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+
+/* Download ring */
+.res-dl-ring {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 28px;
+}
+
+/* Download message */
+.res-dl-message {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.res-dl-sub {
+  font-size: 0.88rem;
+  color: #9999aa;
+  text-align: center;
+  line-height: 1.6;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-bottom: 28px;
+}
+
+/* Download stats */
+.res-dl-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin-bottom: 28px;
+}
+
+.res-dl-stat {
+  text-align: center;
+  padding: 16px 8px;
+  border-radius: 12px;
+}
+
+.res-dl-stat-num {
+  font-size: 22px;
+  font-weight: 800;
+  color: #e8e8f0;
+  line-height: 1.2;
+}
+
+.res-dl-stat-label {
+  font-size: 9px;
+  font-weight: 600;
+  color: #8888aa;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 4px;
+}
+
+.res-dl-stat-green { background: rgba(22, 163, 74, 0.1); }
+.res-dl-stat-green .res-dl-stat-num { color: #22c55e; }
+.res-dl-stat-red { background: rgba(239, 68, 68, 0.1); }
+.res-dl-stat-red .res-dl-stat-num { color: #ef4444; }
+.res-dl-stat-yellow { background: rgba(245, 158, 11, 0.1); }
+.res-dl-stat-yellow .res-dl-stat-num { color: #fbbf24; }
+.res-dl-stat-default { background: rgba(37, 99, 235, 0.1); }
+.res-dl-stat-default .res-dl-stat-num { color: #e8e8f0; }
+
+/* Download divider */
+.res-dl-divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, #2a2a40, transparent);
+  margin-bottom: 24px;
+}
+
+/* Download bottom */
+.res-dl-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.res-dl-bottom-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.res-dl-bottom-label {
+  font-size: 9px;
+  font-weight: 600;
+  color: #666680;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.res-dl-bottom-val {
+  font-size: 18px;
+  font-weight: 700;
+  color: #e8e8f0;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .res-download-area {
+    width: 95vw;
+  }
+}
