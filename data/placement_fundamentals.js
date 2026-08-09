@@ -6359,5 +6359,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git is a distributed version control system that tracks changes to file content over time, enabling collaboration and history tracking."
+    },
+    {
+        "id": "pf-455",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What type of version control system is Git?",
+        "options": [
+            "Centralized",
+            "Distributed",
+            "Local-only",
+            "Client-server"
+        ],
+        "answer": 1,
+        "explanation": "Git is a distributed version control system where every developer has a full copy of the repository, including its complete history."
     }
 ];
