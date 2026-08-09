@@ -1,14 +1,14 @@
 {
-  "id": "placement-325",
-  "topic": "Commit History",
-  "difficulty": "Easy",
-  "question": "What command shows the commit history as a graph with branch topology?",
-  "options": [
-    "git log --graph",
-    "git log --tree",
-    "git log --visual",
-    "git log --branch"
-  ],
-  "answer": 0,
-  "explanation": "git log --graph adds an ASCII-art representation of the branch and merge history on the left side, making the commit topology visually clear."
+    "id": "pf-527",
+    "topic": "Commit History",
+    "difficulty": "Easy",
+    "question": "What command shows the commit history as a graph with branch topology?",
+    "options": [
+        "git log --graph",
+        "git log --tree",
+        "git log --visual",
+        "git log --branch"
+    ],
+    "answer": 0,
+    "explanation": "git log --graph adds an ASCII-art representation of the branch and merge history on the left side, making the commit topology visually clear."
 }

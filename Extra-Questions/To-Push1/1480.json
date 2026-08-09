@@ -1,14 +1,14 @@
 {
-  "id": "placement-1480",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What is Speculative Execution?",
-  "options": [
-    "Executing code randomly to test for bugs",
-    "Executing instructions ahead of a branch before knowing the branch outcome, based on a prediction, and rolling back if wrong",
-    "Executing instructions out of memory",
-    "A type of multi-threading"
-  ],
-  "answer": 1,
-  "explanation": "Speculative execution is a technique used by high-performance CPUs to improve performance by guessing the path a branch will take and executing those instructions. If wrong, the results are discarded."
+    "id": "pf-1682",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What is Speculative Execution?",
+    "options": [
+        "Executing code randomly to test for bugs",
+        "Executing instructions ahead of a branch before knowing the branch outcome, based on a prediction, and rolling back if wrong",
+        "Executing instructions out of memory",
+        "A type of multi-threading"
+    ],
+    "answer": 1,
+    "explanation": "Speculative execution is a technique used by high-performance CPUs to improve performance by guessing the path a branch will take and executing those instructions. If wrong, the results are discarded."
 }

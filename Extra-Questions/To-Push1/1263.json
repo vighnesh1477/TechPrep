@@ -1,14 +1,14 @@
 {
-  "id": "placement-1263",
-  "topic": "Algorithms",
-  "difficulty": "Easy",
-  "question": "What is linear search?",
-  "options": [
-    "Dividing the array in half",
-    "Checking each element sequentially until the target is found",
-    "Sorting the array first",
-    "Using a hash map"
-  ],
-  "answer": 1,
-  "explanation": "Linear search iterates through every element one by one, taking O(N) time."
+    "id": "pf-1465",
+    "topic": "Algorithms",
+    "difficulty": "Easy",
+    "question": "What is linear search?",
+    "options": [
+        "Dividing the array in half",
+        "Checking each element sequentially until the target is found",
+        "Sorting the array first",
+        "Using a hash map"
+    ],
+    "answer": 1,
+    "explanation": "Linear search iterates through every element one by one, taking O(N) time."
 }

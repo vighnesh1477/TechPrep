@@ -1,14 +1,14 @@
 {
-  "id": "placement-1140",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What is the `explicit` keyword used for?",
-  "options": [
-    "Making a variable public",
-    "Preventing implicit conversions via constructors",
-    "Exporting a class",
-    "Defining a pure virtual function"
-  ],
-  "answer": 1,
-  "explanation": "explicit prevents the compiler from using the constructor for implicit type conversions."
+    "id": "pf-1342",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What is the `explicit` keyword used for?",
+    "options": [
+        "Making a variable public",
+        "Preventing implicit conversions via constructors",
+        "Exporting a class",
+        "Defining a pure virtual function"
+    ],
+    "answer": 1,
+    "explanation": "explicit prevents the compiler from using the constructor for implicit type conversions."
 }

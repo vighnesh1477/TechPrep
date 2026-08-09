@@ -1,14 +1,14 @@
 {
-  "id": "placement-1633",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which data type is typically used to store true/false values?",
-  "options": [
-    "int",
-    "boolean",
-    "char",
-    "float"
-  ],
-  "answer": 1,
-  "explanation": "The boolean data type is specifically designed to hold one of two values: true or false."
+    "id": "pf-1835",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which data type is typically used to store true/false values?",
+    "options": [
+        "int",
+        "boolean",
+        "char",
+        "float"
+    ],
+    "answer": 1,
+    "explanation": "The boolean data type is specifically designed to hold one of two values: true or false."
 }

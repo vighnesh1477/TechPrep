@@ -1,14 +1,14 @@
 {
-  "id": "placement-2163",
-  "topic": "Statements and Conclusions",
-  "difficulty": "Easy",
-  "question": "Statement: The government increased taxes. Conclusion: Inflation will rise.",
-  "options": [
-    "Follows",
-    "Does not follow",
-    "Partially follows",
-    "Irrelevant"
-  ],
-  "answer": 1,
-  "explanation": "Tax increase does not directly imply inflation rise without more context."
+    "id": "pf-2365",
+    "topic": "Statements and Conclusions",
+    "difficulty": "Easy",
+    "question": "Statement: The government increased taxes. Conclusion: Inflation will rise.",
+    "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "Irrelevant"
+    ],
+    "answer": 1,
+    "explanation": "Tax increase does not directly imply inflation rise without more context."
 }

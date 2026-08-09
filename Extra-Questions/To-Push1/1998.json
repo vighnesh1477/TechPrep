@@ -1,14 +1,14 @@
 {
-  "id": "placement-1998",
-  "topic": "Mixtures and Alligation",
-  "difficulty": "Medium",
-  "question": "Two jars contain 40% and 60% alcohol. Mixed in equal volumes. % alcohol?",
-  "options": [
-    "45%",
-    "48%",
-    "50%",
-    "52%"
-  ],
-  "answer": 2,
-  "explanation": "(40+60)/2 = 50%."
+    "id": "pf-2200",
+    "topic": "Mixtures and Alligation",
+    "difficulty": "Medium",
+    "question": "Two jars contain 40% and 60% alcohol. Mixed in equal volumes. % alcohol?",
+    "options": [
+        "45%",
+        "48%",
+        "50%",
+        "52%"
+    ],
+    "answer": 2,
+    "explanation": "(40+60)/2 = 50%."
 }

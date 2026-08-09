@@ -1,14 +1,14 @@
 {
-  "id": "placement-581",
-  "topic": "mkdir",
-  "difficulty": "Easy",
-  "question": "What happens if you try to create a directory that already exists without any flags?",
-  "options": [
-    "It silently succeeds",
-    "It overwrites the existing directory",
-    "It reports an error: File exists",
-    "It appends a number to the name"
-  ],
-  "answer": 2,
-  "explanation": "Without -p, mkdir reports an error if the directory already exists. With -p, it silently succeeds without error."
+    "id": "pf-783",
+    "topic": "mkdir",
+    "difficulty": "Easy",
+    "question": "What happens if you try to create a directory that already exists without any flags?",
+    "options": [
+        "It silently succeeds",
+        "It overwrites the existing directory",
+        "It reports an error: File exists",
+        "It appends a number to the name"
+    ],
+    "answer": 2,
+    "explanation": "Without -p, mkdir reports an error if the directory already exists. With -p, it silently succeeds without error."
 }

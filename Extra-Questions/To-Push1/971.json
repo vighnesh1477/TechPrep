@@ -1,14 +1,14 @@
 {
-  "id": "placement-971",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "What is the default sorting order of ORDER BY?",
-  "options": [
-    "Descending",
-    "Ascending",
-    "Random",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "ORDER BY sorts in ascending order by default unless DESC is specified."
+    "id": "pf-1173",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "What is the default sorting order of ORDER BY?",
+    "options": [
+        "Descending",
+        "Ascending",
+        "Random",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "ORDER BY sorts in ascending order by default unless DESC is specified."
 }

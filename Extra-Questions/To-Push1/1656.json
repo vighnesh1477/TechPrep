@@ -1,14 +1,14 @@
 {
-  "id": "placement-1656",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "Which statement correctly represents an infinite loop in C?",
-  "options": [
-    "for(;;)",
-    "for(int i=0; i<=0; i++)",
-    "while(1)",
-    "Both A and C"
-  ],
-  "answer": 3,
-  "explanation": "`for(;;)` omits all three expressions (initialization, condition, increment), creating an infinite loop. `while(1)` evaluates a constant true condition, also creating an infinite loop."
+    "id": "pf-1858",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "Which statement correctly represents an infinite loop in C?",
+    "options": [
+        "for(;;)",
+        "for(int i=0; i<=0; i++)",
+        "while(1)",
+        "Both A and C"
+    ],
+    "answer": 3,
+    "explanation": "`for(;;)` omits all three expressions (initialization, condition, increment), creating an infinite loop. `while(1)` evaluates a constant true condition, also creating an infinite loop."
 }

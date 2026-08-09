@@ -1,14 +1,14 @@
 {
-  "id": "placement-396",
-  "topic": "Fetch",
-  "difficulty": "Easy",
-  "question": "What does git fetch --prune do?",
-  "options": [
-    "Deletes local branches",
-    "Removes remote-tracking branches that no longer exist on the remote",
-    "Prunes untracked files",
-    "Deletes old commit objects"
-  ],
-  "answer": 1,
-  "explanation": "git fetch --prune (or git fetch -p) removes remote-tracking references for branches that have been deleted on the remote, keeping your remote refs clean."
+    "id": "pf-598",
+    "topic": "Fetch",
+    "difficulty": "Easy",
+    "question": "What does git fetch --prune do?",
+    "options": [
+        "Deletes local branches",
+        "Removes remote-tracking branches that no longer exist on the remote",
+        "Prunes untracked files",
+        "Deletes old commit objects"
+    ],
+    "answer": 1,
+    "explanation": "git fetch --prune (or git fetch -p) removes remote-tracking references for branches that have been deleted on the remote, keeping your remote refs clean."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-571",
-  "topic": "mv",
-  "difficulty": "Easy",
-  "question": "What does mv -n do?",
-  "options": [
-    "Negates the move operation",
-    "Does not overwrite an existing file",
-    "Moves only new files",
-    "Runs in no-clobber mode only for directories"
-  ],
-  "answer": 1,
-  "explanation": "mv -n (no-clobber) does not overwrite an existing file. If the destination exists, the move is silently skipped."
+    "id": "pf-773",
+    "topic": "mv",
+    "difficulty": "Easy",
+    "question": "What does mv -n do?",
+    "options": [
+        "Negates the move operation",
+        "Does not overwrite an existing file",
+        "Moves only new files",
+        "Runs in no-clobber mode only for directories"
+    ],
+    "answer": 1,
+    "explanation": "mv -n (no-clobber) does not overwrite an existing file. If the destination exists, the move is silently skipped."
 }

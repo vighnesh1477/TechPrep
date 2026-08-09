@@ -1,14 +1,14 @@
 {
-  "id": "placement-1839",
-  "topic": "Complexity",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of this code?\n`for(i=0; i<n; i=i*2) { ... }`",
-  "options": [
-    "O(n)",
-    "O(log n)",
-    "O(n^2)",
-    "O(sqrt(n))"
-  ],
-  "answer": 1,
-  "explanation": "The loop variable `i` doubles each time (1, 2, 4, 8...). It takes log2(n) steps to reach or exceed `n`. Therefore, the complexity is O(log n)."
+    "id": "pf-2041",
+    "topic": "Complexity",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of this code?\n`for(i=0; i<n; i=i*2) { ... }`",
+    "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n^2)",
+        "O(sqrt(n))"
+    ],
+    "answer": 1,
+    "explanation": "The loop variable `i` doubles each time (1, 2, 4, 8...). It takes log2(n) steps to reach or exceed `n`. Therefore, the complexity is O(log n)."
 }

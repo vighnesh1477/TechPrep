@@ -1,14 +1,14 @@
 {
-  "id": "placement-1470",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the difference between a Hit and a Miss in cache memory?",
-  "options": [
-    "Hit means data is on the hard drive; Miss means it's in RAM",
-    "Hit means the requested data is found in the cache; Miss means it is not found and must be fetched from main memory",
-    "Hit is faster than Miss",
-    "Both B and C are correct"
-  ],
-  "answer": 3,
-  "explanation": "A cache hit occurs when the CPU finds the data it needs in the fast cache. A cache miss means the data isn't there, forcing a slower fetch from main memory."
+    "id": "pf-1672",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the difference between a Hit and a Miss in cache memory?",
+    "options": [
+        "Hit means data is on the hard drive; Miss means it's in RAM",
+        "Hit means the requested data is found in the cache; Miss means it is not found and must be fetched from main memory",
+        "Hit is faster than Miss",
+        "Both B and C are correct"
+    ],
+    "answer": 3,
+    "explanation": "A cache hit occurs when the CPU finds the data it needs in the fast cache. A cache miss means the data isn't there, forcing a slower fetch from main memory."
 }

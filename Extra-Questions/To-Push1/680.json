@@ -1,14 +1,14 @@
 {
-  "id": "placement-680",
-  "topic": "ps",
-  "difficulty": "Easy",
-  "question": "In 'ps aux' output, what does the STAT column 'R' mean?",
-  "options": [
-    "Running or runnable",
-    "Resting",
-    "Removed",
-    "Restarting"
-  ],
-  "answer": 0,
-  "explanation": "In the STAT column, 'R' means the process is running or on the run queue (ready to run). Other states include S (sleeping), D (uninterruptible sleep), Z (zombie), T (stopped)."
+    "id": "pf-882",
+    "topic": "ps",
+    "difficulty": "Easy",
+    "question": "In 'ps aux' output, what does the STAT column 'R' mean?",
+    "options": [
+        "Running or runnable",
+        "Resting",
+        "Removed",
+        "Restarting"
+    ],
+    "answer": 0,
+    "explanation": "In the STAT column, 'R' means the process is running or on the run queue (ready to run). Other states include S (sleeping), D (uninterruptible sleep), Z (zombie), T (stopped)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1934",
-  "topic": "Averages",
-  "difficulty": "Medium",
-  "question": "A shopkeeper earns Rs 200, Rs 250, Rs 300 in 3 months. Average earning?",
-  "options": [
-    "200",
-    "250",
-    "300",
-    "275"
-  ],
-  "answer": 1,
-  "explanation": "(200+250+300)/3 = 750/3 = 250."
+    "id": "pf-2136",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "question": "A shopkeeper earns Rs 200, Rs 250, Rs 300 in 3 months. Average earning?",
+    "options": [
+        "200",
+        "250",
+        "300",
+        "275"
+    ],
+    "answer": 1,
+    "explanation": "(200+250+300)/3 = 750/3 = 250."
 }

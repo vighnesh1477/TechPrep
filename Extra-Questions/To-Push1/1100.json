@@ -1,14 +1,14 @@
 {
-  "id": "placement-1100",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is serverless computing?",
-  "options": [
-    "There is no server",
-    "The cloud provider dynamically manages the allocation and provisioning of servers (e.g., AWS Lambda)",
-    "Using physical servers only",
-    "A type of firewall"
-  ],
-  "answer": 1,
-  "explanation": "Serverless abstracts server management; developers write code (functions) that run in response to events."
+    "id": "pf-1302",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is serverless computing?",
+    "options": [
+        "There is no server",
+        "The cloud provider dynamically manages the allocation and provisioning of servers (e.g., AWS Lambda)",
+        "Using physical servers only",
+        "A type of firewall"
+    ],
+    "answer": 1,
+    "explanation": "Serverless abstracts server management; developers write code (functions) that run in response to events."
 }

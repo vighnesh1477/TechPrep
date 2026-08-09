@@ -1,14 +1,14 @@
 {
-  "id": "placement-1584",
-  "topic": "Data Representation",
-  "difficulty": "Easy",
-  "question": "In floating-point representation, what does the 'Exponent' represent?",
-  "options": [
-    "The digits of the number",
-    "The position of the decimal (radix) point",
-    "The sign of the number",
-    "The precision"
-  ],
-  "answer": 1,
-  "explanation": "Floating-point numbers are represented as Significand × Base^Exponent. The exponent determines where the decimal point is placed, allowing representation of very large or very small numbers."
+    "id": "pf-1786",
+    "topic": "Data Representation",
+    "difficulty": "Easy",
+    "question": "In floating-point representation, what does the 'Exponent' represent?",
+    "options": [
+        "The digits of the number",
+        "The position of the decimal (radix) point",
+        "The sign of the number",
+        "The precision"
+    ],
+    "answer": 1,
+    "explanation": "Floating-point numbers are represented as Significand × Base^Exponent. The exponent determines where the decimal point is placed, allowing representation of very large or very small numbers."
 }

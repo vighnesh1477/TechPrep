@@ -1,14 +1,14 @@
 {
-  "id": "placement-1986",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Medium",
-  "question": "A sum triples in 8 years at SI. Rate?",
-  "options": [
-    "20%",
-    "25%",
-    "30%",
-    "35%"
-  ],
-  "answer": 1,
-  "explanation": "2P = P*R*8/100 => 16 = R => R=25%."
+    "id": "pf-2188",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Medium",
+    "question": "A sum triples in 8 years at SI. Rate?",
+    "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+    ],
+    "answer": 1,
+    "explanation": "2P = P*R*8/100 => 16 = R => R=25%."
 }

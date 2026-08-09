@@ -1,14 +1,14 @@
 {
-  "id": "placement-1165",
-  "topic": "Data Structures",
-  "difficulty": "Medium",
-  "question": "What is a trie primarily used for?",
-  "options": [
-    "Sorting numbers",
-    "Storing and retrieving strings efficiently (e.g., autocomplete)",
-    "Graph traversal",
-    "Matrix multiplication"
-  ],
-  "answer": 1,
-  "explanation": "Tries (prefix trees) store strings character by character, enabling fast prefix searches."
+    "id": "pf-1367",
+    "topic": "Data Structures",
+    "difficulty": "Medium",
+    "question": "What is a trie primarily used for?",
+    "options": [
+        "Sorting numbers",
+        "Storing and retrieving strings efficiently (e.g., autocomplete)",
+        "Graph traversal",
+        "Matrix multiplication"
+    ],
+    "answer": 1,
+    "explanation": "Tries (prefix trees) store strings character by character, enabling fast prefix searches."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-368",
-  "topic": "Repository Initialization",
-  "difficulty": "Easy",
-  "question": "Can you run git init in an existing directory that already has files?",
-  "options": [
-    "No, the directory must be empty",
-    "Yes, Git will start tracking the existing files after you add them",
-    "Yes, but all existing files will be deleted",
-    "No, Git will create a new subdirectory instead"
-  ],
-  "answer": 1,
-  "explanation": "You can initialize Git in any existing directory. The files won't be automatically tracked until you explicitly add them with git add."
+    "id": "pf-570",
+    "topic": "Repository Initialization",
+    "difficulty": "Easy",
+    "question": "Can you run git init in an existing directory that already has files?",
+    "options": [
+        "No, the directory must be empty",
+        "Yes, Git will start tracking the existing files after you add them",
+        "Yes, but all existing files will be deleted",
+        "No, Git will create a new subdirectory instead"
+    ],
+    "answer": 1,
+    "explanation": "You can initialize Git in any existing directory. The files won't be automatically tracked until you explicitly add them with git add."
 }

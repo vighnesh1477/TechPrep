@@ -1,14 +1,14 @@
 {
-  "id": "placement-1592",
-  "topic": "Data Representation",
-  "difficulty": "Medium",
-  "question": "What is a 'Sign-Magnitude' representation?",
-  "options": [
-    "Using two's complement",
-    "Using the most significant bit as the sign bit (0 for positive, 1 for negative) and the remaining bits for the magnitude",
-    "Using floating point",
-    "Using Gray code"
-  ],
-  "answer": 1,
-  "explanation": "Sign-magnitude represents a signed number by dedicating the highest-order bit to the sign (0=positive, 1=negative) and the rest of the bits to the absolute value of the number."
+    "id": "pf-1794",
+    "topic": "Data Representation",
+    "difficulty": "Medium",
+    "question": "What is a 'Sign-Magnitude' representation?",
+    "options": [
+        "Using two's complement",
+        "Using the most significant bit as the sign bit (0 for positive, 1 for negative) and the remaining bits for the magnitude",
+        "Using floating point",
+        "Using Gray code"
+    ],
+    "answer": 1,
+    "explanation": "Sign-magnitude represents a signed number by dedicating the highest-order bit to the sign (0=positive, 1=negative) and the rest of the bits to the absolute value of the number."
 }

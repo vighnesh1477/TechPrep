@@ -1,14 +1,14 @@
 {
-  "id": "placement-776",
-  "topic": "Terminal",
-  "difficulty": "Easy",
-  "question": "What does the 'history' command display?",
-  "options": [
-    "System boot history",
-    "Command history of the current shell session",
-    "File modification history",
-    "Network connection history"
-  ],
-  "answer": 1,
-  "explanation": "history displays the list of previously executed commands in the current shell session, numbered for easy reference with !number."
+    "id": "pf-978",
+    "topic": "Terminal",
+    "difficulty": "Easy",
+    "question": "What does the 'history' command display?",
+    "options": [
+        "System boot history",
+        "Command history of the current shell session",
+        "File modification history",
+        "Network connection history"
+    ],
+    "answer": 1,
+    "explanation": "history displays the list of previously executed commands in the current shell session, numbered for easy reference with !number."
 }

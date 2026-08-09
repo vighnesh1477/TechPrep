@@ -1,14 +1,14 @@
 {
-  "id": "placement-1258",
-  "topic": "C Programming",
-  "difficulty": "Easy",
-  "question": "What does `#include <stdio.h>` do?",
-  "options": [
-    "Compiles the code",
-    "Tells the preprocessor to insert the contents of stdio.h into the source code",
-    "Links the program",
-    "Runs the program"
-  ],
-  "answer": 1,
-  "explanation": "#include is a preprocessor directive that copies the header file content into the program before compilation."
+    "id": "pf-1460",
+    "topic": "C Programming",
+    "difficulty": "Easy",
+    "question": "What does `#include <stdio.h>` do?",
+    "options": [
+        "Compiles the code",
+        "Tells the preprocessor to insert the contents of stdio.h into the source code",
+        "Links the program",
+        "Runs the program"
+    ],
+    "answer": 1,
+    "explanation": "#include is a preprocessor directive that copies the header file content into the program before compilation."
 }

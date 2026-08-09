@@ -1,14 +1,14 @@
 {
-  "id": "placement-1755",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What does `strcat(str1, str2)` do?",
-  "options": [
-    "Replaces str1 with str2",
-    "Appends a copy of str2 to the end of str1",
-    "Compares str1 and str2",
-    "Returns a new string combining str1 and str2"
-  ],
-  "answer": 1,
-  "explanation": "`strcat` appends the `str2` string to `str1`, overwriting the null terminator at the end of `str1`, and adding a new null terminator at the end. It modifies `str1` directly."
+    "id": "pf-1957",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What does `strcat(str1, str2)` do?",
+    "options": [
+        "Replaces str1 with str2",
+        "Appends a copy of str2 to the end of str1",
+        "Compares str1 and str2",
+        "Returns a new string combining str1 and str2"
+    ],
+    "answer": 1,
+    "explanation": "`strcat` appends the `str2` string to `str1`, overwriting the null terminator at the end of `str1`, and adding a new null terminator at the end. It modifies `str1` directly."
 }

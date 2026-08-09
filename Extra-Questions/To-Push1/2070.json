@@ -1,14 +1,14 @@
 {
-  "id": "placement-2070",
-  "topic": "Data Interpretation",
-  "difficulty": "Medium",
-  "question": "Bar graph: 2019=200, 2020=300, 2021=400. Ratio of 2019 to 2021?",
-  "options": [
-    "1:2",
-    "1:3",
-    "2:3",
-    "3:4"
-  ],
-  "answer": 0,
-  "explanation": "200:400 = 1:2."
+    "id": "pf-2272",
+    "topic": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar graph: 2019=200, 2020=300, 2021=400. Ratio of 2019 to 2021?",
+    "options": [
+        "1:2",
+        "1:3",
+        "2:3",
+        "3:4"
+    ],
+    "answer": 0,
+    "explanation": "200:400 = 1:2."
 }

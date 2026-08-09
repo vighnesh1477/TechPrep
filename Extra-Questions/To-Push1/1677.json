@@ -1,14 +1,14 @@
 {
-  "id": "placement-1677",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What does `range(5, 0, -1)` produce in Python?",
-  "options": [
-    "[5, 4, 3, 2, 1, 0]",
-    "[5, 4, 3, 2, 1]",
-    "[0, 1, 2, 3, 4, 5]",
-    "Empty sequence"
-  ],
-  "answer": 1,
-  "explanation": "The signature is `range(start, stop, step)`. It starts at 5, decrements by -1, and stops *before* reaching 0. So it yields 5, 4, 3, 2, 1."
+    "id": "pf-1879",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What does `range(5, 0, -1)` produce in Python?",
+    "options": [
+        "[5, 4, 3, 2, 1, 0]",
+        "[5, 4, 3, 2, 1]",
+        "[0, 1, 2, 3, 4, 5]",
+        "Empty sequence"
+    ],
+    "answer": 1,
+    "explanation": "The signature is `range(start, stop, step)`. It starts at 5, decrements by -1, and stops *before* reaching 0. So it yields 5, 4, 3, 2, 1."
 }

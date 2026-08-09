@@ -1,14 +1,14 @@
 {
-  "id": "placement-1982",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Easy",
-  "question": "Difference between SI and CI on Rs 1000 at 10% for 2 years?",
-  "options": [
-    "Rs 5",
-    "Rs 10",
-    "Rs 15",
-    "Rs 20"
-  ],
-  "answer": 1,
-  "explanation": "Diff = P * (R/100)^2 = 1000 * 0.01 = 10."
+    "id": "pf-2184",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "question": "Difference between SI and CI on Rs 1000 at 10% for 2 years?",
+    "options": [
+        "Rs 5",
+        "Rs 10",
+        "Rs 15",
+        "Rs 20"
+    ],
+    "answer": 1,
+    "explanation": "Diff = P * (R/100)^2 = 1000 * 0.01 = 10."
 }

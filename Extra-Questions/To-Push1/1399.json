@@ -1,14 +1,14 @@
 {
-  "id": "placement-1399",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which SQL statement is used to update data already in a table?",
-  "options": [
-    "MODIFY",
-    "UPDATE",
-    "SAVE",
-    "ALTER"
-  ],
-  "answer": 1,
-  "explanation": "The UPDATE statement is used to modify the existing records in a table. It is used with the SET clause to specify new values."
+    "id": "pf-1601",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which SQL statement is used to update data already in a table?",
+    "options": [
+        "MODIFY",
+        "UPDATE",
+        "SAVE",
+        "ALTER"
+    ],
+    "answer": 1,
+    "explanation": "The UPDATE statement is used to modify the existing records in a table. It is used with the SET clause to specify new values."
 }

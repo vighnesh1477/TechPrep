@@ -1,14 +1,14 @@
 {
-  "id": "placement-1112",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is cache memory?",
-  "options": [
-    "A type of hard drive",
-    "A small, fast memory located between the CPU and main RAM to reduce access time",
-    "Slower than RAM",
-    "Used for long-term storage"
-  ],
-  "answer": 1,
-  "explanation": "Cache stores frequently accessed data to speed up CPU operations, bridging the speed gap with RAM."
+    "id": "pf-1314",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is cache memory?",
+    "options": [
+        "A type of hard drive",
+        "A small, fast memory located between the CPU and main RAM to reduce access time",
+        "Slower than RAM",
+        "Used for long-term storage"
+    ],
+    "answer": 1,
+    "explanation": "Cache stores frequently accessed data to speed up CPU operations, bridging the speed gap with RAM."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-649",
-  "topic": "chmod",
-  "difficulty": "Easy",
-  "question": "What does chmod 777 file do?",
-  "options": [
-    "Restricts all permissions",
-    "Gives read, write, and execute to everyone",
-    "Gives read-only to everyone",
-    "Deletes the file"
-  ],
-  "answer": 1,
-  "explanation": "chmod 777 gives full permissions (read, write, execute) to owner, group, and others. This is generally considered insecure."
+    "id": "pf-851",
+    "topic": "chmod",
+    "difficulty": "Easy",
+    "question": "What does chmod 777 file do?",
+    "options": [
+        "Restricts all permissions",
+        "Gives read, write, and execute to everyone",
+        "Gives read-only to everyone",
+        "Deletes the file"
+    ],
+    "answer": 1,
+    "explanation": "chmod 777 gives full permissions (read, write, execute) to owner, group, and others. This is generally considered insecure."
 }

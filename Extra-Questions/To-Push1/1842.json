@@ -1,14 +1,14 @@
 {
-  "id": "placement-1842",
-  "topic": "Complexity",
-  "difficulty": "Hard",
-  "question": "What is the time complexity of this recursive function?\n`void f(int n) { if(n<=0) return; f(n/3); f(n/3); }`",
-  "options": [
-    "O(n)",
-    "O(log n)",
-    "O(n^log3(2))",
-    "O(log n^2)"
-  ],
-  "answer": 2,
-  "explanation": "Using the Master Theorem: T(n) = 2T(n/3) + O(1). Here a=2, b=3. log_b(a) = log_3(2). Since f(n) = O(1) = O(n^{log_3(2) - epsilon}), complexity is O(n^{log_3(2)})."
+    "id": "pf-2044",
+    "topic": "Complexity",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of this recursive function?\n`void f(int n) { if(n<=0) return; f(n/3); f(n/3); }`",
+    "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n^log3(2))",
+        "O(log n^2)"
+    ],
+    "answer": 2,
+    "explanation": "Using the Master Theorem: T(n) = 2T(n/3) + O(1). Here a=2, b=3. log_b(a) = log_3(2). Since f(n) = O(1) = O(n^{log_3(2) - epsilon}), complexity is O(n^{log_3(2)})."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1669",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "In a `for` loop, which part is executed only once?",
-  "options": [
-    "Condition check",
-    "Increment/Decrement",
-    "Initialization",
-    "Loop body"
-  ],
-  "answer": 2,
-  "explanation": "The initialization expression in the `for` loop header is executed exactly once before the loop begins. The condition is checked before each iteration, and the increment occurs after each iteration."
+    "id": "pf-1871",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "In a `for` loop, which part is executed only once?",
+    "options": [
+        "Condition check",
+        "Increment/Decrement",
+        "Initialization",
+        "Loop body"
+    ],
+    "answer": 2,
+    "explanation": "The initialization expression in the `for` loop header is executed exactly once before the loop begins. The condition is checked before each iteration, and the increment occurs after each iteration."
 }

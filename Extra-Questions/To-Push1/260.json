@@ -1,14 +1,14 @@
 {
-  "id": "placement-260",
-  "topic": "Git Config",
-  "difficulty": "Easy",
-  "question": "Which command displays all your current Git configuration settings?",
-  "options": [
-    "git config --show",
-    "git config --list",
-    "git config --display",
-    "git config --all"
-  ],
-  "answer": 1,
-  "explanation": "git config --list prints all Git configuration values from all config files (system, global, and local) in a consolidated view."
+    "id": "pf-462",
+    "topic": "Git Config",
+    "difficulty": "Easy",
+    "question": "Which command displays all your current Git configuration settings?",
+    "options": [
+        "git config --show",
+        "git config --list",
+        "git config --display",
+        "git config --all"
+    ],
+    "answer": 1,
+    "explanation": "git config --list prints all Git configuration values from all config files (system, global, and local) in a consolidated view."
 }

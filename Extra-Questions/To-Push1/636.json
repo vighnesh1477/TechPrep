@@ -1,14 +1,14 @@
 {
-  "id": "placement-636",
-  "topic": "which",
-  "difficulty": "Easy",
-  "question": "What is a limitation of the which command?",
-  "options": [
-    "It only works for root",
-    "It does not find shell built-in commands or aliases",
-    "It only finds commands in /usr/bin",
-    "It cannot find executables in the current directory"
-  ],
-  "answer": 1,
-  "explanation": "which only finds executables in PATH. It does not find shell built-ins (like cd, pwd) or aliases. Use 'type' or 'command -v' for those."
+    "id": "pf-838",
+    "topic": "which",
+    "difficulty": "Easy",
+    "question": "What is a limitation of the which command?",
+    "options": [
+        "It only works for root",
+        "It does not find shell built-in commands or aliases",
+        "It only finds commands in /usr/bin",
+        "It cannot find executables in the current directory"
+    ],
+    "answer": 1,
+    "explanation": "which only finds executables in PATH. It does not find shell built-ins (like cd, pwd) or aliases. Use 'type' or 'command -v' for those."
 }

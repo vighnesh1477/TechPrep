@@ -1,14 +1,14 @@
 {
-  "id": "placement-1571",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Hard",
-  "question": "What is the 'Setup Time' for a flip-flop?",
-  "options": [
-    "The time it takes to build the circuit",
-    "The minimum amount of time the data input must be stable (not changing) before the active clock edge arrives",
-    "The time after the clock edge when data can change",
-    "The time required to reset the flip-flop"
-  ],
-  "answer": 1,
-  "explanation": "Setup time is a timing requirement for sequential circuits. If the data changes within the setup time window before the clock edge, metastability or incorrect data capture may occur."
+    "id": "pf-1773",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Hard",
+    "question": "What is the 'Setup Time' for a flip-flop?",
+    "options": [
+        "The time it takes to build the circuit",
+        "The minimum amount of time the data input must be stable (not changing) before the active clock edge arrives",
+        "The time after the clock edge when data can change",
+        "The time required to reset the flip-flop"
+    ],
+    "answer": 1,
+    "explanation": "Setup time is a timing requirement for sequential circuits. If the data changes within the setup time window before the clock edge, metastability or incorrect data capture may occur."
 }

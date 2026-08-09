@@ -1,14 +1,14 @@
 {
-  "id": "placement-2086",
-  "topic": "Number Series",
-  "difficulty": "Easy",
-  "question": "Find next: 1, 4, 9, 16, ?",
-  "options": [
-    "20",
-    "24",
-    "25",
-    "36"
-  ],
-  "answer": 2,
-  "explanation": "Perfect squares (1^2, 2^2, 3^2, 4^2, 5^2)."
+    "id": "pf-2288",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find next: 1, 4, 9, 16, ?",
+    "options": [
+        "20",
+        "24",
+        "25",
+        "36"
+    ],
+    "answer": 2,
+    "explanation": "Perfect squares (1^2, 2^2, 3^2, 4^2, 5^2)."
 }

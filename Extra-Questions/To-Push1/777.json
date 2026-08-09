@@ -1,14 +1,14 @@
 {
-  "id": "placement-777",
-  "topic": "Terminal",
-  "difficulty": "Easy",
-  "question": "How do you run the 42nd command from your history?",
-  "options": [
-    "history 42",
-    "!42",
-    "run 42",
-    "exec 42"
-  ],
-  "answer": 1,
-  "explanation": "!42 executes the command at line 42 in the history list. Other history shortcuts include !! (last command) and !command (last command starting with 'command')."
+    "id": "pf-979",
+    "topic": "Terminal",
+    "difficulty": "Easy",
+    "question": "How do you run the 42nd command from your history?",
+    "options": [
+        "history 42",
+        "!42",
+        "run 42",
+        "exec 42"
+    ],
+    "answer": 1,
+    "explanation": "!42 executes the command at line 42 in the history list. Other history shortcuts include !! (last command) and !command (last command starting with 'command')."
 }

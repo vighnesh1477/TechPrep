@@ -1,14 +1,14 @@
 {
-  "id": "placement-1330",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "In Round Robin scheduling, what is the primary parameter that needs to be defined?",
-  "options": [
-    "Priority levels",
-    "Time quantum (time slice)",
-    "Memory size",
-    "Number of queues"
-  ],
-  "answer": 1,
-  "explanation": "Round Robin is a preemptive algorithm where each process gets a small unit of CPU time called a time quantum or time slice. After this time expires, the process is preempted and added to the ready queue."
+    "id": "pf-1532",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "In Round Robin scheduling, what is the primary parameter that needs to be defined?",
+    "options": [
+        "Priority levels",
+        "Time quantum (time slice)",
+        "Memory size",
+        "Number of queues"
+    ],
+    "answer": 1,
+    "explanation": "Round Robin is a preemptive algorithm where each process gets a small unit of CPU time called a time quantum or time slice. After this time expires, the process is preempted and added to the ready queue."
 }

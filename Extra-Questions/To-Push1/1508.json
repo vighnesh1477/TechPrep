@@ -1,14 +1,14 @@
 {
-  "id": "placement-1508",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Hard",
-  "question": "What is the difference between Continuous Delivery and Continuous Deployment?",
-  "options": [
-    "They are the same thing",
-    "Continuous Delivery ensures code is always ready to deploy but requires manual approval; Continuous Deployment automatically deploys every change that passes tests to production",
-    "Continuous Deployment is slower than Continuous Delivery",
-    "Continuous Delivery does not use automation"
-  ],
-  "answer": 1,
-  "explanation": "In Continuous Delivery, the release to production is a manual decision. In Continuous Deployment, the process is fully automated; if all tests pass, the code goes to production without human intervention."
+    "id": "pf-1710",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Hard",
+    "question": "What is the difference between Continuous Delivery and Continuous Deployment?",
+    "options": [
+        "They are the same thing",
+        "Continuous Delivery ensures code is always ready to deploy but requires manual approval; Continuous Deployment automatically deploys every change that passes tests to production",
+        "Continuous Deployment is slower than Continuous Delivery",
+        "Continuous Delivery does not use automation"
+    ],
+    "answer": 1,
+    "explanation": "In Continuous Delivery, the release to production is a manual decision. In Continuous Deployment, the process is fully automated; if all tests pass, the code goes to production without human intervention."
 }

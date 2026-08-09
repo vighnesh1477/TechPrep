@@ -1,14 +1,14 @@
 {
-  "id": "placement-1109",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "Which memory is fastest and located inside the CPU?",
-  "options": [
-    "RAM",
-    "Hard Drive",
-    "Registers",
-    "SSD"
-  ],
-  "answer": 2,
-  "explanation": "Registers are small, extremely fast storage locations inside the CPU used to hold instructions and data."
+    "id": "pf-1311",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "Which memory is fastest and located inside the CPU?",
+    "options": [
+        "RAM",
+        "Hard Drive",
+        "Registers",
+        "SSD"
+    ],
+    "answer": 2,
+    "explanation": "Registers are small, extremely fast storage locations inside the CPU used to hold instructions and data."
 }

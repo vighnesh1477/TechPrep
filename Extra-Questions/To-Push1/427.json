@@ -1,14 +1,14 @@
 {
-  "id": "placement-427",
-  "topic": "Checkout",
-  "difficulty": "Easy",
-  "question": "Why is git checkout considered confusing by many developers?",
-  "options": [
-    "It is too slow",
-    "It has multiple unrelated purposes: switching branches and restoring files",
-    "It requires a password",
-    "It only works on Windows"
-  ],
-  "answer": 1,
-  "explanation": "git checkout is confusing because it serves two very different purposes: switching branches and restoring files, which is why git switch and git restore were introduced."
+    "id": "pf-629",
+    "topic": "Checkout",
+    "difficulty": "Easy",
+    "question": "Why is git checkout considered confusing by many developers?",
+    "options": [
+        "It is too slow",
+        "It has multiple unrelated purposes: switching branches and restoring files",
+        "It requires a password",
+        "It only works on Windows"
+    ],
+    "answer": 1,
+    "explanation": "git checkout is confusing because it serves two very different purposes: switching branches and restoring files, which is why git switch and git restore were introduced."
 }

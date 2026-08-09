@@ -1,14 +1,14 @@
 {
-  "id": "placement-2140",
-  "topic": "Blood Relations",
-  "difficulty": "Medium",
-  "question": "A man said to a woman, 'Your mother's husband's sister is my aunt'. How is the woman related to the man?",
-  "options": [
-    "Sister",
-    "Cousin",
-    "Mother",
-    "Aunt"
-  ],
-  "answer": 1,
-  "explanation": "Woman's mother's husband is her father. Father's sister is man's aunt. So man and woman are cousins."
+    "id": "pf-2342",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "question": "A man said to a woman, 'Your mother's husband's sister is my aunt'. How is the woman related to the man?",
+    "options": [
+        "Sister",
+        "Cousin",
+        "Mother",
+        "Aunt"
+    ],
+    "answer": 1,
+    "explanation": "Woman's mother's husband is her father. Father's sister is man's aunt. So man and woman are cousins."
 }

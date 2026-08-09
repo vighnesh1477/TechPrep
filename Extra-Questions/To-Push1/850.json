@@ -1,14 +1,14 @@
 {
-  "id": "placement-850",
-  "topic": "Shell Scripting",
-  "difficulty": "Medium",
-  "question": "What does 'set -e' do in a bash script?",
-  "options": [
-    "Enables echo for debugging",
-    "Exits the script immediately if any command returns a non-zero exit status",
-    "Enables error logging",
-    "Sets the environment to production"
-  ],
-  "answer": 1,
-  "explanation": "set -e makes the script exit immediately if any command exits with a non-zero status, preventing the script from continuing after a failure."
+    "id": "pf-1052",
+    "topic": "Shell Scripting",
+    "difficulty": "Medium",
+    "question": "What does 'set -e' do in a bash script?",
+    "options": [
+        "Enables echo for debugging",
+        "Exits the script immediately if any command returns a non-zero exit status",
+        "Enables error logging",
+        "Sets the environment to production"
+    ],
+    "answer": 1,
+    "explanation": "set -e makes the script exit immediately if any command exits with a non-zero status, preventing the script from continuing after a failure."
 }

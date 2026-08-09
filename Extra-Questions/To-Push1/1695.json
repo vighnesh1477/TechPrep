@@ -1,14 +1,14 @@
 {
-  "id": "placement-1695",
-  "topic": "Functions",
-  "difficulty": "Easy",
-  "question": "What does a `void` function return in C?",
-  "options": [
-    "0",
-    "null",
-    "Nothing",
-    "-1"
-  ],
-  "answer": 2,
-  "explanation": "A `void` function does not return any value. Attempting to use a `return` statement with a value in a void function results in a compilation error."
+    "id": "pf-1897",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "question": "What does a `void` function return in C?",
+    "options": [
+        "0",
+        "null",
+        "Nothing",
+        "-1"
+    ],
+    "answer": 2,
+    "explanation": "A `void` function does not return any value. Attempting to use a `return` statement with a value in a void function results in a compilation error."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2034",
-  "topic": "Permutation and Combination",
-  "difficulty": "Medium",
-  "question": "In how many ways can 4 people sit around a circular table?",
-  "options": [
-    "24",
-    "6",
-    "12",
-    "4"
-  ],
-  "answer": 1,
-  "explanation": "(n-1)! = 3! = 6."
+    "id": "pf-2236",
+    "topic": "Permutation and Combination",
+    "difficulty": "Medium",
+    "question": "In how many ways can 4 people sit around a circular table?",
+    "options": [
+        "24",
+        "6",
+        "12",
+        "4"
+    ],
+    "answer": 1,
+    "explanation": "(n-1)! = 3! = 6."
 }

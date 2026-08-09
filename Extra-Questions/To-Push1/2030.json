@@ -1,14 +1,14 @@
 {
-  "id": "placement-2030",
-  "topic": "Permutation and Combination",
-  "difficulty": "Easy",
-  "question": "From 5 people, choose 2. Number of ways?",
-  "options": [
-    "5",
-    "10",
-    "15",
-    "20"
-  ],
-  "answer": 1,
-  "explanation": "5C2 = 5!/(2!3!) = 10."
+    "id": "pf-2232",
+    "topic": "Permutation and Combination",
+    "difficulty": "Easy",
+    "question": "From 5 people, choose 2. Number of ways?",
+    "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+    ],
+    "answer": 1,
+    "explanation": "5C2 = 5!/(2!3!) = 10."
 }

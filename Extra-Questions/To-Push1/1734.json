@@ -1,14 +1,14 @@
 {
-  "id": "placement-1734",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "What is the output?\n`int arr[5] = {2, 4, 6, 8, 10};`\n`printf(\"%d\", *(arr + 1) + 1);`",
-  "options": [
-    "3",
-    "5",
-    "4",
-    "6"
-  ],
-  "answer": 1,
-  "explanation": "`arr` acts as a pointer to the first element. `*(arr + 1)` is `arr[1]`, which is 4. Adding 1 to the result gives 4 + 1 = 5."
+    "id": "pf-1936",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "What is the output?\n`int arr[5] = {2, 4, 6, 8, 10};`\n`printf(\"%d\", *(arr + 1) + 1);`",
+    "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+    ],
+    "answer": 1,
+    "explanation": "`arr` acts as a pointer to the first element. `*(arr + 1)` is `arr[1]`, which is 4. Adding 1 to the result gives 4 + 1 = 5."
 }

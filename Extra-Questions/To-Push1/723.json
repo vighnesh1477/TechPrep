@@ -1,14 +1,14 @@
 {
-  "id": "placement-723",
-  "topic": "Environment Variables",
-  "difficulty": "Easy",
-  "question": "How do you display all environment variables?",
-  "options": [
-    "env",
-    "printenv",
-    "Both A and B",
-    "showenv"
-  ],
-  "answer": 2,
-  "explanation": "Both env and printenv display all environment variables. env can also be used to run a command in a modified environment."
+    "id": "pf-925",
+    "topic": "Environment Variables",
+    "difficulty": "Easy",
+    "question": "How do you display all environment variables?",
+    "options": [
+        "env",
+        "printenv",
+        "Both A and B",
+        "showenv"
+    ],
+    "answer": 2,
+    "explanation": "Both env and printenv display all environment variables. env can also be used to run a command in a modified environment."
 }

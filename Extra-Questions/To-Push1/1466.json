@@ -1,14 +1,14 @@
 {
-  "id": "placement-1466",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is Pipelining in CPU design?",
-  "options": [
-    "Sending data through multiple network cables",
-    "Overlapping the execution steps of multiple instructions to improve CPU throughput",
-    "Storing data in a pipeline cache",
-    "Executing instructions one by one without overlap"
-  ],
-  "answer": 1,
-  "explanation": "Pipelining is like an assembly line. While one instruction is being executed, the next is being decoded, and the one after that is being fetched. It increases instruction throughput."
+    "id": "pf-1668",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is Pipelining in CPU design?",
+    "options": [
+        "Sending data through multiple network cables",
+        "Overlapping the execution steps of multiple instructions to improve CPU throughput",
+        "Storing data in a pipeline cache",
+        "Executing instructions one by one without overlap"
+    ],
+    "answer": 1,
+    "explanation": "Pipelining is like an assembly line. While one instruction is being executed, the next is being decoded, and the one after that is being fetched. It increases instruction throughput."
 }

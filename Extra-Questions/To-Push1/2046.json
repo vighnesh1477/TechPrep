@@ -1,14 +1,14 @@
 {
-  "id": "placement-2046",
-  "topic": "Algebra",
-  "difficulty": "Easy",
-  "question": "What is the value of x if 3x = 15?",
-  "options": [
-    "3",
-    "4",
-    "5",
-    "6"
-  ],
-  "answer": 2,
-  "explanation": "x = 15 / 3 = 5."
+    "id": "pf-2248",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "question": "What is the value of x if 3x = 15?",
+    "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "answer": 2,
+    "explanation": "x = 15 / 3 = 5."
 }

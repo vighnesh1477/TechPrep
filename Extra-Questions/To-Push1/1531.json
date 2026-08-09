@@ -1,14 +1,14 @@
 {
-  "id": "placement-1531",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a compiler and a linker?",
-  "options": [
-    "They are the same",
-    "A compiler translates source code to object code; a linker combines multiple object files and libraries into a single executable",
-    "A linker translates source code; a compiler combines files",
-    "A compiler runs after the linker"
-  ],
-  "answer": 1,
-  "explanation": "The compiler outputs object files (.o or .obj). The linker takes these object files, resolves external references (calls to functions in other files/libraries), and combines them into an executable."
+    "id": "pf-1733",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a compiler and a linker?",
+    "options": [
+        "They are the same",
+        "A compiler translates source code to object code; a linker combines multiple object files and libraries into a single executable",
+        "A linker translates source code; a compiler combines files",
+        "A compiler runs after the linker"
+    ],
+    "answer": 1,
+    "explanation": "The compiler outputs object files (.o or .obj). The linker takes these object files, resolves external references (calls to functions in other files/libraries), and combines them into an executable."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1632",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the output of the following C code?\n`char c = 'A';`\n`printf(\"%d\", c);`",
-  "options": [
-    "A",
-    "65",
-    "Compilation Error",
-    "Runtime Error"
-  ],
-  "answer": 1,
-  "explanation": "When a `char` is printed using `%d`, its underlying ASCII integer value is printed. The ASCII value of 'A' is 65."
+    "id": "pf-1834",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the output of the following C code?\n`char c = 'A';`\n`printf(\"%d\", c);`",
+    "options": [
+        "A",
+        "65",
+        "Compilation Error",
+        "Runtime Error"
+    ],
+    "answer": 1,
+    "explanation": "When a `char` is printed using `%d`, its underlying ASCII integer value is printed. The ASCII value of 'A' is 65."
 }

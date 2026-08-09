@@ -1,14 +1,14 @@
 {
-  "id": "placement-712",
-  "topic": "Jobs",
-  "difficulty": "Easy",
-  "question": "How do you start a command directly in the background?",
-  "options": [
-    "command &",
-    "bg command",
-    "command @",
-    "background command"
-  ],
-  "answer": 0,
-  "explanation": "Appending & to a command starts it in the background. The shell prints the job number and PID, then returns to the prompt immediately."
+    "id": "pf-914",
+    "topic": "Jobs",
+    "difficulty": "Easy",
+    "question": "How do you start a command directly in the background?",
+    "options": [
+        "command &",
+        "bg command",
+        "command @",
+        "background command"
+    ],
+    "answer": 0,
+    "explanation": "Appending & to a command starts it in the background. The shell prints the job number and PID, then returns to the prompt immediately."
 }

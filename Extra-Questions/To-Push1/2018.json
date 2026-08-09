@@ -1,14 +1,14 @@
 {
-  "id": "placement-2018",
-  "topic": "Probability",
-  "difficulty": "Medium",
-  "question": "Two dice rolled. Probability sum is 8?",
-  "options": [
-    "5/36",
-    "6/36",
-    "4/36",
-    "7/36"
-  ],
-  "answer": 0,
-  "explanation": "Pairs: (2,6),(3,5),(4,4),(5,3),(6,2). Total=5. P=5/36."
+    "id": "pf-2220",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "question": "Two dice rolled. Probability sum is 8?",
+    "options": [
+        "5/36",
+        "6/36",
+        "4/36",
+        "7/36"
+    ],
+    "answer": 0,
+    "explanation": "Pairs: (2,6),(3,5),(4,4),(5,3),(6,2). Total=5. P=5/36."
 }

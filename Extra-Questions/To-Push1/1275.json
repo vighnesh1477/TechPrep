@@ -1,14 +1,14 @@
 {
-  "id": "placement-1275",
-  "topic": "C Programming",
-  "difficulty": "Medium",
-  "question": "What is the output of `printf(\"%d\", (int)3.14);`?",
-  "options": [
-    "3.14",
-    "3",
-    "4",
-    "0"
-  ],
-  "answer": 1,
-  "explanation": "Casting a float/double to an int truncates the decimal part, resulting in 3."
+    "id": "pf-1477",
+    "topic": "C Programming",
+    "difficulty": "Medium",
+    "question": "What is the output of `printf(\"%d\", (int)3.14);`?",
+    "options": [
+        "3.14",
+        "3",
+        "4",
+        "0"
+    ],
+    "answer": 1,
+    "explanation": "Casting a float/double to an int truncates the decimal part, resulting in 3."
 }

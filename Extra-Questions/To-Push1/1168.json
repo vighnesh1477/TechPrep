@@ -1,14 +1,14 @@
 {
-  "id": "placement-1168",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "What is the time complexity of building a heap from an unsorted array?",
-  "options": [
-    "O(N log N)",
-    "O(N)",
-    "O(N^2)",
-    "O(log N)"
-  ],
-  "answer": 1,
-  "explanation": "Using the bottom-up heapify algorithm (Floyd's method), a heap can be built in linear O(N) time."
+    "id": "pf-1370",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of building a heap from an unsorted array?",
+    "options": [
+        "O(N log N)",
+        "O(N)",
+        "O(N^2)",
+        "O(log N)"
+    ],
+    "answer": 1,
+    "explanation": "Using the bottom-up heapify algorithm (Floyd's method), a heap can be built in linear O(N) time."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-786",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What are loadable kernel modules (LKM)?",
-  "options": [
-    "User-space libraries",
-    "Code that can be loaded and unloaded into the kernel at runtime without rebooting",
-    "Kernel patches",
-    "Boot loader modules"
-  ],
-  "answer": 1,
-  "explanation": "LKMs are pieces of code (typically device drivers or filesystem drivers) that can be dynamically loaded into and unloaded from the kernel using modprobe/insmod/rmmod."
+    "id": "pf-988",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What are loadable kernel modules (LKM)?",
+    "options": [
+        "User-space libraries",
+        "Code that can be loaded and unloaded into the kernel at runtime without rebooting",
+        "Kernel patches",
+        "Boot loader modules"
+    ],
+    "answer": 1,
+    "explanation": "LKMs are pieces of code (typically device drivers or filesystem drivers) that can be dynamically loaded into and unloaded from the kernel using modprobe/insmod/rmmod."
 }

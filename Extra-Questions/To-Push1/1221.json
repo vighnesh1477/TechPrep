@@ -1,14 +1,14 @@
 {
-  "id": "placement-1221",
-  "topic": "Cyber Security Basics",
-  "difficulty": "Medium",
-  "question": "What is a Zero-Day vulnerability?",
-  "options": [
-    "A bug fixed on day zero",
-    "A vulnerability unknown to the vendor that is actively exploited before a patch is available",
-    "A virus from the 90s",
-    "A secure protocol"
-  ],
-  "answer": 1,
-  "explanation": "Zero-day refers to the fact that developers have zero days to fix the issue because it is already being exploited."
+    "id": "pf-1423",
+    "topic": "Cyber Security Basics",
+    "difficulty": "Medium",
+    "question": "What is a Zero-Day vulnerability?",
+    "options": [
+        "A bug fixed on day zero",
+        "A vulnerability unknown to the vendor that is actively exploited before a patch is available",
+        "A virus from the 90s",
+        "A secure protocol"
+    ],
+    "answer": 1,
+    "explanation": "Zero-day refers to the fact that developers have zero days to fix the issue because it is already being exploited."
 }

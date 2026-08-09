@@ -1,14 +1,14 @@
 {
-  "id": "placement-1498",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Medium",
-  "question": "What is the difference between Verification and Validation?",
-  "options": [
-    "Verification ensures the product meets requirements; Validation ensures the product meets user needs",
-    "They are the same thing",
-    "Validation is done by developers; Verification by testers",
-    "Verification is for hardware; Validation is for software"
-  ],
-  "answer": 0,
-  "explanation": "Verification asks 'Are we building the product right?' (checking against specifications). Validation asks 'Are we building the right product?' (checking against user expectations)."
+    "id": "pf-1700",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Medium",
+    "question": "What is the difference between Verification and Validation?",
+    "options": [
+        "Verification ensures the product meets requirements; Validation ensures the product meets user needs",
+        "They are the same thing",
+        "Validation is done by developers; Verification by testers",
+        "Verification is for hardware; Validation is for software"
+    ],
+    "answer": 0,
+    "explanation": "Verification asks 'Are we building the product right?' (checking against specifications). Validation asks 'Are we building the right product?' (checking against user expectations)."
 }

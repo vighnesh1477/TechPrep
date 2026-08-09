@@ -1,14 +1,14 @@
 {
-  "id": "placement-1754",
-  "topic": "Strings",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`char s[] = \"hello\";`\n`s[0] = 'H';`\n`printf(\"%s\", s);`",
-  "options": [
-    "hello",
-    "Hello",
-    "Compilation Error",
-    "Runtime Error"
-  ],
-  "answer": 1,
-  "explanation": "The string `s` is stored in a modifiable character array on the stack (not a pointer to a string literal). Therefore, modifying `s[0]` is perfectly valid and outputs \"Hello\"."
+    "id": "pf-1956",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`char s[] = \"hello\";`\n`s[0] = 'H';`\n`printf(\"%s\", s);`",
+    "options": [
+        "hello",
+        "Hello",
+        "Compilation Error",
+        "Runtime Error"
+    ],
+    "answer": 1,
+    "explanation": "The string `s` is stored in a modifiable character array on the stack (not a pointer to a string literal). Therefore, modifying `s[0]` is perfectly valid and outputs \"Hello\"."
 }

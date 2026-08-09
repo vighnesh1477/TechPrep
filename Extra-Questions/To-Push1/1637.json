@@ -1,14 +1,14 @@
 {
-  "id": "placement-1637",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does the `&=` operator do?",
-  "options": [
-    "Assigns the logical AND of two operands",
-    "Performs a bitwise AND and assigns the result",
-    "Checks if two operands are equal",
-    "Dereferences a pointer and assigns a value"
-  ],
-  "answer": 1,
-  "explanation": "`&=` is a compound assignment operator that performs a bitwise AND between the two operands and stores the result in the left operand."
+    "id": "pf-1839",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does the `&=` operator do?",
+    "options": [
+        "Assigns the logical AND of two operands",
+        "Performs a bitwise AND and assigns the result",
+        "Checks if two operands are equal",
+        "Dereferences a pointer and assigns a value"
+    ],
+    "answer": 1,
+    "explanation": "`&=` is a compound assignment operator that performs a bitwise AND between the two operands and stores the result in the left operand."
 }

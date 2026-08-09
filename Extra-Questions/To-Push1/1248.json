@@ -1,14 +1,14 @@
 {
-  "id": "placement-1248",
-  "topic": "SQL",
-  "difficulty": "Hard",
-  "question": "What is the difference between `ANY` and `ALL` in SQL subqueries?",
-  "options": [
-    "No difference",
-    "ANY returns true if any subquery row meets the condition; ALL requires all rows to meet it",
-    "ALL is faster",
-    "ANY is used only with numbers"
-  ],
-  "answer": 1,
-  "explanation": "> ANY means greater than at least one value (equivalent to > min). > ALL means greater than every value (equivalent to > max)."
+    "id": "pf-1450",
+    "topic": "SQL",
+    "difficulty": "Hard",
+    "question": "What is the difference between `ANY` and `ALL` in SQL subqueries?",
+    "options": [
+        "No difference",
+        "ANY returns true if any subquery row meets the condition; ALL requires all rows to meet it",
+        "ALL is faster",
+        "ANY is used only with numbers"
+    ],
+    "answer": 1,
+    "explanation": "> ANY means greater than at least one value (equivalent to > min). > ALL means greater than every value (equivalent to > max)."
 }

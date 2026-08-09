@@ -1,14 +1,14 @@
 {
-  "id": "placement-1188",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "What is an intent lock?",
-  "options": [
-    "Locking a row",
-    "A table-level lock indicating a transaction intends to lock a lower-level item (page or row)",
-    "A lock on the schema",
-    "A temporary lock"
-  ],
-  "answer": 1,
-  "explanation": "Intent locks improve efficiency in multiple-granularity locking by signaling intent at a higher level before locking lower levels."
+    "id": "pf-1390",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "What is an intent lock?",
+    "options": [
+        "Locking a row",
+        "A table-level lock indicating a transaction intends to lock a lower-level item (page or row)",
+        "A lock on the schema",
+        "A temporary lock"
+    ],
+    "answer": 1,
+    "explanation": "Intent locks improve efficiency in multiple-granularity locking by signaling intent at a higher level before locking lower levels."
 }

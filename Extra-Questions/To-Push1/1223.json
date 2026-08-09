@@ -1,14 +1,14 @@
 {
-  "id": "placement-1223",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the purpose of the Control Unit (CU) in the CPU?",
-  "options": [
-    "Performing math",
-    "Directing the operation of the processor by controlling data flow",
-    "Storing data",
-    "Connecting to the monitor"
-  ],
-  "answer": 1,
-  "explanation": "The CU extracts instructions from memory, decodes them, and coordinates the other CPU components to execute them."
+    "id": "pf-1425",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the Control Unit (CU) in the CPU?",
+    "options": [
+        "Performing math",
+        "Directing the operation of the processor by controlling data flow",
+        "Storing data",
+        "Connecting to the monitor"
+    ],
+    "answer": 1,
+    "explanation": "The CU extracts instructions from memory, decodes them, and coordinates the other CPU components to execute them."
 }

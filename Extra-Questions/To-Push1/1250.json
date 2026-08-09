@@ -1,14 +1,14 @@
 {
-  "id": "placement-1250",
-  "topic": "Computer Networks",
-  "difficulty": "Hard",
-  "question": "What is the Nagle algorithm used for?",
-  "options": [
-    "Routing",
-    "Reducing network congestion by buffering small data packets into a single larger packet",
-    "Encryption",
-    "DNS resolution"
-  ],
-  "answer": 1,
-  "explanation": "Nagle reduces overhead by waiting to send small packets until an ACK for the previous packet is received or enough data accumulates."
+    "id": "pf-1452",
+    "topic": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "What is the Nagle algorithm used for?",
+    "options": [
+        "Routing",
+        "Reducing network congestion by buffering small data packets into a single larger packet",
+        "Encryption",
+        "DNS resolution"
+    ],
+    "answer": 1,
+    "explanation": "Nagle reduces overhead by waiting to send small packets until an ACK for the previous packet is received or enough data accumulates."
 }

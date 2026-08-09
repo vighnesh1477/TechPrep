@@ -1,14 +1,14 @@
 {
-  "id": "placement-1787",
-  "topic": "Pointers and Memory",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int x = 10;`\n`int *p = &x;`\n`int y = *p++;`\n`printf(\"%d %d\", x, y);`",
-  "options": [
-    "10 10",
-    "10 11",
-    "11 10",
-    "Undefined Behavior"
-  ],
-  "answer": 0,
-  "explanation": "`*p++` dereferences `p` (gets 10) and assigns it to `y`, then increments `p` (which now points to garbage). `x` is unchanged, so both are 10."
+    "id": "pf-1989",
+    "topic": "Pointers and Memory",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int x = 10;`\n`int *p = &x;`\n`int y = *p++;`\n`printf(\"%d %d\", x, y);`",
+    "options": [
+        "10 10",
+        "10 11",
+        "11 10",
+        "Undefined Behavior"
+    ],
+    "answer": 0,
+    "explanation": "`*p++` dereferences `p` (gets 10) and assigns it to `y`, then increments `p` (which now points to garbage). `x` is unchanged, so both are 10."
 }

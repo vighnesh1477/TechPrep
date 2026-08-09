@@ -1,14 +1,14 @@
 {
-  "id": "placement-641",
-  "topic": "whereis",
-  "difficulty": "Easy",
-  "question": "What does whereis -m ls show?",
-  "options": [
-    "The binary location of ls",
-    "The manual page location for ls",
-    "The source code location of ls",
-    "The module path for ls"
-  ],
-  "answer": 1,
-  "explanation": "whereis -m limits the search to manual page files only, showing where the man page for the command is located."
+    "id": "pf-843",
+    "topic": "whereis",
+    "difficulty": "Easy",
+    "question": "What does whereis -m ls show?",
+    "options": [
+        "The binary location of ls",
+        "The manual page location for ls",
+        "The source code location of ls",
+        "The module path for ls"
+    ],
+    "answer": 1,
+    "explanation": "whereis -m limits the search to manual page files only, showing where the man page for the command is located."
 }

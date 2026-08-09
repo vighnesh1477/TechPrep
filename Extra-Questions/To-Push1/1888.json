@@ -1,14 +1,14 @@
 {
-  "id": "placement-1888",
-  "topic": "Percentages",
-  "difficulty": "Medium",
-  "question": "Marked price is 50% above CP. Discount of 20% given. Profit %?",
-  "options": [
-    "10%",
-    "15%",
-    "20%",
-    "30%"
-  ],
-  "answer": 2,
-  "explanation": "CP=100, MP=150. SP=150*0.8=120. Profit=20%."
+    "id": "pf-2090",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "question": "Marked price is 50% above CP. Discount of 20% given. Profit %?",
+    "options": [
+        "10%",
+        "15%",
+        "20%",
+        "30%"
+    ],
+    "answer": 2,
+    "explanation": "CP=100, MP=150. SP=150*0.8=120. Profit=20%."
 }

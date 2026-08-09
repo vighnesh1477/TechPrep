@@ -1,14 +1,14 @@
 {
-  "id": "placement-2154",
-  "topic": "Syllogisms",
-  "difficulty": "Easy",
-  "question": "Some cats are black. All black are night. Conclusion: Some cats are night.",
-  "options": [
-    "True",
-    "False",
-    "Probable",
-    "Cannot determine"
-  ],
-  "answer": 0,
-  "explanation": "Standard syllogism (IAI-1). Conclusion follows."
+    "id": "pf-2356",
+    "topic": "Syllogisms",
+    "difficulty": "Easy",
+    "question": "Some cats are black. All black are night. Conclusion: Some cats are night.",
+    "options": [
+        "True",
+        "False",
+        "Probable",
+        "Cannot determine"
+    ],
+    "answer": 0,
+    "explanation": "Standard syllogism (IAI-1). Conclusion follows."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-510",
-  "topic": "Feature Branch Workflow",
-  "difficulty": "Medium",
-  "question": "In the Feature Branch Workflow, what happens to a feature branch after merging?",
-  "options": [
-    "It is kept for future use",
-    "It is typically deleted after merging",
-    "It becomes the new main branch",
-    "It is renamed"
-  ],
-  "answer": 1,
-  "explanation": "In the Feature Branch Workflow, feature branches are usually deleted after being merged to keep the branch list clean and prevent confusion."
+    "id": "pf-712",
+    "topic": "Feature Branch Workflow",
+    "difficulty": "Medium",
+    "question": "In the Feature Branch Workflow, what happens to a feature branch after merging?",
+    "options": [
+        "It is kept for future use",
+        "It is typically deleted after merging",
+        "It becomes the new main branch",
+        "It is renamed"
+    ],
+    "answer": 1,
+    "explanation": "In the Feature Branch Workflow, feature branches are usually deleted after being merged to keep the branch list clean and prevent confusion."
 }

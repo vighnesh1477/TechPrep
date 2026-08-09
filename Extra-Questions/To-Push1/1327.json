@@ -1,14 +1,14 @@
 {
-  "id": "placement-1327",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the difference between a process and a thread?",
-  "options": [
-    "Threads are independent of processes",
-    "Threads share the same memory space of their parent process, while processes have separate memory spaces",
-    "Processes share memory, threads do not",
-    "There is no difference; they are synonymous"
-  ],
-  "answer": 1,
-  "explanation": "A thread is a lightweight sub-process. Multiple threads of the same process share the process's memory space (code section, data section, heap), whereas different processes have entirely separate memory spaces."
+    "id": "pf-1529",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the difference between a process and a thread?",
+    "options": [
+        "Threads are independent of processes",
+        "Threads share the same memory space of their parent process, while processes have separate memory spaces",
+        "Processes share memory, threads do not",
+        "There is no difference; they are synonymous"
+    ],
+    "answer": 1,
+    "explanation": "A thread is a lightweight sub-process. Multiple threads of the same process share the process's memory space (code section, data section, heap), whereas different processes have entirely separate memory spaces."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1302",
-  "topic": "OOP",
-  "difficulty": "Hard",
-  "question": "What is the Template Method pattern?",
-  "options": [
-    "A C++ template",
-    "A behavioral pattern that defines the skeleton of an algorithm in a base class, letting subclasses override specific steps",
-    "A creational pattern",
-    "A structural pattern"
-  ],
-  "answer": 1,
-  "explanation": "Template Method enforces a standard algorithm structure while allowing subclasses to provide specific implementations for varying steps."
+    "id": "pf-1504",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Template Method pattern?",
+    "options": [
+        "A C++ template",
+        "A behavioral pattern that defines the skeleton of an algorithm in a base class, letting subclasses override specific steps",
+        "A creational pattern",
+        "A structural pattern"
+    ],
+    "answer": 1,
+    "explanation": "Template Method enforces a standard algorithm structure while allowing subclasses to provide specific implementations for varying steps."
 }

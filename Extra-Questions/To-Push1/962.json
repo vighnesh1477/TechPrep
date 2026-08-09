@@ -1,14 +1,14 @@
 {
-  "id": "placement-962",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "Which anomaly is prevented by BCNF but not always by 3NF?",
-  "options": [
-    "Insertion anomaly",
-    "Deletion anomaly",
-    "Update anomaly involving multiple candidate keys",
-    "All anomalies"
-  ],
-  "answer": 2,
-  "explanation": "BCNF strictens 3NF by ensuring every determinant is a candidate key, fixing anomalies from overlapping candidate keys."
+    "id": "pf-1164",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "Which anomaly is prevented by BCNF but not always by 3NF?",
+    "options": [
+        "Insertion anomaly",
+        "Deletion anomaly",
+        "Update anomaly involving multiple candidate keys",
+        "All anomalies"
+    ],
+    "answer": 2,
+    "explanation": "BCNF strictens 3NF by ensuring every determinant is a candidate key, fixing anomalies from overlapping candidate keys."
 }

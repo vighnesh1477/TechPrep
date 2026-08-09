@@ -1,14 +1,14 @@
 {
-  "id": "placement-1568",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Hard",
-  "question": "What is the difference between a Mealy and a Moore state machine?",
-  "options": [
-    "Moore machines have no outputs",
-    "In a Mealy machine, output depends on both present state and input; in a Moore machine, output depends only on the present state",
-    "Mealy machines are synchronous, Moore are asynchronous",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "Mealy machines have outputs associated with transitions (state + input). Moore machines have outputs associated only with the states. Moore outputs are one clock cycle delayed compared to Mealy."
+    "id": "pf-1770",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Hard",
+    "question": "What is the difference between a Mealy and a Moore state machine?",
+    "options": [
+        "Moore machines have no outputs",
+        "In a Mealy machine, output depends on both present state and input; in a Moore machine, output depends only on the present state",
+        "Mealy machines are synchronous, Moore are asynchronous",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "Mealy machines have outputs associated with transitions (state + input). Moore machines have outputs associated only with the states. Moore outputs are one clock cycle delayed compared to Mealy."
 }

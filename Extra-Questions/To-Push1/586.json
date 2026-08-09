@@ -1,14 +1,14 @@
 {
-  "id": "placement-586",
-  "topic": "rmdir",
-  "difficulty": "Easy",
-  "question": "What does rmdir --ignore-fail-on-non-empty do?",
-  "options": [
-    "Forces removal of non-empty directories",
-    "Does not report an error if the directory is not empty",
-    "Ignores all errors",
-    "Removes only hidden files from the directory"
-  ],
-  "answer": 1,
-  "explanation": "This flag suppresses the error message that rmdir normally produces when attempting to remove a non-empty directory."
+    "id": "pf-788",
+    "topic": "rmdir",
+    "difficulty": "Easy",
+    "question": "What does rmdir --ignore-fail-on-non-empty do?",
+    "options": [
+        "Forces removal of non-empty directories",
+        "Does not report an error if the directory is not empty",
+        "Ignores all errors",
+        "Removes only hidden files from the directory"
+    ],
+    "answer": 1,
+    "explanation": "This flag suppresses the error message that rmdir normally produces when attempting to remove a non-empty directory."
 }

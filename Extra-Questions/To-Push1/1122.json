@@ -1,14 +1,14 @@
 {
-  "id": "placement-1122",
-  "topic": "C Programming",
-  "difficulty": "Easy",
-  "question": "What is the output of `printf(\"%d\", 10 / 3);`?",
-  "options": [
-    "3.33",
-    "3",
-    "4",
-    "0"
-  ],
-  "answer": 1,
-  "explanation": "Integer division truncates the decimal part, resulting in 3."
+    "id": "pf-1324",
+    "topic": "C Programming",
+    "difficulty": "Easy",
+    "question": "What is the output of `printf(\"%d\", 10 / 3);`?",
+    "options": [
+        "3.33",
+        "3",
+        "4",
+        "0"
+    ],
+    "answer": 1,
+    "explanation": "Integer division truncates the decimal part, resulting in 3."
 }

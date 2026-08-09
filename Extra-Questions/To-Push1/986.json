@@ -1,14 +1,14 @@
 {
-  "id": "placement-986",
-  "topic": "Operating Systems",
-  "difficulty": "Easy",
-  "question": "Which scheduling algorithm may cause starvation?",
-  "options": [
-    "Round Robin",
-    "First-Come, First-Served (FCFS)",
-    "Shortest Job First (SJF)",
-    "None"
-  ],
-  "answer": 2,
-  "explanation": "SJF can cause starvation for longer processes if shorter ones keep arriving."
+    "id": "pf-1188",
+    "topic": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which scheduling algorithm may cause starvation?",
+    "options": [
+        "Round Robin",
+        "First-Come, First-Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "None"
+    ],
+    "answer": 2,
+    "explanation": "SJF can cause starvation for longer processes if shorter ones keep arriving."
 }

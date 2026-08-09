@@ -1,14 +1,14 @@
 {
-  "id": "placement-764",
-  "topic": "Logs",
-  "difficulty": "Easy",
-  "question": "What log file records authentication events on Debian-based systems?",
-  "options": [
-    "/var/log/syslog",
-    "/var/log/auth.log",
-    "/var/log/secure",
-    "/var/log/messages"
-  ],
-  "answer": 1,
-  "explanation": "On Debian-based systems, /var/log/auth.log records authentication events like login attempts, sudo usage, and SSH connections. On RHEL-based systems, it's /var/log/secure."
+    "id": "pf-966",
+    "topic": "Logs",
+    "difficulty": "Easy",
+    "question": "What log file records authentication events on Debian-based systems?",
+    "options": [
+        "/var/log/syslog",
+        "/var/log/auth.log",
+        "/var/log/secure",
+        "/var/log/messages"
+    ],
+    "answer": 1,
+    "explanation": "On Debian-based systems, /var/log/auth.log records authentication events like login attempts, sudo usage, and SSH connections. On RHEL-based systems, it's /var/log/secure."
 }

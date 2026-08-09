@@ -1,14 +1,14 @@
 {
-  "id": "placement-2156",
-  "topic": "Syllogisms",
-  "difficulty": "Medium",
-  "question": "All boys are girls. No girl is a boy. Conclusion: No boy is a girl.",
-  "options": [
-    "True",
-    "False",
-    "Contradiction",
-    "Neither"
-  ],
-  "answer": 0,
-  "explanation": "If no girl is a boy, then no boy is a girl. Conclusion follows."
+    "id": "pf-2358",
+    "topic": "Syllogisms",
+    "difficulty": "Medium",
+    "question": "All boys are girls. No girl is a boy. Conclusion: No boy is a girl.",
+    "options": [
+        "True",
+        "False",
+        "Contradiction",
+        "Neither"
+    ],
+    "answer": 0,
+    "explanation": "If no girl is a boy, then no boy is a girl. Conclusion follows."
 }

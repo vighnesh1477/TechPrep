@@ -1,14 +1,14 @@
 {
-  "id": "placement-1243",
-  "topic": "Java",
-  "difficulty": "Hard",
-  "question": "What happens if you catch `Exception` before `IOException` in a try-catch block?",
-  "options": [
-    "Runs fine",
-    "Compilation error because IOException is a subclass of Exception and is unreachable",
-    "Runtime error",
-    "Catches IOException first"
-  ],
-  "answer": 1,
-  "explanation": "Java requires catching more specific exceptions before general ones; otherwise, the specific block is unreachable."
+    "id": "pf-1445",
+    "topic": "Java",
+    "difficulty": "Hard",
+    "question": "What happens if you catch `Exception` before `IOException` in a try-catch block?",
+    "options": [
+        "Runs fine",
+        "Compilation error because IOException is a subclass of Exception and is unreachable",
+        "Runtime error",
+        "Catches IOException first"
+    ],
+    "answer": 1,
+    "explanation": "Java requires catching more specific exceptions before general ones; otherwise, the specific block is unreachable."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1784",
-  "topic": "Pointers and Memory",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int arr[5] = {1, 2, 3, 4, 5};`\n`int *p = (int*)((char*)arr + 1);`\n`printf(\"%d\", *p);`",
-  "options": [
-    "1",
-    "2",
-    "A value dependent on system endianness",
-    "Compilation Error"
-  ],
-  "answer": 2,
-  "explanation": "Casting to `char*` and adding 1 moves the pointer by just 1 byte, misaligning it from the integer boundary. Dereferencing as `int*` reads 4 bytes starting from that offset, resulting in a value dependent on endianness."
+    "id": "pf-1986",
+    "topic": "Pointers and Memory",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int arr[5] = {1, 2, 3, 4, 5};`\n`int *p = (int*)((char*)arr + 1);`\n`printf(\"%d\", *p);`",
+    "options": [
+        "1",
+        "2",
+        "A value dependent on system endianness",
+        "Compilation Error"
+    ],
+    "answer": 2,
+    "explanation": "Casting to `char*` and adding 1 moves the pointer by just 1 byte, misaligning it from the integer boundary. Dereferencing as `int*` reads 4 bytes starting from that offset, resulting in a value dependent on endianness."
 }

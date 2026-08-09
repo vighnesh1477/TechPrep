@@ -1,14 +1,14 @@
 {
-  "id": "placement-1116",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the difference between RISC and CISC?",
-  "options": [
-    "RISC is slower",
-    "RISC uses simple, fixed-length instructions; CISC uses complex, variable-length instructions",
-    "CISC uses less memory",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "RISC (Reduced Instruction Set Computer) focuses on simplicity and speed, while CISC (Complex) focuses on reducing the number of instructions per program."
+    "id": "pf-1318",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the difference between RISC and CISC?",
+    "options": [
+        "RISC is slower",
+        "RISC uses simple, fixed-length instructions; CISC uses complex, variable-length instructions",
+        "CISC uses less memory",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "RISC (Reduced Instruction Set Computer) focuses on simplicity and speed, while CISC (Complex) focuses on reducing the number of instructions per program."
 }

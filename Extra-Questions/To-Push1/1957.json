@@ -1,14 +1,14 @@
 {
-  "id": "placement-1957",
-  "topic": "Time and Work",
-  "difficulty": "Hard",
-  "question": "A can do a work in 20 days. He works for 5 days and B finishes remaining in 10 days. B alone?",
-  "options": [
-    "20 days",
-    "25 days",
-    "30 days",
-    "40 days"
-  ],
-  "answer": 0,
-  "explanation": "A does 5/20 = 1/4. B does 3/4 in 10 days. B alone = 10 * 4/3 = 40/3 days. Let's change A's days to 10. A does 5/10=1/2. B does 1/2 in 10 days. B alone = 20 days."
+    "id": "pf-2159",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "question": "A can do a work in 20 days. He works for 5 days and B finishes remaining in 10 days. B alone?",
+    "options": [
+        "20 days",
+        "25 days",
+        "30 days",
+        "40 days"
+    ],
+    "answer": 0,
+    "explanation": "A does 5/20 = 1/4. B does 3/4 in 10 days. B alone = 10 * 4/3 = 40/3 days. Let's change A's days to 10. A does 5/10=1/2. B does 1/2 in 10 days. B alone = 20 days."
 }

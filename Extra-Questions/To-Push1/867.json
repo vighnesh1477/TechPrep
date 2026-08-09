@@ -1,14 +1,14 @@
 {
-  "id": "placement-867",
-  "topic": "C++",
-  "difficulty": "Easy",
-  "question": "Which OOP concept is implemented by wrapping data and methods into a single class?",
-  "options": [
-    "Inheritance",
-    "Polymorphism",
-    "Encapsulation",
-    "Abstraction"
-  ],
-  "answer": 2,
-  "explanation": "Encapsulation bundles data and the functions that operate on it."
+    "id": "pf-1069",
+    "topic": "C++",
+    "difficulty": "Easy",
+    "question": "Which OOP concept is implemented by wrapping data and methods into a single class?",
+    "options": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Abstraction"
+    ],
+    "answer": 2,
+    "explanation": "Encapsulation bundles data and the functions that operate on it."
 }

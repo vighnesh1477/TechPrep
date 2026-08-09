@@ -1,14 +1,14 @@
 {
-  "id": "placement-2124",
-  "topic": "Coding-Decoding",
-  "difficulty": "Medium",
-  "question": "If '123' means 'hot filtered coffee', '356' means 'very hot tea', what is 'hot'?",
-  "options": [
-    "1",
-    "2",
-    "3",
-    "5"
-  ],
-  "answer": 2,
-  "explanation": "'hot' is common, '3' is common code."
+    "id": "pf-2326",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If '123' means 'hot filtered coffee', '356' means 'very hot tea', what is 'hot'?",
+    "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+    ],
+    "answer": 2,
+    "explanation": "'hot' is common, '3' is common code."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1995",
-  "topic": "Mixtures and Alligation",
-  "difficulty": "Easy",
-  "question": "Two varieties of rice cost Rs 10 and Rs 15 per kg. Mixed in ratio 2:3. Price per kg?",
-  "options": [
-    "Rs 11",
-    "Rs 12",
-    "Rs 13",
-    "Rs 14"
-  ],
-  "answer": 2,
-  "explanation": "Avg = (2*10 + 3*15)/5 = (20+45)/5 = 13."
+    "id": "pf-2197",
+    "topic": "Mixtures and Alligation",
+    "difficulty": "Easy",
+    "question": "Two varieties of rice cost Rs 10 and Rs 15 per kg. Mixed in ratio 2:3. Price per kg?",
+    "options": [
+        "Rs 11",
+        "Rs 12",
+        "Rs 13",
+        "Rs 14"
+    ],
+    "answer": 2,
+    "explanation": "Avg = (2*10 + 3*15)/5 = (20+45)/5 = 13."
 }

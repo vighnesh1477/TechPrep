@@ -1,14 +1,14 @@
 {
-  "id": "placement-537",
-  "topic": "Remote Repository",
-  "difficulty": "Medium",
-  "question": "What does git remote get-url origin show?",
-  "options": [
-    "All remote URLs",
-    "The fetch and push URL for the origin remote",
-    "Only the push URL",
-    "The remote repository size"
-  ],
-  "answer": 1,
-  "explanation": "git remote get-url displays the URL configured for the specified remote, showing the push URL if it differs from the fetch URL."
+    "id": "pf-739",
+    "topic": "Remote Repository",
+    "difficulty": "Medium",
+    "question": "What does git remote get-url origin show?",
+    "options": [
+        "All remote URLs",
+        "The fetch and push URL for the origin remote",
+        "Only the push URL",
+        "The remote repository size"
+    ],
+    "answer": 1,
+    "explanation": "git remote get-url displays the URL configured for the specified remote, showing the push URL if it differs from the fetch URL."
 }

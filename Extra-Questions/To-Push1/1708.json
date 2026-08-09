@@ -1,14 +1,14 @@
 {
-  "id": "placement-1708",
-  "topic": "Functions",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`void swap(int *a, int *b) { int *t = a; a = b; b = t; }`\n`int main() {`\n`  int x=10, y=20;`\n`  swap(&x, &y);`\n`  printf(\"%d %d\", x, y);`\n`  return 0;`\n`}`",
-  "options": [
-    "20 10",
-    "10 20",
-    "0 0",
-    "Compilation Error"
-  ],
-  "answer": 1,
-  "explanation": "The function only swaps the local pointer copies, not the values at the memory addresses. To actually swap `x` and `y`, you must dereference the pointers: `int t = *a; *a = *b; *b = t;`."
+    "id": "pf-1910",
+    "topic": "Functions",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`void swap(int *a, int *b) { int *t = a; a = b; b = t; }`\n`int main() {`\n`  int x=10, y=20;`\n`  swap(&x, &y);`\n`  printf(\"%d %d\", x, y);`\n`  return 0;`\n`}`",
+    "options": [
+        "20 10",
+        "10 20",
+        "0 0",
+        "Compilation Error"
+    ],
+    "answer": 1,
+    "explanation": "The function only swaps the local pointer copies, not the values at the memory addresses. To actually swap `x` and `y`, you must dereference the pointers: `int t = *a; *a = *b; *b = t;`."
 }

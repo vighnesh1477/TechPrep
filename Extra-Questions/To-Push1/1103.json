@@ -1,14 +1,14 @@
 {
-  "id": "placement-1103",
-  "topic": "Cloud Basics",
-  "difficulty": "Hard",
-  "question": "What is the downside of a multi-cloud strategy?",
-  "options": [
-    "Lower cost",
-    "Increased complexity in networking, security, and management",
-    "Single point of failure",
-    "Vendor lock-in"
-  ],
-  "answer": 1,
-  "explanation": "Managing multiple cloud providers introduces significant operational, security, and architectural complexity."
+    "id": "pf-1305",
+    "topic": "Cloud Basics",
+    "difficulty": "Hard",
+    "question": "What is the downside of a multi-cloud strategy?",
+    "options": [
+        "Lower cost",
+        "Increased complexity in networking, security, and management",
+        "Single point of failure",
+        "Vendor lock-in"
+    ],
+    "answer": 1,
+    "explanation": "Managing multiple cloud providers introduces significant operational, security, and architectural complexity."
 }

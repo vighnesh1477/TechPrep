@@ -1,14 +1,14 @@
 {
-  "id": "placement-564",
-  "topic": "cp",
-  "difficulty": "Easy",
-  "question": "How do you copy a directory recursively?",
-  "options": [
-    "cp dir1 dir2",
-    "cp -r dir1 dir2",
-    "cp -d dir1 dir2",
-    "cp -f dir1 dir2"
-  ],
-  "answer": 1,
-  "explanation": "cp -r (or -R) copies directories recursively, including all files and subdirectories within them."
+    "id": "pf-766",
+    "topic": "cp",
+    "difficulty": "Easy",
+    "question": "How do you copy a directory recursively?",
+    "options": [
+        "cp dir1 dir2",
+        "cp -r dir1 dir2",
+        "cp -d dir1 dir2",
+        "cp -f dir1 dir2"
+    ],
+    "answer": 1,
+    "explanation": "cp -r (or -R) copies directories recursively, including all files and subdirectories within them."
 }

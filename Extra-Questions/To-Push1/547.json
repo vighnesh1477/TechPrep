@@ -1,14 +1,14 @@
 {
-  "id": "placement-547",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "Which symbol represents the home directory of the current user?",
-  "options": [
-    "/",
-    "~",
-    "$",
-    "&"
-  ],
-  "answer": 1,
-  "explanation": "The tilde (~) is a shortcut representing the current user's home directory. For user john, ~ expands to /home/john."
+    "id": "pf-749",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "Which symbol represents the home directory of the current user?",
+    "options": [
+        "/",
+        "~",
+        "$",
+        "&"
+    ],
+    "answer": 1,
+    "explanation": "The tilde (~) is a shortcut representing the current user's home directory. For user john, ~ expands to /home/john."
 }

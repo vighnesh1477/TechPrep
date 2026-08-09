@@ -1,14 +1,14 @@
 {
-  "id": "placement-1326",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following is NOT a state of a process?",
-  "options": [
-    "Ready",
-    "Running",
-    "Compiling",
-    "Waiting"
-  ],
-  "answer": 2,
-  "explanation": "Compiling is a phase of software development, not a process state. Standard process states include New, Ready, Running, Waiting (or Blocked), and Terminated."
+    "id": "pf-1528",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a state of a process?",
+    "options": [
+        "Ready",
+        "Running",
+        "Compiling",
+        "Waiting"
+    ],
+    "answer": 2,
+    "explanation": "Compiling is a phase of software development, not a process state. Standard process states include New, Ready, Running, Waiting (or Blocked), and Terminated."
 }

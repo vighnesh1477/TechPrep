@@ -1,14 +1,14 @@
 {
-  "id": "placement-1108",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "What is the purpose of RAM?",
-  "options": [
-    "Permanent storage",
-    "Volatile memory used to store data currently being processed",
-    "Non-volatile storage",
-    "Video memory"
-  ],
-  "answer": 1,
-  "explanation": "RAM (Random Access Memory) is volatile, holding active data and instructions that the CPU needs immediately."
+    "id": "pf-1310",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "What is the purpose of RAM?",
+    "options": [
+        "Permanent storage",
+        "Volatile memory used to store data currently being processed",
+        "Non-volatile storage",
+        "Video memory"
+    ],
+    "answer": 1,
+    "explanation": "RAM (Random Access Memory) is volatile, holding active data and instructions that the CPU needs immediately."
 }

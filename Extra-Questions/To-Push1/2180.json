@@ -1,14 +1,14 @@
 {
-  "id": "placement-2180",
-  "topic": "Statements and Assumptions",
-  "difficulty": "Medium",
-  "question": "Statement: 'Award winning movie, watch it today.' Assumption: Awards make a movie good.",
-  "options": [
-    "Implicit",
-    "Explicit",
-    "Not implicit",
-    "Contradictory"
-  ],
-  "answer": 0,
-  "explanation": "Using an award to promote implies the assumption that awards signify quality."
+    "id": "pf-2382",
+    "topic": "Statements and Assumptions",
+    "difficulty": "Medium",
+    "question": "Statement: 'Award winning movie, watch it today.' Assumption: Awards make a movie good.",
+    "options": [
+        "Implicit",
+        "Explicit",
+        "Not implicit",
+        "Contradictory"
+    ],
+    "answer": 0,
+    "explanation": "Using an award to promote implies the assumption that awards signify quality."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1805",
-  "topic": "Recursion",
-  "difficulty": "Medium",
-  "question": "What is the primary disadvantage of recursion compared to iteration?",
-  "options": [
-    "Recursion is always slower",
-    "Recursion uses more memory due to the call stack overhead",
-    "Recursion cannot solve complex problems",
-    "Recursion is harder to read"
-  ],
-  "answer": 1,
-  "explanation": "Recursion incurs overhead from pushing and popping stack frames for each call, using more memory. Iteration typically uses a constant amount of memory (O(1))."
+    "id": "pf-2007",
+    "topic": "Recursion",
+    "difficulty": "Medium",
+    "question": "What is the primary disadvantage of recursion compared to iteration?",
+    "options": [
+        "Recursion is always slower",
+        "Recursion uses more memory due to the call stack overhead",
+        "Recursion cannot solve complex problems",
+        "Recursion is harder to read"
+    ],
+    "answer": 1,
+    "explanation": "Recursion incurs overhead from pushing and popping stack frames for each call, using more memory. Iteration typically uses a constant amount of memory (O(1))."
 }

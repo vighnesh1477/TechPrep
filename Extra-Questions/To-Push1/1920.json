@@ -1,14 +1,14 @@
 {
-  "id": "placement-1920",
-  "topic": "Ratio and Proportion",
-  "difficulty": "Hard",
-  "question": "A, B, C rent a pasture. A puts 10 cows for 2 months, B puts 15 cows for 3 months, C puts 20 cows for 4 months. Profit ratio?",
-  "options": [
-    "1:2:3",
-    "2:3:4",
-    "10:45:80",
-    "5:22:40"
-  ],
-  "answer": 2,
-  "explanation": "Ratio = 10*2 : 15*3 : 20*4 = 20:45:80."
+    "id": "pf-2122",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Hard",
+    "question": "A, B, C rent a pasture. A puts 10 cows for 2 months, B puts 15 cows for 3 months, C puts 20 cows for 4 months. Profit ratio?",
+    "options": [
+        "1:2:3",
+        "2:3:4",
+        "10:45:80",
+        "5:22:40"
+    ],
+    "answer": 2,
+    "explanation": "Ratio = 10*2 : 15*3 : 20*4 = 20:45:80."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-646",
-  "topic": "File Permissions",
-  "difficulty": "Easy",
-  "question": "What does chmod 644 file.txt do?",
-  "options": [
-    "Owner: rw, Group: r, Others: r",
-    "Owner: rw, Group: rw, Others: r",
-    "Owner: rwx, Group: r, Others: r",
-    "Owner: rw, Group: r, Others: none"
-  ],
-  "answer": 0,
-  "explanation": "644 = rw-r--r--. Owner gets read+write (6), group gets read (4), others get read (4). This is the default for many files."
+    "id": "pf-848",
+    "topic": "File Permissions",
+    "difficulty": "Easy",
+    "question": "What does chmod 644 file.txt do?",
+    "options": [
+        "Owner: rw, Group: r, Others: r",
+        "Owner: rw, Group: rw, Others: r",
+        "Owner: rwx, Group: r, Others: r",
+        "Owner: rw, Group: r, Others: none"
+    ],
+    "answer": 0,
+    "explanation": "644 = rw-r--r--. Owner gets read+write (6), group gets read (4), others get read (4). This is the default for many files."
 }

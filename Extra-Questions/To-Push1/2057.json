@@ -1,14 +1,14 @@
 {
-  "id": "placement-2057",
-  "topic": "Algebra",
-  "difficulty": "Medium",
-  "question": "If x - 1/x = 3, find x^2 + 1/x^2.",
-  "options": [
-    "9",
-    "11",
-    "7",
-    "13"
-  ],
-  "answer": 1,
-  "explanation": "(x - 1/x)^2 = x^2 - 2 + 1/x^2 => 9 = x^2 + 1/x^2 - 2 => x^2 + 1/x^2 = 11."
+    "id": "pf-2259",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If x - 1/x = 3, find x^2 + 1/x^2.",
+    "options": [
+        "9",
+        "11",
+        "7",
+        "13"
+    ],
+    "answer": 1,
+    "explanation": "(x - 1/x)^2 = x^2 - 2 + 1/x^2 => 9 = x^2 + 1/x^2 - 2 => x^2 + 1/x^2 = 11."
 }

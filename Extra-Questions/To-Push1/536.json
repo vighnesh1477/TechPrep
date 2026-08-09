@@ -1,14 +1,14 @@
 {
-  "id": "placement-536",
-  "topic": "Tags",
-  "difficulty": "Medium",
-  "question": "How do you verify a signed tag?",
-  "options": [
-    "git tag --verify v1.0",
-    "git tag -v v1.0",
-    "git verify-tag v1.0",
-    "git check-tag v1.0"
-  ],
-  "answer": 1,
-  "explanation": "git tag -v verifies a signed tag by checking the GPG signature against your keyring, confirming the tag was created by the claimed author."
+    "id": "pf-738",
+    "topic": "Tags",
+    "difficulty": "Medium",
+    "question": "How do you verify a signed tag?",
+    "options": [
+        "git tag --verify v1.0",
+        "git tag -v v1.0",
+        "git verify-tag v1.0",
+        "git check-tag v1.0"
+    ],
+    "answer": 1,
+    "explanation": "git tag -v verifies a signed tag by checking the GPG signature against your keyring, confirming the tag was created by the claimed author."
 }

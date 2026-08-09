@@ -1,14 +1,14 @@
 {
-  "id": "placement-766",
-  "topic": "Logs",
-  "difficulty": "Easy",
-  "question": "What does 'journalctl -f' do?",
-  "options": [
-    "Shows logs from the current boot only",
-    "Follows the journal in real-time like tail -f",
-    "Filters logs by facility",
-    "Shows the first 10 log entries"
-  ],
-  "answer": 1,
-  "explanation": "journalctl -f follows the journal output in real-time, showing new log entries as they are generated, similar to tail -f."
+    "id": "pf-968",
+    "topic": "Logs",
+    "difficulty": "Easy",
+    "question": "What does 'journalctl -f' do?",
+    "options": [
+        "Shows logs from the current boot only",
+        "Follows the journal in real-time like tail -f",
+        "Filters logs by facility",
+        "Shows the first 10 log entries"
+    ],
+    "answer": 1,
+    "explanation": "journalctl -f follows the journal output in real-time, showing new log entries as they are generated, similar to tail -f."
 }

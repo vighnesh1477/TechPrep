@@ -1,14 +1,14 @@
 {
-  "id": "placement-2114",
-  "topic": "Coding-Decoding",
-  "difficulty": "Easy",
-  "question": "If RED is 345, what is DEN?",
-  "options": [
-    "456",
-    "567",
-    "546",
-    "465"
-  ],
-  "answer": 2,
-  "explanation": "R=3, E=4, D=5. So D=5, E=4, N=6."
+    "id": "pf-2316",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "If RED is 345, what is DEN?",
+    "options": [
+        "456",
+        "567",
+        "546",
+        "465"
+    ],
+    "answer": 2,
+    "explanation": "R=3, E=4, D=5. So D=5, E=4, N=6."
 }

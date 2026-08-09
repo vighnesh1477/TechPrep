@@ -1,14 +1,14 @@
 {
-  "id": "placement-1153",
-  "topic": "Python",
-  "difficulty": "Easy",
-  "question": "How do you start a single-line comment in Python?",
-  "options": [
-    "//",
-    "/*",
-    "#",
-    "--"
-  ],
-  "answer": 2,
-  "explanation": "The hash symbol # is used to denote a comment in Python."
+    "id": "pf-1355",
+    "topic": "Python",
+    "difficulty": "Easy",
+    "question": "How do you start a single-line comment in Python?",
+    "options": [
+        "//",
+        "/*",
+        "#",
+        "--"
+    ],
+    "answer": 2,
+    "explanation": "The hash symbol # is used to denote a comment in Python."
 }

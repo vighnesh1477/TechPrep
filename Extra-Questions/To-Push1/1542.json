@@ -1,14 +1,14 @@
 {
-  "id": "placement-1542",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Hard",
-  "question": "In an LL(1) parser, what does the '1' signify?",
-  "options": [
-    "1 pass over the source code",
-    "1 token of lookahead",
-    "1 symbol on the stack",
-    "1 phase of compilation"
-  ],
-  "answer": 1,
-  "explanation": "LL(1) means Left-to-right scan, Leftmost derivation, with 1 symbol of lookahead. The parser decides which production to use by looking at only the next input token."
+    "id": "pf-1744",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Hard",
+    "question": "In an LL(1) parser, what does the '1' signify?",
+    "options": [
+        "1 pass over the source code",
+        "1 token of lookahead",
+        "1 symbol on the stack",
+        "1 phase of compilation"
+    ],
+    "answer": 1,
+    "explanation": "LL(1) means Left-to-right scan, Leftmost derivation, with 1 symbol of lookahead. The parser decides which production to use by looking at only the next input token."
 }

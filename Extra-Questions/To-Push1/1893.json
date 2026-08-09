@@ -1,14 +1,14 @@
 {
-  "id": "placement-1893",
-  "topic": "Profit and Loss",
-  "difficulty": "Easy",
-  "question": "CP is Rs 100, SP is Rs 120. Profit %?",
-  "options": [
-    "10%",
-    "15%",
-    "20%",
-    "25%"
-  ],
-  "answer": 2,
-  "explanation": "Profit = 20. % = 20/100 * 100 = 20%."
+    "id": "pf-2095",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "CP is Rs 100, SP is Rs 120. Profit %?",
+    "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+    ],
+    "answer": 2,
+    "explanation": "Profit = 20. % = 20/100 * 100 = 20%."
 }

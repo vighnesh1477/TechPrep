@@ -1,14 +1,14 @@
 {
-  "id": "placement-695",
-  "topic": "kill",
-  "difficulty": "Easy",
-  "question": "How do you force kill a process with PID 1234?",
-  "options": [
-    "kill -9 1234",
-    "kill -KILL 1234",
-    "Both A and B",
-    "kill -f 1234"
-  ],
-  "answer": 2,
-  "explanation": "Both kill -9 1234 and kill -KILL 1234 send SIGKILL to process 1234. The number 9 and the name KILL refer to the same signal."
+    "id": "pf-897",
+    "topic": "kill",
+    "difficulty": "Easy",
+    "question": "How do you force kill a process with PID 1234?",
+    "options": [
+        "kill -9 1234",
+        "kill -KILL 1234",
+        "Both A and B",
+        "kill -f 1234"
+    ],
+    "answer": 2,
+    "explanation": "Both kill -9 1234 and kill -KILL 1234 send SIGKILL to process 1234. The number 9 and the name KILL refer to the same signal."
 }

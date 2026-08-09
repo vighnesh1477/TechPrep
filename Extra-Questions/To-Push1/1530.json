@@ -1,14 +1,14 @@
 {
-  "id": "placement-1530",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is a 'Dead Code Elimination' optimization?",
-  "options": [
-    "Removing code that takes too long to execute",
-    "Removing code that will never be executed (e.g., code after a return statement, or unreachable if-blocks)",
-    "Removing comments from the code",
-    "Deleting unused variables"
-  ],
-  "answer": 1,
-  "explanation": "Dead code elimination is an optimization that removes code which does not affect the program results. This reduces the size of the executable and can improve cache performance."
+    "id": "pf-1732",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is a 'Dead Code Elimination' optimization?",
+    "options": [
+        "Removing code that takes too long to execute",
+        "Removing code that will never be executed (e.g., code after a return statement, or unreachable if-blocks)",
+        "Removing comments from the code",
+        "Deleting unused variables"
+    ],
+    "answer": 1,
+    "explanation": "Dead code elimination is an optimization that removes code which does not affect the program results. This reduces the size of the executable and can improve cache performance."
 }

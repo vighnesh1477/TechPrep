@@ -1,14 +1,14 @@
 {
-  "id": "placement-1908",
-  "topic": "Ratio and Proportion",
-  "difficulty": "Easy",
-  "question": "If A:B = 2:3 and B:C = 4:5, find A:B:C.",
-  "options": [
-    "8:12:15",
-    "2:3:5",
-    "8:12:10",
-    "4:6:5"
-  ],
-  "answer": 0,
-  "explanation": "Make B common: A:B=8:12, B:C=12:15. A:B:C=8:12:15."
+    "id": "pf-2110",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "question": "If A:B = 2:3 and B:C = 4:5, find A:B:C.",
+    "options": [
+        "8:12:15",
+        "2:3:5",
+        "8:12:10",
+        "4:6:5"
+    ],
+    "answer": 0,
+    "explanation": "Make B common: A:B=8:12, B:C=12:15. A:B:C=8:12:15."
 }

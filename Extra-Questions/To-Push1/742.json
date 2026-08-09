@@ -1,14 +1,14 @@
 {
-  "id": "placement-742",
-  "topic": "yum",
-  "difficulty": "Easy",
-  "question": "What does 'yum install httpd' do?",
-  "options": [
-    "Removes the httpd package",
-    "Installs the Apache HTTP server package",
-    "Updates the httpd package",
-    "Searches for httpd"
-  ],
-  "answer": 1,
-  "explanation": "yum install httpd installs the Apache HTTP Server (called httpd in RHEL/CentOS, vs apache2 in Debian/Ubuntu) and its dependencies."
+    "id": "pf-944",
+    "topic": "yum",
+    "difficulty": "Easy",
+    "question": "What does 'yum install httpd' do?",
+    "options": [
+        "Removes the httpd package",
+        "Installs the Apache HTTP server package",
+        "Updates the httpd package",
+        "Searches for httpd"
+    ],
+    "answer": 1,
+    "explanation": "yum install httpd installs the Apache HTTP Server (called httpd in RHEL/CentOS, vs apache2 in Debian/Ubuntu) and its dependencies."
 }

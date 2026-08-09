@@ -1,14 +1,14 @@
 {
-  "id": "placement-1420",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "If a table has a composite primary key (col1, col2), can you have a FOREIGN KEY in another table that references only col1?",
-  "options": [
-    "Yes, as long as col1 is unique in the parent table",
-    "No, the foreign key must reference the entire composite primary key",
-    "Yes, foreign keys can reference any subset of a primary key",
-    "No, composite primary keys cannot be referenced at all"
-  ],
-  "answer": 1,
-  "explanation": "A foreign key must reference a unique or primary key in the parent table. If the parent key is composite (col1, col2), the child foreign key must also contain both columns to guarantee uniqueness."
+    "id": "pf-1622",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "If a table has a composite primary key (col1, col2), can you have a FOREIGN KEY in another table that references only col1?",
+    "options": [
+        "Yes, as long as col1 is unique in the parent table",
+        "No, the foreign key must reference the entire composite primary key",
+        "Yes, foreign keys can reference any subset of a primary key",
+        "No, composite primary keys cannot be referenced at all"
+    ],
+    "answer": 1,
+    "explanation": "A foreign key must reference a unique or primary key in the parent table. If the parent key is composite (col1, col2), the child foreign key must also contain both columns to guarantee uniqueness."
 }

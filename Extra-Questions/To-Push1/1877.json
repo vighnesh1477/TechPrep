@@ -1,14 +1,14 @@
 {
-  "id": "placement-1877",
-  "topic": "Number Systems",
-  "difficulty": "Hard",
-  "question": "Find the 3-digit number divisible by 7, 8, and 9.",
-  "options": [
-    "404",
-    "504",
-    "604",
-    "704"
-  ],
-  "answer": 1,
-  "explanation": "LCM(7,8,9) = 504. Only 3-digit multiple is 504."
+    "id": "pf-2079",
+    "topic": "Number Systems",
+    "difficulty": "Hard",
+    "question": "Find the 3-digit number divisible by 7, 8, and 9.",
+    "options": [
+        "404",
+        "504",
+        "604",
+        "704"
+    ],
+    "answer": 1,
+    "explanation": "LCM(7,8,9) = 504. Only 3-digit multiple is 504."
 }

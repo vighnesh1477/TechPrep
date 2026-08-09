@@ -1,14 +1,14 @@
 {
-  "id": "placement-1365",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a Primary Key in a database?",
-  "options": [
-    "Any column in a table",
-    "A column or set of columns that uniquely identifies each row in a table",
-    "A key used to connect two tables",
-    "A column that allows NULL values"
-  ],
-  "answer": 1,
-  "explanation": "A primary key is a unique identifier for a record in a relational database table. It must contain unique values and cannot contain NULL values."
+    "id": "pf-1567",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a Primary Key in a database?",
+    "options": [
+        "Any column in a table",
+        "A column or set of columns that uniquely identifies each row in a table",
+        "A key used to connect two tables",
+        "A column that allows NULL values"
+    ],
+    "answer": 1,
+    "explanation": "A primary key is a unique identifier for a record in a relational database table. It must contain unique values and cannot contain NULL values."
 }

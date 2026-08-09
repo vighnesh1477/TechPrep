@@ -1,14 +1,14 @@
 {
-  "id": "placement-1440",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the main difference between a switch and a router?",
-  "options": [
-    "They are the same device",
-    "A switch connects devices within a LAN using MAC addresses; a router connects different networks using IP addresses",
-    "A router works at Layer 2, a switch at Layer 3",
-    "A switch is slower than a router"
-  ],
-  "answer": 1,
-  "explanation": "A switch operates at Layer 2 (Data Link) and forwards frames based on MAC addresses within a LAN. A router operates at Layer 3 (Network) and routes packets between different networks based on IP addresses."
+    "id": "pf-1642",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the main difference between a switch and a router?",
+    "options": [
+        "They are the same device",
+        "A switch connects devices within a LAN using MAC addresses; a router connects different networks using IP addresses",
+        "A router works at Layer 2, a switch at Layer 3",
+        "A switch is slower than a router"
+    ],
+    "answer": 1,
+    "explanation": "A switch operates at Layer 2 (Data Link) and forwards frames based on MAC addresses within a LAN. A router operates at Layer 3 (Network) and routes packets between different networks based on IP addresses."
 }

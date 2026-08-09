@@ -1,14 +1,14 @@
 {
-  "id": "placement-2175",
-  "topic": "Statements and Assumptions",
-  "difficulty": "Easy",
-  "question": "Statement: 'Don't smoke, it causes cancer.' Assumption: People read warnings.",
-  "options": [
-    "Implicit",
-    "Explicit",
-    "Not implicit",
-    "Contradictory"
-  ],
-  "answer": 0,
-  "explanation": "Issuing a warning assumes the target audience will read and understand it."
+    "id": "pf-2377",
+    "topic": "Statements and Assumptions",
+    "difficulty": "Easy",
+    "question": "Statement: 'Don't smoke, it causes cancer.' Assumption: People read warnings.",
+    "options": [
+        "Implicit",
+        "Explicit",
+        "Not implicit",
+        "Contradictory"
+    ],
+    "answer": 0,
+    "explanation": "Issuing a warning assumes the target audience will read and understand it."
 }

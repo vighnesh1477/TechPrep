@@ -1,14 +1,14 @@
 {
-  "id": "placement-798",
-  "topic": "GRUB",
-  "difficulty": "Medium",
-  "question": "How do you modify the GRUB timeout?",
-  "options": [
-    "Edit /boot/grub/grub.cfg directly",
-    "Edit GRUB_TIMEOUT in /etc/default/grub and run update-grub",
-    "Run grub --timeout 5",
-    "Edit /etc/grub.conf"
-  ],
-  "answer": 1,
-  "explanation": "You should edit /etc/default/grub to set GRUB_TIMEOUT=value (in seconds), then run update-grub (Debian) or grub2-mkconfig (RHEL) to apply changes."
+    "id": "pf-1000",
+    "topic": "GRUB",
+    "difficulty": "Medium",
+    "question": "How do you modify the GRUB timeout?",
+    "options": [
+        "Edit /boot/grub/grub.cfg directly",
+        "Edit GRUB_TIMEOUT in /etc/default/grub and run update-grub",
+        "Run grub --timeout 5",
+        "Edit /etc/grub.conf"
+    ],
+    "answer": 1,
+    "explanation": "You should edit /etc/default/grub to set GRUB_TIMEOUT=value (in seconds), then run update-grub (Debian) or grub2-mkconfig (RHEL) to apply changes."
 }

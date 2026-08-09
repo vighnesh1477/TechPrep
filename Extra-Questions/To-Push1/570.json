@@ -1,14 +1,14 @@
 {
-  "id": "placement-570",
-  "topic": "mv",
-  "difficulty": "Easy",
-  "question": "What is the result of 'mv oldname.txt newname.txt'?",
-  "options": [
-    "Creates a copy called newname.txt",
-    "Renames oldname.txt to newname.txt",
-    "Moves oldname.txt to a directory called newname.txt",
-    "Deletes oldname.txt"
-  ],
-  "answer": 1,
-  "explanation": "When the destination is not a directory, mv renames the file. This is the standard way to rename files in Linux."
+    "id": "pf-772",
+    "topic": "mv",
+    "difficulty": "Easy",
+    "question": "What is the result of 'mv oldname.txt newname.txt'?",
+    "options": [
+        "Creates a copy called newname.txt",
+        "Renames oldname.txt to newname.txt",
+        "Moves oldname.txt to a directory called newname.txt",
+        "Deletes oldname.txt"
+    ],
+    "answer": 1,
+    "explanation": "When the destination is not a directory, mv renames the file. This is the standard way to rename files in Linux."
 }

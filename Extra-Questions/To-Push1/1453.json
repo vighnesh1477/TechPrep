@@ -1,14 +1,14 @@
 {
-  "id": "placement-1453",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is a VLAN?",
-  "options": [
-    "A very large area network",
-    "A logically segmented broadcast domain created within a single physical LAN switch",
-    "A type of VPN",
-    "A wireless local area network"
-  ],
-  "answer": 1,
-  "explanation": "A Virtual LAN (VLAN) allows network administrators to group hosts together even if they are not connected to the same network switch, creating separate broadcast domains logically rather than physically."
+    "id": "pf-1655",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is a VLAN?",
+    "options": [
+        "A very large area network",
+        "A logically segmented broadcast domain created within a single physical LAN switch",
+        "A type of VPN",
+        "A wireless local area network"
+    ],
+    "answer": 1,
+    "explanation": "A Virtual LAN (VLAN) allows network administrators to group hosts together even if they are not connected to the same network switch, creating separate broadcast domains logically rather than physically."
 }

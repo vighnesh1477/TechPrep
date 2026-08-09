@@ -1,14 +1,14 @@
 {
-  "id": "placement-2171",
-  "topic": "Statements and Conclusions",
-  "difficulty": "Hard",
-  "question": "Statement: If it rains, the match is canceled. The match was not canceled. Conclusion: It did not rain.",
-  "options": [
-    "Follows",
-    "Does not follow",
-    "Partially follows",
-    "Contradiction"
-  ],
-  "answer": 0,
-  "explanation": "Modus tollens: If P then Q. Not Q implies Not P."
+    "id": "pf-2373",
+    "topic": "Statements and Conclusions",
+    "difficulty": "Hard",
+    "question": "Statement: If it rains, the match is canceled. The match was not canceled. Conclusion: It did not rain.",
+    "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "Contradiction"
+    ],
+    "answer": 0,
+    "explanation": "Modus tollens: If P then Q. Not Q implies Not P."
 }

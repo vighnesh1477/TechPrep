@@ -1,14 +1,14 @@
 {
-  "id": "placement-1968",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Medium",
-  "question": "A can run 100m in 10s, B in 12s. By what distance A beats B in 100m?",
-  "options": [
-    "16.66m",
-    "15m",
-    "20m",
-    "10m"
-  ],
-  "answer": 0,
-  "explanation": "In 10s, B runs 100/12 * 10 = 83.33m. A beats by 16.66m."
+    "id": "pf-2170",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "A can run 100m in 10s, B in 12s. By what distance A beats B in 100m?",
+    "options": [
+        "16.66m",
+        "15m",
+        "20m",
+        "10m"
+    ],
+    "answer": 0,
+    "explanation": "In 10s, B runs 100/12 * 10 = 83.33m. A beats by 16.66m."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1169",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "What is a directed acyclic graph (DAG)?",
-  "options": [
-    "A graph with no edges",
-    "A graph with directed edges and no cycles",
-    "A tree",
-    "An undirected graph"
-  ],
-  "answer": 1,
-  "explanation": "A DAG has directed edges but no path that starts and ends at the same vertex, crucial for topological sorting."
+    "id": "pf-1371",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "What is a directed acyclic graph (DAG)?",
+    "options": [
+        "A graph with no edges",
+        "A graph with directed edges and no cycles",
+        "A tree",
+        "An undirected graph"
+    ],
+    "answer": 1,
+    "explanation": "A DAG has directed edges but no path that starts and ends at the same vertex, crucial for topological sorting."
 }

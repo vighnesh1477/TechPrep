@@ -1,14 +1,14 @@
 {
-  "id": "placement-683",
-  "topic": "top",
-  "difficulty": "Easy",
-  "question": "What does the top command display?",
-  "options": [
-    "The top 10 largest files",
-    "Real-time view of running processes and system resource usage",
-    "The top-level directory structure",
-    "TCP/IP connection statistics"
-  ],
-  "answer": 1,
-  "explanation": "top provides a real-time, dynamic view of running system processes, including CPU usage, memory usage, and process information that updates every few seconds."
+    "id": "pf-885",
+    "topic": "top",
+    "difficulty": "Easy",
+    "question": "What does the top command display?",
+    "options": [
+        "The top 10 largest files",
+        "Real-time view of running processes and system resource usage",
+        "The top-level directory structure",
+        "TCP/IP connection statistics"
+    ],
+    "answer": 1,
+    "explanation": "top provides a real-time, dynamic view of running system processes, including CPU usage, memory usage, and process information that updates every few seconds."
 }

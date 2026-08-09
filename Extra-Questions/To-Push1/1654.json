@@ -1,14 +1,14 @@
 {
-  "id": "placement-1654",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "What is the purpose of the `default` case in a `switch` statement?",
-  "options": [
-    "It is executed first",
-    "It is executed if no other cases match the expression",
-    "It is required for the switch to compile",
-    "It breaks the switch statement"
-  ],
-  "answer": 1,
-  "explanation": "The `default` case acts as a catch-all and is executed if none of the other `case` constants match the switch expression."
+    "id": "pf-1856",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "What is the purpose of the `default` case in a `switch` statement?",
+    "options": [
+        "It is executed first",
+        "It is executed if no other cases match the expression",
+        "It is required for the switch to compile",
+        "It breaks the switch statement"
+    ],
+    "answer": 1,
+    "explanation": "The `default` case acts as a catch-all and is executed if none of the other `case` constants match the switch expression."
 }

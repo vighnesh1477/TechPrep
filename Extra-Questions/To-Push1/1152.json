@@ -1,14 +1,14 @@
 {
-  "id": "placement-1152",
-  "topic": "Python",
-  "difficulty": "Easy",
-  "question": "What is the output of `print(10 // 3)`?",
-  "options": [
-    "3.33",
-    "3",
-    "4",
-    "1"
-  ],
-  "answer": 1,
-  "explanation": "The // operator performs floor division, returning the largest integer less than or equal to the division result."
+    "id": "pf-1354",
+    "topic": "Python",
+    "difficulty": "Easy",
+    "question": "What is the output of `print(10 // 3)`?",
+    "options": [
+        "3.33",
+        "3",
+        "4",
+        "1"
+    ],
+    "answer": 1,
+    "explanation": "The // operator performs floor division, returning the largest integer less than or equal to the division result."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-499",
-  "topic": "Submodules",
-  "difficulty": "Medium",
-  "question": "What does git submodule add https://repo.com/lib.git libs/lib do?",
-  "options": [
-    "Copies all files from the repo into your project",
-    "Adds a reference to the external repository at the specified path without copying its history",
-    "Merges the external repository into yours",
-    "Creates a symbolic link to the repository"
-  ],
-  "answer": 1,
-  "explanation": "git submodule add registers an external repository as a submodule at the specified path, storing a reference to a specific commit rather than copying files."
+    "id": "pf-701",
+    "topic": "Submodules",
+    "difficulty": "Medium",
+    "question": "What does git submodule add https://repo.com/lib.git libs/lib do?",
+    "options": [
+        "Copies all files from the repo into your project",
+        "Adds a reference to the external repository at the specified path without copying its history",
+        "Merges the external repository into yours",
+        "Creates a symbolic link to the repository"
+    ],
+    "answer": 1,
+    "explanation": "git submodule add registers an external repository as a submodule at the specified path, storing a reference to a specific commit rather than copying files."
 }

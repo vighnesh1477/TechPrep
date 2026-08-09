@@ -1,14 +1,14 @@
 {
-  "id": "placement-932",
-  "topic": "Algorithms",
-  "difficulty": "Easy",
-  "question": "What is the worst-case time complexity of Binary Search?",
-  "options": [
-    "O(1)",
-    "O(N)",
-    "O(log N)",
-    "O(N log N)"
-  ],
-  "answer": 2,
-  "explanation": "Binary search halves the search space each step, taking O(log N) steps."
+    "id": "pf-1134",
+    "topic": "Algorithms",
+    "difficulty": "Easy",
+    "question": "What is the worst-case time complexity of Binary Search?",
+    "options": [
+        "O(1)",
+        "O(N)",
+        "O(log N)",
+        "O(N log N)"
+    ],
+    "answer": 2,
+    "explanation": "Binary search halves the search space each step, taking O(log N) steps."
 }

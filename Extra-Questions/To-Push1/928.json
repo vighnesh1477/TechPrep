@@ -1,14 +1,14 @@
 {
-  "id": "placement-928",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "What happens to a hash table's load factor when rehashing occurs?",
-  "options": [
-    "Increases",
-    "Decreases",
-    "Stays same",
-    "Becomes 0"
-  ],
-  "answer": 1,
-  "explanation": "Rehashing increases the table size, decreasing the load factor (elements / size)."
+    "id": "pf-1130",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "What happens to a hash table's load factor when rehashing occurs?",
+    "options": [
+        "Increases",
+        "Decreases",
+        "Stays same",
+        "Becomes 0"
+    ],
+    "answer": 1,
+    "explanation": "Rehashing increases the table size, decreasing the load factor (elements / size)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-846",
-  "topic": "Shell Scripting",
-  "difficulty": "Medium",
-  "question": "What does '$#' represent in a bash script?",
-  "options": [
-    "The name of the script",
-    "The number of arguments passed to the script",
-    "All arguments as a single string",
-    "The exit status of the last command"
-  ],
-  "answer": 1,
-  "explanation": "$# gives the number of positional parameters (arguments) passed to the script or function. $0 is the script name, $@ is all arguments."
+    "id": "pf-1048",
+    "topic": "Shell Scripting",
+    "difficulty": "Medium",
+    "question": "What does '$#' represent in a bash script?",
+    "options": [
+        "The name of the script",
+        "The number of arguments passed to the script",
+        "All arguments as a single string",
+        "The exit status of the last command"
+    ],
+    "answer": 1,
+    "explanation": "$# gives the number of positional parameters (arguments) passed to the script or function. $0 is the script name, $@ is all arguments."
 }

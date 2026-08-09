@@ -1,14 +1,14 @@
 {
-  "id": "placement-2205",
-  "topic": "Puzzles",
-  "difficulty": "Medium",
-  "question": "A clock shows 3:15. Angle between hour and minute hands?",
-  "options": [
-    "0",
-    "7.5",
-    "15",
-    "22.5"
-  ],
-  "answer": 1,
-  "explanation": "Minute hand at 90 deg. Hour hand at 90 + 15*0.5 = 97.5 deg. Diff = 7.5 deg."
+    "id": "pf-2407",
+    "topic": "Puzzles",
+    "difficulty": "Medium",
+    "question": "A clock shows 3:15. Angle between hour and minute hands?",
+    "options": [
+        "0",
+        "7.5",
+        "15",
+        "22.5"
+    ],
+    "answer": 1,
+    "explanation": "Minute hand at 90 deg. Hour hand at 90 + 15*0.5 = 97.5 deg. Diff = 7.5 deg."
 }

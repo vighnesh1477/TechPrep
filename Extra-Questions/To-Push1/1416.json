@@ -1,14 +1,14 @@
 {
-  "id": "placement-1416",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is a correlated subquery?",
-  "options": [
-    "A subquery that cannot run independently of the outer query",
-    "A subquery that references columns from the outer query and is evaluated once for every row processed by the outer query",
-    "A subquery that returns multiple columns",
-    "A subquery inside a HAVING clause"
-  ],
-  "answer": 1,
-  "explanation": "Unlike a standard subquery which is evaluated once, a correlated subquery uses values from the outer query, meaning it must be re-evaluated for every row considered by the outer query. This can be performance-intensive."
+    "id": "pf-1618",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is a correlated subquery?",
+    "options": [
+        "A subquery that cannot run independently of the outer query",
+        "A subquery that references columns from the outer query and is evaluated once for every row processed by the outer query",
+        "A subquery that returns multiple columns",
+        "A subquery inside a HAVING clause"
+    ],
+    "answer": 1,
+    "explanation": "Unlike a standard subquery which is evaluated once, a correlated subquery uses values from the outer query, meaning it must be re-evaluated for every row considered by the outer query. This can be performance-intensive."
 }

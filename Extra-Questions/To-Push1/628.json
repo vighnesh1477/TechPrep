@@ -1,14 +1,14 @@
 {
-  "id": "placement-628",
-  "topic": "locate",
-  "difficulty": "Easy",
-  "question": "Why might locate not find a recently created file?",
-  "options": [
-    "locate only searches in the current directory",
-    "The locate database has not been updated",
-    "locate cannot find regular files",
-    "locate only works for root user"
-  ],
-  "answer": 1,
-  "explanation": "locate uses a pre-built database (updated by updatedb). If a file was created after the last database update, locate won't find it."
+    "id": "pf-830",
+    "topic": "locate",
+    "difficulty": "Easy",
+    "question": "Why might locate not find a recently created file?",
+    "options": [
+        "locate only searches in the current directory",
+        "The locate database has not been updated",
+        "locate cannot find regular files",
+        "locate only works for root user"
+    ],
+    "answer": 1,
+    "explanation": "locate uses a pre-built database (updated by updatedb). If a file was created after the last database update, locate won't find it."
 }

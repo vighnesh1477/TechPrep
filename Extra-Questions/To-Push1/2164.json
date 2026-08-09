@@ -1,14 +1,14 @@
 {
-  "id": "placement-2164",
-  "topic": "Statements and Conclusions",
-  "difficulty": "Easy",
-  "question": "Statement: Salary is directly proportional to performance. Conclusion: Higher performance means higher salary.",
-  "options": [
-    "Follows",
-    "Does not follow",
-    "Partially follows",
-    "Irrelevant"
-  ],
-  "answer": 0,
-  "explanation": "Directly proportional means if one increases, the other increases."
+    "id": "pf-2366",
+    "topic": "Statements and Conclusions",
+    "difficulty": "Easy",
+    "question": "Statement: Salary is directly proportional to performance. Conclusion: Higher performance means higher salary.",
+    "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "Irrelevant"
+    ],
+    "answer": 0,
+    "explanation": "Directly proportional means if one increases, the other increases."
 }

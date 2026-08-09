@@ -1,14 +1,14 @@
 {
-  "id": "placement-493",
-  "topic": "Blame",
-  "difficulty": "Medium",
-  "question": "What does git blame file.txt show?",
-  "options": [
-    "Who deleted the file",
-    "Which commit and author last modified each line of the file",
-    "All commits that ever touched the file",
-    "The diff of the file since the last commit"
-  ],
-  "answer": 1,
-  "explanation": "git blame displays the commit hash, author, and timestamp for every line in a file, showing who last modified each line and in which commit."
+    "id": "pf-695",
+    "topic": "Blame",
+    "difficulty": "Medium",
+    "question": "What does git blame file.txt show?",
+    "options": [
+        "Who deleted the file",
+        "Which commit and author last modified each line of the file",
+        "All commits that ever touched the file",
+        "The diff of the file since the last commit"
+    ],
+    "answer": 1,
+    "explanation": "git blame displays the commit hash, author, and timestamp for every line in a file, showing who last modified each line and in which commit."
 }

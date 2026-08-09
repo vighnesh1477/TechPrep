@@ -1,14 +1,14 @@
 {
-  "id": "placement-1213",
-  "topic": "OOP",
-  "difficulty": "Medium",
-  "question": "Which principle states 'Software entities should be open for extension, but closed for modification'?",
-  "options": [
-    "SRP",
-    "LSP",
-    "Open/Closed Principle (OCP)",
-    "Dependency Inversion"
-  ],
-  "answer": 2,
-  "explanation": "OCP means you should be able to add new functionality without altering existing source code."
+    "id": "pf-1415",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which principle states 'Software entities should be open for extension, but closed for modification'?",
+    "options": [
+        "SRP",
+        "LSP",
+        "Open/Closed Principle (OCP)",
+        "Dependency Inversion"
+    ],
+    "answer": 2,
+    "explanation": "OCP means you should be able to add new functionality without altering existing source code."
 }

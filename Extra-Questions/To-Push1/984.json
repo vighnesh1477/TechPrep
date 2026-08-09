@@ -1,14 +1,14 @@
 {
-  "id": "placement-984",
-  "topic": "Operating Systems",
-  "difficulty": "Easy",
-  "question": "Which part of the OS manages memory and processes?",
-  "options": [
-    "Kernel",
-    "Shell",
-    "GUI",
-    "BIOS"
-  ],
-  "answer": 0,
-  "explanation": "The kernel is the core component that manages system resources like memory and CPU."
+    "id": "pf-1186",
+    "topic": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which part of the OS manages memory and processes?",
+    "options": [
+        "Kernel",
+        "Shell",
+        "GUI",
+        "BIOS"
+    ],
+    "answer": 0,
+    "explanation": "The kernel is the core component that manages system resources like memory and CPU."
 }

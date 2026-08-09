@@ -1,14 +1,14 @@
 {
-  "id": "placement-1509",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Hard",
-  "question": "What does SOLID stand for in software design principles?",
-  "options": [
-    "Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion",
-    "Simple, Object-oriented, Logical, Intuitive, Deployable",
-    "Secure, Optimized, Layered, Integrated, Documented",
-    "Scalable, Operable, Load-balanced, Interoperable, Durable"
-  ],
-  "answer": 0,
-  "explanation": "SOLID is an acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. It was promoted by Robert C. Martin."
+    "id": "pf-1711",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Hard",
+    "question": "What does SOLID stand for in software design principles?",
+    "options": [
+        "Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion",
+        "Simple, Object-oriented, Logical, Intuitive, Deployable",
+        "Secure, Optimized, Layered, Integrated, Documented",
+        "Scalable, Operable, Load-balanced, Interoperable, Durable"
+    ],
+    "answer": 0,
+    "explanation": "SOLID is an acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. It was promoted by Robert C. Martin."
 }

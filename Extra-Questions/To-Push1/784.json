@@ -1,14 +1,14 @@
 {
-  "id": "placement-784",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What does the /proc filesystem represent?",
-  "options": [
-    "A physical disk partition",
-    "A virtual filesystem that provides kernel and process information as files",
-    "A temporary file storage",
-    "Process executable files"
-  ],
-  "answer": 1,
-  "explanation": "/proc is a virtual filesystem created in memory. It provides a window into the kernel, exposing process information, hardware info, and kernel parameters as readable files."
+    "id": "pf-986",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What does the /proc filesystem represent?",
+    "options": [
+        "A physical disk partition",
+        "A virtual filesystem that provides kernel and process information as files",
+        "A temporary file storage",
+        "Process executable files"
+    ],
+    "answer": 1,
+    "explanation": "/proc is a virtual filesystem created in memory. It provides a window into the kernel, exposing process information, hardware info, and kernel parameters as readable files."
 }

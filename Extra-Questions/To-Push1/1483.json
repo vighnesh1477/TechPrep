@@ -1,14 +1,14 @@
 {
-  "id": "placement-1483",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "In a 4-way set-associative cache with 64 lines, how many sets are there?",
-  "options": [
-    "64 sets",
-    "16 sets",
-    "4 sets",
-    "256 sets"
-  ],
-  "answer": 1,
-  "explanation": "In an N-way set-associative cache, the number of sets is calculated as (Total Lines / Associativity). Here, 64 lines / 4 ways = 16 sets."
+    "id": "pf-1685",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "In a 4-way set-associative cache with 64 lines, how many sets are there?",
+    "options": [
+        "64 sets",
+        "16 sets",
+        "4 sets",
+        "256 sets"
+    ],
+    "answer": 1,
+    "explanation": "In an N-way set-associative cache, the number of sets is calculated as (Total Lines / Associativity). Here, 64 lines / 4 ways = 16 sets."
 }

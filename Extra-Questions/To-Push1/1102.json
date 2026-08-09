@@ -1,14 +1,14 @@
 {
-  "id": "placement-1102",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is a hybrid cloud?",
-  "options": [
-    "Two public clouds",
-    "A mix of on-premises, private cloud, and public cloud services working together",
-    "A cloud that changes providers",
-    "A cloud without internet"
-  ],
-  "answer": 1,
-  "explanation": "Hybrid cloud integrates private and public clouds, allowing data and app portability between them."
+    "id": "pf-1304",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is a hybrid cloud?",
+    "options": [
+        "Two public clouds",
+        "A mix of on-premises, private cloud, and public cloud services working together",
+        "A cloud that changes providers",
+        "A cloud without internet"
+    ],
+    "answer": 1,
+    "explanation": "Hybrid cloud integrates private and public clouds, allowing data and app portability between them."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1425",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "How many layers are in the OSI model?",
-  "options": [
-    "4",
-    "5",
-    "6",
-    "7"
-  ],
-  "answer": 3,
-  "explanation": "The OSI (Open Systems Interconnection) model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application."
+    "id": "pf-1627",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "How many layers are in the OSI model?",
+    "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+    ],
+    "answer": 3,
+    "explanation": "The OSI (Open Systems Interconnection) model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application."
 }

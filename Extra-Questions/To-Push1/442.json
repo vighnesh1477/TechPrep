@@ -1,14 +1,14 @@
 {
-  "id": "placement-442",
-  "topic": "Git Basics",
-  "difficulty": "Easy",
-  "question": "What does Git store in its object database?",
-  "options": [
-    "Only file contents",
-    "Blobs, trees, and commits",
-    "Only commit messages",
-    "Only branch names"
-  ],
-  "answer": 1,
-  "explanation": "Git's object database stores three types of objects: blobs (file contents), trees (directory structures), and commits (snapshots with metadata)."
+    "id": "pf-644",
+    "topic": "Git Basics",
+    "difficulty": "Easy",
+    "question": "What does Git store in its object database?",
+    "options": [
+        "Only file contents",
+        "Blobs, trees, and commits",
+        "Only commit messages",
+        "Only branch names"
+    ],
+    "answer": 1,
+    "explanation": "Git's object database stores three types of objects: blobs (file contents), trees (directory structures), and commits (snapshots with metadata)."
 }

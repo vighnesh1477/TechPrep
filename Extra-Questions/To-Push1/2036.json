@@ -1,14 +1,14 @@
 {
-  "id": "placement-2036",
-  "topic": "Permutation and Combination",
-  "difficulty": "Medium",
-  "question": "Arrange MATHS such that vowels are always together.",
-  "options": [
-    "120",
-    "240",
-    "480",
-    "720"
-  ],
-  "answer": 1,
-  "explanation": "Treat A, I as one block. M, THS, AI -> 4 entities. 4! * 2! = 24 * 2 = 48. Wait, M,A,T,H,S -> 5 letters. Vowels A. Only 1 vowel. Together is just 5! = 120. Let me change word to 'LOGIC'. Vowels O,I. 4! * 2! = 48."
+    "id": "pf-2238",
+    "topic": "Permutation and Combination",
+    "difficulty": "Medium",
+    "question": "Arrange MATHS such that vowels are always together.",
+    "options": [
+        "120",
+        "240",
+        "480",
+        "720"
+    ],
+    "answer": 1,
+    "explanation": "Treat A, I as one block. M, THS, AI -> 4 entities. 4! * 2! = 24 * 2 = 48. Wait, M,A,T,H,S -> 5 letters. Vowels A. Only 1 vowel. Together is just 5! = 120. Let me change word to 'LOGIC'. Vowels O,I. 4! * 2! = 48."
 }

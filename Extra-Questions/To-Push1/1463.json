@@ -1,14 +1,14 @@
 {
-  "id": "placement-1463",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "What are the three main components of a CPU?",
-  "options": [
-    "ALU, Control Unit, Registers",
-    "RAM, ROM, Hard Drive",
-    "Input, Output, Storage",
-    "Monitor, Keyboard, Mouse"
-  ],
-  "answer": 0,
-  "explanation": "The central processing unit consists of the Arithmetic Logic Unit (ALU) for calculations, the Control Unit (CU) for instruction coordination, and Registers for fast data storage."
+    "id": "pf-1665",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "What are the three main components of a CPU?",
+    "options": [
+        "ALU, Control Unit, Registers",
+        "RAM, ROM, Hard Drive",
+        "Input, Output, Storage",
+        "Monitor, Keyboard, Mouse"
+    ],
+    "answer": 0,
+    "explanation": "The central processing unit consists of the Arithmetic Logic Unit (ALU) for calculations, the Control Unit (CU) for instruction coordination, and Registers for fast data storage."
 }

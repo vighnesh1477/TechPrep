@@ -1,14 +1,14 @@
 {
-  "id": "placement-356",
-  "topic": "Clone",
-  "difficulty": "Easy",
-  "question": "What does git clone -b feature https://repo.com/project.git do?",
-  "options": [
-    "Clones only the feature branch with no other branches",
-    "Clones the repository and checks out the feature branch",
-    "Creates a new branch called feature after cloning",
-    "Blocks the feature branch from being cloned"
-  ],
-  "answer": 1,
-  "explanation": "The -b flag specifies which branch to check out after cloning, so the working tree starts on the feature branch instead of the default branch."
+    "id": "pf-558",
+    "topic": "Clone",
+    "difficulty": "Easy",
+    "question": "What does git clone -b feature https://repo.com/project.git do?",
+    "options": [
+        "Clones only the feature branch with no other branches",
+        "Clones the repository and checks out the feature branch",
+        "Creates a new branch called feature after cloning",
+        "Blocks the feature branch from being cloned"
+    ],
+    "answer": 1,
+    "explanation": "The -b flag specifies which branch to check out after cloning, so the working tree starts on the feature branch instead of the default branch."
 }

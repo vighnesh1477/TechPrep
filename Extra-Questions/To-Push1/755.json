@@ -1,14 +1,14 @@
 {
-  "id": "placement-755",
-  "topic": "mount",
-  "difficulty": "Easy",
-  "question": "How do you mount /dev/sdb1 to /mnt/usb?",
-  "options": [
-    "mount /dev/sdb1 /mnt/usb",
-    "mount /mnt/usb /dev/sdb1",
-    "attach /dev/sdb1 /mnt/usb",
-    "connect /dev/sdb1 to /mnt/usb"
-  ],
-  "answer": 0,
-  "explanation": "mount device mount_point mounts the specified device at the specified directory. The device is the first argument, and the mount point is the second."
+    "id": "pf-957",
+    "topic": "mount",
+    "difficulty": "Easy",
+    "question": "How do you mount /dev/sdb1 to /mnt/usb?",
+    "options": [
+        "mount /dev/sdb1 /mnt/usb",
+        "mount /mnt/usb /dev/sdb1",
+        "attach /dev/sdb1 /mnt/usb",
+        "connect /dev/sdb1 to /mnt/usb"
+    ],
+    "answer": 0,
+    "explanation": "mount device mount_point mounts the specified device at the specified directory. The device is the first argument, and the mount point is the second."
 }

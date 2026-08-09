@@ -1,14 +1,14 @@
 {
-  "id": "placement-1369",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a database View?",
-  "options": [
-    "A physical copy of a table",
-    "A virtual table based on the result-set of an SQL statement",
-    "A backup of the database",
-    "A type of index"
-  ],
-  "answer": 1,
-  "explanation": "A view is a virtual table that contains rows and columns, just like a real table, but the data is derived from one or more underlying tables dynamically."
+    "id": "pf-1571",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a database View?",
+    "options": [
+        "A physical copy of a table",
+        "A virtual table based on the result-set of an SQL statement",
+        "A backup of the database",
+        "A type of index"
+    ],
+    "answer": 1,
+    "explanation": "A view is a virtual table that contains rows and columns, just like a real table, but the data is derived from one or more underlying tables dynamically."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1427",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the purpose of DNS?",
-  "options": [
-    "To assign IP addresses dynamically",
-    "To translate human-readable domain names into IP addresses",
-    "To encrypt network traffic",
-    "To route packets between different networks"
-  ],
-  "answer": 1,
-  "explanation": "The Domain Name System (DNS) is the phonebook of the Internet. It translates human-readable domain names (like www.google.com) to machine-readable IP addresses."
+    "id": "pf-1629",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the purpose of DNS?",
+    "options": [
+        "To assign IP addresses dynamically",
+        "To translate human-readable domain names into IP addresses",
+        "To encrypt network traffic",
+        "To route packets between different networks"
+    ],
+    "answer": 1,
+    "explanation": "The Domain Name System (DNS) is the phonebook of the Internet. It translates human-readable domain names (like www.google.com) to machine-readable IP addresses."
 }

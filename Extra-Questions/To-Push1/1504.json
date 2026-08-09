@@ -1,14 +1,14 @@
 {
-  "id": "placement-1504",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Medium",
-  "question": "What is a 'Daily Stand-up' in Scrum?",
-  "options": [
-    "A 2-hour meeting to discuss the entire project",
-    "A short, 15-minute daily meeting for the team to synchronize activities and report progress, plans, and impediments",
-    "A meeting where everyone stands to show discipline",
-    "A weekly report submitted in writing"
-  ],
-  "answer": 1,
-  "explanation": "The Daily Scrum (or stand-up) is a 15-minute event where team members answer three questions: What did I do yesterday? What will I do today? Are there any impediments?"
+    "id": "pf-1706",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Medium",
+    "question": "What is a 'Daily Stand-up' in Scrum?",
+    "options": [
+        "A 2-hour meeting to discuss the entire project",
+        "A short, 15-minute daily meeting for the team to synchronize activities and report progress, plans, and impediments",
+        "A meeting where everyone stands to show discipline",
+        "A weekly report submitted in writing"
+    ],
+    "answer": 1,
+    "explanation": "The Daily Scrum (or stand-up) is a 15-minute event where team members answer three questions: What did I do yesterday? What will I do today? Are there any impediments?"
 }

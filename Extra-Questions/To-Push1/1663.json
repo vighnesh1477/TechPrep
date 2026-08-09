@@ -1,14 +1,14 @@
 {
-  "id": "placement-1663",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "In Python, what happens if you use `break` outside of a loop?",
-  "options": [
-    "It exits the program",
-    "It raises a SyntaxError",
-    "It is ignored",
-    "It exits the current function"
-  ],
-  "answer": 1,
-  "explanation": "In Python, `break` and `continue` are syntactically only valid inside `for` or `while` loops. Using them outside raises a `SyntaxError: 'break' outside loop`."
+    "id": "pf-1865",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "In Python, what happens if you use `break` outside of a loop?",
+    "options": [
+        "It exits the program",
+        "It raises a SyntaxError",
+        "It is ignored",
+        "It exits the current function"
+    ],
+    "answer": 1,
+    "explanation": "In Python, `break` and `continue` are syntactically only valid inside `for` or `while` loops. Using them outside raises a `SyntaxError: 'break' outside loop`."
 }

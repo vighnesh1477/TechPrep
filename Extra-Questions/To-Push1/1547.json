@@ -1,14 +1,14 @@
 {
-  "id": "placement-1547",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "Which logic gate outputs HIGH (1) only if all its inputs are HIGH?",
-  "options": [
-    "OR Gate",
-    "AND Gate",
-    "NOT Gate",
-    "NAND Gate"
-  ],
-  "answer": 1,
-  "explanation": "An AND gate performs logical conjunction. The output is 1 only if all inputs are 1. If any input is 0, the output is 0."
+    "id": "pf-1749",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "Which logic gate outputs HIGH (1) only if all its inputs are HIGH?",
+    "options": [
+        "OR Gate",
+        "AND Gate",
+        "NOT Gate",
+        "NAND Gate"
+    ],
+    "answer": 1,
+    "explanation": "An AND gate performs logical conjunction. The output is 1 only if all inputs are 1. If any input is 0, the output is 0."
 }

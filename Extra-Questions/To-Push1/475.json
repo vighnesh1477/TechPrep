@@ -1,14 +1,14 @@
 {
-  "id": "placement-475",
-  "topic": "Remote Repository",
-  "difficulty": "Medium",
-  "question": "What does git remote rename old-name new-name do?",
-  "options": [
-    "Renames the remote repository on the server",
-    "Changes the local remote reference name from old-name to new-name",
-    "Renames all branches from the remote",
-    "Creates a new remote with the new name"
-  ],
-  "answer": 1,
-  "explanation": "git remote rename changes the local short name of a remote (e.g., renaming 'origin' to 'upstream'), updating all tracking branches that reference it."
+    "id": "pf-677",
+    "topic": "Remote Repository",
+    "difficulty": "Medium",
+    "question": "What does git remote rename old-name new-name do?",
+    "options": [
+        "Renames the remote repository on the server",
+        "Changes the local remote reference name from old-name to new-name",
+        "Renames all branches from the remote",
+        "Creates a new remote with the new name"
+    ],
+    "answer": 1,
+    "explanation": "git remote rename changes the local short name of a remote (e.g., renaming 'origin' to 'upstream'), updating all tracking branches that reference it."
 }

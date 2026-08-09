@@ -1,14 +1,14 @@
 {
-  "id": "placement-1024",
-  "topic": "OOP",
-  "difficulty": "Medium",
-  "question": "What is composition in OOP?",
-  "options": [
-    "A 'has-a' relationship where the contained object cannot exist independently",
-    "An 'is-a' relationship",
-    "A 'uses-a' relationship",
-    "Multiple inheritance"
-  ],
-  "answer": 0,
-  "explanation": "Composition implies strong ownership; if the parent is destroyed, the child is destroyed too."
+    "id": "pf-1226",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "What is composition in OOP?",
+    "options": [
+        "A 'has-a' relationship where the contained object cannot exist independently",
+        "An 'is-a' relationship",
+        "A 'uses-a' relationship",
+        "Multiple inheritance"
+    ],
+    "answer": 0,
+    "explanation": "Composition implies strong ownership; if the parent is destroyed, the child is destroyed too."
 }

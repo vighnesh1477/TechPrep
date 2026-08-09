@@ -1,14 +1,14 @@
 {
-  "id": "placement-1699",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is function overloading?",
-  "options": [
-    "A function calling itself",
-    "Having multiple functions with the same name but different parameter lists",
-    "A function taking too many arguments",
-    "Defining a function inside another function"
-  ],
-  "answer": 1,
-  "explanation": "Function overloading allows multiple functions with the same name to exist in the same scope, provided they have different parameter types, counts, or orders (supported in C++/Java, not C)."
+    "id": "pf-1901",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is function overloading?",
+    "options": [
+        "A function calling itself",
+        "Having multiple functions with the same name but different parameter lists",
+        "A function taking too many arguments",
+        "Defining a function inside another function"
+    ],
+    "answer": 1,
+    "explanation": "Function overloading allows multiple functions with the same name to exist in the same scope, provided they have different parameter types, counts, or orders (supported in C++/Java, not C)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-953",
-  "topic": "DBMS",
-  "difficulty": "Easy",
-  "question": "In which normal form is a table if it has no repeating groups?",
-  "options": [
-    "1NF",
-    "2NF",
-    "3NF",
-    "BCNF"
-  ],
-  "answer": 0,
-  "explanation": "First Normal Form (1NF) requires atomic values and no repeating groups."
+    "id": "pf-1155",
+    "topic": "DBMS",
+    "difficulty": "Easy",
+    "question": "In which normal form is a table if it has no repeating groups?",
+    "options": [
+        "1NF",
+        "2NF",
+        "3NF",
+        "BCNF"
+    ],
+    "answer": 0,
+    "explanation": "First Normal Form (1NF) requires atomic values and no repeating groups."
 }

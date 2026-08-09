@@ -1,14 +1,14 @@
 {
-  "id": "placement-1582",
-  "topic": "Data Representation",
-  "difficulty": "Easy",
-  "question": "Which of the following represents the hexadecimal number 'F'?",
-  "options": [
-    "14",
-    "15",
-    "16",
-    "13"
-  ],
-  "answer": 1,
-  "explanation": "Hexadecimal is base-16. The digits are 0-9 and A-F. A=10, B=11, C=12, D=13, E=14, F=15."
+    "id": "pf-1784",
+    "topic": "Data Representation",
+    "difficulty": "Easy",
+    "question": "Which of the following represents the hexadecimal number 'F'?",
+    "options": [
+        "14",
+        "15",
+        "16",
+        "13"
+    ],
+    "answer": 1,
+    "explanation": "Hexadecimal is base-16. The digits are 0-9 and A-F. A=10, B=11, C=12, D=13, E=14, F=15."
 }

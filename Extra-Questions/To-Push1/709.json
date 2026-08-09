@@ -1,14 +1,14 @@
 {
-  "id": "placement-709",
-  "topic": "Jobs",
-  "difficulty": "Easy",
-  "question": "What does the 'bg' command do?",
-  "options": [
-    "Brings a job to the background",
-    "Resumes a stopped job in the background",
-    "Lists background jobs",
-    "Kills background jobs"
-  ],
-  "answer": 1,
-  "explanation": "bg resumes a stopped job in the background. Without arguments, it operates on the current (most recently stopped) job."
+    "id": "pf-911",
+    "topic": "Jobs",
+    "difficulty": "Easy",
+    "question": "What does the 'bg' command do?",
+    "options": [
+        "Brings a job to the background",
+        "Resumes a stopped job in the background",
+        "Lists background jobs",
+        "Kills background jobs"
+    ],
+    "answer": 1,
+    "explanation": "bg resumes a stopped job in the background. Without arguments, it operates on the current (most recently stopped) job."
 }

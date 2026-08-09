@@ -1,14 +1,14 @@
 {
-  "id": "placement-346",
-  "topic": "Remote Repository",
-  "difficulty": "Easy",
-  "question": "How do you add a new remote named 'upstream'?",
-  "options": [
-    "git remote add upstream https://example.com/repo.git",
-    "git remote set upstream https://example.com/repo.git",
-    "git add remote upstream https://example.com/repo.git",
-    "git remote new upstream https://example.com/repo.git"
-  ],
-  "answer": 0,
-  "explanation": "git remote add <name> <url> adds a new remote with the specified name and URL, allowing you to interact with multiple remote repositories."
+    "id": "pf-548",
+    "topic": "Remote Repository",
+    "difficulty": "Easy",
+    "question": "How do you add a new remote named 'upstream'?",
+    "options": [
+        "git remote add upstream https://example.com/repo.git",
+        "git remote set upstream https://example.com/repo.git",
+        "git add remote upstream https://example.com/repo.git",
+        "git remote new upstream https://example.com/repo.git"
+    ],
+    "answer": 0,
+    "explanation": "git remote add <name> <url> adds a new remote with the specified name and URL, allowing you to interact with multiple remote repositories."
 }

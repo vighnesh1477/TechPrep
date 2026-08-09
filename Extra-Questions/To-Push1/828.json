@@ -1,14 +1,14 @@
 {
-  "id": "placement-828",
-  "topic": "uniq",
-  "difficulty": "Medium",
-  "question": "What condition must be met for uniq to remove duplicates?",
-  "options": [
-    "The file must be sorted first",
-    "No condition, uniq works on any file",
-    "The duplicates must be on adjacent lines",
-    "Both A and C are correct"
-  ],
-  "answer": 3,
-  "explanation": "uniq only removes adjacent duplicate lines. The file should be sorted first (sort file | uniq) to ensure all duplicates are adjacent."
+    "id": "pf-1030",
+    "topic": "uniq",
+    "difficulty": "Medium",
+    "question": "What condition must be met for uniq to remove duplicates?",
+    "options": [
+        "The file must be sorted first",
+        "No condition, uniq works on any file",
+        "The duplicates must be on adjacent lines",
+        "Both A and C are correct"
+    ],
+    "answer": 3,
+    "explanation": "uniq only removes adjacent duplicate lines. The file should be sorted first (sort file | uniq) to ensure all duplicates are adjacent."
 }

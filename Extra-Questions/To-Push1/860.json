@@ -1,14 +1,14 @@
 {
-  "id": "placement-860",
-  "topic": "C Programming",
-  "difficulty": "Medium",
-  "question": "What is the output of `printf(\"%c\", 'A' + 1);`?",
-  "options": [
-    "A",
-    "B",
-    "51",
-    "Compiler error"
-  ],
-  "answer": 1,
-  "explanation": "'A' is 65, adding 1 makes it 66, which is 'B'."
+    "id": "pf-1062",
+    "topic": "C Programming",
+    "difficulty": "Medium",
+    "question": "What is the output of `printf(\"%c\", 'A' + 1);`?",
+    "options": [
+        "A",
+        "B",
+        "51",
+        "Compiler error"
+    ],
+    "answer": 1,
+    "explanation": "'A' is 65, adding 1 makes it 66, which is 'B'."
 }

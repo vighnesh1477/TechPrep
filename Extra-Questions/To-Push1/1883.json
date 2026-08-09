@@ -1,14 +1,14 @@
 {
-  "id": "placement-1883",
-  "topic": "Percentages",
-  "difficulty": "Medium",
-  "question": "A salary increased by 20% then decreased by 20%. Net change?",
-  "options": [
-    "0%",
-    "-4%",
-    "+4%",
-    "-2%"
-  ],
-  "answer": 1,
-  "explanation": "100 -> 120 -> 96. Net change is -4%."
+    "id": "pf-2085",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "question": "A salary increased by 20% then decreased by 20%. Net change?",
+    "options": [
+        "0%",
+        "-4%",
+        "+4%",
+        "-2%"
+    ],
+    "answer": 1,
+    "explanation": "100 -> 120 -> 96. Net change is -4%."
 }

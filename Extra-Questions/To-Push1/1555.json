@@ -1,14 +1,14 @@
 {
-  "id": "placement-1555",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Medium",
-  "question": "What is the primary characteristic of a Sequential Logic Circuit?",
-  "options": [
-    "Outputs depend only on current inputs",
-    "Outputs depend on current inputs AND past state (history)",
-    "It does not use a clock signal",
-    "It can only perform addition"
-  ],
-  "answer": 1,
-  "explanation": "Unlike combinational logic, sequential logic circuits have memory. Their output depends not only on the present inputs but also on the past sequence of inputs (stored in flip-flops)."
+    "id": "pf-1757",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Medium",
+    "question": "What is the primary characteristic of a Sequential Logic Circuit?",
+    "options": [
+        "Outputs depend only on current inputs",
+        "Outputs depend on current inputs AND past state (history)",
+        "It does not use a clock signal",
+        "It can only perform addition"
+    ],
+    "answer": 1,
+    "explanation": "Unlike combinational logic, sequential logic circuits have memory. Their output depends not only on the present inputs but also on the past sequence of inputs (stored in flip-flops)."
 }

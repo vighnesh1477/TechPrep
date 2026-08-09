@@ -1,14 +1,14 @@
 {
-  "id": "placement-1808",
-  "topic": "Recursion",
-  "difficulty": "Hard",
-  "question": "How many times is the function `f` called (including the first call) for `f(4)` if `f(n) = n > 0 ? f(n-1) + f(n-2) : 1`?",
-  "options": [
-    "5",
-    "9",
-    "15",
-    "7"
-  ],
-  "answer": 1,
-  "explanation": "f(4) calls f(3), f(2). f(3) calls f(2), f(1). f(2) calls f(1), f(0). Total calls: 1 (for 4) + 2 (for 3) + 3 (for 2) + 2 (for 1) + 1 (for 0) = 9."
+    "id": "pf-2010",
+    "topic": "Recursion",
+    "difficulty": "Hard",
+    "question": "How many times is the function `f` called (including the first call) for `f(4)` if `f(n) = n > 0 ? f(n-1) + f(n-2) : 1`?",
+    "options": [
+        "5",
+        "9",
+        "15",
+        "7"
+    ],
+    "answer": 1,
+    "explanation": "f(4) calls f(3), f(2). f(3) calls f(2), f(1). f(2) calls f(1), f(0). Total calls: 1 (for 4) + 2 (for 3) + 3 (for 2) + 2 (for 1) + 1 (for 0) = 9."
 }

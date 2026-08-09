@@ -1,14 +1,14 @@
 {
-  "id": "placement-831",
-  "topic": "uniq",
-  "difficulty": "Medium",
-  "question": "What does 'uniq -u' show?",
-  "options": [
-    "Only unique lines that appear exactly once",
-    "All unique and duplicate lines",
-    "Uncompressed output",
-    "Lines with unique characters"
-  ],
-  "answer": 0,
-  "explanation": "uniq -u shows only lines that are not duplicated, i.e., lines that appear exactly once in the input."
+    "id": "pf-1033",
+    "topic": "uniq",
+    "difficulty": "Medium",
+    "question": "What does 'uniq -u' show?",
+    "options": [
+        "Only unique lines that appear exactly once",
+        "All unique and duplicate lines",
+        "Uncompressed output",
+        "Lines with unique characters"
+    ],
+    "answer": 0,
+    "explanation": "uniq -u shows only lines that are not duplicated, i.e., lines that appear exactly once in the input."
 }

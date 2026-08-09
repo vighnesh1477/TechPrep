@@ -1,14 +1,14 @@
 {
-  "id": "placement-864",
-  "topic": "C Programming",
-  "difficulty": "Hard",
-  "question": "What is the maximum depth of recursion limited by?",
-  "options": [
-    "Compiler",
-    "OS",
-    "Stack size",
-    "Heap size"
-  ],
-  "answer": 2,
-  "explanation": "Each recursive call adds a stack frame, bounded by available stack memory."
+    "id": "pf-1066",
+    "topic": "C Programming",
+    "difficulty": "Hard",
+    "question": "What is the maximum depth of recursion limited by?",
+    "options": [
+        "Compiler",
+        "OS",
+        "Stack size",
+        "Heap size"
+    ],
+    "answer": 2,
+    "explanation": "Each recursive call adds a stack frame, bounded by available stack memory."
 }

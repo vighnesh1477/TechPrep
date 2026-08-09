@@ -1,14 +1,14 @@
 {
-  "id": "placement-1818",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of Bubble Sort in the worst case?",
-  "options": [
-    "O(n)",
-    "O(n log n)",
-    "O(n^2)",
-    "O(2^n)"
-  ],
-  "answer": 2,
-  "explanation": "In the worst case (a reverse-sorted array), Bubble Sort makes n-1 passes, comparing n-i elements each time. The sum of this series is O(n^2)."
+    "id": "pf-2020",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of Bubble Sort in the worst case?",
+    "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(2^n)"
+    ],
+    "answer": 2,
+    "explanation": "In the worst case (a reverse-sorted array), Bubble Sort makes n-1 passes, comparing n-i elements each time. The sum of this series is O(n^2)."
 }

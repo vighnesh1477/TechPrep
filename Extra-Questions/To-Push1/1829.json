@@ -1,14 +1,14 @@
 {
-  "id": "placement-1829",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "Which sorting algorithm works by repeatedly finding the minimum element?",
-  "options": [
-    "Bubble Sort",
-    "Insertion Sort",
-    "Selection Sort",
-    "Quick Sort"
-  ],
-  "answer": 2,
-  "explanation": "Selection Sort is characterized by dividing the array into sorted and unsorted parts, and repeatedly selecting the smallest element from the unsorted part to append to the sorted part."
+    "id": "pf-2031",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "Which sorting algorithm works by repeatedly finding the minimum element?",
+    "options": [
+        "Bubble Sort",
+        "Insertion Sort",
+        "Selection Sort",
+        "Quick Sort"
+    ],
+    "answer": 2,
+    "explanation": "Selection Sort is characterized by dividing the array into sorted and unsorted parts, and repeatedly selecting the smallest element from the unsorted part to append to the sorted part."
 }

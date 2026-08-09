@@ -1,14 +1,14 @@
 {
-  "id": "placement-1701",
-  "topic": "Functions",
-  "difficulty": "Easy",
-  "question": "What is a recursive function?",
-  "options": [
-    "A function that is called only once",
-    "A function that calls itself directly or indirectly",
-    "A function that takes no parameters",
-    "A function that returns a pointer"
-  ],
-  "answer": 1,
-  "explanation": "Recursion occurs when a function calls itself. There must be a base case to stop the recursion, otherwise, it leads to a stack overflow."
+    "id": "pf-1903",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "question": "What is a recursive function?",
+    "options": [
+        "A function that is called only once",
+        "A function that calls itself directly or indirectly",
+        "A function that takes no parameters",
+        "A function that returns a pointer"
+    ],
+    "answer": 1,
+    "explanation": "Recursion occurs when a function calls itself. There must be a base case to stop the recursion, otherwise, it leads to a stack overflow."
 }

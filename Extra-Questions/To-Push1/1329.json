@@ -1,14 +1,14 @@
 {
-  "id": "placement-1329",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which scheduling algorithm executes processes in the order they arrive?",
-  "options": [
-    "Shortest Job First (SJF)",
-    "Round Robin",
-    "First-Come, First-Served (FCFS)",
-    "Priority Scheduling"
-  ],
-  "answer": 2,
-  "explanation": "FCFS operates strictly on a first-in, first-out basis. The process that requests the CPU first is allocated the CPU first."
+    "id": "pf-1531",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which scheduling algorithm executes processes in the order they arrive?",
+    "options": [
+        "Shortest Job First (SJF)",
+        "Round Robin",
+        "First-Come, First-Served (FCFS)",
+        "Priority Scheduling"
+    ],
+    "answer": 2,
+    "explanation": "FCFS operates strictly on a first-in, first-out basis. The process that requests the CPU first is allocated the CPU first."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1011",
-  "topic": "Computer Networks",
-  "difficulty": "Medium",
-  "question": "Which device operates at Layer 3 of the OSI model?",
-  "options": [
-    "Switch",
-    "Hub",
-    "Router",
-    "Repeater"
-  ],
-  "answer": 2,
-  "explanation": "Routers operate at the Network layer to forward packets based on IP addresses."
+    "id": "pf-1213",
+    "topic": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which device operates at Layer 3 of the OSI model?",
+    "options": [
+        "Switch",
+        "Hub",
+        "Router",
+        "Repeater"
+    ],
+    "answer": 2,
+    "explanation": "Routers operate at the Network layer to forward packets based on IP addresses."
 }

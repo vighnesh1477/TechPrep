@@ -1,14 +1,14 @@
 {
-  "id": "placement-445",
-  "topic": "Working Tree",
-  "difficulty": "Easy",
-  "question": "What command shows all untracked files explicitly?",
-  "options": [
-    "git ls-files --others",
-    "git status --untracked",
-    "git list untracked",
-    "git show-untracked"
-  ],
-  "answer": 0,
-  "explanation": "git ls-files --others lists all untracked files in the repository, which can be useful for scripting or detailed analysis."
+    "id": "pf-647",
+    "topic": "Working Tree",
+    "difficulty": "Easy",
+    "question": "What command shows all untracked files explicitly?",
+    "options": [
+        "git ls-files --others",
+        "git status --untracked",
+        "git list untracked",
+        "git show-untracked"
+    ],
+    "answer": 0,
+    "explanation": "git ls-files --others lists all untracked files in the repository, which can be useful for scripting or detailed analysis."
 }

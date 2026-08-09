@@ -1,14 +1,14 @@
 {
-  "id": "placement-1721",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int main() {`\n`  int a = 10;`\n`  if (a > 5) {`\n`    int b = 20;`\n`  }`\n`  printf(\"%d\", b);`\n`  return 0;`\n`}`",
-  "options": [
-    "20",
-    "0",
-    "10",
-    "Compilation Error"
-  ],
-  "answer": 3,
-  "explanation": "Variable `b` is declared inside the `if` block, making it local to that block. Attempting to access `b` outside its scope results in a compilation error."
+    "id": "pf-1923",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int main() {`\n`  int a = 10;`\n`  if (a > 5) {`\n`    int b = 20;`\n`  }`\n`  printf(\"%d\", b);`\n`  return 0;`\n`}`",
+    "options": [
+        "20",
+        "0",
+        "10",
+        "Compilation Error"
+    ],
+    "answer": 3,
+    "explanation": "Variable `b` is declared inside the `if` block, making it local to that block. Attempting to access `b` outside its scope results in a compilation error."
 }

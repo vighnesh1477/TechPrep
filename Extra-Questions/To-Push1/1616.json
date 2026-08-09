@@ -1,14 +1,14 @@
 {
-  "id": "placement-1616",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What does the bitwise XOR operator (`^`) return if both operands are the same (e.g., `5 ^ 5`)?",
-  "options": [
-    "5",
-    "1",
-    "0",
-    "-1"
-  ],
-  "answer": 2,
-  "explanation": "The XOR operator returns 1 if the bits are different and 0 if they are the same. Since all bits of 5 and 5 are identical, the result is 0."
+    "id": "pf-1818",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What does the bitwise XOR operator (`^`) return if both operands are the same (e.g., `5 ^ 5`)?",
+    "options": [
+        "5",
+        "1",
+        "0",
+        "-1"
+    ],
+    "answer": 2,
+    "explanation": "The XOR operator returns 1 if the bits are different and 0 if they are the same. Since all bits of 5 and 5 are identical, the result is 0."
 }

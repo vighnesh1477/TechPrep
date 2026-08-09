@@ -1,14 +1,14 @@
 {
-  "id": "placement-1563",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Medium",
-  "question": "What is a Karnaugh Map (K-Map) used for?",
-  "options": [
-    "Storing data",
-    "Simplifying Boolean algebra expressions without using Boolean algebra theorems",
-    "Converting binary to decimal",
-    "Designing sequential circuits"
-  ],
-  "answer": 1,
-  "explanation": "A K-Map is a graphical method used to simplify Boolean expressions. It uses adjacency to visually group 1s and eliminate redundant variables, leading to minimal SOP or POS forms."
+    "id": "pf-1765",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Medium",
+    "question": "What is a Karnaugh Map (K-Map) used for?",
+    "options": [
+        "Storing data",
+        "Simplifying Boolean algebra expressions without using Boolean algebra theorems",
+        "Converting binary to decimal",
+        "Designing sequential circuits"
+    ],
+    "answer": 1,
+    "explanation": "A K-Map is a graphical method used to simplify Boolean expressions. It uses adjacency to visually group 1s and eliminate redundant variables, leading to minimal SOP or POS forms."
 }

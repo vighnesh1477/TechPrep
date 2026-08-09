@@ -1,14 +1,14 @@
 {
-  "id": "placement-2181",
-  "topic": "Statements and Assumptions",
-  "difficulty": "Hard",
-  "question": "Statement: 'Traffic rules are strictly enforced here.' Assumption: People generally follow rules when strictly enforced.",
-  "options": [
-    "Implicit",
-    "Explicit",
-    "Not implicit",
-    "Contradictory"
-  ],
-  "answer": 0,
-  "explanation": "Enforcement is done based on the assumption that it deters violations."
+    "id": "pf-2383",
+    "topic": "Statements and Assumptions",
+    "difficulty": "Hard",
+    "question": "Statement: 'Traffic rules are strictly enforced here.' Assumption: People generally follow rules when strictly enforced.",
+    "options": [
+        "Implicit",
+        "Explicit",
+        "Not implicit",
+        "Contradictory"
+    ],
+    "answer": 0,
+    "explanation": "Enforcement is done based on the assumption that it deters violations."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2159",
-  "topic": "Syllogisms",
-  "difficulty": "Medium",
-  "question": "All roses are flowers. Some flowers are red. Conclusion: Some roses are red.",
-  "options": [
-    "True",
-    "False",
-    "Probable",
-    "Cannot determine"
-  ],
-  "answer": 1,
-  "explanation": "Middle term 'flowers' is not distributed in the second premise. Conclusion does not follow."
+    "id": "pf-2361",
+    "topic": "Syllogisms",
+    "difficulty": "Medium",
+    "question": "All roses are flowers. Some flowers are red. Conclusion: Some roses are red.",
+    "options": [
+        "True",
+        "False",
+        "Probable",
+        "Cannot determine"
+    ],
+    "answer": 1,
+    "explanation": "Middle term 'flowers' is not distributed in the second premise. Conclusion does not follow."
 }

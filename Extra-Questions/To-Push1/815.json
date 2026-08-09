@@ -1,14 +1,14 @@
 {
-  "id": "placement-815",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "What does 'sed 's/[0-9]//g' file' do?",
-  "options": [
-    "Replaces digits with the letter g",
-    "Removes all digits from each line",
-    "Replaces the number 0 with nothing",
-    "Removes the first digit on each line"
-  ],
-  "answer": 1,
-  "explanation": "[0-9] matches any digit, and replacing with nothing (//) effectively removes all digits. The 'g' flag ensures all occurrences on each line are removed."
+    "id": "pf-1017",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "What does 'sed 's/[0-9]//g' file' do?",
+    "options": [
+        "Replaces digits with the letter g",
+        "Removes all digits from each line",
+        "Replaces the number 0 with nothing",
+        "Removes the first digit on each line"
+    ],
+    "answer": 1,
+    "explanation": "[0-9] matches any digit, and replacing with nothing (//) effectively removes all digits. The 'g' flag ensures all occurrences on each line are removed."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-768",
-  "topic": "fdisk",
-  "difficulty": "Easy",
-  "question": "What is fdisk used for?",
-  "options": [
-    "Checking file system integrity",
-    "Creating and managing disk partitions",
-    "Formatting partitions",
-    "Mounting file systems"
-  ],
-  "answer": 1,
-  "explanation": "fdisk is a disk partition manipulation tool. It can create, delete, and modify partitions on a disk, but does not format or mount them."
+    "id": "pf-970",
+    "topic": "fdisk",
+    "difficulty": "Easy",
+    "question": "What is fdisk used for?",
+    "options": [
+        "Checking file system integrity",
+        "Creating and managing disk partitions",
+        "Formatting partitions",
+        "Mounting file systems"
+    ],
+    "answer": 1,
+    "explanation": "fdisk is a disk partition manipulation tool. It can create, delete, and modify partitions on a disk, but does not format or mount them."
 }

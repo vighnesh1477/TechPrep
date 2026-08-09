@@ -1,14 +1,14 @@
 {
-  "id": "placement-1975",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Hard",
-  "question": "A train passes a man in 10s, passes a 200m platform in 25s. Length of train?",
-  "options": [
-    "100m",
-    "120m",
-    "133.33m",
-    "150m"
-  ],
-  "answer": 2,
-  "explanation": "Let L be length. L/10 = (L+200)/25 => 25L = 10L + 2000 => 15L = 2000 => L = 133.33m."
+    "id": "pf-2177",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Hard",
+    "question": "A train passes a man in 10s, passes a 200m platform in 25s. Length of train?",
+    "options": [
+        "100m",
+        "120m",
+        "133.33m",
+        "150m"
+    ],
+    "answer": 2,
+    "explanation": "Let L be length. L/10 = (L+200)/25 => 25L = 10L + 2000 => 15L = 2000 => L = 133.33m."
 }

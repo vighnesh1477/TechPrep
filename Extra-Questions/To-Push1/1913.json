@@ -1,14 +1,14 @@
 {
-  "id": "placement-1913",
-  "topic": "Ratio and Proportion",
-  "difficulty": "Medium",
-  "question": "The ratio of ages of A and B is 3:4. After 5 years, ratio is 4:5. A's present age?",
-  "options": [
-    "10",
-    "15",
-    "20",
-    "25"
-  ],
-  "answer": 1,
-  "explanation": "(3x+5)/(4x+5) = 4/5 => 15x+25 = 16x+20 => x=5. A=15."
+    "id": "pf-2115",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium",
+    "question": "The ratio of ages of A and B is 3:4. After 5 years, ratio is 4:5. A's present age?",
+    "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+    ],
+    "answer": 1,
+    "explanation": "(3x+5)/(4x+5) = 4/5 => 15x+25 = 16x+20 => x=5. A=15."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-805",
-  "topic": "awk",
-  "difficulty": "Medium",
-  "question": "What does 'awk '$3 > 100 {print $0}' file' do?",
-  "options": [
-    "Prints lines that are longer than 100 characters",
-    "Prints entire lines where the third field is greater than 100",
-    "Prints 100 lines starting from the third",
-    "Counts lines where the third field exceeds 100"
-  ],
-  "answer": 1,
-  "explanation": "This awk command uses a condition ($3 > 100) as a pattern. Only lines where the third field is greater than 100 will have the action {print $0} applied."
+    "id": "pf-1007",
+    "topic": "awk",
+    "difficulty": "Medium",
+    "question": "What does 'awk '$3 > 100 {print $0}' file' do?",
+    "options": [
+        "Prints lines that are longer than 100 characters",
+        "Prints entire lines where the third field is greater than 100",
+        "Prints 100 lines starting from the third",
+        "Counts lines where the third field exceeds 100"
+    ],
+    "answer": 1,
+    "explanation": "This awk command uses a condition ($3 > 100) as a pattern. Only lines where the third field is greater than 100 will have the action {print $0} applied."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-734",
-  "topic": "ip",
-  "difficulty": "Easy",
-  "question": "How do you display IP addresses of all network interfaces?",
-  "options": [
-    "ip addr show",
-    "ip address",
-    "Both A and B",
-    "ip --interfaces"
-  ],
-  "answer": 2,
-  "explanation": "Both 'ip addr show' and 'ip address' (or 'ip a') display the IP addresses and configuration of all network interfaces."
+    "id": "pf-936",
+    "topic": "ip",
+    "difficulty": "Easy",
+    "question": "How do you display IP addresses of all network interfaces?",
+    "options": [
+        "ip addr show",
+        "ip address",
+        "Both A and B",
+        "ip --interfaces"
+    ],
+    "answer": 2,
+    "explanation": "Both 'ip addr show' and 'ip address' (or 'ip a') display the IP addresses and configuration of all network interfaces."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1092",
-  "topic": "Cloud Basics",
-  "difficulty": "Easy",
-  "question": "What does IaaS stand for?",
-  "options": [
-    "Internet as a Service",
-    "Infrastructure as a Service",
-    "Integration as a Service",
-    "Information as a Service"
-  ],
-  "answer": 1,
-  "explanation": "IaaS provides fundamental computing resources like virtual machines and storage over the internet."
+    "id": "pf-1294",
+    "topic": "Cloud Basics",
+    "difficulty": "Easy",
+    "question": "What does IaaS stand for?",
+    "options": [
+        "Internet as a Service",
+        "Infrastructure as a Service",
+        "Integration as a Service",
+        "Information as a Service"
+    ],
+    "answer": 1,
+    "explanation": "IaaS provides fundamental computing resources like virtual machines and storage over the internet."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1980",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Easy",
-  "question": "A sum doubles in 10 years at SI. Rate?",
-  "options": [
-    "5%",
-    "10%",
-    "15%",
-    "20%"
-  ],
-  "answer": 1,
-  "explanation": "Interest = Principal. P = P*R*10/100 => R = 10%."
+    "id": "pf-2182",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "question": "A sum doubles in 10 years at SI. Rate?",
+    "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+    ],
+    "answer": 1,
+    "explanation": "Interest = Principal. P = P*R*10/100 => R = 10%."
 }

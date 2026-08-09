@@ -1,14 +1,14 @@
 {
-  "id": "placement-1176",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "Which algorithm is used to find the Minimum Spanning Tree of a weighted graph?",
-  "options": [
-    "Dijkstra's",
-    "Kruskal's or Prim's",
-    "Bellman-Ford",
-    "Floyd-Warshall"
-  ],
-  "answer": 1,
-  "explanation": "Kruskal's and Prim's algorithms are standard greedy approaches to find an MST."
+    "id": "pf-1378",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "Which algorithm is used to find the Minimum Spanning Tree of a weighted graph?",
+    "options": [
+        "Dijkstra's",
+        "Kruskal's or Prim's",
+        "Bellman-Ford",
+        "Floyd-Warshall"
+    ],
+    "answer": 1,
+    "explanation": "Kruskal's and Prim's algorithms are standard greedy approaches to find an MST."
 }

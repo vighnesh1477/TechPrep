@@ -1,14 +1,14 @@
 {
-  "id": "placement-2016",
-  "topic": "Probability",
-  "difficulty": "Easy",
-  "question": "Probability of a sure event?",
-  "options": [
-    "0",
-    "0.5",
-    "1",
-    "Undefined"
-  ],
-  "answer": 2,
-  "explanation": "A sure event always happens, so P=1."
+    "id": "pf-2218",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "question": "Probability of a sure event?",
+    "options": [
+        "0",
+        "0.5",
+        "1",
+        "Undefined"
+    ],
+    "answer": 2,
+    "explanation": "A sure event always happens, so P=1."
 }

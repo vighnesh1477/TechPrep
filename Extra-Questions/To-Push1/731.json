@@ -1,14 +1,14 @@
 {
-  "id": "placement-731",
-  "topic": "ping",
-  "difficulty": "Easy",
-  "question": "What does 100% packet loss in ping output indicate?",
-  "options": [
-    "The destination is processing requests slowly",
-    "No ICMP replies were received from the destination",
-    "The network cable is partially disconnected",
-    "DNS resolution failed"
-  ],
-  "answer": 1,
-  "explanation": "100% packet loss means none of the sent ICMP echo requests received a reply. This could indicate the host is down, firewalls are blocking ICMP, or network issues exist."
+    "id": "pf-933",
+    "topic": "ping",
+    "difficulty": "Easy",
+    "question": "What does 100% packet loss in ping output indicate?",
+    "options": [
+        "The destination is processing requests slowly",
+        "No ICMP replies were received from the destination",
+        "The network cable is partially disconnected",
+        "DNS resolution failed"
+    ],
+    "answer": 1,
+    "explanation": "100% packet loss means none of the sent ICMP echo requests received a reply. This could indicate the host is down, firewalls are blocking ICMP, or network issues exist."
 }

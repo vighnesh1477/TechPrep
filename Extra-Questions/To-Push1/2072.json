@@ -1,14 +1,14 @@
 {
-  "id": "placement-2072",
-  "topic": "Data Interpretation",
-  "difficulty": "Medium",
-  "question": "Line graph shows 10, 20, x, 40. Average is 25. Find x.",
-  "options": [
-    "20",
-    "25",
-    "30",
-    "35"
-  ],
-  "answer": 2,
-  "explanation": "(10+20+x+40)/4 = 25 => 70+x = 100 => x=30."
+    "id": "pf-2274",
+    "topic": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Line graph shows 10, 20, x, 40. Average is 25. Find x.",
+    "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+    ],
+    "answer": 2,
+    "explanation": "(10+20+x+40)/4 = 25 => 70+x = 100 => x=30."
 }

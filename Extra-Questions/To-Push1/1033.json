@@ -1,14 +1,14 @@
 {
-  "id": "placement-1033",
-  "topic": "Software Engineering",
-  "difficulty": "Easy",
-  "question": "What does SDLC stand for?",
-  "options": [
-    "Software Design Life Cycle",
-    "Software Development Life Cycle",
-    "System Development Life Cycle",
-    "Software Deployment Life Cycle"
-  ],
-  "answer": 1,
-  "explanation": "SDLC stands for Software Development Life Cycle."
+    "id": "pf-1235",
+    "topic": "Software Engineering",
+    "difficulty": "Easy",
+    "question": "What does SDLC stand for?",
+    "options": [
+        "Software Design Life Cycle",
+        "Software Development Life Cycle",
+        "System Development Life Cycle",
+        "Software Deployment Life Cycle"
+    ],
+    "answer": 1,
+    "explanation": "SDLC stands for Software Development Life Cycle."
 }

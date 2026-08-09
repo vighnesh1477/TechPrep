@@ -1,14 +1,14 @@
 {
-  "id": "placement-1615",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which of the following is true about the `auto` keyword in C++11?",
-  "options": [
-    "It makes a variable static",
-    "It makes a variable constant",
-    "It tells the compiler to deduce the type from the initializer",
-    "It allocates memory on the heap"
-  ],
-  "answer": 2,
-  "explanation": "In C++11 and later, `auto` is used for type inference, allowing the compiler to automatically deduce the data type of a variable from its initializer."
+    "id": "pf-1817",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which of the following is true about the `auto` keyword in C++11?",
+    "options": [
+        "It makes a variable static",
+        "It makes a variable constant",
+        "It tells the compiler to deduce the type from the initializer",
+        "It allocates memory on the heap"
+    ],
+    "answer": 2,
+    "explanation": "In C++11 and later, `auto` is used for type inference, allowing the compiler to automatically deduce the data type of a variable from its initializer."
 }

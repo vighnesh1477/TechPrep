@@ -1,14 +1,14 @@
 {
-  "id": "placement-1990",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Hard",
-  "question": "A sum of money amounts to Rs 9826 in 2 years and Rs 10798 in 3 years at CI. Rate?",
-  "options": [
-    "8%",
-    "10%",
-    "12%",
-    "15%"
-  ],
-  "answer": 1,
-  "explanation": "10798 / 9826 = 1.1 => R = 10%."
+    "id": "pf-2192",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Hard",
+    "question": "A sum of money amounts to Rs 9826 in 2 years and Rs 10798 in 3 years at CI. Rate?",
+    "options": [
+        "8%",
+        "10%",
+        "12%",
+        "15%"
+    ],
+    "answer": 1,
+    "explanation": "10798 / 9826 = 1.1 => R = 10%."
 }

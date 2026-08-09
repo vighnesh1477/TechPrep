@@ -1,14 +1,14 @@
 {
-  "id": "placement-875",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of `vector::push_back` on average?",
-  "options": [
-    "O(1)",
-    "O(N)",
-    "O(N log N)",
-    "O(log N)"
-  ],
-  "answer": 0,
-  "explanation": "Amortized O(1) because it occasionally needs to reallocate and copy."
+    "id": "pf-1077",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of `vector::push_back` on average?",
+    "options": [
+        "O(1)",
+        "O(N)",
+        "O(N log N)",
+        "O(log N)"
+    ],
+    "answer": 0,
+    "explanation": "Amortized O(1) because it occasionally needs to reallocate and copy."
 }

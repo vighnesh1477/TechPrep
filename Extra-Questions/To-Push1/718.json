@@ -1,14 +1,14 @@
 {
-  "id": "placement-718",
-  "topic": "Groups",
-  "difficulty": "Easy",
-  "question": "Which command adds a user to a group?",
-  "options": [
-    "groupadd -u user group",
-    "usermod -aG group user",
-    "addgroup user group",
-    "groupmod -a user group"
-  ],
-  "answer": 1,
-  "explanation": "usermod -aG group user appends (-a) the user to the supplementary group (-G). Without -a, the user would be removed from other supplementary groups."
+    "id": "pf-920",
+    "topic": "Groups",
+    "difficulty": "Easy",
+    "question": "Which command adds a user to a group?",
+    "options": [
+        "groupadd -u user group",
+        "usermod -aG group user",
+        "addgroup user group",
+        "groupmod -a user group"
+    ],
+    "answer": 1,
+    "explanation": "usermod -aG group user appends (-a) the user to the supplementary group (-G). Without -a, the user would be removed from other supplementary groups."
 }

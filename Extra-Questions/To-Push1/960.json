@@ -1,14 +1,14 @@
 {
-  "id": "placement-960",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "What is a view in SQL?",
-  "options": [
-    "A physical table",
-    "A virtual table based on a query",
-    "An index",
-    "A trigger"
-  ],
-  "answer": 1,
-  "explanation": "A view is a stored query that appears as a virtual table."
+    "id": "pf-1162",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is a view in SQL?",
+    "options": [
+        "A physical table",
+        "A virtual table based on a query",
+        "An index",
+        "A trigger"
+    ],
+    "answer": 1,
+    "explanation": "A view is a stored query that appears as a virtual table."
 }

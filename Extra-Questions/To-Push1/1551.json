@@ -1,14 +1,14 @@
 {
-  "id": "placement-1551",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "What is the output of an XOR gate if both inputs are 1?",
-  "options": [
-    "1",
-    "0",
-    "Undefined",
-    "Depends on the gate manufacturer"
-  ],
-  "answer": 1,
-  "explanation": "XOR (Exclusive-OR) outputs 1 if the inputs are different, and 0 if the inputs are the same. Since both inputs are 1, the output is 0."
+    "id": "pf-1753",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "What is the output of an XOR gate if both inputs are 1?",
+    "options": [
+        "1",
+        "0",
+        "Undefined",
+        "Depends on the gate manufacturer"
+    ],
+    "answer": 1,
+    "explanation": "XOR (Exclusive-OR) outputs 1 if the inputs are different, and 0 if the inputs are the same. Since both inputs are 1, the output is 0."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-293",
-  "topic": "Checkout",
-  "difficulty": "Easy",
-  "question": "Which command discards uncommitted changes in a specific file?",
-  "options": [
-    "git checkout -- file.txt",
-    "git restore file.txt",
-    "Both A and B",
-    "git reset file.txt"
-  ],
-  "answer": 2,
-  "explanation": "Both git checkout -- file.txt (traditional) and git restore file.txt (modern) discard uncommitted working tree changes for the specified file."
+    "id": "pf-495",
+    "topic": "Checkout",
+    "difficulty": "Easy",
+    "question": "Which command discards uncommitted changes in a specific file?",
+    "options": [
+        "git checkout -- file.txt",
+        "git restore file.txt",
+        "Both A and B",
+        "git reset file.txt"
+    ],
+    "answer": 2,
+    "explanation": "Both git checkout -- file.txt (traditional) and git restore file.txt (modern) discard uncommitted working tree changes for the specified file."
 }

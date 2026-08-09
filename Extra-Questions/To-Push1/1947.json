@@ -1,14 +1,14 @@
 {
-  "id": "placement-1947",
-  "topic": "Time and Work",
-  "difficulty": "Medium",
-  "question": "A is 50% more efficient than B. Together they do in 12 days. B alone?",
-  "options": [
-    "20 days",
-    "25 days",
-    "30 days",
-    "18 days"
-  ],
-  "answer": 2,
-  "explanation": "Ratio 1.5:1 = 3:2. B takes 12 * (3+2)/2 = 30 days."
+    "id": "pf-2149",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "A is 50% more efficient than B. Together they do in 12 days. B alone?",
+    "options": [
+        "20 days",
+        "25 days",
+        "30 days",
+        "18 days"
+    ],
+    "answer": 2,
+    "explanation": "Ratio 1.5:1 = 3:2. B takes 12 * (3+2)/2 = 30 days."
 }

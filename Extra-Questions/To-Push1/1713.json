@@ -1,14 +1,14 @@
 {
-  "id": "placement-1713",
-  "topic": "Functions",
-  "difficulty": "Easy",
-  "question": "What is a function prototype?",
-  "options": [
-    "The first version of a function",
-    "A declaration of a function that specifies its return type, name, and parameter types",
-    "The actual code inside a function",
-    "A function that calls itself"
-  ],
-  "answer": 1,
-  "explanation": "A function prototype tells the compiler about a function's signature (return type, name, parameters) before its actual definition appears in the code."
+    "id": "pf-1915",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "question": "What is a function prototype?",
+    "options": [
+        "The first version of a function",
+        "A declaration of a function that specifies its return type, name, and parameter types",
+        "The actual code inside a function",
+        "A function that calls itself"
+    ],
+    "answer": 1,
+    "explanation": "A function prototype tells the compiler about a function's signature (return type, name, parameters) before its actual definition appears in the code."
 }

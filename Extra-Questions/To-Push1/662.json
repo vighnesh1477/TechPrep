@@ -1,14 +1,14 @@
 {
-  "id": "placement-662",
-  "topic": "chgrp",
-  "difficulty": "Easy",
-  "question": "Which command changes the group of file.txt to 'staff'?",
-  "options": [
-    "chgrp staff file.txt",
-    "chown :staff file.txt",
-    "Both A and B",
-    "Neither A nor B"
-  ],
-  "answer": 2,
-  "explanation": "Both chgrp staff file.txt and chown :staff file.txt change the group ownership of file.txt to 'staff'."
+    "id": "pf-864",
+    "topic": "chgrp",
+    "difficulty": "Easy",
+    "question": "Which command changes the group of file.txt to 'staff'?",
+    "options": [
+        "chgrp staff file.txt",
+        "chown :staff file.txt",
+        "Both A and B",
+        "Neither A nor B"
+    ],
+    "answer": 2,
+    "explanation": "Both chgrp staff file.txt and chown :staff file.txt change the group ownership of file.txt to 'staff'."
 }

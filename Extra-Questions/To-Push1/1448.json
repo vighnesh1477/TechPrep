@@ -1,14 +1,14 @@
 {
-  "id": "placement-1448",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Hard",
-  "question": "In TCP, what is the 'Three-Way Handshake'?",
-  "options": [
-    "SYN, SYN-ACK, ACK",
-    "ACK, SYN, FIN",
-    "SYN, ACK, FIN",
-    "SYN, SYN, ACK"
-  ],
-  "answer": 0,
-  "explanation": "The 3-way handshake establishes a connection: 1) Client sends SYN, 2) Server sends SYN-ACK, 3) Client sends ACK. This ensures both sides are ready to transmit data."
+    "id": "pf-1650",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Hard",
+    "question": "In TCP, what is the 'Three-Way Handshake'?",
+    "options": [
+        "SYN, SYN-ACK, ACK",
+        "ACK, SYN, FIN",
+        "SYN, ACK, FIN",
+        "SYN, SYN, ACK"
+    ],
+    "answer": 0,
+    "explanation": "The 3-way handshake establishes a connection: 1) Client sends SYN, 2) Server sends SYN-ACK, 3) Client sends ACK. This ensures both sides are ready to transmit data."
 }

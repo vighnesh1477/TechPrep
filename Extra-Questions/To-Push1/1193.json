@@ -1,14 +1,14 @@
 {
-  "id": "placement-1193",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "Which join returns only the matching rows from both tables?",
-  "options": [
-    "LEFT JOIN",
-    "RIGHT JOIN",
-    "INNER JOIN",
-    "FULL OUTER JOIN"
-  ],
-  "answer": 2,
-  "explanation": "An INNER JOIN returns only the rows where there is a match in both tables."
+    "id": "pf-1395",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "Which join returns only the matching rows from both tables?",
+    "options": [
+        "LEFT JOIN",
+        "RIGHT JOIN",
+        "INNER JOIN",
+        "FULL OUTER JOIN"
+    ],
+    "answer": 2,
+    "explanation": "An INNER JOIN returns only the rows where there is a match in both tables."
 }

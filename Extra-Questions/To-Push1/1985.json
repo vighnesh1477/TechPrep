@@ -1,14 +1,14 @@
 {
-  "id": "placement-1985",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Medium",
-  "question": "If CI for 2 years at 20% is Rs 440. Principal?",
-  "options": [
-    "Rs 800",
-    "Rs 900",
-    "Rs 1000",
-    "Rs 1100"
-  ],
-  "answer": 2,
-  "explanation": "CI = P(1.2^2 - 1) = P(0.44). 0.44P = 440 => P=1000."
+    "id": "pf-2187",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Medium",
+    "question": "If CI for 2 years at 20% is Rs 440. Principal?",
+    "options": [
+        "Rs 800",
+        "Rs 900",
+        "Rs 1000",
+        "Rs 1100"
+    ],
+    "answer": 2,
+    "explanation": "CI = P(1.2^2 - 1) = P(0.44). 0.44P = 440 => P=1000."
 }

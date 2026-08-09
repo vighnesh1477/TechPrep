@@ -1,14 +1,14 @@
 {
-  "id": "placement-1833",
-  "topic": "Complexity",
-  "difficulty": "Easy",
-  "question": "What does Big-O notation describe?",
-  "options": [
-    "The exact number of operations an algorithm performs",
-    "The upper bound of an algorithm's growth rate",
-    "The lower bound of an algorithm's growth rate",
-    "The average case runtime"
-  ],
-  "answer": 1,
-  "explanation": "Big-O notation describes the asymptotic upper bound of a function, representing the worst-case scenario for an algorithm's time or space growth as input size increases."
+    "id": "pf-2035",
+    "topic": "Complexity",
+    "difficulty": "Easy",
+    "question": "What does Big-O notation describe?",
+    "options": [
+        "The exact number of operations an algorithm performs",
+        "The upper bound of an algorithm's growth rate",
+        "The lower bound of an algorithm's growth rate",
+        "The average case runtime"
+    ],
+    "answer": 1,
+    "explanation": "Big-O notation describes the asymptotic upper bound of a function, representing the worst-case scenario for an algorithm's time or space growth as input size increases."
 }

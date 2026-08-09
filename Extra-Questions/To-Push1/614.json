@@ -1,14 +1,14 @@
 {
-  "id": "placement-614",
-  "topic": "tail",
-  "difficulty": "Easy",
-  "question": "What does tail -f do?",
-  "options": [
-    "Forces tail to show all lines",
-    "Follows the file as it grows, outputting appended data",
-    "Formats the output",
-    "Finds a specific pattern"
-  ],
-  "answer": 1,
-  "explanation": "tail -f follows a file in real-time, displaying new lines as they are appended. This is extremely useful for monitoring log files."
+    "id": "pf-816",
+    "topic": "tail",
+    "difficulty": "Easy",
+    "question": "What does tail -f do?",
+    "options": [
+        "Forces tail to show all lines",
+        "Follows the file as it grows, outputting appended data",
+        "Formats the output",
+        "Finds a specific pattern"
+    ],
+    "answer": 1,
+    "explanation": "tail -f follows a file in real-time, displaying new lines as they are appended. This is extremely useful for monitoring log files."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-972",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What is the difference between WHERE and HAVING?",
-  "options": [
-    "No difference",
-    "WHERE filters rows, HAVING filters groups",
-    "HAVING is faster",
-    "WHERE is used for groups"
-  ],
-  "answer": 1,
-  "explanation": "HAVING is applied after GROUP BY to filter the aggregated groups."
+    "id": "pf-1174",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What is the difference between WHERE and HAVING?",
+    "options": [
+        "No difference",
+        "WHERE filters rows, HAVING filters groups",
+        "HAVING is faster",
+        "WHERE is used for groups"
+    ],
+    "answer": 1,
+    "explanation": "HAVING is applied after GROUP BY to filter the aggregated groups."
 }

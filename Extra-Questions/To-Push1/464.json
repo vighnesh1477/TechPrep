@@ -1,14 +1,14 @@
 {
-  "id": "placement-464",
-  "topic": "Revert",
-  "difficulty": "Medium",
-  "question": "How does git revert differ from git reset?",
-  "options": [
-    "They are the same command",
-    "Revert creates a new commit that undoes changes; reset moves the branch pointer",
-    "Revert is destructive; reset is safe",
-    "Reset creates a new commit; revert moves the branch pointer"
-  ],
-  "answer": 1,
-  "explanation": "Revert creates a new commit that inversely applies the changes from a previous commit, while reset moves the branch pointer back, potentially discarding history."
+    "id": "pf-666",
+    "topic": "Revert",
+    "difficulty": "Medium",
+    "question": "How does git revert differ from git reset?",
+    "options": [
+        "They are the same command",
+        "Revert creates a new commit that undoes changes; reset moves the branch pointer",
+        "Revert is destructive; reset is safe",
+        "Reset creates a new commit; revert moves the branch pointer"
+    ],
+    "answer": 1,
+    "explanation": "Revert creates a new commit that inversely applies the changes from a previous commit, while reset moves the branch pointer back, potentially discarding history."
 }

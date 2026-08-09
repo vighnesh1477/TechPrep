@@ -1,14 +1,14 @@
 {
-  "id": "placement-1054",
-  "topic": "Git",
-  "difficulty": "Medium",
-  "question": "How do you discard all uncommitted changes in your working directory?",
-  "options": [
-    "git delete .",
-    "git checkout . (or git restore .)",
-    "git stash",
-    "git clean"
-  ],
-  "answer": 1,
-  "explanation": "git checkout . or git restore . discards changes in the working directory, matching the HEAD."
+    "id": "pf-1256",
+    "topic": "Git",
+    "difficulty": "Medium",
+    "question": "How do you discard all uncommitted changes in your working directory?",
+    "options": [
+        "git delete .",
+        "git checkout . (or git restore .)",
+        "git stash",
+        "git clean"
+    ],
+    "answer": 1,
+    "explanation": "git checkout . or git restore . discards changes in the working directory, matching the HEAD."
 }

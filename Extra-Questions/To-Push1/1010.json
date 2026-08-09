@@ -1,14 +1,14 @@
 {
-  "id": "placement-1010",
-  "topic": "Computer Networks",
-  "difficulty": "Medium",
-  "question": "What is a subnet mask?",
-  "options": [
-    "A password for Wi-Fi",
-    "Used to divide an IP address into network and host portions",
-    "A type of firewall",
-    "An encryption key"
-  ],
-  "answer": 1,
-  "explanation": "The subnet mask determines which part of the IP address belongs to the network and which to the host."
+    "id": "pf-1212",
+    "topic": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "What is a subnet mask?",
+    "options": [
+        "A password for Wi-Fi",
+        "Used to divide an IP address into network and host portions",
+        "A type of firewall",
+        "An encryption key"
+    ],
+    "answer": 1,
+    "explanation": "The subnet mask determines which part of the IP address belongs to the network and which to the host."
 }

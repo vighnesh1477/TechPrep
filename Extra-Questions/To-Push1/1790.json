@@ -1,14 +1,14 @@
 {
-  "id": "placement-1790",
-  "topic": "Pointers and Memory",
-  "difficulty": "Medium",
-  "question": "What does `p - q` return if `p` and `q` are pointers to elements in the same array?",
-  "options": [
-    "The difference in their memory addresses in bytes",
-    "The number of elements between them",
-    "A new pointer",
-    "0"
-  ],
-  "answer": 1,
-  "explanation": "When two pointers point to elements in the same array, subtracting them yields the number of elements separating them, not the byte difference."
+    "id": "pf-1992",
+    "topic": "Pointers and Memory",
+    "difficulty": "Medium",
+    "question": "What does `p - q` return if `p` and `q` are pointers to elements in the same array?",
+    "options": [
+        "The difference in their memory addresses in bytes",
+        "The number of elements between them",
+        "A new pointer",
+        "0"
+    ],
+    "answer": 1,
+    "explanation": "When two pointers point to elements in the same array, subtracting them yields the number of elements separating them, not the byte difference."
 }

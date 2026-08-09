@@ -1,14 +1,14 @@
 {
-  "id": "placement-1601",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following is the correct way to declare an integer pointer in C++?",
-  "options": [
-    "int &ptr;",
-    "int *ptr;",
-    "ptr int*;",
-    "*int ptr;"
-  ],
-  "answer": 1,
-  "explanation": "In C/C++, the asterisk `*` denotes a pointer type. `int *ptr;` correctly declares a pointer named `ptr` that can hold the address of an integer."
+    "id": "pf-1803",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct way to declare an integer pointer in C++?",
+    "options": [
+        "int &ptr;",
+        "int *ptr;",
+        "ptr int*;",
+        "*int ptr;"
+    ],
+    "answer": 1,
+    "explanation": "In C/C++, the asterisk `*` denotes a pointer type. `int *ptr;` correctly declares a pointer named `ptr` that can hold the address of an integer."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1925",
-  "topic": "Averages",
-  "difficulty": "Easy",
-  "question": "Average age of 3 boys is 15. Sum of their ages?",
-  "options": [
-    "30",
-    "35",
-    "40",
-    "45"
-  ],
-  "answer": 3,
-  "explanation": "Sum = 15 * 3 = 45."
+    "id": "pf-2127",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "question": "Average age of 3 boys is 15. Sum of their ages?",
+    "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 15 * 3 = 45."
 }

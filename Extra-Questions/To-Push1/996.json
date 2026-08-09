@@ -1,14 +1,14 @@
 {
-  "id": "placement-996",
-  "topic": "Operating Systems",
-  "difficulty": "Hard",
-  "question": "What is the difference between starvation and deadlock?",
-  "options": [
-    "They are the same",
-    "Starvation is indefinite blocking but system is running; deadlock is a mutual blocking standstill",
-    "Deadlock is faster",
-    "Starvation only affects threads"
-  ],
-  "answer": 1,
-  "explanation": "In starvation, a process waits indefinitely but others may run. In deadlock, all involved processes are stuck."
+    "id": "pf-1198",
+    "topic": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "What is the difference between starvation and deadlock?",
+    "options": [
+        "They are the same",
+        "Starvation is indefinite blocking but system is running; deadlock is a mutual blocking standstill",
+        "Deadlock is faster",
+        "Starvation only affects threads"
+    ],
+    "answer": 1,
+    "explanation": "In starvation, a process waits indefinitely but others may run. In deadlock, all involved processes are stuck."
 }

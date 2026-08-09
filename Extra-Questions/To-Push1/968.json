@@ -1,14 +1,14 @@
 {
-  "id": "placement-968",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "What does the WHERE clause filter?",
-  "options": [
-    "Columns",
-    "Rows before grouping",
-    "Rows after grouping",
-    "Tables"
-  ],
-  "answer": 1,
-  "explanation": "WHERE filters individual rows before any GROUP BY or aggregation."
+    "id": "pf-1170",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "What does the WHERE clause filter?",
+    "options": [
+        "Columns",
+        "Rows before grouping",
+        "Rows after grouping",
+        "Tables"
+    ],
+    "answer": 1,
+    "explanation": "WHERE filters individual rows before any GROUP BY or aggregation."
 }

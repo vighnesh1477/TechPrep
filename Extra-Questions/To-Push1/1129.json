@@ -1,14 +1,14 @@
 {
-  "id": "placement-1129",
-  "topic": "C Programming",
-  "difficulty": "Hard",
-  "question": "What happens if a C program does not have a `return` statement in `main`?",
-  "options": [
-    "Segmentation fault",
-    "In C99 and later, it implicitly returns 0",
-    "Compiler error",
-    "Returns garbage"
-  ],
-  "answer": 1,
-  "explanation": "The C99 standard specifies that reaching the end of main is equivalent to returning 0."
+    "id": "pf-1331",
+    "topic": "C Programming",
+    "difficulty": "Hard",
+    "question": "What happens if a C program does not have a `return` statement in `main`?",
+    "options": [
+        "Segmentation fault",
+        "In C99 and later, it implicitly returns 0",
+        "Compiler error",
+        "Returns garbage"
+    ],
+    "answer": 1,
+    "explanation": "The C99 standard specifies that reaching the end of main is equivalent to returning 0."
 }

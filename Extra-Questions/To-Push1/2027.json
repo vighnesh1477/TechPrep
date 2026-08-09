@@ -1,14 +1,14 @@
 {
-  "id": "placement-2027",
-  "topic": "Probability",
-  "difficulty": "Hard",
-  "question": "A bag has 4 red, 6 black. 2 drawn. One is red, other is black?",
-  "options": [
-    "8/15",
-    "4/15",
-    "2/15",
-    "12/15"
-  ],
-  "answer": 0,
-  "explanation": "Ways = 4C1 * 6C1 = 24. Total = 10C2 = 45. P = 24/45 = 8/15."
+    "id": "pf-2229",
+    "topic": "Probability",
+    "difficulty": "Hard",
+    "question": "A bag has 4 red, 6 black. 2 drawn. One is red, other is black?",
+    "options": [
+        "8/15",
+        "4/15",
+        "2/15",
+        "12/15"
+    ],
+    "answer": 0,
+    "explanation": "Ways = 4C1 * 6C1 = 24. Total = 10C2 = 45. P = 24/45 = 8/15."
 }

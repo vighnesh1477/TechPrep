@@ -1,14 +1,14 @@
 {
-  "id": "placement-854",
-  "topic": "C Programming",
-  "difficulty": "Easy",
-  "question": "Which function is used to concatenate two strings in C?",
-  "options": [
-    "strcat",
-    "strcpy",
-    "strcmp",
-    "strlen"
-  ],
-  "answer": 0,
-  "explanation": "strcat appends the source string to the destination string."
+    "id": "pf-1056",
+    "topic": "C Programming",
+    "difficulty": "Easy",
+    "question": "Which function is used to concatenate two strings in C?",
+    "options": [
+        "strcat",
+        "strcpy",
+        "strcmp",
+        "strlen"
+    ],
+    "answer": 0,
+    "explanation": "strcat appends the source string to the destination string."
 }

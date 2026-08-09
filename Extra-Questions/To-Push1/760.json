@@ -1,14 +1,14 @@
 {
-  "id": "placement-760",
-  "topic": "Shell",
-  "difficulty": "Easy",
-  "question": "How do you find out which shell you are currently using?",
-  "options": [
-    "echo $SHELL",
-    "echo $0",
-    "Both can give this information",
-    "shell --current"
-  ],
-  "answer": 2,
-  "explanation": "echo $SHELL shows your default shell, and echo $0 shows the currently running shell. They may differ if you started a different shell."
+    "id": "pf-962",
+    "topic": "Shell",
+    "difficulty": "Easy",
+    "question": "How do you find out which shell you are currently using?",
+    "options": [
+        "echo $SHELL",
+        "echo $0",
+        "Both can give this information",
+        "shell --current"
+    ],
+    "answer": 2,
+    "explanation": "echo $SHELL shows your default shell, and echo $0 shows the currently running shell. They may differ if you started a different shell."
 }

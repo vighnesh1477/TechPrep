@@ -1,14 +1,14 @@
 {
-  "id": "placement-655",
-  "topic": "chown",
-  "difficulty": "Easy",
-  "question": "What does chown -R user:group /var/www do?",
-  "options": [
-    "Removes ownership recursively",
-    "Recursively changes ownership of /var/www and all contents",
-    "Reverses the ownership change",
-    "Shows ownership information recursively"
-  ],
-  "answer": 1,
-  "explanation": "chown -R recursively changes the owner and group of /var/www and all files and directories within it."
+    "id": "pf-857",
+    "topic": "chown",
+    "difficulty": "Easy",
+    "question": "What does chown -R user:group /var/www do?",
+    "options": [
+        "Removes ownership recursively",
+        "Recursively changes ownership of /var/www and all contents",
+        "Reverses the ownership change",
+        "Shows ownership information recursively"
+    ],
+    "answer": 1,
+    "explanation": "chown -R recursively changes the owner and group of /var/www and all files and directories within it."
 }

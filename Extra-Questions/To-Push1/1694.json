@@ -1,14 +1,14 @@
 {
-  "id": "placement-1694",
-  "topic": "Functions",
-  "difficulty": "Easy",
-  "question": "What is a function parameter?",
-  "options": [
-    "The value returned by the function",
-    "A variable in the function definition that receives the argument value",
-    "The actual value passed to the function",
-    "The name of the function"
-  ],
-  "answer": 1,
-  "explanation": "Parameters are the variables listed in the function definition. They act as placeholders that receive the values (arguments) passed to the function when it is called."
+    "id": "pf-1896",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "question": "What is a function parameter?",
+    "options": [
+        "The value returned by the function",
+        "A variable in the function definition that receives the argument value",
+        "The actual value passed to the function",
+        "The name of the function"
+    ],
+    "answer": 1,
+    "explanation": "Parameters are the variables listed in the function definition. They act as placeholders that receive the values (arguments) passed to the function when it is called."
 }

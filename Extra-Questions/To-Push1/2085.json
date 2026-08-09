@@ -1,14 +1,14 @@
 {
-  "id": "placement-2085",
-  "topic": "Number Series",
-  "difficulty": "Easy",
-  "question": "Find missing: 3, 6, 9, ?, 15",
-  "options": [
-    "10",
-    "11",
-    "12",
-    "13"
-  ],
-  "answer": 2,
-  "explanation": "Multiples of 3."
+    "id": "pf-2287",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find missing: 3, 6, 9, ?, 15",
+    "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+    ],
+    "answer": 2,
+    "explanation": "Multiples of 3."
 }

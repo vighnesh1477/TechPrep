@@ -1,14 +1,14 @@
 {
-  "id": "placement-878",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "What is a pure virtual function?",
-  "options": [
-    "A function with no body in base class",
-    "A static function",
-    "A function that cannot be overridden",
-    "A private virtual function"
-  ],
-  "answer": 0,
-  "explanation": "A pure virtual function is declared by assigning 0, making the class abstract."
+    "id": "pf-1080",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "What is a pure virtual function?",
+    "options": [
+        "A function with no body in base class",
+        "A static function",
+        "A function that cannot be overridden",
+        "A private virtual function"
+    ],
+    "answer": 0,
+    "explanation": "A pure virtual function is declared by assigning 0, making the class abstract."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2022",
-  "topic": "Probability",
-  "difficulty": "Medium",
-  "question": "Two dice thrown. Probability sum is > 10?",
-  "options": [
-    "1/12",
-    "2/12",
-    "3/12",
-    "4/12"
-  ],
-  "answer": 2,
-  "explanation": "Sums 11, 12. Pairs: (5,6),(6,5),(6,6). Total=3. P=3/36=1/12. Option is 3/12? Let me change to > 9. Sums 10, 11, 12. Pairs: (4,6),(5,5),(6,4),(5,6),(6,5),(6,6). Total=6. P=6/36=1/6=6/36=3/18=2/12. Let's use sum is prime. Primes: 2,3,5,7,11. (1,1)=1. (1,2),(2,1)=2. (1,4),(4,1),(2,3),(3,2)=4. (1,6),(6,1),(2,5),(5,2),(3,4),(4,3)=6. (5,6),(6,5)=2. Total=15. P=15/36=5/12."
+    "id": "pf-2224",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "question": "Two dice thrown. Probability sum is > 10?",
+    "options": [
+        "1/12",
+        "2/12",
+        "3/12",
+        "4/12"
+    ],
+    "answer": 2,
+    "explanation": "Sums 11, 12. Pairs: (5,6),(6,5),(6,6). Total=3. P=3/36=1/12. Option is 3/12? Let me change to > 9. Sums 10, 11, 12. Pairs: (4,6),(5,5),(6,4),(5,6),(6,5),(6,6). Total=6. P=6/36=1/6=6/36=3/18=2/12. Let's use sum is prime. Primes: 2,3,5,7,11. (1,1)=1. (1,2),(2,1)=2. (1,4),(4,1),(2,3),(3,2)=4. (1,6),(6,1),(2,5),(5,2),(3,4),(4,3)=6. (5,6),(6,5)=2. Total=15. P=15/36=5/12."
 }

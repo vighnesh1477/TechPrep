@@ -1,14 +1,14 @@
 {
-  "id": "placement-1144",
-  "topic": "Java",
-  "difficulty": "Medium",
-  "question": "What is the output of `System.out.println(10 + 20 + \"30\");`?",
-  "options": [
-    "102030",
-    "3030",
-    "60",
-    "30"
-  ],
-  "answer": 0,
-  "explanation": "10+20 is evaluated as integer 30, then \"30\" is concatenated, making \"3030\"."
+    "id": "pf-1346",
+    "topic": "Java",
+    "difficulty": "Medium",
+    "question": "What is the output of `System.out.println(10 + 20 + \"30\");`?",
+    "options": [
+        "102030",
+        "3030",
+        "60",
+        "30"
+    ],
+    "answer": 0,
+    "explanation": "10+20 is evaluated as integer 30, then \"30\" is concatenated, making \"3030\"."
 }

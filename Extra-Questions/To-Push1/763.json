@@ -1,14 +1,14 @@
 {
-  "id": "placement-763",
-  "topic": "Logs",
-  "difficulty": "Easy",
-  "question": "Where are most system logs stored on a traditional Linux system?",
-  "options": [
-    "/var/log/",
-    "/etc/logs/",
-    "/tmp/logs/",
-    "/usr/log/"
-  ],
-  "answer": 0,
-  "explanation": "System logs are typically stored in /var/log/. This includes files like /var/log/syslog, /var/log/auth.log, /var/log/kern.log, etc."
+    "id": "pf-965",
+    "topic": "Logs",
+    "difficulty": "Easy",
+    "question": "Where are most system logs stored on a traditional Linux system?",
+    "options": [
+        "/var/log/",
+        "/etc/logs/",
+        "/tmp/logs/",
+        "/usr/log/"
+    ],
+    "answer": 0,
+    "explanation": "System logs are typically stored in /var/log/. This includes files like /var/log/syslog, /var/log/auth.log, /var/log/kern.log, etc."
 }

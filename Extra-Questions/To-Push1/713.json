@@ -1,14 +1,14 @@
 {
-  "id": "placement-713",
-  "topic": "Users",
-  "difficulty": "Easy",
-  "question": "Which command creates a new user in Linux?",
-  "options": [
-    "adduser or useradd",
-    "newuser",
-    "createuser",
-    "mkuser"
-  ],
-  "answer": 0,
-  "explanation": "Both adduser (a friendlier interactive script) and useradd (the low-level command) can create new users. adduser is preferred on Debian-based systems."
+    "id": "pf-915",
+    "topic": "Users",
+    "difficulty": "Easy",
+    "question": "Which command creates a new user in Linux?",
+    "options": [
+        "adduser or useradd",
+        "newuser",
+        "createuser",
+        "mkuser"
+    ],
+    "answer": 0,
+    "explanation": "Both adduser (a friendlier interactive script) and useradd (the low-level command) can create new users. adduser is preferred on Debian-based systems."
 }

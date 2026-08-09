@@ -1,14 +1,14 @@
 {
-  "id": "placement-2064",
-  "topic": "Data Interpretation",
-  "difficulty": "Easy",
-  "question": "In a pie chart, a sector is 90 degrees. What percentage does it represent?",
-  "options": [
-    "15%",
-    "20%",
-    "25%",
-    "30%"
-  ],
-  "answer": 2,
-  "explanation": "90/360 * 100 = 25%."
+    "id": "pf-2266",
+    "topic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "In a pie chart, a sector is 90 degrees. What percentage does it represent?",
+    "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+    ],
+    "answer": 2,
+    "explanation": "90/360 * 100 = 25%."
 }

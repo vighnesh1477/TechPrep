@@ -1,14 +1,14 @@
 {
-  "id": "placement-1121",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What causes a pipeline stall (bubble)?",
-  "options": [
-    "Turning off the computer",
-    "A delay in the pipeline due to hazards (data, control, or structural) that cannot be resolved immediately",
-    "Increasing clock speed",
-    "Adding more cache"
-  ],
-  "answer": 1,
-  "explanation": "Stalls occur when the next instruction cannot execute in its designated clock cycle due to unresolved dependencies."
+    "id": "pf-1323",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What causes a pipeline stall (bubble)?",
+    "options": [
+        "Turning off the computer",
+        "A delay in the pipeline due to hazards (data, control, or structural) that cannot be resolved immediately",
+        "Increasing clock speed",
+        "Adding more cache"
+    ],
+    "answer": 1,
+    "explanation": "Stalls occur when the next instruction cannot execute in its designated clock cycle due to unresolved dependencies."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-811",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "How do you make sed modify a file in-place?",
-  "options": [
-    "sed -e 's/old/new/' file",
-    "sed -i 's/old/new/' file",
-    "sed -w 's/old/new/' file",
-    "sed --edit 's/old/new/' file"
-  ],
-  "answer": 1,
-  "explanation": "sed -i edits the file in-place. Without -i, sed outputs to stdout. It's recommended to use -i.bak to create a backup: sed -i.bak 's/old/new/' file."
+    "id": "pf-1013",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "How do you make sed modify a file in-place?",
+    "options": [
+        "sed -e 's/old/new/' file",
+        "sed -i 's/old/new/' file",
+        "sed -w 's/old/new/' file",
+        "sed --edit 's/old/new/' file"
+    ],
+    "answer": 1,
+    "explanation": "sed -i edits the file in-place. Without -i, sed outputs to stdout. It's recommended to use -i.bak to create a backup: sed -i.bak 's/old/new/' file."
 }

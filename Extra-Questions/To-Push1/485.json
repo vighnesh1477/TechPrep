@@ -1,14 +1,14 @@
 {
-  "id": "placement-485",
-  "topic": "Detached HEAD",
-  "difficulty": "Medium",
-  "question": "How do you create a new branch from a detached HEAD state to save your work?",
-  "options": [
-    "git branch save-work && git switch save-work",
-    "git switch -c save-work",
-    "Both A and B",
-    "git attach save-work"
-  ],
-  "answer": 2,
-  "explanation": "Both creating a branch and then switching to it, or using git switch -c to create and switch in one step, will save commits made in a detached HEAD state."
+    "id": "pf-687",
+    "topic": "Detached HEAD",
+    "difficulty": "Medium",
+    "question": "How do you create a new branch from a detached HEAD state to save your work?",
+    "options": [
+        "git branch save-work && git switch save-work",
+        "git switch -c save-work",
+        "Both A and B",
+        "git attach save-work"
+    ],
+    "answer": 2,
+    "explanation": "Both creating a branch and then switching to it, or using git switch -c to create and switch in one step, will save commits made in a detached HEAD state."
 }

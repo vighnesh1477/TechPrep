@@ -1,14 +1,14 @@
 {
-  "id": "placement-1098",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is auto-scaling?",
-  "options": [
-    "Manually adding servers",
-    "Automatically adjusting the number of compute resources based on demand",
-    "Upgrading a server's CPU",
-    "Backing up data"
-  ],
-  "answer": 1,
-  "explanation": "Auto-scaling ensures application performance by dynamically increasing or decreasing resources as traffic changes."
+    "id": "pf-1300",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is auto-scaling?",
+    "options": [
+        "Manually adding servers",
+        "Automatically adjusting the number of compute resources based on demand",
+        "Upgrading a server's CPU",
+        "Backing up data"
+    ],
+    "answer": 1,
+    "explanation": "Auto-scaling ensures application performance by dynamically increasing or decreasing resources as traffic changes."
 }

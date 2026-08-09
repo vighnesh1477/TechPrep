@@ -1,14 +1,14 @@
 {
-  "id": "placement-1290",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is a snapshot in cloud computing?",
-  "options": [
-    "A photo of a server",
-    "A point-in-time copy of a volume or database used for backups and cloning",
-    "A quick backup to a local drive",
-    "A type of VM"
-  ],
-  "answer": 1,
-  "explanation": "Snapshots capture the state of a disk at a specific moment, allowing rapid restoration or duplication."
+    "id": "pf-1492",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is a snapshot in cloud computing?",
+    "options": [
+        "A photo of a server",
+        "A point-in-time copy of a volume or database used for backups and cloning",
+        "A quick backup to a local drive",
+        "A type of VM"
+    ],
+    "answer": 1,
+    "explanation": "Snapshots capture the state of a disk at a specific moment, allowing rapid restoration or duplication."
 }

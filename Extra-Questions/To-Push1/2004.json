@@ -1,14 +1,14 @@
 {
-  "id": "placement-2004",
-  "topic": "Ages",
-  "difficulty": "Easy",
-  "question": "A is twice as old as B. Sum is 45. A's age?",
-  "options": [
-    "20",
-    "25",
-    "30",
-    "35"
-  ],
-  "answer": 2,
-  "explanation": "3B = 45 => B=15. A=30."
+    "id": "pf-2206",
+    "topic": "Ages",
+    "difficulty": "Easy",
+    "question": "A is twice as old as B. Sum is 45. A's age?",
+    "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+    ],
+    "answer": 2,
+    "explanation": "3B = 45 => B=15. A=30."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-721",
-  "topic": "Groups",
-  "difficulty": "Easy",
-  "question": "What is the primary group of a typical user on most Linux distributions?",
-  "options": [
-    "users",
-    "staff",
-    "A group with the same name as the user",
-    "wheel"
-  ],
-  "answer": 2,
-  "explanation": "Most modern Linux distributions create a primary group with the same name as the user (User Private Group concept) when creating a new user."
+    "id": "pf-923",
+    "topic": "Groups",
+    "difficulty": "Easy",
+    "question": "What is the primary group of a typical user on most Linux distributions?",
+    "options": [
+        "users",
+        "staff",
+        "A group with the same name as the user",
+        "wheel"
+    ],
+    "answer": 2,
+    "explanation": "Most modern Linux distributions create a primary group with the same name as the user (User Private Group concept) when creating a new user."
 }

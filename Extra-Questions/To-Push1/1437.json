@@ -1,14 +1,14 @@
 {
-  "id": "placement-1437",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "In IPv4, how many bits are used for the host portion in a Class B address?",
-  "options": [
-    "8 bits",
-    "16 bits",
-    "24 bits",
-    "32 bits"
-  ],
-  "answer": 1,
-  "explanation": "Class B IP addresses range from 128.0.0.0 to 191.255.255.255. The first 16 bits are the network ID, and the remaining 16 bits are the host ID."
+    "id": "pf-1639",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "In IPv4, how many bits are used for the host portion in a Class B address?",
+    "options": [
+        "8 bits",
+        "16 bits",
+        "24 bits",
+        "32 bits"
+    ],
+    "answer": 1,
+    "explanation": "Class B IP addresses range from 128.0.0.0 to 191.255.255.255. The first 16 bits are the network ID, and the remaining 16 bits are the host ID."
 }

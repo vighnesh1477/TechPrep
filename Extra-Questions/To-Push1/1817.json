@@ -1,14 +1,14 @@
 {
-  "id": "placement-1817",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "How many comparisons are needed in the worst case to find an element in an array of 16 elements using Binary Search?",
-  "options": [
-    "16",
-    "4",
-    "5",
-    "8"
-  ],
-  "answer": 2,
-  "explanation": "The maximum number of comparisons for binary search is floor(log2(n)) + 1. log2(16) = 4. 4 + 1 = 5 comparisons."
+    "id": "pf-2019",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "How many comparisons are needed in the worst case to find an element in an array of 16 elements using Binary Search?",
+    "options": [
+        "16",
+        "4",
+        "5",
+        "8"
+    ],
+    "answer": 2,
+    "explanation": "The maximum number of comparisons for binary search is floor(log2(n)) + 1. log2(16) = 4. 4 + 1 = 5 comparisons."
 }

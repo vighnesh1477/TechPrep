@@ -1,14 +1,14 @@
 {
-  "id": "placement-1474",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is a Data Hazard in pipelining?",
-  "options": [
-    "Two instructions trying to use the same ALU",
-    "An instruction depends on the result of a previous instruction that has not yet completed",
-    "A branch instruction changing the flow",
-    "A power failure"
-  ],
-  "answer": 1,
-  "explanation": "A data hazard occurs when an instruction depends on the result of a prior instruction that is still in the pipeline (e.g., trying to read a register that a previous instruction hasn't written to yet)."
+    "id": "pf-1676",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is a Data Hazard in pipelining?",
+    "options": [
+        "Two instructions trying to use the same ALU",
+        "An instruction depends on the result of a previous instruction that has not yet completed",
+        "A branch instruction changing the flow",
+        "A power failure"
+    ],
+    "answer": 1,
+    "explanation": "A data hazard occurs when an instruction depends on the result of a prior instruction that is still in the pipeline (e.g., trying to read a register that a previous instruction hasn't written to yet)."
 }

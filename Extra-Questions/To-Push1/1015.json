@@ -1,14 +1,14 @@
 {
-  "id": "placement-1015",
-  "topic": "Computer Networks",
-  "difficulty": "Hard",
-  "question": "How does ARP (Address Resolution Protocol) work?",
-  "options": [
-    "Maps IP to Domain Name",
-    "Maps IP address to MAC address on a local network",
-    "Maps MAC to Port",
-    "Encrypts IP addresses"
-  ],
-  "answer": 1,
-  "explanation": "ARP broadcasts a request to find the MAC address associated with a known local IP address."
+    "id": "pf-1217",
+    "topic": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "How does ARP (Address Resolution Protocol) work?",
+    "options": [
+        "Maps IP to Domain Name",
+        "Maps IP address to MAC address on a local network",
+        "Maps MAC to Port",
+        "Encrypts IP addresses"
+    ],
+    "answer": 1,
+    "explanation": "ARP broadcasts a request to find the MAC address associated with a known local IP address."
 }

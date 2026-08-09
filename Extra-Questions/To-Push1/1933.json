@@ -1,14 +1,14 @@
 {
-  "id": "placement-1933",
-  "topic": "Averages",
-  "difficulty": "Medium",
-  "question": "The average of 6 numbers is 32. If one number is excluded, average becomes 28. Excluded number?",
-  "options": [
-    "48",
-    "52",
-    "56",
-    "60"
-  ],
-  "answer": 1,
-  "explanation": "Excluded number = 6*32 - 5*28 = 192 - 140 = 52."
+    "id": "pf-2135",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "question": "The average of 6 numbers is 32. If one number is excluded, average becomes 28. Excluded number?",
+    "options": [
+        "48",
+        "52",
+        "56",
+        "60"
+    ],
+    "answer": 1,
+    "explanation": "Excluded number = 6*32 - 5*28 = 192 - 140 = 52."
 }

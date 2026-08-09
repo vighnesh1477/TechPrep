@@ -1,14 +1,14 @@
 {
-  "id": "placement-1043",
-  "topic": "Software Engineering",
-  "difficulty": "Medium",
-  "question": "What is a design pattern?",
-  "options": [
-    "A visual mockup",
-    "A reusable solution to a commonly occurring problem in software design",
-    "A coding standard",
-    "A type of algorithm"
-  ],
-  "answer": 1,
-  "explanation": "Design patterns are typical solutions to common problems in object-oriented software design."
+    "id": "pf-1245",
+    "topic": "Software Engineering",
+    "difficulty": "Medium",
+    "question": "What is a design pattern?",
+    "options": [
+        "A visual mockup",
+        "A reusable solution to a commonly occurring problem in software design",
+        "A coding standard",
+        "A type of algorithm"
+    ],
+    "answer": 1,
+    "explanation": "Design patterns are typical solutions to common problems in object-oriented software design."
 }

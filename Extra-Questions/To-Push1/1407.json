@@ -1,14 +1,14 @@
 {
-  "id": "placement-1407",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which SQL statement is used to remove all rows from a table without logging the individual row deletions?",
-  "options": [
-    "DELETE FROM table_name",
-    "DROP TABLE table_name",
-    "TRUNCATE TABLE table_name",
-    "REMOVE TABLE table_name"
-  ],
-  "answer": 2,
-  "explanation": "TRUNCATE TABLE removes all rows from a table completely and without logging individual row deletions. It is faster than DELETE but cannot be rolled back in some databases."
+    "id": "pf-1609",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which SQL statement is used to remove all rows from a table without logging the individual row deletions?",
+    "options": [
+        "DELETE FROM table_name",
+        "DROP TABLE table_name",
+        "TRUNCATE TABLE table_name",
+        "REMOVE TABLE table_name"
+    ],
+    "answer": 2,
+    "explanation": "TRUNCATE TABLE removes all rows from a table completely and without logging individual row deletions. It is faster than DELETE but cannot be rolled back in some databases."
 }

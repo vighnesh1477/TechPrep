@@ -1,14 +1,14 @@
 {
-  "id": "placement-1641",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following escapes sequences represents a newline character?",
-  "options": [
-    "\\t",
-    "\\n",
-    "\\r",
-    "\\0"
-  ],
-  "answer": 1,
-  "explanation": "`\\n` is the escape sequence for a newline (line feed), `\\t` is for tab, `\\r` is for carriage return, and `\\0` is for the null character."
+    "id": "pf-1843",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following escapes sequences represents a newline character?",
+    "options": [
+        "\\t",
+        "\\n",
+        "\\r",
+        "\\0"
+    ],
+    "answer": 1,
+    "explanation": "`\\n` is the escape sequence for a newline (line feed), `\\t` is for tab, `\\r` is for carriage return, and `\\0` is for the null character."
 }

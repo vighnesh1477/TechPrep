@@ -1,14 +1,14 @@
 {
-  "id": "placement-1306",
-  "topic": "Cyber Security Basics",
-  "difficulty": "Hard",
-  "question": "What is an evil twin attack?",
-  "options": [
-    "Cloning a user account",
-    "Setting up a fraudulent Wi-Fi access point mimicking a legitimate one to intercept traffic",
-    "A type of ransomware",
-    "A SQL injection variant"
-  ],
-  "answer": 1,
-  "explanation": "Evil twins trick users into connecting to a fake hotspot, allowing the attacker to perform man-in-the-middle attacks."
+    "id": "pf-1508",
+    "topic": "Cyber Security Basics",
+    "difficulty": "Hard",
+    "question": "What is an evil twin attack?",
+    "options": [
+        "Cloning a user account",
+        "Setting up a fraudulent Wi-Fi access point mimicking a legitimate one to intercept traffic",
+        "A type of ransomware",
+        "A SQL injection variant"
+    ],
+    "answer": 1,
+    "explanation": "Evil twins trick users into connecting to a fake hotspot, allowing the attacker to perform man-in-the-middle attacks."
 }

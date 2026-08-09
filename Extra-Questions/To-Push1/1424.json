@@ -1,14 +1,14 @@
 {
-  "id": "placement-1424",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is a CTE (Common Table Expression)?",
-  "options": [
-    "A temporary table stored on disk",
-    "A named temporary result set defined using the WITH keyword, used within the scope of a SELECT, INSERT, UPDATE, or DELETE statement",
-    "A type of stored procedure",
-    "A permanent view"
-  ],
-  "answer": 1,
-  "explanation": "A CTE is a temporary result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. It is created using the WITH keyword and exists only for the duration of the query."
+    "id": "pf-1626",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is a CTE (Common Table Expression)?",
+    "options": [
+        "A temporary table stored on disk",
+        "A named temporary result set defined using the WITH keyword, used within the scope of a SELECT, INSERT, UPDATE, or DELETE statement",
+        "A type of stored procedure",
+        "A permanent view"
+    ],
+    "answer": 1,
+    "explanation": "A CTE is a temporary result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. It is created using the WITH keyword and exists only for the duration of the query."
 }

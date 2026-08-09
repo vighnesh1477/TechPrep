@@ -1,14 +1,14 @@
 {
-  "id": "placement-897",
-  "topic": "Python",
-  "difficulty": "Easy",
-  "question": "What is the output of `type([]) is list`?",
-  "options": [
-    "True",
-    "False",
-    "Error",
-    "None"
-  ],
-  "answer": 0,
-  "explanation": "[] creates a list object, and type([]) is exactly the list class."
+    "id": "pf-1099",
+    "topic": "Python",
+    "difficulty": "Easy",
+    "question": "What is the output of `type([]) is list`?",
+    "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ],
+    "answer": 0,
+    "explanation": "[] creates a list object, and type([]) is exactly the list class."
 }

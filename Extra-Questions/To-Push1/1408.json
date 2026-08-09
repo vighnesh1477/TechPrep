@@ -1,14 +1,14 @@
 {
-  "id": "placement-1408",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Medium",
-  "question": "What does the EXISTS operator do?",
-  "options": [
-    "Checks if a table exists in the database",
-    "Returns TRUE if the subquery returns at least one row",
-    "Checks if a column exists in a table",
-    "Returns TRUE if a value is not NULL"
-  ],
-  "answer": 1,
-  "explanation": "EXISTS is used to test for the existence of any record in a subquery. If the subquery returns at least one record, the EXISTS operator returns TRUE."
+    "id": "pf-1610",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Medium",
+    "question": "What does the EXISTS operator do?",
+    "options": [
+        "Checks if a table exists in the database",
+        "Returns TRUE if the subquery returns at least one row",
+        "Checks if a column exists in a table",
+        "Returns TRUE if a value is not NULL"
+    ],
+    "answer": 1,
+    "explanation": "EXISTS is used to test for the existence of any record in a subquery. If the subquery returns at least one record, the EXISTS operator returns TRUE."
 }

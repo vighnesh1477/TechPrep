@@ -1,14 +1,14 @@
 {
-  "id": "placement-816",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "What does the & character represent in the sed replacement string?",
-  "options": [
-    "A literal ampersand",
-    "The matched text from the search pattern",
-    "End of line",
-    "A delimiter"
-  ],
-  "answer": 1,
-  "explanation": "In sed's replacement string, & represents the entire matched text. For example, 's/[0-9]*/[&]/' wraps digit sequences in brackets."
+    "id": "pf-1018",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "What does the & character represent in the sed replacement string?",
+    "options": [
+        "A literal ampersand",
+        "The matched text from the search pattern",
+        "End of line",
+        "A delimiter"
+    ],
+    "answer": 1,
+    "explanation": "In sed's replacement string, & represents the entire matched text. For example, 's/[0-9]*/[&]/' wraps digit sequences in brackets."
 }

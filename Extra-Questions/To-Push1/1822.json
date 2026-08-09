@@ -1,14 +1,14 @@
 {
-  "id": "placement-1822",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the worst-case time complexity of Insertion Sort?",
-  "options": [
-    "O(n)",
-    "O(n log n)",
-    "O(n^2)",
-    "O(2^n)"
-  ],
-  "answer": 2,
-  "explanation": "In the worst case (reverse sorted array), each new element is compared with all previously sorted elements and shifted, leading to O(n^2) comparisons and shifts."
+    "id": "pf-2024",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the worst-case time complexity of Insertion Sort?",
+    "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(2^n)"
+    ],
+    "answer": 2,
+    "explanation": "In the worst case (reverse sorted array), each new element is compared with all previously sorted elements and shifted, leading to O(n^2) comparisons and shifts."
 }

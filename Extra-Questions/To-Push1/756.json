@@ -1,14 +1,14 @@
 {
-  "id": "placement-756",
-  "topic": "mount",
-  "difficulty": "Easy",
-  "question": "How do you unmount a file system mounted at /mnt/usb?",
-  "options": [
-    "umount /mnt/usb",
-    "unmount /mnt/usb",
-    "mount -u /mnt/usb",
-    "detach /mnt/usb"
-  ],
-  "answer": 0,
-  "explanation": "umount /mnt/usb unmounts the file system. Note the spelling is 'umount' not 'unmount'. You can also specify the device instead of the mount point."
+    "id": "pf-958",
+    "topic": "mount",
+    "difficulty": "Easy",
+    "question": "How do you unmount a file system mounted at /mnt/usb?",
+    "options": [
+        "umount /mnt/usb",
+        "unmount /mnt/usb",
+        "mount -u /mnt/usb",
+        "detach /mnt/usb"
+    ],
+    "answer": 0,
+    "explanation": "umount /mnt/usb unmounts the file system. Note the spelling is 'umount' not 'unmount'. You can also specify the device instead of the mount point."
 }

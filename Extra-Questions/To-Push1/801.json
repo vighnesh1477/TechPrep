@@ -1,14 +1,14 @@
 {
-  "id": "placement-801",
-  "topic": "GRUB",
-  "difficulty": "Medium",
-  "question": "What command regenerates the GRUB configuration file on RHEL-based systems?",
-  "options": [
-    "update-grub",
-    "grub2-mkconfig -o /boot/grub2/grub.cfg",
-    "grub-rebuild",
-    "mkgrub"
-  ],
-  "answer": 1,
-  "explanation": "On RHEL/CentOS/Fedora, use grub2-mkconfig -o /boot/grub2/grub.cfg. On Debian/Ubuntu, update-grub is a wrapper that calls grub-mkconfig."
+    "id": "pf-1003",
+    "topic": "GRUB",
+    "difficulty": "Medium",
+    "question": "What command regenerates the GRUB configuration file on RHEL-based systems?",
+    "options": [
+        "update-grub",
+        "grub2-mkconfig -o /boot/grub2/grub.cfg",
+        "grub-rebuild",
+        "mkgrub"
+    ],
+    "answer": 1,
+    "explanation": "On RHEL/CentOS/Fedora, use grub2-mkconfig -o /boot/grub2/grub.cfg. On Debian/Ubuntu, update-grub is a wrapper that calls grub-mkconfig."
 }

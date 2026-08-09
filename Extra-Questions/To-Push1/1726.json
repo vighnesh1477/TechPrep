@@ -1,14 +1,14 @@
 {
-  "id": "placement-1726",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "What is the output of `int arr[5] = {1, 2}; printf(\"%d\", arr[3]);` in C?",
-  "options": [
-    "1",
-    "2",
-    "0",
-    "Garbage value"
-  ],
-  "answer": 2,
-  "explanation": "In C, if an array is partially initialized, the remaining elements are automatically initialized to 0. So `arr[3]` and `arr[4]` will be 0."
+    "id": "pf-1928",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "What is the output of `int arr[5] = {1, 2}; printf(\"%d\", arr[3]);` in C?",
+    "options": [
+        "1",
+        "2",
+        "0",
+        "Garbage value"
+    ],
+    "answer": 2,
+    "explanation": "In C, if an array is partially initialized, the remaining elements are automatically initialized to 0. So `arr[3]` and `arr[4]` will be 0."
 }

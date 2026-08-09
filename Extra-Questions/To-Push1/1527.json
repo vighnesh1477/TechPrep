@@ -1,14 +1,14 @@
 {
-  "id": "placement-1527",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is Intermediate Code (IR)?",
-  "options": [
-    "The final machine code",
-    "A representation of the source code that is closer to machine code than the AST but independent of the target machine",
-    "A type of assembly language",
-    "The original source code"
-  ],
-  "answer": 1,
-  "explanation": "IR acts as a bridge between the front-end (language-specific) and back-end (machine-specific) of the compiler. Examples include Three-Address Code (TAC) and Bytecode."
+    "id": "pf-1729",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is Intermediate Code (IR)?",
+    "options": [
+        "The final machine code",
+        "A representation of the source code that is closer to machine code than the AST but independent of the target machine",
+        "A type of assembly language",
+        "The original source code"
+    ],
+    "answer": 1,
+    "explanation": "IR acts as a bridge between the front-end (language-specific) and back-end (machine-specific) of the compiler. Examples include Three-Address Code (TAC) and Bytecode."
 }

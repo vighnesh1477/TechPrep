@@ -1,14 +1,14 @@
 {
-  "id": "placement-371",
-  "topic": "Staging Area",
-  "difficulty": "Easy",
-  "question": "Which command stages all modified files but not new (untracked) files?",
-  "options": [
-    "git add .",
-    "git add -u",
-    "git add --all",
-    "git add --modified"
-  ],
-  "answer": 1,
-  "explanation": "git add -u (or --update) stages modifications and deletions of already-tracked files but does not add new untracked files to the staging area."
+    "id": "pf-573",
+    "topic": "Staging Area",
+    "difficulty": "Easy",
+    "question": "Which command stages all modified files but not new (untracked) files?",
+    "options": [
+        "git add .",
+        "git add -u",
+        "git add --all",
+        "git add --modified"
+    ],
+    "answer": 1,
+    "explanation": "git add -u (or --update) stages modifications and deletions of already-tracked files but does not add new untracked files to the staging area."
 }

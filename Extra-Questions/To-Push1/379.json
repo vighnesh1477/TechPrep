@@ -1,14 +1,14 @@
 {
-  "id": "placement-379",
-  "topic": "Git Diff",
-  "difficulty": "Easy",
-  "question": "Which flag makes git diff show word-level changes instead of line-level?",
-  "options": [
-    "--word",
-    "--word-diff",
-    "--words",
-    "--granular"
-  ],
-  "answer": 1,
-  "explanation": "git diff --word-diff shows changes at the word level within lines, highlighting exactly which words were added or removed."
+    "id": "pf-581",
+    "topic": "Git Diff",
+    "difficulty": "Easy",
+    "question": "Which flag makes git diff show word-level changes instead of line-level?",
+    "options": [
+        "--word",
+        "--word-diff",
+        "--words",
+        "--granular"
+    ],
+    "answer": 1,
+    "explanation": "git diff --word-diff shows changes at the word level within lines, highlighting exactly which words were added or removed."
 }

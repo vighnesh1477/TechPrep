@@ -1,14 +1,14 @@
 {
-  "id": "placement-1753",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What does `strcpy(dest, src)` do in C?",
-  "options": [
-    "Compares dest and src",
-    "Copies the string from src to dest, including the null terminator",
-    "Appends src to the end of dest",
-    "Returns the length of src"
-  ],
-  "answer": 1,
-  "explanation": "`strcpy` copies the entire string pointed to by `src` (including the terminating null character) into the array pointed to by `dest`."
+    "id": "pf-1955",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What does `strcpy(dest, src)` do in C?",
+    "options": [
+        "Compares dest and src",
+        "Copies the string from src to dest, including the null terminator",
+        "Appends src to the end of dest",
+        "Returns the length of src"
+    ],
+    "answer": 1,
+    "explanation": "`strcpy` copies the entire string pointed to by `src` (including the terminating null character) into the array pointed to by `dest`."
 }

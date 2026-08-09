@@ -1,14 +1,14 @@
 {
-  "id": "placement-531",
-  "topic": "Revert",
-  "difficulty": "Medium",
-  "question": "How do you revert multiple commits in a range?",
-  "options": [
-    "git revert commit1..commit2",
-    "git revert commit1^..commit2",
-    "git revert --range commit1 commit2",
-    "You must revert them one at a time"
-  ],
-  "answer": 1,
-  "explanation": "git revert commit1^..commit2 reverts all commits from commit1 to commit2 inclusive (the ^ ensures commit1 is included since the range is otherwise exclusive)."
+    "id": "pf-733",
+    "topic": "Revert",
+    "difficulty": "Medium",
+    "question": "How do you revert multiple commits in a range?",
+    "options": [
+        "git revert commit1..commit2",
+        "git revert commit1^..commit2",
+        "git revert --range commit1 commit2",
+        "You must revert them one at a time"
+    ],
+    "answer": 1,
+    "explanation": "git revert commit1^..commit2 reverts all commits from commit1 to commit2 inclusive (the ^ ensures commit1 is included since the range is otherwise exclusive)."
 }

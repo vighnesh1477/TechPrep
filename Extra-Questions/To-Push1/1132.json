@@ -1,14 +1,14 @@
 {
-  "id": "placement-1132",
-  "topic": "C++",
-  "difficulty": "Easy",
-  "question": "Which operator is used to allocate memory dynamically in C++?",
-  "options": [
-    "malloc",
-    "new",
-    "alloc",
-    "create"
-  ],
-  "answer": 1,
-  "explanation": "new is the C++ operator for dynamic memory allocation, calling constructors automatically."
+    "id": "pf-1334",
+    "topic": "C++",
+    "difficulty": "Easy",
+    "question": "Which operator is used to allocate memory dynamically in C++?",
+    "options": [
+        "malloc",
+        "new",
+        "alloc",
+        "create"
+    ],
+    "answer": 1,
+    "explanation": "new is the C++ operator for dynamic memory allocation, calling constructors automatically."
 }

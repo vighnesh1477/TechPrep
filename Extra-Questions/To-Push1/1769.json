@@ -1,14 +1,14 @@
 {
-  "id": "placement-1769",
-  "topic": "Pointers and Memory",
-  "difficulty": "Easy",
-  "question": "What is a NULL pointer?",
-  "options": [
-    "A pointer that points to memory address 0",
-    "A pointer that has not been initialized",
-    "A pointer pointing to garbage data",
-    "A pointer to a void type"
-  ],
-  "answer": 0,
-  "explanation": "A NULL pointer is a pointer that explicitly points to memory address 0, indicating that it does not point to any valid memory location."
+    "id": "pf-1971",
+    "topic": "Pointers and Memory",
+    "difficulty": "Easy",
+    "question": "What is a NULL pointer?",
+    "options": [
+        "A pointer that points to memory address 0",
+        "A pointer that has not been initialized",
+        "A pointer pointing to garbage data",
+        "A pointer to a void type"
+    ],
+    "answer": 0,
+    "explanation": "A NULL pointer is a pointer that explicitly points to memory address 0, indicating that it does not point to any valid memory location."
 }

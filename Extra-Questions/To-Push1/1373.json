@@ -1,14 +1,14 @@
 {
-  "id": "placement-1373",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which normal form eliminates partial dependencies?",
-  "options": [
-    "1NF",
-    "2NF",
-    "3NF",
-    "BCNF"
-  ],
-  "answer": 1,
-  "explanation": "Second Normal Form (2NF) requires the table to be in 1NF and ensures that no non-prime attribute is partially dependent on any candidate key."
+    "id": "pf-1575",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which normal form eliminates partial dependencies?",
+    "options": [
+        "1NF",
+        "2NF",
+        "3NF",
+        "BCNF"
+    ],
+    "answer": 1,
+    "explanation": "Second Normal Form (2NF) requires the table to be in 1NF and ensures that no non-prime attribute is partially dependent on any candidate key."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1058",
-  "topic": "Git",
-  "difficulty": "Hard",
-  "question": "What happens if you rebase a public branch shared with others?",
-  "options": [
-    "Nothing",
-    "It rewrites shared history, causing severe merge conflicts for other collaborators",
-    "It speeds up the server",
-    "It deletes the branch"
-  ],
-  "answer": 1,
-  "explanation": "Rebasing public branches rewrites commit hashes, forcing others to do hard resets or reconcile diverged histories."
+    "id": "pf-1260",
+    "topic": "Git",
+    "difficulty": "Hard",
+    "question": "What happens if you rebase a public branch shared with others?",
+    "options": [
+        "Nothing",
+        "It rewrites shared history, causing severe merge conflicts for other collaborators",
+        "It speeds up the server",
+        "It deletes the branch"
+    ],
+    "answer": 1,
+    "explanation": "Rebasing public branches rewrites commit hashes, forcing others to do hard resets or reconcile diverged histories."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1328",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is context switching?",
-  "options": [
-    "Swapping memory to disk",
-    "Saving the state of a running process and loading the state of another",
-    "Changing the CPU clock speed",
-    "Switching between user mode and kernel mode"
-  ],
-  "answer": 1,
-  "explanation": "Context switching is the procedure of storing the state of a running process so that it can be restored and resumed at a later time, allowing multiple processes to share a single CPU."
+    "id": "pf-1530",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is context switching?",
+    "options": [
+        "Swapping memory to disk",
+        "Saving the state of a running process and loading the state of another",
+        "Changing the CPU clock speed",
+        "Switching between user mode and kernel mode"
+    ],
+    "answer": 1,
+    "explanation": "Context switching is the procedure of storing the state of a running process so that it can be restored and resumed at a later time, allowing multiple processes to share a single CPU."
 }

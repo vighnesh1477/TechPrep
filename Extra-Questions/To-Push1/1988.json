@@ -1,14 +1,14 @@
 {
-  "id": "placement-1988",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Medium",
-  "question": "Difference between CI and SI for 3 years at 10% on Rs 1000?",
-  "options": [
-    "Rs 21",
-    "Rs 31",
-    "Rs 41",
-    "Rs 51"
-  ],
-  "answer": 1,
-  "explanation": "Diff = P(R/100)^2 (3 + R/100) = 1000(0.01)(3.1) = 31."
+    "id": "pf-2190",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Medium",
+    "question": "Difference between CI and SI for 3 years at 10% on Rs 1000?",
+    "options": [
+        "Rs 21",
+        "Rs 31",
+        "Rs 41",
+        "Rs 51"
+    ],
+    "answer": 1,
+    "explanation": "Diff = P(R/100)^2 (3 + R/100) = 1000(0.01)(3.1) = 31."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-761",
-  "topic": "Shell",
-  "difficulty": "Easy",
-  "question": "What is the difference between a login shell and a non-login shell?",
-  "options": [
-    "There is no difference",
-    "A login shell reads profile files like /etc/profile and ~/.bash_profile; a non-login shell reads ~/.bashrc",
-    "A login shell has more privileges",
-    "A non-login shell cannot run scripts"
-  ],
-  "answer": 1,
-  "explanation": "Login shells read system-wide and user profile files for initialization. Non-login shells (like subshells) typically read only .bashrc for configuration."
+    "id": "pf-963",
+    "topic": "Shell",
+    "difficulty": "Easy",
+    "question": "What is the difference between a login shell and a non-login shell?",
+    "options": [
+        "There is no difference",
+        "A login shell reads profile files like /etc/profile and ~/.bash_profile; a non-login shell reads ~/.bashrc",
+        "A login shell has more privileges",
+        "A non-login shell cannot run scripts"
+    ],
+    "answer": 1,
+    "explanation": "Login shells read system-wide and user profile files for initialization. Non-login shells (like subshells) typically read only .bashrc for configuration."
 }

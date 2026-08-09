@@ -1,14 +1,14 @@
 {
-  "id": "placement-1847",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What is the output of `\"abc\".replace(\"b\", \"xy\")` in Python?",
-  "options": [
-    "\"axyc\"",
-    "\"axy\"",
-    "\"abxy\"",
-    "Error"
-  ],
-  "answer": 0,
-  "explanation": "The `replace()` method replaces all occurrences of the first argument with the second argument. 'b' is replaced by 'xy', resulting in 'axyc'."
+    "id": "pf-2049",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What is the output of `\"abc\".replace(\"b\", \"xy\")` in Python?",
+    "options": [
+        "\"axyc\"",
+        "\"axy\"",
+        "\"abxy\"",
+        "Error"
+    ],
+    "answer": 0,
+    "explanation": "The `replace()` method replaces all occurrences of the first argument with the second argument. 'b' is replaced by 'xy', resulting in 'axyc'."
 }

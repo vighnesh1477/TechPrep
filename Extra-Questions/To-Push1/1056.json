@@ -1,14 +1,14 @@
 {
-  "id": "placement-1056",
-  "topic": "Git",
-  "difficulty": "Medium",
-  "question": "What does `git log` display?",
-  "options": [
-    "Future commits",
-    "The commit history",
-    "Untracked files",
-    "Stashes"
-  ],
-  "answer": 1,
-  "explanation": "git log shows the commit history of the current branch."
+    "id": "pf-1258",
+    "topic": "Git",
+    "difficulty": "Medium",
+    "question": "What does `git log` display?",
+    "options": [
+        "Future commits",
+        "The commit history",
+        "Untracked files",
+        "Stashes"
+    ],
+    "answer": 1,
+    "explanation": "git log shows the commit history of the current branch."
 }

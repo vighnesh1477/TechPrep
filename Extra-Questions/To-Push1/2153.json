@@ -1,14 +1,14 @@
 {
-  "id": "placement-2153",
-  "topic": "Syllogisms",
-  "difficulty": "Easy",
-  "question": "All dogs are animals. All animals are living. Conclusion: All dogs are living.",
-  "options": [
-    "True",
-    "False",
-    "Probable",
-    "Cannot determine"
-  ],
-  "answer": 0,
-  "explanation": "Standard categorical syllogism (AAA-1). Conclusion follows."
+    "id": "pf-2355",
+    "topic": "Syllogisms",
+    "difficulty": "Easy",
+    "question": "All dogs are animals. All animals are living. Conclusion: All dogs are living.",
+    "options": [
+        "True",
+        "False",
+        "Probable",
+        "Cannot determine"
+    ],
+    "answer": 0,
+    "explanation": "Standard categorical syllogism (AAA-1). Conclusion follows."
 }

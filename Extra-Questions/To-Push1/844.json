@@ -1,14 +1,14 @@
 {
-  "id": "placement-844",
-  "topic": "Shell Scripting",
-  "difficulty": "Medium",
-  "question": "What is the correct shebang line for a bash script?",
-  "options": [
-    "#!/bin/sh",
-    "#!/bin/bash",
-    "#!bash",
-    "//bin/bash"
-  ],
-  "answer": 1,
-  "explanation": "#!/bin/bash specifies that the script should be interpreted by /bin/bash. #!/bin/sh would use the system's default shell, which may not be bash."
+    "id": "pf-1046",
+    "topic": "Shell Scripting",
+    "difficulty": "Medium",
+    "question": "What is the correct shebang line for a bash script?",
+    "options": [
+        "#!/bin/sh",
+        "#!/bin/bash",
+        "#!bash",
+        "//bin/bash"
+    ],
+    "answer": 1,
+    "explanation": "#!/bin/bash specifies that the script should be interpreted by /bin/bash. #!/bin/sh would use the system's default shell, which may not be bash."
 }

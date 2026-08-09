@@ -1,14 +1,14 @@
 {
-  "id": "placement-580",
-  "topic": "mkdir",
-  "difficulty": "Easy",
-  "question": "Which command creates three directories: dir1, dir2, and dir3 at once?",
-  "options": [
-    "mkdir dir1,dir2,dir3",
-    "mkdir dir1 dir2 dir3",
-    "mkdir -c dir1 dir2 dir3",
-    "mkdir --multi dir1 dir2 dir3"
-  ],
-  "answer": 1,
-  "explanation": "mkdir can create multiple directories in a single command by listing them as space-separated arguments."
+    "id": "pf-782",
+    "topic": "mkdir",
+    "difficulty": "Easy",
+    "question": "Which command creates three directories: dir1, dir2, and dir3 at once?",
+    "options": [
+        "mkdir dir1,dir2,dir3",
+        "mkdir dir1 dir2 dir3",
+        "mkdir -c dir1 dir2 dir3",
+        "mkdir --multi dir1 dir2 dir3"
+    ],
+    "answer": 1,
+    "explanation": "mkdir can create multiple directories in a single command by listing them as space-separated arguments."
 }

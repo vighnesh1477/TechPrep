@@ -1,14 +1,14 @@
 {
-  "id": "placement-1322",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What is the `top` command used for?",
-  "options": [
-    "Moving to the top of a file",
-    "Displaying real-time system summary information and a list of processes managed by the kernel",
-    "Renaming a file",
-    "Checking disk space"
-  ],
-  "answer": 1,
-  "explanation": "top provides a dynamic, real-time view of running system processes, similar to Task Manager in Windows."
+    "id": "pf-1524",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What is the `top` command used for?",
+    "options": [
+        "Moving to the top of a file",
+        "Displaying real-time system summary information and a list of processes managed by the kernel",
+        "Renaming a file",
+        "Checking disk space"
+    ],
+    "answer": 1,
+    "explanation": "top provides a dynamic, real-time view of running system processes, similar to Task Manager in Windows."
 }

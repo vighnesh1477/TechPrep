@@ -1,14 +1,14 @@
 {
-  "id": "placement-1599",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which operator is used to access the value stored at a memory address pointed to by a pointer in C?",
-  "options": [
-    "&",
-    "*",
-    "->",
-    "."
-  ],
-  "answer": 1,
-  "explanation": "The dereference operator (`*`) is used to access the value at the memory address a pointer is pointing to. The `&` operator does the opposite (address-of)."
+    "id": "pf-1801",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which operator is used to access the value stored at a memory address pointed to by a pointer in C?",
+    "options": [
+        "&",
+        "*",
+        "->",
+        "."
+    ],
+    "answer": 1,
+    "explanation": "The dereference operator (`*`) is used to access the value at the memory address a pointer is pointing to. The `&` operator does the opposite (address-of)."
 }

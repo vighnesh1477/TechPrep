@@ -1,14 +1,14 @@
 {
-  "id": "placement-1901",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "Cost of 12 pens = SP of 15 pens. Profit or loss %?",
-  "options": [
-    "20% loss",
-    "25% loss",
-    "20% profit",
-    "25% profit"
-  ],
-  "answer": 1,
-  "explanation": "12 CP = 15 SP => SP/CP = 12/15 = 0.8. Loss = 20%."
+    "id": "pf-2103",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "Cost of 12 pens = SP of 15 pens. Profit or loss %?",
+    "options": [
+        "20% loss",
+        "25% loss",
+        "20% profit",
+        "25% profit"
+    ],
+    "answer": 1,
+    "explanation": "12 CP = 15 SP => SP/CP = 12/15 = 0.8. Loss = 20%."
 }

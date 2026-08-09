@@ -1,14 +1,14 @@
 {
-  "id": "placement-1265",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "Which command retrieves data from a database?",
-  "options": [
-    "INSERT",
-    "UPDATE",
-    "SELECT",
-    "DELETE"
-  ],
-  "answer": 2,
-  "explanation": "SELECT queries are used to fetch data from one or more tables."
+    "id": "pf-1467",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "Which command retrieves data from a database?",
+    "options": [
+        "INSERT",
+        "UPDATE",
+        "SELECT",
+        "DELETE"
+    ],
+    "answer": 2,
+    "explanation": "SELECT queries are used to fetch data from one or more tables."
 }

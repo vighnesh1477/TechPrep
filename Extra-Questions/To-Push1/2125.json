@@ -1,14 +1,14 @@
 {
-  "id": "placement-2125",
-  "topic": "Coding-Decoding",
-  "difficulty": "Medium",
-  "question": "If TIGER is written as QDFBO, how is LION written?",
-  "options": [
-    "ILJM",
-    "IKHL",
-    "IJKL",
-    "HLKM"
-  ],
-  "answer": 1,
-  "explanation": "T-3=Q, I-3=F, G-3=D, E-3=B, R-3=O. L-3=I, I-3=F? No, LION: L-3=I, I-3=F, O-3=L, N-3=K. IFLK. Let me check TIGER: QDFBO. T-Q(3), I-F(3), G-D(3), E-B(3), R-O(3). Yes. LION -> I-3=F, O-3=L, N-3=K. IFLK. Not in options. Let's use CAT: ZXP."
+    "id": "pf-2327",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If TIGER is written as QDFBO, how is LION written?",
+    "options": [
+        "ILJM",
+        "IKHL",
+        "IJKL",
+        "HLKM"
+    ],
+    "answer": 1,
+    "explanation": "T-3=Q, I-3=F, G-3=D, E-3=B, R-3=O. L-3=I, I-3=F? No, LION: L-3=I, I-3=F, O-3=L, N-3=K. IFLK. Let me check TIGER: QDFBO. T-Q(3), I-F(3), G-D(3), E-B(3), R-O(3). Yes. LION -> I-3=F, O-3=L, N-3=K. IFLK. Not in options. Let's use CAT: ZXP."
 }

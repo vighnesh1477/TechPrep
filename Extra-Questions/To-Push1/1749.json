@@ -1,14 +1,14 @@
 {
-  "id": "placement-1749",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What is the output of this Python code?\n`s1 = \"Hello\"\ns2 = s1\ns2 += \" World\"\nprint(s1)`",
-  "options": [
-    "Hello World",
-    "Hello",
-    "Error",
-    "World"
-  ],
-  "answer": 1,
-  "explanation": "Strings in Python are immutable. `s2 += \" World\"` creates a new string object and assigns it to `s2`. `s1` remains unchanged, pointing to the original \"Hello\" object."
+    "id": "pf-1951",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What is the output of this Python code?\n`s1 = \"Hello\"\ns2 = s1\ns2 += \" World\"\nprint(s1)`",
+    "options": [
+        "Hello World",
+        "Hello",
+        "Error",
+        "World"
+    ],
+    "answer": 1,
+    "explanation": "Strings in Python are immutable. `s2 += \" World\"` creates a new string object and assigns it to `s2`. `s1` remains unchanged, pointing to the original \"Hello\" object."
 }

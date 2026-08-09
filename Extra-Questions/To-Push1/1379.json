@@ -1,14 +1,14 @@
 {
-  "id": "placement-1379",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a shared lock and an exclusive lock?",
-  "options": [
-    "Shared locks are for writing, exclusive locks are for reading",
-    "Multiple transactions can hold a shared lock simultaneously, but only one can hold an exclusive lock",
-    "They are the same thing",
-    "Shared locks prevent deadlocks, exclusive locks cause them"
-  ],
-  "answer": 1,
-  "explanation": "A shared (read) lock allows multiple transactions to read data concurrently. An exclusive (write) lock prevents other transactions from reading or writing the data."
+    "id": "pf-1581",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a shared lock and an exclusive lock?",
+    "options": [
+        "Shared locks are for writing, exclusive locks are for reading",
+        "Multiple transactions can hold a shared lock simultaneously, but only one can hold an exclusive lock",
+        "They are the same thing",
+        "Shared locks prevent deadlocks, exclusive locks cause them"
+    ],
+    "answer": 1,
+    "explanation": "A shared (read) lock allows multiple transactions to read data concurrently. An exclusive (write) lock prevents other transactions from reading or writing the data."
 }

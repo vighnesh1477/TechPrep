@@ -1,14 +1,14 @@
 {
-  "id": "placement-681",
-  "topic": "ps",
-  "difficulty": "Easy",
-  "question": "What does 'ps -ef' display?",
-  "options": [
-    "Only foreground processes",
-    "All processes in full format",
-    "Only effective user processes",
-    "Process environment variables"
-  ],
-  "answer": 1,
-  "explanation": "ps -ef shows all processes (-e) in full format (-f), displaying UID, PID, PPID, C, STIME, TTY, TIME, and CMD."
+    "id": "pf-883",
+    "topic": "ps",
+    "difficulty": "Easy",
+    "question": "What does 'ps -ef' display?",
+    "options": [
+        "Only foreground processes",
+        "All processes in full format",
+        "Only effective user processes",
+        "Process environment variables"
+    ],
+    "answer": 1,
+    "explanation": "ps -ef shows all processes (-e) in full format (-f), displaying UID, PID, PPID, C, STIME, TTY, TIME, and CMD."
 }

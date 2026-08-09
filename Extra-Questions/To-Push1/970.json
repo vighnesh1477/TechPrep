@@ -1,14 +1,14 @@
 {
-  "id": "placement-970",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "Which aggregate function counts the number of rows?",
-  "options": [
-    "SUM()",
-    "COUNT()",
-    "AVG()",
-    "MAX()"
-  ],
-  "answer": 1,
-  "explanation": "COUNT() returns the number of rows that match the criteria."
+    "id": "pf-1172",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "Which aggregate function counts the number of rows?",
+    "options": [
+        "SUM()",
+        "COUNT()",
+        "AVG()",
+        "MAX()"
+    ],
+    "answer": 1,
+    "explanation": "COUNT() returns the number of rows that match the criteria."
 }

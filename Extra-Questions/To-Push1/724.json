@@ -1,14 +1,14 @@
 {
-  "id": "placement-724",
-  "topic": "Environment Variables",
-  "difficulty": "Easy",
-  "question": "How do you set an environment variable in bash?",
-  "options": [
-    "VAR=value",
-    "export VAR=value",
-    "setenv VAR value",
-    "Both A and B, but only B makes it available to child processes"
-  ],
-  "answer": 3,
-  "explanation": "VAR=value creates a shell variable. export VAR=value makes it an environment variable available to child processes. Without export, child processes won't see it."
+    "id": "pf-926",
+    "topic": "Environment Variables",
+    "difficulty": "Easy",
+    "question": "How do you set an environment variable in bash?",
+    "options": [
+        "VAR=value",
+        "export VAR=value",
+        "setenv VAR value",
+        "Both A and B, but only B makes it available to child processes"
+    ],
+    "answer": 3,
+    "explanation": "VAR=value creates a shell variable. export VAR=value makes it an environment variable available to child processes. Without export, child processes won't see it."
 }

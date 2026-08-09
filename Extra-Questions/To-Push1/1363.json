@@ -1,14 +1,14 @@
 {
-  "id": "placement-1363",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is the primary challenge with implementing strict priority scheduling?",
-  "options": [
-    "It uses too much CPU overhead",
-    "It can lead to indefinite starvation of lower-priority processes",
-    "It requires a very large time quantum",
-    "It cannot be implemented in a preemptive manner"
-  ],
-  "answer": 1,
-  "explanation": "If high-priority processes continually arrive, low-priority processes may never get the CPU. This is known as starvation. Aging is often used as a solution to gradually increase the priority of waiting processes."
+    "id": "pf-1565",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is the primary challenge with implementing strict priority scheduling?",
+    "options": [
+        "It uses too much CPU overhead",
+        "It can lead to indefinite starvation of lower-priority processes",
+        "It requires a very large time quantum",
+        "It cannot be implemented in a preemptive manner"
+    ],
+    "answer": 1,
+    "explanation": "If high-priority processes continually arrive, low-priority processes may never get the CPU. This is known as starvation. Aging is often used as a solution to gradually increase the priority of waiting processes."
 }

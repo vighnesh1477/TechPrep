@@ -1,14 +1,14 @@
 {
-  "id": "placement-679",
-  "topic": "ps",
-  "difficulty": "Easy",
-  "question": "What does 'ps aux' show?",
-  "options": [
-    "Only the current user's processes",
-    "All processes for all users in detailed format",
-    "Only active processes",
-    "Processes sorted by CPU usage"
-  ],
-  "answer": 1,
-  "explanation": "ps aux shows all processes (a), for all users (u), in a user-oriented format (x includes processes not associated with a terminal)."
+    "id": "pf-881",
+    "topic": "ps",
+    "difficulty": "Easy",
+    "question": "What does 'ps aux' show?",
+    "options": [
+        "Only the current user's processes",
+        "All processes for all users in detailed format",
+        "Only active processes",
+        "Processes sorted by CPU usage"
+    ],
+    "answer": 1,
+    "explanation": "ps aux shows all processes (a), for all users (u), in a user-oriented format (x includes processes not associated with a terminal)."
 }

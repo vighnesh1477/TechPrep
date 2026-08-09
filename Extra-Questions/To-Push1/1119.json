@@ -1,14 +1,14 @@
 {
-  "id": "placement-1119",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What is the role of the TLB (Translation Lookaside Buffer)?",
-  "options": [
-    "Storing instructions",
-    "Caching recent virtual-to-physical address translations to speed up paging",
-    "Storing data",
-    "Managing the hard drive"
-  ],
-  "answer": 1,
-  "explanation": "The TLB is a cache inside the CPU that speeds up virtual address translation."
+    "id": "pf-1321",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What is the role of the TLB (Translation Lookaside Buffer)?",
+    "options": [
+        "Storing instructions",
+        "Caching recent virtual-to-physical address translations to speed up paging",
+        "Storing data",
+        "Managing the hard drive"
+    ],
+    "answer": 1,
+    "explanation": "The TLB is a cache inside the CPU that speeds up virtual address translation."
 }

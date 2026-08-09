@@ -1,14 +1,14 @@
 {
-  "id": "placement-1120",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What is SIMD in processor architecture?",
-  "options": [
-    "Single Instruction Multiple Data",
-    "Single Instruction Multiple Devices",
-    "Shared Input Multiple Data",
-    "System Integrated Multiple Devices"
-  ],
-  "answer": 0,
-  "explanation": "SIMD applies the same operation to multiple data points simultaneously, used heavily in multimedia and AI."
+    "id": "pf-1322",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What is SIMD in processor architecture?",
+    "options": [
+        "Single Instruction Multiple Data",
+        "Single Instruction Multiple Devices",
+        "Shared Input Multiple Data",
+        "System Integrated Multiple Devices"
+    ],
+    "answer": 0,
+    "explanation": "SIMD applies the same operation to multiple data points simultaneously, used heavily in multimedia and AI."
 }

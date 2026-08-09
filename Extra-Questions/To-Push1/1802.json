@@ -1,14 +1,14 @@
 {
-  "id": "placement-1802",
-  "topic": "Recursion",
-  "difficulty": "Medium",
-  "question": "What is the output?\n`void printNum(int n) {`\n`  if(n == 0) return;`\n`  printNum(n - 1);`\n`  printf(\"%d \", n);`\n`}`\n`printNum(3);`",
-  "options": [
-    "1 2 3",
-    "3 2 1",
-    "0 1 2 3",
-    "3"
-  ],
-  "answer": 0,
-  "explanation": "The `printf` occurs *after* the recursive call. This means the numbers are printed during the unwinding phase of the recursion: 1, then 2, then 3."
+    "id": "pf-2004",
+    "topic": "Recursion",
+    "difficulty": "Medium",
+    "question": "What is the output?\n`void printNum(int n) {`\n`  if(n == 0) return;`\n`  printNum(n - 1);`\n`  printf(\"%d \", n);`\n`}`\n`printNum(3);`",
+    "options": [
+        "1 2 3",
+        "3 2 1",
+        "0 1 2 3",
+        "3"
+    ],
+    "answer": 0,
+    "explanation": "The `printf` occurs *after* the recursive call. This means the numbers are printed during the unwinding phase of the recursion: 1, then 2, then 3."
 }

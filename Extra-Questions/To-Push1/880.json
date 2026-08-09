@@ -1,14 +1,14 @@
 {
-  "id": "placement-880",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What does the `mutable` keyword allow?",
-  "options": [
-    "Modifying a const object's member",
-    "Changing an object's type",
-    "Creating dynamic arrays",
-    "Overriding a final method"
-  ],
-  "answer": 0,
-  "explanation": "mutable allows a member to be modified even if the containing object is declared const."
+    "id": "pf-1082",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What does the `mutable` keyword allow?",
+    "options": [
+        "Modifying a const object's member",
+        "Changing an object's type",
+        "Creating dynamic arrays",
+        "Overriding a final method"
+    ],
+    "answer": 0,
+    "explanation": "mutable allows a member to be modified even if the containing object is declared const."
 }

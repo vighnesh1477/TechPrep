@@ -1,14 +1,14 @@
 {
-  "id": "placement-1268",
-  "topic": "OOP",
-  "difficulty": "Easy",
-  "question": "Can an abstract method be defined as static?",
-  "options": [
-    "Yes",
-    "No, because static methods belong to the class and cannot be overridden (which defeats the purpose of abstract)",
-    "Only in C++",
-    "Only in Python"
-  ],
-  "answer": 1,
-  "explanation": "Abstract methods are meant to be overridden in subclasses, but static methods are bound at compile time and cannot be overridden."
+    "id": "pf-1470",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Can an abstract method be defined as static?",
+    "options": [
+        "Yes",
+        "No, because static methods belong to the class and cannot be overridden (which defeats the purpose of abstract)",
+        "Only in C++",
+        "Only in Python"
+    ],
+    "answer": 1,
+    "explanation": "Abstract methods are meant to be overridden in subclasses, but static methods are bound at compile time and cannot be overridden."
 }

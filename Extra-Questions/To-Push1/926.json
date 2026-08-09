@@ -1,14 +1,14 @@
 {
-  "id": "placement-926",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "What is the maximum number of nodes in a binary tree of height H (root at height 0)?",
-  "options": [
-    "2^H",
-    "2^(H+1) - 1",
-    "2^H - 1",
-    "H^2"
-  ],
-  "answer": 1,
-  "explanation": "A perfect binary tree of height H has 2^(H+1) - 1 nodes."
+    "id": "pf-1128",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "What is the maximum number of nodes in a binary tree of height H (root at height 0)?",
+    "options": [
+        "2^H",
+        "2^(H+1) - 1",
+        "2^H - 1",
+        "H^2"
+    ],
+    "answer": 1,
+    "explanation": "A perfect binary tree of height H has 2^(H+1) - 1 nodes."
 }

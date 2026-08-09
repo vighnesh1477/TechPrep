@@ -1,14 +1,14 @@
 {
-  "id": "placement-418",
-  "topic": "Git Diff",
-  "difficulty": "Easy",
-  "question": "What color coding does git diff use by default for added lines?",
-  "options": [
-    "Red",
-    "Green",
-    "Blue",
-    "Yellow"
-  ],
-  "answer": 1,
-  "explanation": "By default, git diff shows added lines in green and removed lines in red when color output is enabled."
+    "id": "pf-620",
+    "topic": "Git Diff",
+    "difficulty": "Easy",
+    "question": "What color coding does git diff use by default for added lines?",
+    "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+    ],
+    "answer": 1,
+    "explanation": "By default, git diff shows added lines in green and removed lines in red when color output is enabled."
 }

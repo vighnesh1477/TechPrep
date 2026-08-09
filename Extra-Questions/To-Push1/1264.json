@@ -1,14 +1,14 @@
 {
-  "id": "placement-1264",
-  "topic": "DBMS",
-  "difficulty": "Easy",
-  "question": "What is an attribute in a database?",
-  "options": [
-    "A table",
-    "A column representing a property of an entity",
-    "A row",
-    "A relationship"
-  ],
-  "answer": 1,
-  "explanation": "An attribute is a named column of a relation (table) representing a characteristic of the data."
+    "id": "pf-1466",
+    "topic": "DBMS",
+    "difficulty": "Easy",
+    "question": "What is an attribute in a database?",
+    "options": [
+        "A table",
+        "A column representing a property of an entity",
+        "A row",
+        "A relationship"
+    ],
+    "answer": 1,
+    "explanation": "An attribute is a named column of a relation (table) representing a characteristic of the data."
 }

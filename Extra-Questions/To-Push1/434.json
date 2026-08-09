@@ -1,14 +1,14 @@
 {
-  "id": "placement-434",
-  "topic": "Clone",
-  "difficulty": "Easy",
-  "question": "Does git clone automatically set up the origin remote?",
-  "options": [
-    "No, you must add it manually",
-    "Yes, it sets origin to the URL you cloned from",
-    "Only if you use the --origin flag",
-    "Only for HTTPS URLs"
-  ],
-  "answer": 1,
-  "explanation": "git clone automatically creates an 'origin' remote pointing to the URL you cloned from, so you can immediately use git fetch, pull, and push."
+    "id": "pf-636",
+    "topic": "Clone",
+    "difficulty": "Easy",
+    "question": "Does git clone automatically set up the origin remote?",
+    "options": [
+        "No, you must add it manually",
+        "Yes, it sets origin to the URL you cloned from",
+        "Only if you use the --origin flag",
+        "Only for HTTPS URLs"
+    ],
+    "answer": 1,
+    "explanation": "git clone automatically creates an 'origin' remote pointing to the URL you cloned from, so you can immediately use git fetch, pull, and push."
 }

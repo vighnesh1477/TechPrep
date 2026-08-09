@@ -1,14 +1,14 @@
 {
-  "id": "placement-1549",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "What is a Truth Table?",
-  "options": [
-    "A table of mathematical values",
-    "A table that shows all possible input combinations to a logic circuit and the resulting outputs",
-    "A table of ASCII values",
-    "A table of CPU instructions"
-  ],
-  "answer": 1,
-  "explanation": "A truth table is a mathematical table used in logic to compute the functional values of logical expressions for every possible combination of their input values."
+    "id": "pf-1751",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "What is a Truth Table?",
+    "options": [
+        "A table of mathematical values",
+        "A table that shows all possible input combinations to a logic circuit and the resulting outputs",
+        "A table of ASCII values",
+        "A table of CPU instructions"
+    ],
+    "answer": 1,
+    "explanation": "A truth table is a mathematical table used in logic to compute the functional values of logical expressions for every possible combination of their input values."
 }

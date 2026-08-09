@@ -1,14 +1,14 @@
 {
-  "id": "placement-2063",
-  "topic": "Data Interpretation",
-  "difficulty": "Easy",
-  "question": "A table shows sales: Mon=10, Tue=20, Wed=30. Total sales?",
-  "options": [
-    "50",
-    "60",
-    "70",
-    "80"
-  ],
-  "answer": 1,
-  "explanation": "10 + 20 + 30 = 60."
+    "id": "pf-2265",
+    "topic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "A table shows sales: Mon=10, Tue=20, Wed=30. Total sales?",
+    "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+    ],
+    "answer": 1,
+    "explanation": "10 + 20 + 30 = 60."
 }

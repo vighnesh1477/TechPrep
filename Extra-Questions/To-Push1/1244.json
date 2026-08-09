@@ -1,14 +1,14 @@
 {
-  "id": "placement-1244",
-  "topic": "Python",
-  "difficulty": "Hard",
-  "question": "What is the output of `print(bool(\" \"))`?",
-  "options": [
-    "True",
-    "False",
-    "None",
-    "Error"
-  ],
-  "answer": 0,
-  "explanation": "A string containing a space is not empty, so it evaluates to True in a boolean context."
+    "id": "pf-1446",
+    "topic": "Python",
+    "difficulty": "Hard",
+    "question": "What is the output of `print(bool(\" \"))`?",
+    "options": [
+        "True",
+        "False",
+        "None",
+        "Error"
+    ],
+    "answer": 0,
+    "explanation": "A string containing a space is not empty, so it evaluates to True in a boolean context."
 }

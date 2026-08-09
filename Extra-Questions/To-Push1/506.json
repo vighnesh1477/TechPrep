@@ -1,14 +1,14 @@
 {
-  "id": "placement-506",
-  "topic": "Hooks",
-  "difficulty": "Medium",
-  "question": "Which hook is useful for enforcing commit message conventions?",
-  "options": [
-    "pre-commit",
-    "commit-msg",
-    "post-commit",
-    "pre-rebase"
-  ],
-  "answer": 1,
-  "explanation": "The commit-msg hook receives the commit message as an argument and can validate it against conventions, rejecting the commit if the message doesn't comply."
+    "id": "pf-708",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which hook is useful for enforcing commit message conventions?",
+    "options": [
+        "pre-commit",
+        "commit-msg",
+        "post-commit",
+        "pre-rebase"
+    ],
+    "answer": 1,
+    "explanation": "The commit-msg hook receives the commit message as an argument and can validate it against conventions, rejecting the commit if the message doesn't comply."
 }

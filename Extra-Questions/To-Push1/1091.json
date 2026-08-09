@@ -1,14 +1,14 @@
 {
-  "id": "placement-1091",
-  "topic": "Cyber Security Basics",
-  "difficulty": "Hard",
-  "question": "What is the principle of least privilege?",
-  "options": [
-    "Giving admin rights to everyone",
-    "Giving a user only the minimum access rights necessary to perform their tasks",
-    "Having no passwords",
-    "Sharing accounts"
-  ],
-  "answer": 1,
-  "explanation": "Least privilege limits the damage caused by accidents or compromised accounts by restricting unnecessary permissions."
+    "id": "pf-1293",
+    "topic": "Cyber Security Basics",
+    "difficulty": "Hard",
+    "question": "What is the principle of least privilege?",
+    "options": [
+        "Giving admin rights to everyone",
+        "Giving a user only the minimum access rights necessary to perform their tasks",
+        "Having no passwords",
+        "Sharing accounts"
+    ],
+    "answer": 1,
+    "explanation": "Least privilege limits the damage caused by accidents or compromised accounts by restricting unnecessary permissions."
 }

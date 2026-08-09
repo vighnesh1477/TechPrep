@@ -1,14 +1,14 @@
 {
-  "id": "placement-1441",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is a Socket in networking?",
-  "options": [
-    "A physical port on a switch",
-    "An endpoint for communication, defined by an IP address and a port number",
-    "A type of network cable",
-    "A protocol used for file transfer"
-  ],
-  "answer": 1,
-  "explanation": "A socket is one endpoint of a two-way communication link between two programs running on the network. It is identified by a combination of an IP address and a port number."
+    "id": "pf-1643",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is a Socket in networking?",
+    "options": [
+        "A physical port on a switch",
+        "An endpoint for communication, defined by an IP address and a port number",
+        "A type of network cable",
+        "A protocol used for file transfer"
+    ],
+    "answer": 1,
+    "explanation": "A socket is one endpoint of a two-way communication link between two programs running on the network. It is identified by a combination of an IP address and a port number."
 }

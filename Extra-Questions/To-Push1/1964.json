@@ -1,14 +1,14 @@
 {
-  "id": "placement-1964",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Medium",
-  "question": "Train 150m long passes a platform 250m long in 20s. Speed?",
-  "options": [
-    "15 m/s",
-    "20 m/s",
-    "25 m/s",
-    "30 m/s"
-  ],
-  "answer": 1,
-  "explanation": "Distance = 150+250 = 400m. Speed = 400/20 = 20 m/s."
+    "id": "pf-2166",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "Train 150m long passes a platform 250m long in 20s. Speed?",
+    "options": [
+        "15 m/s",
+        "20 m/s",
+        "25 m/s",
+        "30 m/s"
+    ],
+    "answer": 1,
+    "explanation": "Distance = 150+250 = 400m. Speed = 400/20 = 20 m/s."
 }

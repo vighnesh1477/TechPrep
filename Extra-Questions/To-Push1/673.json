@@ -1,14 +1,14 @@
 {
-  "id": "placement-673",
-  "topic": "Soft Links",
-  "difficulty": "Easy",
-  "question": "How do you create a symbolic (soft) link?",
-  "options": [
-    "ln source link",
-    "ln -s source link",
-    "symlink source link",
-    "link -s source link"
-  ],
-  "answer": 1,
-  "explanation": "ln -s source link creates a symbolic link. The -s flag stands for symbolic. The link points to the path of the source file, not its inode."
+    "id": "pf-875",
+    "topic": "Soft Links",
+    "difficulty": "Easy",
+    "question": "How do you create a symbolic (soft) link?",
+    "options": [
+        "ln source link",
+        "ln -s source link",
+        "symlink source link",
+        "link -s source link"
+    ],
+    "answer": 1,
+    "explanation": "ln -s source link creates a symbolic link. The -s flag stands for symbolic. The link points to the path of the source file, not its inode."
 }

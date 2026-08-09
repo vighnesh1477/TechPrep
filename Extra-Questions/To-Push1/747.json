@@ -1,14 +1,14 @@
 {
-  "id": "placement-747",
-  "topic": "dpkg",
-  "difficulty": "Easy",
-  "question": "How do you install a .deb file directly?",
-  "options": [
-    "apt install file.deb",
-    "dpkg -i file.deb",
-    "deb install file.deb",
-    "rpm -i file.deb"
-  ],
-  "answer": 1,
-  "explanation": "dpkg -i file.deb installs a .deb package file directly. Note that dpkg does not resolve dependencies automatically; use apt for that."
+    "id": "pf-949",
+    "topic": "dpkg",
+    "difficulty": "Easy",
+    "question": "How do you install a .deb file directly?",
+    "options": [
+        "apt install file.deb",
+        "dpkg -i file.deb",
+        "deb install file.deb",
+        "rpm -i file.deb"
+    ],
+    "answer": 1,
+    "explanation": "dpkg -i file.deb installs a .deb package file directly. Note that dpkg does not resolve dependencies automatically; use apt for that."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2145",
-  "topic": "Direction Sense",
-  "difficulty": "Easy",
-  "question": "A walks South for 10m, turns right, walks 5m. Which direction is he facing?",
-  "options": [
-    "East",
-    "West",
-    "North",
-    "South"
-  ],
-  "answer": 1,
-  "explanation": "Facing South, right turn means facing West."
+    "id": "pf-2347",
+    "topic": "Direction Sense",
+    "difficulty": "Easy",
+    "question": "A walks South for 10m, turns right, walks 5m. Which direction is he facing?",
+    "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+    ],
+    "answer": 1,
+    "explanation": "Facing South, right turn means facing West."
 }

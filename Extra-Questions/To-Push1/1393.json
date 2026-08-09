@@ -1,14 +1,14 @@
 {
-  "id": "placement-1393",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is an Intention Lock (e.g., Intention Shared, Intention Exclusive)?",
-  "options": [
-    "A lock that explicitly states the transaction's future plans",
-    "A hierarchical lock used in multiple-granularity locking to indicate that a transaction intends to lock a lower-level node in the tree",
-    "A lock placed on the database log",
-    "A temporary lock used during query optimization"
-  ],
-  "answer": 1,
-  "explanation": "In multiple-granularity locking, intention locks are placed on a higher-level node (like a table) to signal that a transaction intends to lock a lower-level node (like a row) explicitly, preventing conflicting locks on the parent."
+    "id": "pf-1595",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is an Intention Lock (e.g., Intention Shared, Intention Exclusive)?",
+    "options": [
+        "A lock that explicitly states the transaction's future plans",
+        "A hierarchical lock used in multiple-granularity locking to indicate that a transaction intends to lock a lower-level node in the tree",
+        "A lock placed on the database log",
+        "A temporary lock used during query optimization"
+    ],
+    "answer": 1,
+    "explanation": "In multiple-granularity locking, intention locks are placed on a higher-level node (like a table) to signal that a transaction intends to lock a lower-level node (like a row) explicitly, preventing conflicting locks on the parent."
 }

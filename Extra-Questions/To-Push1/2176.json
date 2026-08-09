@@ -1,14 +1,14 @@
 {
-  "id": "placement-2176",
-  "topic": "Statements and Assumptions",
-  "difficulty": "Medium",
-  "question": "Statement: 'Please use the stairs, elevator is under maintenance.' Assumption: People usually use the elevator.",
-  "options": [
-    "Implicit",
-    "Explicit",
-    "Not implicit",
-    "Contradictory"
-  ],
-  "answer": 0,
-  "explanation": "The instruction is given because the normal behavior (using elevator) is disrupted."
+    "id": "pf-2378",
+    "topic": "Statements and Assumptions",
+    "difficulty": "Medium",
+    "question": "Statement: 'Please use the stairs, elevator is under maintenance.' Assumption: People usually use the elevator.",
+    "options": [
+        "Implicit",
+        "Explicit",
+        "Not implicit",
+        "Contradictory"
+    ],
+    "answer": 0,
+    "explanation": "The instruction is given because the normal behavior (using elevator) is disrupted."
 }

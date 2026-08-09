@@ -1,14 +1,14 @@
 {
-  "id": "placement-1741",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "What does `arr.append(4)` do if `arr = [1, 2, 3]` in Python?",
-  "options": [
-    "Replaces the last element with 4",
-    "Adds 4 to the end of the list, making it [1, 2, 3, 4]",
-    "Inserts 4 at the beginning",
-    "Throws an error because arrays are fixed-size"
-  ],
-  "answer": 1,
-  "explanation": "The `append()` method in Python adds a single element to the end of the list, modifying the list in place."
+    "id": "pf-1943",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "What does `arr.append(4)` do if `arr = [1, 2, 3]` in Python?",
+    "options": [
+        "Replaces the last element with 4",
+        "Adds 4 to the end of the list, making it [1, 2, 3, 4]",
+        "Inserts 4 at the beginning",
+        "Throws an error because arrays are fixed-size"
+    ],
+    "answer": 1,
+    "explanation": "The `append()` method in Python adds a single element to the end of the list, modifying the list in place."
 }

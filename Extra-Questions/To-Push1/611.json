@@ -1,14 +1,14 @@
 {
-  "id": "placement-611",
-  "topic": "head",
-  "difficulty": "Easy",
-  "question": "What does head -q do when multiple files are specified?",
-  "options": [
-    "Shows file names before each output",
-    "Suppresses file name headers",
-    "Queries file metadata",
-    "Runs in quiet mode with no output"
-  ],
-  "answer": 1,
-  "explanation": "head -q (quiet) suppresses the file name headers that are normally printed before each file's content when multiple files are given."
+    "id": "pf-813",
+    "topic": "head",
+    "difficulty": "Easy",
+    "question": "What does head -q do when multiple files are specified?",
+    "options": [
+        "Shows file names before each output",
+        "Suppresses file name headers",
+        "Queries file metadata",
+        "Runs in quiet mode with no output"
+    ],
+    "answer": 1,
+    "explanation": "head -q (quiet) suppresses the file name headers that are normally printed before each file's content when multiple files are given."
 }

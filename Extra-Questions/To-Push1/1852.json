@@ -1,14 +1,14 @@
 {
-  "id": "placement-1852",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int i = 0;\nwhile(i < 3) {\n  i++;\n  if(i == 2) break;\n  printf(\"%d \", i);\n}`",
-  "options": [
-    "1 2 3",
-    "1",
-    "1 2",
-    "2"
-  ],
-  "answer": 1,
-  "explanation": "i=1: prints 1. i=2: break executes, terminating the loop. So only 1 is printed."
+    "id": "pf-2054",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int i = 0;\nwhile(i < 3) {\n  i++;\n  if(i == 2) break;\n  printf(\"%d \", i);\n}`",
+    "options": [
+        "1 2 3",
+        "1",
+        "1 2",
+        "2"
+    ],
+    "answer": 1,
+    "explanation": "i=1: prints 1. i=2: break executes, terminating the loop. So only 1 is printed."
 }

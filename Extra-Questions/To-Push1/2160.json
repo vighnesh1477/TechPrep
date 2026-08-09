@@ -1,14 +1,14 @@
 {
-  "id": "placement-2160",
-  "topic": "Syllogisms",
-  "difficulty": "Medium",
-  "question": "All teachers are students. No student is a doctor. Conclusion: No teacher is a doctor.",
-  "options": [
-    "True",
-    "False",
-    "Probable",
-    "Cannot determine"
-  ],
-  "answer": 0,
-  "explanation": "EAE-1 (Celarent). Conclusion follows."
+    "id": "pf-2362",
+    "topic": "Syllogisms",
+    "difficulty": "Medium",
+    "question": "All teachers are students. No student is a doctor. Conclusion: No teacher is a doctor.",
+    "options": [
+        "True",
+        "False",
+        "Probable",
+        "Cannot determine"
+    ],
+    "answer": 0,
+    "explanation": "EAE-1 (Celarent). Conclusion follows."
 }

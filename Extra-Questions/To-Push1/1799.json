@@ -1,14 +1,14 @@
 {
-  "id": "placement-1799",
-  "topic": "Recursion",
-  "difficulty": "Hard",
-  "question": "What is the output of this Python code?\n`def func(n):`\n`    if n == 0: return 1`\n`    return n + func(n-1)`\n`print(func(4))`",
-  "options": [
-    "10",
-    "24",
-    "15",
-    "4"
-  ],
-  "answer": 0,
-  "explanation": "This calculates the sum of integers from 0 to 4: 4 + 3 + 2 + 1 + 0 = 10."
+    "id": "pf-2001",
+    "topic": "Recursion",
+    "difficulty": "Hard",
+    "question": "What is the output of this Python code?\n`def func(n):`\n`    if n == 0: return 1`\n`    return n + func(n-1)`\n`print(func(4))`",
+    "options": [
+        "10",
+        "24",
+        "15",
+        "4"
+    ],
+    "answer": 0,
+    "explanation": "This calculates the sum of integers from 0 to 4: 4 + 3 + 2 + 1 + 0 = 10."
 }

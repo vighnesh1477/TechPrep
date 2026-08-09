@@ -1,14 +1,14 @@
 {
-  "id": "placement-552",
-  "topic": "ls",
-  "difficulty": "Easy",
-  "question": "Which flag displays hidden files with the ls command?",
-  "options": [
-    "ls -h",
-    "ls -a",
-    "ls -l",
-    "ls -A"
-  ],
-  "answer": 1,
-  "explanation": "ls -a shows all files including hidden ones (files starting with a dot). ls -A shows all files except . and .."
+    "id": "pf-754",
+    "topic": "ls",
+    "difficulty": "Easy",
+    "question": "Which flag displays hidden files with the ls command?",
+    "options": [
+        "ls -h",
+        "ls -a",
+        "ls -l",
+        "ls -A"
+    ],
+    "answer": 1,
+    "explanation": "ls -a shows all files including hidden ones (files starting with a dot). ls -A shows all files except . and .."
 }

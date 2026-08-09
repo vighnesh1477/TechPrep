@@ -1,14 +1,14 @@
 {
-  "id": "placement-2076",
-  "topic": "Data Interpretation",
-  "difficulty": "Medium",
-  "question": "Bar chart: Prod A=300, Prod B=200. A is what % more than B?",
-  "options": [
-    "30%",
-    "40%",
-    "50%",
-    "60%"
-  ],
-  "answer": 2,
-  "explanation": "(100/200)*100 = 50%."
+    "id": "pf-2278",
+    "topic": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar chart: Prod A=300, Prod B=200. A is what % more than B?",
+    "options": [
+        "30%",
+        "40%",
+        "50%",
+        "60%"
+    ],
+    "answer": 2,
+    "explanation": "(100/200)*100 = 50%."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1556",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Medium",
-  "question": "According to De Morgan's Theorem, what is the equivalent of (A · B)' (NAND)?",
-  "options": [
-    "A' · B'",
-    "A' + B'",
-    "A + B",
-    "A · B"
-  ],
-  "answer": 1,
-  "explanation": "De Morgan's Theorem states that the complement of a product equals the sum of the complements: (A · B)' = A' + B'."
+    "id": "pf-1758",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Medium",
+    "question": "According to De Morgan's Theorem, what is the equivalent of (A · B)' (NAND)?",
+    "options": [
+        "A' · B'",
+        "A' + B'",
+        "A + B",
+        "A · B"
+    ],
+    "answer": 1,
+    "explanation": "De Morgan's Theorem states that the complement of a product equals the sum of the complements: (A · B)' = A' + B'."
 }

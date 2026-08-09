@@ -1,14 +1,14 @@
 {
-  "id": "placement-1841",
-  "topic": "Complexity",
-  "difficulty": "Medium",
-  "question": "If an algorithm has a time complexity of O(n^2), what happens to the runtime if the input size is tripled?",
-  "options": [
-    "It triples",
-    "It increases by a factor of 9",
-    "It increases by a factor of 6",
-    "It doubles"
-  ],
-  "answer": 1,
-  "explanation": "If T(n) is proportional to n^2, then T(3n) is proportional to (3n)^2 = 9n^2. The runtime increases by a factor of 9."
+    "id": "pf-2043",
+    "topic": "Complexity",
+    "difficulty": "Medium",
+    "question": "If an algorithm has a time complexity of O(n^2), what happens to the runtime if the input size is tripled?",
+    "options": [
+        "It triples",
+        "It increases by a factor of 9",
+        "It increases by a factor of 6",
+        "It doubles"
+    ],
+    "answer": 1,
+    "explanation": "If T(n) is proportional to n^2, then T(3n) is proportional to (3n)^2 = 9n^2. The runtime increases by a factor of 9."
 }

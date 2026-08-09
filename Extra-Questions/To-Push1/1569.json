@@ -1,14 +1,14 @@
 {
-  "id": "placement-1569",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Hard",
-  "question": "What is a 'Ring Counter'?",
-  "options": [
-    "A counter that counts in binary",
-    "A shift register where the output of the last flip-flop is connected to the input of the first, circulating a single '1' (or '0') around the ring",
-    "A counter made of logic gates only",
-    "A counter that resets at 9"
-  ],
-  "answer": 1,
-  "explanation": "A ring counter is a type of counter composed of flip-flops connected in a shift register cascade, with the output of the last fed back to the input of the first, creating a circular shift."
+    "id": "pf-1771",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Hard",
+    "question": "What is a 'Ring Counter'?",
+    "options": [
+        "A counter that counts in binary",
+        "A shift register where the output of the last flip-flop is connected to the input of the first, circulating a single '1' (or '0') around the ring",
+        "A counter made of logic gates only",
+        "A counter that resets at 9"
+    ],
+    "answer": 1,
+    "explanation": "A ring counter is a type of counter composed of flip-flops connected in a shift register cascade, with the output of the last fed back to the input of the first, creating a circular shift."
 }

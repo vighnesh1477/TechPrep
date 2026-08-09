@@ -1,14 +1,14 @@
 {
-  "id": "placement-1554",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "What does a NAND gate output?",
-  "options": [
-    "The opposite of an OR gate",
-    "The opposite of an AND gate (0 only if all inputs are 1)",
-    "The same as an AND gate",
-    "1 only if all inputs are 1"
-  ],
-  "answer": 1,
-  "explanation": "A NAND gate is an AND gate followed by a NOT gate. It outputs 0 only when ALL inputs are 1; otherwise, it outputs 1."
+    "id": "pf-1756",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "What does a NAND gate output?",
+    "options": [
+        "The opposite of an OR gate",
+        "The opposite of an AND gate (0 only if all inputs are 1)",
+        "The same as an AND gate",
+        "1 only if all inputs are 1"
+    ],
+    "answer": 1,
+    "explanation": "A NAND gate is an AND gate followed by a NOT gate. It outputs 0 only when ALL inputs are 1; otherwise, it outputs 1."
 }

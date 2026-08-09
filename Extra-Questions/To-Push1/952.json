@@ -1,14 +1,14 @@
 {
-  "id": "placement-952",
-  "topic": "DBMS",
-  "difficulty": "Easy",
-  "question": "What is a Foreign Key?",
-  "options": [
-    "A key from another table",
-    "A primary key of another table referenced in the current table",
-    "A unique key",
-    "A composite key"
-  ],
-  "answer": 1,
-  "explanation": "A foreign key establishes a link to the primary key of another table."
+    "id": "pf-1154",
+    "topic": "DBMS",
+    "difficulty": "Easy",
+    "question": "What is a Foreign Key?",
+    "options": [
+        "A key from another table",
+        "A primary key of another table referenced in the current table",
+        "A unique key",
+        "A composite key"
+    ],
+    "answer": 1,
+    "explanation": "A foreign key establishes a link to the primary key of another table."
 }

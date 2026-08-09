@@ -1,14 +1,14 @@
 {
-  "id": "placement-1659",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "Can an `if` statement exist without an `else` statement?",
-  "options": [
-    "No, it is syntactically required",
-    "Yes, the else block is entirely optional",
-    "Only in Python",
-    "Only in Java"
-  ],
-  "answer": 1,
-  "explanation": "The `else` block is optional. An `if` statement can stand alone to execute code only when the condition is true."
+    "id": "pf-1861",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "Can an `if` statement exist without an `else` statement?",
+    "options": [
+        "No, it is syntactically required",
+        "Yes, the else block is entirely optional",
+        "Only in Python",
+        "Only in Java"
+    ],
+    "answer": 1,
+    "explanation": "The `else` block is optional. An `if` statement can stand alone to execute code only when the condition is true."
 }

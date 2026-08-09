@@ -1,14 +1,14 @@
 {
-  "id": "placement-1737",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "How do you pass a 2D array to a function in C?",
-  "options": [
-    "`void func(int arr[][])`",
-    "`void func(int **arr)`",
-    "`void func(int arr[][4])` where 4 is the column size",
-    "`void func(int arr[3][])`"
-  ],
-  "answer": 2,
-  "explanation": "In C, when passing a 2D array to a function, you must specify the number of columns (the rightmost dimension). The number of rows can be omitted."
+    "id": "pf-1939",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "How do you pass a 2D array to a function in C?",
+    "options": [
+        "`void func(int arr[][])`",
+        "`void func(int **arr)`",
+        "`void func(int arr[][4])` where 4 is the column size",
+        "`void func(int arr[3][])`"
+    ],
+    "answer": 2,
+    "explanation": "In C, when passing a 2D array to a function, you must specify the number of columns (the rightmost dimension). The number of rows can be omitted."
 }

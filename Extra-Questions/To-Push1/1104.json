@@ -1,14 +1,14 @@
 {
-  "id": "placement-1104",
-  "topic": "Cloud Basics",
-  "difficulty": "Hard",
-  "question": "How does cloud infrastructure handle hardware failure?",
-  "options": [
-    "Shuts down the cloud",
-    "Uses redundancy and automatically migrates workloads to healthy hardware",
-    "Waits for manual repair",
-    "Loses the data"
-  ],
-  "answer": 1,
-  "explanation": "Cloud providers use high redundancy; hypervisors and orchestration services automatically move VMs if hardware fails."
+    "id": "pf-1306",
+    "topic": "Cloud Basics",
+    "difficulty": "Hard",
+    "question": "How does cloud infrastructure handle hardware failure?",
+    "options": [
+        "Shuts down the cloud",
+        "Uses redundancy and automatically migrates workloads to healthy hardware",
+        "Waits for manual repair",
+        "Loses the data"
+    ],
+    "answer": 1,
+    "explanation": "Cloud providers use high redundancy; hypervisors and orchestration services automatically move VMs if hardware fails."
 }

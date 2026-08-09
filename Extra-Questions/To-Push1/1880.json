@@ -1,14 +1,14 @@
 {
-  "id": "placement-1880",
-  "topic": "Percentages",
-  "difficulty": "Easy",
-  "question": "A population increases by 10% and then 20%. Net percentage increase?",
-  "options": [
-    "30%",
-    "32%",
-    "31%",
-    "33%"
-  ],
-  "answer": 1,
-  "explanation": "100 -> 110 -> 132. Net increase is 32%."
+    "id": "pf-2082",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "question": "A population increases by 10% and then 20%. Net percentage increase?",
+    "options": [
+        "30%",
+        "32%",
+        "31%",
+        "33%"
+    ],
+    "answer": 1,
+    "explanation": "100 -> 110 -> 132. Net increase is 32%."
 }

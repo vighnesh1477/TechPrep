@@ -1,14 +1,14 @@
 {
-  "id": "placement-676",
-  "topic": "Soft Links",
-  "difficulty": "Easy",
-  "question": "What does 'ls -l' show for a symbolic link?",
-  "options": [
-    "Nothing special",
-    "The link name starts with 'l' and shows the target path with an arrow",
-    "The link is shown in a different color only",
-    "The link shows the inode number instead of size"
-  ],
-  "answer": 1,
-  "explanation": "Symbolic links show 'l' as the file type, and the target path is displayed after '->' at the end of the line."
+    "id": "pf-878",
+    "topic": "Soft Links",
+    "difficulty": "Easy",
+    "question": "What does 'ls -l' show for a symbolic link?",
+    "options": [
+        "Nothing special",
+        "The link name starts with 'l' and shows the target path with an arrow",
+        "The link is shown in a different color only",
+        "The link shows the inode number instead of size"
+    ],
+    "answer": 1,
+    "explanation": "Symbolic links show 'l' as the file type, and the target path is displayed after '->' at the end of the line."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1795",
-  "topic": "Recursion",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of a standard recursive factorial function `fact(n)`?",
-  "options": [
-    "O(n^2)",
-    "O(2^n)",
-    "O(n)",
-    "O(log n)"
-  ],
-  "answer": 2,
-  "explanation": "The function makes exactly `n` recursive calls, reducing `n` by 1 each time until it reaches the base case. Therefore, the time complexity is O(n)."
+    "id": "pf-1997",
+    "topic": "Recursion",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of a standard recursive factorial function `fact(n)`?",
+    "options": [
+        "O(n^2)",
+        "O(2^n)",
+        "O(n)",
+        "O(log n)"
+    ],
+    "answer": 2,
+    "explanation": "The function makes exactly `n` recursive calls, reducing `n` by 1 each time until it reaches the base case. Therefore, the time complexity is O(n)."
 }

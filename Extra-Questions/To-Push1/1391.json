@@ -1,14 +1,14 @@
 {
-  "id": "placement-1391",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is the purpose of a Write-Ahead Log (WAL) in DBMS?",
-  "options": [
-    "To log all user queries for auditing",
-    "To ensure that changes are written to a log file on disk before they are written to the database, guaranteeing durability",
-    "To compress data before writing",
-    "To manage network traffic"
-  ],
-  "answer": 1,
-  "explanation": "WAL is a fundamental property of database systems that ensures no data modifications are written to disk before the associated log record is written to stable storage, ensuring atomicity and durability."
+    "id": "pf-1593",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is the purpose of a Write-Ahead Log (WAL) in DBMS?",
+    "options": [
+        "To log all user queries for auditing",
+        "To ensure that changes are written to a log file on disk before they are written to the database, guaranteeing durability",
+        "To compress data before writing",
+        "To manage network traffic"
+    ],
+    "answer": 1,
+    "explanation": "WAL is a fundamental property of database systems that ensures no data modifications are written to disk before the associated log record is written to stable storage, ensuring atomicity and durability."
 }

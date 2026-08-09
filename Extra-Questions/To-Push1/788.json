@@ -1,14 +1,14 @@
 {
-  "id": "placement-788",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What is the first program that runs when a Linux system boots?",
-  "options": [
-    "The kernel",
-    "GRUB",
-    "BIOS/UEFI firmware",
-    "systemd"
-  ],
-  "answer": 2,
-  "explanation": "The BIOS/UEFI firmware runs first when power is applied. It performs POST (Power-On Self-Test), initializes hardware, and then loads the boot loader (GRUB) from the boot device."
+    "id": "pf-990",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What is the first program that runs when a Linux system boots?",
+    "options": [
+        "The kernel",
+        "GRUB",
+        "BIOS/UEFI firmware",
+        "systemd"
+    ],
+    "answer": 2,
+    "explanation": "The BIOS/UEFI firmware runs first when power is applied. It performs POST (Power-On Self-Test), initializes hardware, and then loads the boot loader (GRUB) from the boot device."
 }

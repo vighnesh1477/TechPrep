@@ -1,14 +1,14 @@
 {
-  "id": "placement-546",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "In Linux, everything is treated as a:",
-  "options": [
-    "Process",
-    "Thread",
-    "File",
-    "Device"
-  ],
-  "answer": 2,
-  "explanation": "In Linux, everything is treated as a file, including devices, directories, pipes, and sockets. This is a fundamental Unix philosophy."
+    "id": "pf-748",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "In Linux, everything is treated as a:",
+    "options": [
+        "Process",
+        "Thread",
+        "File",
+        "Device"
+    ],
+    "answer": 2,
+    "explanation": "In Linux, everything is treated as a file, including devices, directories, pipes, and sockets. This is a fundamental Unix philosophy."
 }

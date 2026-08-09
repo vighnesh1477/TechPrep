@@ -1,14 +1,14 @@
 {
-  "id": "placement-1162",
-  "topic": "Data Structures",
-  "difficulty": "Easy",
-  "question": "Which data structure is best for implementing a recursive function's call stack?",
-  "options": [
-    "Queue",
-    "Array",
-    "Stack",
-    "Graph"
-  ],
-  "answer": 2,
-  "explanation": "The OS uses a stack data structure to manage function calls and local variables (LIFO)."
+    "id": "pf-1364",
+    "topic": "Data Structures",
+    "difficulty": "Easy",
+    "question": "Which data structure is best for implementing a recursive function's call stack?",
+    "options": [
+        "Queue",
+        "Array",
+        "Stack",
+        "Graph"
+    ],
+    "answer": 2,
+    "explanation": "The OS uses a stack data structure to manage function calls and local variables (LIFO)."
 }

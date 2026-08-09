@@ -1,14 +1,14 @@
 {
-  "id": "placement-1935",
-  "topic": "Averages",
-  "difficulty": "Hard",
-  "question": "Average of A, B, C is 25. Average of A, B, C, D is 30. D is how much more than average of A, B, C?",
-  "options": [
-    "35",
-    "40",
-    "45",
-    "50"
-  ],
-  "answer": 2,
-  "explanation": "D = 4*30 - 3*25 = 120 - 75 = 45. Difference = 45 - 25 = 20. Let me re-read: 'D is how much more than average of A,B,C?'. D=45, avg=25. Difference=20. If question is 'what is D', 45. Let's make question: Find D. Answer 45."
+    "id": "pf-2137",
+    "topic": "Averages",
+    "difficulty": "Hard",
+    "question": "Average of A, B, C is 25. Average of A, B, C, D is 30. D is how much more than average of A, B, C?",
+    "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+    ],
+    "answer": 2,
+    "explanation": "D = 4*30 - 3*25 = 120 - 75 = 45. Difference = 45 - 25 = 20. Let me re-read: 'D is how much more than average of A,B,C?'. D=45, avg=25. Difference=20. If question is 'what is D', 45. Let's make question: Find D. Answer 45."
 }

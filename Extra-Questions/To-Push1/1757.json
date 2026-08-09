@@ -1,14 +1,14 @@
 {
-  "id": "placement-1757",
-  "topic": "Strings",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`char *s1 = \"abc\";`\n`char *s2 = \"abc\";`\n`if (s1 == s2) printf(\"Same\"); else printf(\"Diff\");`",
-  "options": [
-    "Same",
-    "Diff",
-    "Error",
-    "Undefined"
-  ],
-  "answer": 0,
-  "explanation": "String literals are stored in a read-only memory pool. The compiler may optimize identical string literals to point to the same memory address, making `s1 == s2` true. (Implementation-defined but common)."
+    "id": "pf-1959",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`char *s1 = \"abc\";`\n`char *s2 = \"abc\";`\n`if (s1 == s2) printf(\"Same\"); else printf(\"Diff\");`",
+    "options": [
+        "Same",
+        "Diff",
+        "Error",
+        "Undefined"
+    ],
+    "answer": 0,
+    "explanation": "String literals are stored in a read-only memory pool. The compiler may optimize identical string literals to point to the same memory address, making `s1 == s2` true. (Implementation-defined but common)."
 }

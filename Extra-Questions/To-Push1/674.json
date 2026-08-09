@@ -1,14 +1,14 @@
 {
-  "id": "placement-674",
-  "topic": "Soft Links",
-  "difficulty": "Easy",
-  "question": "What happens if the original file of a symbolic link is deleted?",
-  "options": [
-    "The symbolic link automatically becomes a regular file",
-    "The symbolic link becomes a dangling/broken link",
-    "The symbolic link is also deleted",
-    "The data is moved into the symbolic link"
-  ],
-  "answer": 1,
-  "explanation": "If the target file is deleted, the symbolic link becomes a dangling (broken) link that points to a non-existent file."
+    "id": "pf-876",
+    "topic": "Soft Links",
+    "difficulty": "Easy",
+    "question": "What happens if the original file of a symbolic link is deleted?",
+    "options": [
+        "The symbolic link automatically becomes a regular file",
+        "The symbolic link becomes a dangling/broken link",
+        "The symbolic link is also deleted",
+        "The data is moved into the symbolic link"
+    ],
+    "answer": 1,
+    "explanation": "If the target file is deleted, the symbolic link becomes a dangling (broken) link that points to a non-existent file."
 }

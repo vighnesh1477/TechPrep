@@ -1,14 +1,14 @@
 {
-  "id": "placement-2150",
-  "topic": "Direction Sense",
-  "difficulty": "Medium",
-  "question": "A man faces North. Turns 135 degrees clockwise. Faces?",
-  "options": [
-    "South-East",
-    "South-West",
-    "North-East",
-    "North-West"
-  ],
-  "answer": 0,
-  "explanation": "North + 135 deg = South-East."
+    "id": "pf-2352",
+    "topic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "A man faces North. Turns 135 degrees clockwise. Faces?",
+    "options": [
+        "South-East",
+        "South-West",
+        "North-East",
+        "North-West"
+    ],
+    "answer": 0,
+    "explanation": "North + 135 deg = South-East."
 }

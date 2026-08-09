@@ -1,14 +1,14 @@
 {
-  "id": "placement-830",
-  "topic": "uniq",
-  "difficulty": "Medium",
-  "question": "What does 'uniq -d' display?",
-  "options": [
-    "Only duplicate lines (one per group)",
-    "Only unique (non-duplicate) lines",
-    "All duplicate lines",
-    "Deletes all lines"
-  ],
-  "answer": 0,
-  "explanation": "uniq -d shows only lines that are duplicated (one instance per duplicate group). Use -D to show all instances of duplicate lines."
+    "id": "pf-1032",
+    "topic": "uniq",
+    "difficulty": "Medium",
+    "question": "What does 'uniq -d' display?",
+    "options": [
+        "Only duplicate lines (one per group)",
+        "Only unique (non-duplicate) lines",
+        "All duplicate lines",
+        "Deletes all lines"
+    ],
+    "answer": 0,
+    "explanation": "uniq -d shows only lines that are duplicated (one instance per duplicate group). Use -D to show all instances of duplicate lines."
 }

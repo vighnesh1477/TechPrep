@@ -1,14 +1,14 @@
 {
-  "id": "placement-733",
-  "topic": "ip",
-  "difficulty": "Easy",
-  "question": "What replaced ifconfig in modern Linux distributions?",
-  "options": [
-    "netconf",
-    "ip",
-    "netstat",
-    "nmap"
-  ],
-  "answer": 1,
-  "explanation": "The ip command from the iproute2 package has replaced ifconfig (from net-tools) for network interface configuration in modern Linux."
+    "id": "pf-935",
+    "topic": "ip",
+    "difficulty": "Easy",
+    "question": "What replaced ifconfig in modern Linux distributions?",
+    "options": [
+        "netconf",
+        "ip",
+        "netstat",
+        "nmap"
+    ],
+    "answer": 1,
+    "explanation": "The ip command from the iproute2 package has replaced ifconfig (from net-tools) for network interface configuration in modern Linux."
 }

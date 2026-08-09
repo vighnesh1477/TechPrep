@@ -1,14 +1,14 @@
 {
-  "id": "placement-1141",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What does `std::move` do?",
-  "options": [
-    "Move a file",
-    "Casts an object to an rvalue reference, enabling move semantics",
-    "Move memory locations",
-    "Delete an object"
-  ],
-  "answer": 1,
-  "explanation": "std::move does not move anything; it signals that the object can be moved from, avoiding unnecessary copies."
+    "id": "pf-1343",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What does `std::move` do?",
+    "options": [
+        "Move a file",
+        "Casts an object to an rvalue reference, enabling move semantics",
+        "Move memory locations",
+        "Delete an object"
+    ],
+    "answer": 1,
+    "explanation": "std::move does not move anything; it signals that the object can be moved from, avoiding unnecessary copies."
 }

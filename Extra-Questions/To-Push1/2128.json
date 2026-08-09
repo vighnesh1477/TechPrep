@@ -1,14 +1,14 @@
 {
-  "id": "placement-2128",
-  "topic": "Coding-Decoding",
-  "difficulty": "Hard",
-  "question": "If FISH is written as EHRG, how will JUNGLE be written?",
-  "options": [
-    "ITMFKD",
-    "ITNGLE",
-    "ITNFKD",
-    "ITMFKE"
-  ],
-  "answer": 0,
-  "explanation": "F-1=E, I-1=H, S-1=R, H-1=G. J-1=I, U-1=T, N-1=M, G-1=F, L-1=K, E-1=D. ITMFKD."
+    "id": "pf-2330",
+    "topic": "Coding-Decoding",
+    "difficulty": "Hard",
+    "question": "If FISH is written as EHRG, how will JUNGLE be written?",
+    "options": [
+        "ITMFKD",
+        "ITNGLE",
+        "ITNFKD",
+        "ITMFKE"
+    ],
+    "answer": 0,
+    "explanation": "F-1=E, I-1=H, S-1=R, H-1=G. J-1=I, U-1=T, N-1=M, G-1=F, L-1=K, E-1=D. ITMFKD."
 }

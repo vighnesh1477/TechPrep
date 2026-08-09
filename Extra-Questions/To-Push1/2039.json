@@ -1,14 +1,14 @@
 {
-  "id": "placement-2039",
-  "topic": "Permutation and Combination",
-  "difficulty": "Medium",
-  "question": "A team of 5 is to be chosen from 7 men and 6 women. Must have at least 3 men.",
-  "options": [
-    "756",
-    "516",
-    "612",
-    "720"
-  ],
-  "answer": 0,
-  "explanation": "Cases: 3M2W + 4M1W + 5M0W = 7C3*6C2 + 7C4*6C1 + 7C5 = 35*15 + 35*6 + 21 = 525 + 210 + 21 = 756."
+    "id": "pf-2241",
+    "topic": "Permutation and Combination",
+    "difficulty": "Medium",
+    "question": "A team of 5 is to be chosen from 7 men and 6 women. Must have at least 3 men.",
+    "options": [
+        "756",
+        "516",
+        "612",
+        "720"
+    ],
+    "answer": 0,
+    "explanation": "Cases: 3M2W + 4M1W + 5M0W = 7C3*6C2 + 7C4*6C1 + 7C5 = 35*15 + 35*6 + 21 = 525 + 210 + 21 = 756."
 }

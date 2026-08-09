@@ -1,14 +1,14 @@
 {
-  "id": "placement-1227",
-  "topic": "Python",
-  "difficulty": "Medium",
-  "question": "What is the output of `a = [1, 2, 3]; b = a; b.append(4); print(a);`?",
-  "options": [
-    "[1, 2, 3]",
-    "[1, 2, 3, 4]",
-    "Error",
-    "[4]"
-  ],
-  "answer": 1,
-  "explanation": "b = a makes both variables point to the same list object in memory. Modifying b modifies a."
+    "id": "pf-1429",
+    "topic": "Python",
+    "difficulty": "Medium",
+    "question": "What is the output of `a = [1, 2, 3]; b = a; b.append(4); print(a);`?",
+    "options": [
+        "[1, 2, 3]",
+        "[1, 2, 3, 4]",
+        "Error",
+        "[4]"
+    ],
+    "answer": 1,
+    "explanation": "b = a makes both variables point to the same list object in memory. Modifying b modifies a."
 }

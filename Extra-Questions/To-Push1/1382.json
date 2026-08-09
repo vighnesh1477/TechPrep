@@ -1,14 +1,14 @@
 {
-  "id": "placement-1382",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is a Multi-Valued Dependency (MVD)?",
-  "options": [
-    "When one key determines two separate values",
-    "When two attributes in a table are independent of each other but both depend on a third attribute",
-    "When a table has multiple primary keys",
-    "When data is duplicated across multiple tables"
-  ],
-  "answer": 1,
-  "explanation": "MVD occurs when there are at least three attributes (A, B, C) in a relation, where for each value of A, there is a well-defined set of values for B and a well-defined set of values for C, but B and C are independent."
+    "id": "pf-1584",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is a Multi-Valued Dependency (MVD)?",
+    "options": [
+        "When one key determines two separate values",
+        "When two attributes in a table are independent of each other but both depend on a third attribute",
+        "When a table has multiple primary keys",
+        "When data is duplicated across multiple tables"
+    ],
+    "answer": 1,
+    "explanation": "MVD occurs when there are at least three attributes (A, B, C) in a relation, where for each value of A, there is a well-defined set of values for B and a well-defined set of values for C, but B and C are independent."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1836",
-  "topic": "Complexity",
-  "difficulty": "Medium",
-  "question": "What does Big-Theta notation indicate?",
-  "options": [
-    "Only the upper bound",
-    "Only the lower bound",
-    "A tight bound (both upper and lower bounds are the same)",
-    "The average complexity"
-  ],
-  "answer": 2,
-  "explanation": "Big-Theta provides a tight bound, meaning the algorithm's growth rate is exactly proportional to the given function (both upper and lower bounds match asymptotically)."
+    "id": "pf-2038",
+    "topic": "Complexity",
+    "difficulty": "Medium",
+    "question": "What does Big-Theta notation indicate?",
+    "options": [
+        "Only the upper bound",
+        "Only the lower bound",
+        "A tight bound (both upper and lower bounds are the same)",
+        "The average complexity"
+    ],
+    "answer": 2,
+    "explanation": "Big-Theta provides a tight bound, meaning the algorithm's growth rate is exactly proportional to the given function (both upper and lower bounds match asymptotically)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1113",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the instruction cycle?",
-  "options": [
-    "Building a computer",
-    "The process of a CPU fetching, decoding, and executing an instruction",
-    "Installing software",
-    "Formatting a disk"
-  ],
-  "answer": 1,
-  "explanation": "The instruction cycle (fetch-decode-execute) is the fundamental operational process of a CPU."
+    "id": "pf-1315",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the instruction cycle?",
+    "options": [
+        "Building a computer",
+        "The process of a CPU fetching, decoding, and executing an instruction",
+        "Installing software",
+        "Formatting a disk"
+    ],
+    "answer": 1,
+    "explanation": "The instruction cycle (fetch-decode-execute) is the fundamental operational process of a CPU."
 }

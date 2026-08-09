@@ -1,14 +1,14 @@
 {
-  "id": "placement-1700",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int x = 10;`\n`void func() {`\n`  int x = 20;`\n`  printf(\"%d\", x);`\n`}`\n`int main() { func(); return 0; }`",
-  "options": [
-    "10",
-    "20",
-    "0",
-    "Compilation Error"
-  ],
-  "answer": 1,
-  "explanation": "The local variable `x` inside `func` shadows the global variable `x`. When `printf` is called, it accesses the local `x`, which is 20."
+    "id": "pf-1902",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int x = 10;`\n`void func() {`\n`  int x = 20;`\n`  printf(\"%d\", x);`\n`}`\n`int main() { func(); return 0; }`",
+    "options": [
+        "10",
+        "20",
+        "0",
+        "Compilation Error"
+    ],
+    "answer": 1,
+    "explanation": "The local variable `x` inside `func` shadows the global variable `x`. When `printf` is called, it accesses the local `x`, which is 20."
 }

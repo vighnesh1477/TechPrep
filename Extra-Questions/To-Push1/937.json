@@ -1,14 +1,14 @@
 {
-  "id": "placement-937",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "Which algorithm uses a pivot element to partition the array?",
-  "options": [
-    "Merge Sort",
-    "Quick Sort",
-    "Heap Sort",
-    "Radix Sort"
-  ],
-  "answer": 1,
-  "explanation": "Quick Sort selects a pivot and partitions the array into elements smaller and larger than the pivot."
+    "id": "pf-1139",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "Which algorithm uses a pivot element to partition the array?",
+    "options": [
+        "Merge Sort",
+        "Quick Sort",
+        "Heap Sort",
+        "Radix Sort"
+    ],
+    "answer": 1,
+    "explanation": "Quick Sort selects a pivot and partitions the array into elements smaller and larger than the pivot."
 }

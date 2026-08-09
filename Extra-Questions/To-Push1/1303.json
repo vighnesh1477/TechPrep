@@ -1,14 +1,14 @@
 {
-  "id": "placement-1303",
-  "topic": "Software Engineering",
-  "difficulty": "Hard",
-  "question": "What is Technical Debt Quadrants?",
-  "options": [
-    "4 types of bugs",
-    "A framework categorizing debt as Deliberate/Reckless vs Accidental/Prudent",
-    "4 stages of testing",
-    "A deployment strategy"
-  ],
-  "answer": 1,
-  "explanation": "It helps teams discuss debt: Did you do it on purpose? Did you do it recklessly or carefully?"
+    "id": "pf-1505",
+    "topic": "Software Engineering",
+    "difficulty": "Hard",
+    "question": "What is Technical Debt Quadrants?",
+    "options": [
+        "4 types of bugs",
+        "A framework categorizing debt as Deliberate/Reckless vs Accidental/Prudent",
+        "4 stages of testing",
+        "A deployment strategy"
+    ],
+    "answer": 1,
+    "explanation": "It helps teams discuss debt: Did you do it on purpose? Did you do it recklessly or carefully?"
 }

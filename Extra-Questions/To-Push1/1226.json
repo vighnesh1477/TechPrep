@@ -1,14 +1,14 @@
 {
-  "id": "placement-1226",
-  "topic": "Java",
-  "difficulty": "Medium",
-  "question": "What is the output of `System.out.println(\"\" + 1 + 2 + 3);`?",
-  "options": [
-    "6",
-    "123",
-    "1 2 3",
-    "Error"
-  ],
-  "answer": 1,
-  "explanation": "String concatenation starts at the beginning. \"\"+1 makes \"1\", then +2 makes \"12\", then +3 makes \"123\"."
+    "id": "pf-1428",
+    "topic": "Java",
+    "difficulty": "Medium",
+    "question": "What is the output of `System.out.println(\"\" + 1 + 2 + 3);`?",
+    "options": [
+        "6",
+        "123",
+        "1 2 3",
+        "Error"
+    ],
+    "answer": 1,
+    "explanation": "String concatenation starts at the beginning. \"\"+1 makes \"1\", then +2 makes \"12\", then +3 makes \"123\"."
 }

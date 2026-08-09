@@ -1,14 +1,14 @@
 {
-  "id": "placement-2011",
-  "topic": "Ages",
-  "difficulty": "Hard",
-  "question": "10 years ago, A was 3 times B. 10 years hence, A will be 2 times B. Present age of A?",
-  "options": [
-    "40",
-    "50",
-    "60",
-    "70"
-  ],
-  "answer": 1,
-  "explanation": "A-10=3(B-10), A+10=2(B+10). 3B-30+10=2B+20-10 => B=40. A=100. Let's solve properly: A-10=3B-30 => A=3B-20. 3B-20+10=2B+20-10 => 3B-10=2B+10 => B=20. A=3(20)-20=40. Wait. 10+10=20. 40+10=50. 20+10=30. 50 is not 2 times 30. Error! A+10=2(B+10) => A-2B=10. A-3B=-20. Subtracting: B=30. A=70. Check: 70-10=60, 30-10=20. 60=3*20. 70+10=80, 30+10=40. 80=2*40. A=70."
+    "id": "pf-2213",
+    "topic": "Ages",
+    "difficulty": "Hard",
+    "question": "10 years ago, A was 3 times B. 10 years hence, A will be 2 times B. Present age of A?",
+    "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+    ],
+    "answer": 1,
+    "explanation": "A-10=3(B-10), A+10=2(B+10). 3B-30+10=2B+20-10 => B=40. A=100. Let's solve properly: A-10=3B-30 => A=3B-20. 3B-20+10=2B+20-10 => 3B-10=2B+10 => B=20. A=3(20)-20=40. Wait. 10+10=20. 40+10=50. 20+10=30. 50 is not 2 times 30. Error! A+10=2(B+10) => A-2B=10. A-3B=-20. Subtracting: B=30. A=70. Check: 70-10=60, 30-10=20. 60=3*20. 70+10=80, 30+10=40. 80=2*40. A=70."
 }

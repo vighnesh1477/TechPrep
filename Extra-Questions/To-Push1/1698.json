@@ -1,14 +1,14 @@
 {
-  "id": "placement-1698",
-  "topic": "Functions",
-  "difficulty": "Easy",
-  "question": "Can a function return multiple values in C?",
-  "options": [
-    "Yes, using a comma-separated list",
-    "Yes, using pointers or arrays",
-    "No, it is strictly impossible",
-    "Yes, using the `multi` keyword"
-  ],
-  "answer": 1,
-  "explanation": "C functions can only directly return one value. To return multiple values, you must pass pointers (or arrays) as arguments and modify the pointed-to data."
+    "id": "pf-1900",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "question": "Can a function return multiple values in C?",
+    "options": [
+        "Yes, using a comma-separated list",
+        "Yes, using pointers or arrays",
+        "No, it is strictly impossible",
+        "Yes, using the `multi` keyword"
+    ],
+    "answer": 1,
+    "explanation": "C functions can only directly return one value. To return multiple values, you must pass pointers (or arrays) as arguments and modify the pointed-to data."
 }

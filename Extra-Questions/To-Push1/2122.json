@@ -1,14 +1,14 @@
 {
-  "id": "placement-2122",
-  "topic": "Coding-Decoding",
-  "difficulty": "Medium",
-  "question": "If 'black' is 'white', 'white' is 'grey', 'grey' is 'blue'. Color of cloud?",
-  "options": [
-    "White",
-    "Grey",
-    "Blue",
-    "Black"
-  ],
-  "answer": 2,
-  "explanation": "Cloud is white. White is coded as grey. Wait, cloud is white -> code is grey. If question asks 'color of cloud in code', it's grey. Let's ask: 'What is the code for a white cloud?' Grey."
+    "id": "pf-2324",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If 'black' is 'white', 'white' is 'grey', 'grey' is 'blue'. Color of cloud?",
+    "options": [
+        "White",
+        "Grey",
+        "Blue",
+        "Black"
+    ],
+    "answer": 2,
+    "explanation": "Cloud is white. White is coded as grey. Wait, cloud is white -> code is grey. If question asks 'color of cloud in code', it's grey. Let's ask: 'What is the code for a white cloud?' Grey."
 }

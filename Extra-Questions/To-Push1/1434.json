@@ -1,14 +1,14 @@
 {
-  "id": "placement-1434",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does DHCP do?",
-  "options": [
-    "Translates domain names to IPs",
-    "Assigns IP addresses dynamically to devices on a network",
-    "Encrypts wireless traffic",
-    "Filters malicious packets"
-  ],
-  "answer": 1,
-  "explanation": "Dynamic Host Configuration Protocol (DHCP) automatically assigns IP addresses and network configurations (subnet mask, gateway, DNS) to devices on a network."
+    "id": "pf-1636",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does DHCP do?",
+    "options": [
+        "Translates domain names to IPs",
+        "Assigns IP addresses dynamically to devices on a network",
+        "Encrypts wireless traffic",
+        "Filters malicious packets"
+    ],
+    "answer": 1,
+    "explanation": "Dynamic Host Configuration Protocol (DHCP) automatically assigns IP addresses and network configurations (subnet mask, gateway, DNS) to devices on a network."
 }

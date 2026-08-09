@@ -1,14 +1,14 @@
 {
-  "id": "placement-1291",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is a word size in computer architecture?",
-  "options": [
-    "The length of a string",
-    "The number of bits processed by the CPU in a single operation (e.g., 32-bit, 64-bit)",
-    "The size of the hard drive",
-    "The RAM capacity"
-  ],
-  "answer": 1,
-  "explanation": "Word size dictates the amount of data a CPU can handle in a single cycle and affects memory addressing limits."
+    "id": "pf-1493",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is a word size in computer architecture?",
+    "options": [
+        "The length of a string",
+        "The number of bits processed by the CPU in a single operation (e.g., 32-bit, 64-bit)",
+        "The size of the hard drive",
+        "The RAM capacity"
+    ],
+    "answer": 1,
+    "explanation": "Word size dictates the amount of data a CPU can handle in a single cycle and affects memory addressing limits."
 }

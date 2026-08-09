@@ -1,14 +1,14 @@
 {
-  "id": "placement-1069",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What is the purpose of the `pipe` character (|)?",
-  "options": [
-    "To comment a line",
-    "To send the output of one command as input to another",
-    "To chain commands sequentially ignoring output",
-    "To read from a file"
-  ],
-  "answer": 1,
-  "explanation": "Piping connects the standard output of one command directly to the standard input of another."
+    "id": "pf-1271",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the `pipe` character (|)?",
+    "options": [
+        "To comment a line",
+        "To send the output of one command as input to another",
+        "To chain commands sequentially ignoring output",
+        "To read from a file"
+    ],
+    "answer": 1,
+    "explanation": "Piping connects the standard output of one command directly to the standard input of another."
 }

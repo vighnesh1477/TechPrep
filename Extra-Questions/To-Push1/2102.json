@@ -1,14 +1,14 @@
 {
-  "id": "placement-2102",
-  "topic": "Number Series",
-  "difficulty": "Hard",
-  "question": "Find next: 6, 14, 36, 98, 276, ?",
-  "options": [
-    "560",
-    "612",
-    "790",
-    "856"
-  ],
-  "answer": 2,
-  "explanation": "Diffs: 8, 22, 62, 178. Diffs of diffs: 14, 40, 116. Diffs of diffs of diffs: 26, 76 (3x). Next: 228. 116+228=344. 178+344=522. 276+522=798. Let me use a cleaner one: 1, 3, 7, 15, 31, ? Diffs 2,4,8,16,32. Next 63."
+    "id": "pf-2304",
+    "topic": "Number Series",
+    "difficulty": "Hard",
+    "question": "Find next: 6, 14, 36, 98, 276, ?",
+    "options": [
+        "560",
+        "612",
+        "790",
+        "856"
+    ],
+    "answer": 2,
+    "explanation": "Diffs: 8, 22, 62, 178. Diffs of diffs: 14, 40, 116. Diffs of diffs of diffs: 26, 76 (3x). Next: 228. 116+228=344. 178+344=522. 276+522=798. Let me use a cleaner one: 1, 3, 7, 15, 31, ? Diffs 2,4,8,16,32. Next 63."
 }

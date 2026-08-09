@@ -1,14 +1,14 @@
 {
-  "id": "placement-1899",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "Two items sold at Rs 1000 each. One 20% profit, other 20% loss. Net?",
-  "options": [
-    "0%",
-    "4% loss",
-    "4% profit",
-    "2% loss"
-  ],
-  "answer": 1,
-  "explanation": "CP1=1000/1.2=833.33. CP2=1000/0.8=1250. Total CP=2083.33. Total SP=2000. Loss=83.33. % = 4% loss."
+    "id": "pf-2101",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "Two items sold at Rs 1000 each. One 20% profit, other 20% loss. Net?",
+    "options": [
+        "0%",
+        "4% loss",
+        "4% profit",
+        "2% loss"
+    ],
+    "answer": 1,
+    "explanation": "CP1=1000/1.2=833.33. CP2=1000/0.8=1250. Total CP=2083.33. Total SP=2000. Loss=83.33. % = 4% loss."
 }

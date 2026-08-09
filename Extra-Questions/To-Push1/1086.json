@@ -1,14 +1,14 @@
 {
-  "id": "placement-1086",
-  "topic": "Cyber Security Basics",
-  "difficulty": "Medium",
-  "question": "What is a firewall?",
-  "options": [
-    "An antivirus",
-    "A network security device that monitors and filters incoming and outgoing traffic",
-    "A password manager",
-    "A hard drive encryptor"
-  ],
-  "answer": 1,
-  "explanation": "Firewalls establish a barrier between a trusted internal network and an untrusted external network."
+    "id": "pf-1288",
+    "topic": "Cyber Security Basics",
+    "difficulty": "Medium",
+    "question": "What is a firewall?",
+    "options": [
+        "An antivirus",
+        "A network security device that monitors and filters incoming and outgoing traffic",
+        "A password manager",
+        "A hard drive encryptor"
+    ],
+    "answer": 1,
+    "explanation": "Firewalls establish a barrier between a trusted internal network and an untrusted external network."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1866",
-  "topic": "Number Systems",
-  "difficulty": "Easy",
-  "question": "Find the HCF of 36, 48, and 60.",
-  "options": [
-    "6",
-    "12",
-    "18",
-    "24"
-  ],
-  "answer": 1,
-  "explanation": "HCF(36,48,60) = 12."
+    "id": "pf-2068",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "question": "Find the HCF of 36, 48, and 60.",
+    "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+    ],
+    "answer": 1,
+    "explanation": "HCF(36,48,60) = 12."
 }

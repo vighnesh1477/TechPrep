@@ -1,14 +1,14 @@
 {
-  "id": "placement-936",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of Merge Sort?",
-  "options": [
-    "O(N)",
-    "O(N log N)",
-    "O(N^2)",
-    "O(log N)"
-  ],
-  "answer": 1,
-  "explanation": "Merge Sort recursively divides the array (log N) and merges them in linear time (N)."
+    "id": "pf-1138",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of Merge Sort?",
+    "options": [
+        "O(N)",
+        "O(N log N)",
+        "O(N^2)",
+        "O(log N)"
+    ],
+    "answer": 1,
+    "explanation": "Merge Sort recursively divides the array (log N) and merges them in linear time (N)."
 }

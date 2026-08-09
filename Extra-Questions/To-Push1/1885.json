@@ -1,14 +1,14 @@
 {
-  "id": "placement-1885",
-  "topic": "Percentages",
-  "difficulty": "Medium",
-  "question": "In an exam, 60% passed English, 70% passed Math, 20% failed both. % passed both?",
-  "options": [
-    "30%",
-    "40%",
-    "50%",
-    "60%"
-  ],
-  "answer": 2,
-  "explanation": "E+M-Both+Fail=100 => 60+70-Both+20=100 => 150-Both=80 => Both=50%."
+    "id": "pf-2087",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "question": "In an exam, 60% passed English, 70% passed Math, 20% failed both. % passed both?",
+    "options": [
+        "30%",
+        "40%",
+        "50%",
+        "60%"
+    ],
+    "answer": 2,
+    "explanation": "E+M-Both+Fail=100 => 60+70-Both+20=100 => 150-Both=80 => Both=50%."
 }

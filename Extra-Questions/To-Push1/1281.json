@@ -1,14 +1,14 @@
 {
-  "id": "placement-1281",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "What is a composite key?",
-  "options": [
-    "A key made of plastic",
-    "A primary key composed of two or more columns",
-    "A foreign key",
-    "A backup key"
-  ],
-  "answer": 1,
-  "explanation": "A composite key uses multiple columns together to uniquely identify a row when a single column is insufficient."
+    "id": "pf-1483",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is a composite key?",
+    "options": [
+        "A key made of plastic",
+        "A primary key composed of two or more columns",
+        "A foreign key",
+        "A backup key"
+    ],
+    "answer": 1,
+    "explanation": "A composite key uses multiple columns together to uniquely identify a row when a single column is insufficient."
 }

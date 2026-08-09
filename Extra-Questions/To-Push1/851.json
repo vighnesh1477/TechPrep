@@ -1,14 +1,14 @@
 {
-  "id": "placement-851",
-  "topic": "Shell Scripting",
-  "difficulty": "Medium",
-  "question": "What does 'set -x' do in a bash script?",
-  "options": [
-    "Exports all variables",
-    "Prints each command before executing it (debug mode)",
-    "Excludes certain lines from execution",
-    "Sets the script to execute in the background"
-  ],
-  "answer": 1,
-  "explanation": "set -x enables debug mode, printing each command (with variable expansions) to stderr before executing it. This is invaluable for troubleshooting scripts."
+    "id": "pf-1053",
+    "topic": "Shell Scripting",
+    "difficulty": "Medium",
+    "question": "What does 'set -x' do in a bash script?",
+    "options": [
+        "Exports all variables",
+        "Prints each command before executing it (debug mode)",
+        "Excludes certain lines from execution",
+        "Sets the script to execute in the background"
+    ],
+    "answer": 1,
+    "explanation": "set -x enables debug mode, printing each command (with variable expansions) to stderr before executing it. This is invaluable for troubleshooting scripts."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1529",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which parsing technique builds the parse tree from the top (root) down to the leaves?",
-  "options": [
-    "Bottom-Up Parsing (e.g., LR)",
-    "Top-Down Parsing (e.g., Recursive Descent)",
-    "Left-to-Right Parsing",
-    "Right-to-Left Parsing"
-  ],
-  "answer": 1,
-  "explanation": "Top-down parsing starts with the start symbol of the grammar and tries to construct the parse tree down to the leaves (the input tokens) using productions (e.g., LL parsers)."
+    "id": "pf-1731",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which parsing technique builds the parse tree from the top (root) down to the leaves?",
+    "options": [
+        "Bottom-Up Parsing (e.g., LR)",
+        "Top-Down Parsing (e.g., Recursive Descent)",
+        "Left-to-Right Parsing",
+        "Right-to-Left Parsing"
+    ],
+    "answer": 1,
+    "explanation": "Top-down parsing starts with the start symbol of the grammar and tries to construct the parse tree down to the leaves (the input tokens) using productions (e.g., LL parsers)."
 }

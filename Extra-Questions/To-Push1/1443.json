@@ -1,14 +1,14 @@
 {
-  "id": "placement-1443",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "In the TCP/IP model, which layer combines the Session, Presentation, and Application layers of the OSI model?",
-  "options": [
-    "Network Access Layer",
-    "Internet Layer",
-    "Transport Layer",
-    "Application Layer"
-  ],
-  "answer": 3,
-  "explanation": "The TCP/IP model's Application Layer encompasses the functions of OSI's Application, Presentation, and Session layers, handling application interfaces, data formatting, and session management."
+    "id": "pf-1645",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "In the TCP/IP model, which layer combines the Session, Presentation, and Application layers of the OSI model?",
+    "options": [
+        "Network Access Layer",
+        "Internet Layer",
+        "Transport Layer",
+        "Application Layer"
+    ],
+    "answer": 3,
+    "explanation": "The TCP/IP model's Application Layer encompasses the functions of OSI's Application, Presentation, and Session layers, handling application interfaces, data formatting, and session management."
 }

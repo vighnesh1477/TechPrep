@@ -1,14 +1,14 @@
 {
-  "id": "placement-1016",
-  "topic": "Computer Networks",
-  "difficulty": "Hard",
-  "question": "What is the difference between a switch and a hub?",
-  "options": [
-    "No difference",
-    "A hub broadcasts to all ports; a switch sends data only to the intended destination port",
-    "A switch is slower",
-    "A hub operates at Layer 3"
-  ],
-  "answer": 1,
-  "explanation": "Switches maintain a MAC address table to forward frames intelligently, while hubs blindly broadcast to all ports."
+    "id": "pf-1218",
+    "topic": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "What is the difference between a switch and a hub?",
+    "options": [
+        "No difference",
+        "A hub broadcasts to all ports; a switch sends data only to the intended destination port",
+        "A switch is slower",
+        "A hub operates at Layer 3"
+    ],
+    "answer": 1,
+    "explanation": "Switches maintain a MAC address table to forward frames intelligently, while hubs blindly broadcast to all ports."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1471",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the role of the Program Counter (PC) register?",
-  "options": [
-    "To count the number of running programs",
-    "To hold the memory address of the next instruction to be fetched",
-    "To store the results of ALU operations",
-    "To manage I/O devices"
-  ],
-  "answer": 1,
-  "explanation": "The Program Counter (PC), also called the Instruction Pointer (IP), is a special register that holds the address of the next instruction to be executed from memory."
+    "id": "pf-1673",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the role of the Program Counter (PC) register?",
+    "options": [
+        "To count the number of running programs",
+        "To hold the memory address of the next instruction to be fetched",
+        "To store the results of ALU operations",
+        "To manage I/O devices"
+    ],
+    "answer": 1,
+    "explanation": "The Program Counter (PC), also called the Instruction Pointer (IP), is a special register that holds the address of the next instruction to be executed from memory."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1653",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this Java code?\n`int i = 0;`\n`while(i < 3) {`\n`  i++;`\n`  if(i == 2) break;`\n`}`\n`System.out.print(i);`",
-  "options": [
-    "3",
-    "2",
-    "1",
-    "0"
-  ],
-  "answer": 1,
-  "explanation": "Initially i=0. Loop 1: i becomes 1. Loop 2: i becomes 2. The `if(i==2)` condition is true, triggering `break`. The loop terminates, and 2 is printed."
+    "id": "pf-1855",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this Java code?\n`int i = 0;`\n`while(i < 3) {`\n`  i++;`\n`  if(i == 2) break;`\n`}`\n`System.out.print(i);`",
+    "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+    ],
+    "answer": 1,
+    "explanation": "Initially i=0. Loop 1: i becomes 1. Loop 2: i becomes 2. The `if(i==2)` condition is true, triggering `break`. The loop terminates, and 2 is printed."
 }

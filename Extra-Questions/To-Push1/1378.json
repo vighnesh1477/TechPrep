@@ -1,14 +1,14 @@
 {
-  "id": "placement-1378",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which of the following is NOT a concurrency control technique?",
-  "options": [
-    "Lock-based protocols",
-    "Timestamp ordering",
-    "Validation-based protocols",
-    "Normalization"
-  ],
-  "answer": 3,
-  "explanation": "Normalization is a database design technique to reduce redundancy. Lock-based protocols, timestamp ordering, and validation-based protocols are techniques to manage concurrent transaction execution."
+    "id": "pf-1580",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT a concurrency control technique?",
+    "options": [
+        "Lock-based protocols",
+        "Timestamp ordering",
+        "Validation-based protocols",
+        "Normalization"
+    ],
+    "answer": 3,
+    "explanation": "Normalization is a database design technique to reduce redundancy. Lock-based protocols, timestamp ordering, and validation-based protocols are techniques to manage concurrent transaction execution."
 }

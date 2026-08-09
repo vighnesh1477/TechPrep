@@ -1,14 +1,14 @@
 {
-  "id": "placement-1835",
-  "topic": "Complexity",
-  "difficulty": "Medium",
-  "question": "What does Big-Omega notation represent?",
-  "options": [
-    "The worst-case time complexity",
-    "The lower bound of an algorithm's growth rate",
-    "The exact time complexity",
-    "The space complexity"
-  ],
-  "answer": 1,
-  "explanation": "Big-Omega notation describes the asymptotic lower bound, representing the best-case scenario or the minimum amount of time/space an algorithm will require."
+    "id": "pf-2037",
+    "topic": "Complexity",
+    "difficulty": "Medium",
+    "question": "What does Big-Omega notation represent?",
+    "options": [
+        "The worst-case time complexity",
+        "The lower bound of an algorithm's growth rate",
+        "The exact time complexity",
+        "The space complexity"
+    ],
+    "answer": 1,
+    "explanation": "Big-Omega notation describes the asymptotic lower bound, representing the best-case scenario or the minimum amount of time/space an algorithm will require."
 }

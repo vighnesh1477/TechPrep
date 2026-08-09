@@ -1,14 +1,14 @@
 {
-  "id": "placement-578",
-  "topic": "mkdir",
-  "difficulty": "Easy",
-  "question": "How do you create a directory with subdirectories in one command?",
-  "options": [
-    "mkdir -r a/b/c",
-    "mkdir -p a/b/c",
-    "mkdir --all a/b/c",
-    "mkdir -s a/b/c"
-  ],
-  "answer": 1,
-  "explanation": "mkdir -p creates parent directories as needed. Without -p, mkdir a/b/c would fail if a and b don't already exist."
+    "id": "pf-780",
+    "topic": "mkdir",
+    "difficulty": "Easy",
+    "question": "How do you create a directory with subdirectories in one command?",
+    "options": [
+        "mkdir -r a/b/c",
+        "mkdir -p a/b/c",
+        "mkdir --all a/b/c",
+        "mkdir -s a/b/c"
+    ],
+    "answer": 1,
+    "explanation": "mkdir -p creates parent directories as needed. Without -p, mkdir a/b/c would fail if a and b don't already exist."
 }

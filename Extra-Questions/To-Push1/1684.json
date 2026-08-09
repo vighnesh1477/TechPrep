@@ -1,14 +1,14 @@
 {
-  "id": "placement-1684",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "Can a `switch` statement be nested inside another `switch` statement?",
-  "options": [
-    "No, it is syntactically invalid",
-    "Yes, but only in C++",
-    "Yes, it is allowed in most languages that support switch",
-    "Only if the data types are the same"
-  ],
-  "answer": 2,
-  "explanation": "You can nest `switch` statements inside one another. This is valid syntax, though it can make code harder to read if not managed carefully."
+    "id": "pf-1886",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "Can a `switch` statement be nested inside another `switch` statement?",
+    "options": [
+        "No, it is syntactically invalid",
+        "Yes, but only in C++",
+        "Yes, it is allowed in most languages that support switch",
+        "Only if the data types are the same"
+    ],
+    "answer": 2,
+    "explanation": "You can nest `switch` statements inside one another. This is valid syntax, though it can make code harder to read if not managed carefully."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-541",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "Which command is used to check the Linux kernel version?",
-  "options": [
-    "linux --version",
-    "kernel -v",
-    "uname -r",
-    "ver"
-  ],
-  "answer": 2,
-  "explanation": "uname -r displays the kernel release version. For example, it might output 5.15.0-76-generic."
+    "id": "pf-743",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "Which command is used to check the Linux kernel version?",
+    "options": [
+        "linux --version",
+        "kernel -v",
+        "uname -r",
+        "ver"
+    ],
+    "answer": 2,
+    "explanation": "uname -r displays the kernel release version. For example, it might output 5.15.0-76-generic."
 }

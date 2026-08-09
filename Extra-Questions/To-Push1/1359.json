@@ -1,14 +1,14 @@
 {
-  "id": "placement-1359",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Hard",
-  "question": "A system uses 4-level paging. The page size is 4KB. A virtual address is 48 bits. How many bits are used for the page offset, and how many bits are available for the page table indices combined?",
-  "options": [
-    "12 bits offset, 36 bits indices",
-    "16 bits offset, 32 bits indices",
-    "12 bits offset, 48 bits indices",
-    "4 bits offset, 44 bits indices"
-  ],
-  "answer": 0,
-  "explanation": "Page size is 4KB = 2^12 bytes, so the offset requires 12 bits. The remaining bits of the 48-bit virtual address (48 - 12 = 36 bits) are divided among the 4 levels of page tables."
+    "id": "pf-1561",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Hard",
+    "question": "A system uses 4-level paging. The page size is 4KB. A virtual address is 48 bits. How many bits are used for the page offset, and how many bits are available for the page table indices combined?",
+    "options": [
+        "12 bits offset, 36 bits indices",
+        "16 bits offset, 32 bits indices",
+        "12 bits offset, 48 bits indices",
+        "4 bits offset, 44 bits indices"
+    ],
+    "answer": 0,
+    "explanation": "Page size is 4KB = 2^12 bytes, so the offset requires 12 bits. The remaining bits of the 48-bit virtual address (48 - 12 = 36 bits) are divided among the 4 levels of page tables."
 }

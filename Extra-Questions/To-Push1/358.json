@@ -1,14 +1,14 @@
 {
-  "id": "placement-358",
-  "topic": "Upstream",
-  "difficulty": "Easy",
-  "question": "How do you add the original repository as upstream after forking?",
-  "options": [
-    "git remote add upstream https://original-repo.com/project.git",
-    "git upstream set https://original-repo.com/project.git",
-    "git fork --add-upstream https://original-repo.com/project.git",
-    "git remote set-origin upstream https://original-repo.com/project.git"
-  ],
-  "answer": 0,
-  "explanation": "After forking, you add the original repository as 'upstream' so you can fetch changes from it and keep your fork synchronized."
+    "id": "pf-560",
+    "topic": "Upstream",
+    "difficulty": "Easy",
+    "question": "How do you add the original repository as upstream after forking?",
+    "options": [
+        "git remote add upstream https://original-repo.com/project.git",
+        "git upstream set https://original-repo.com/project.git",
+        "git fork --add-upstream https://original-repo.com/project.git",
+        "git remote set-origin upstream https://original-repo.com/project.git"
+    ],
+    "answer": 0,
+    "explanation": "After forking, you add the original repository as 'upstream' so you can fetch changes from it and keep your fork synchronized."
 }

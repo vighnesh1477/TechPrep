@@ -1,14 +1,14 @@
 {
-  "id": "placement-651",
-  "topic": "chmod",
-  "difficulty": "Easy",
-  "question": "What is the setuid bit represented by in octal?",
-  "options": [
-    "1000",
-    "2000",
-    "4000",
-    "8000"
-  ],
-  "answer": 2,
-  "explanation": "The setuid bit is 4000 in octal. setgid is 2000, and the sticky bit is 1000. For example, chmod 4755 sets setuid plus rwxr-xr-x."
+    "id": "pf-853",
+    "topic": "chmod",
+    "difficulty": "Easy",
+    "question": "What is the setuid bit represented by in octal?",
+    "options": [
+        "1000",
+        "2000",
+        "4000",
+        "8000"
+    ],
+    "answer": 2,
+    "explanation": "The setuid bit is 4000 in octal. setgid is 2000, and the sticky bit is 1000. For example, chmod 4755 sets setuid plus rwxr-xr-x."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1992",
-  "topic": "Simple and Compound Interest",
-  "difficulty": "Hard",
-  "question": "A certain sum becomes 2.5 times in 5 years at CI. In how many years will it become 5 times?",
-  "options": [
-    "10 years",
-    "12.5 years",
-    "15 years",
-    "8 years"
-  ],
-  "answer": 0,
-  "explanation": "2.5 = (1+R)^5. 5 = 2 * 2.5 = (1+R)^5 * 2. Wait, 5 is not a simple power. Let me correct question: becomes 4 times in 2 years. Time to become 16 times? 4 = x^2. 16 = x^4. So 4 years."
+    "id": "pf-2194",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Hard",
+    "question": "A certain sum becomes 2.5 times in 5 years at CI. In how many years will it become 5 times?",
+    "options": [
+        "10 years",
+        "12.5 years",
+        "15 years",
+        "8 years"
+    ],
+    "answer": 0,
+    "explanation": "2.5 = (1+R)^5. 5 = 2 * 2.5 = (1+R)^5 * 2. Wait, 5 is not a simple power. Let me correct question: becomes 4 times in 2 years. Time to become 16 times? 4 = x^2. 16 = x^4. So 4 years."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1073",
-  "topic": "Linux",
-  "difficulty": "Hard",
-  "question": "What is the difference between a hard link and a symbolic (soft) link?",
-  "options": [
-    "No difference",
-    "Hard link points to the same inode; soft link points to the path",
-    "Soft link points to the same inode; hard link points to the path",
-    "Hard links cannot link directories"
-  ],
-  "answer": 1,
-  "explanation": "Hard links share the exact same inode (data). Soft links are shortcuts pointing to the file path and break if the original is moved."
+    "id": "pf-1275",
+    "topic": "Linux",
+    "difficulty": "Hard",
+    "question": "What is the difference between a hard link and a symbolic (soft) link?",
+    "options": [
+        "No difference",
+        "Hard link points to the same inode; soft link points to the path",
+        "Soft link points to the same inode; hard link points to the path",
+        "Hard links cannot link directories"
+    ],
+    "answer": 1,
+    "explanation": "Hard links share the exact same inode (data). Soft links are shortcuts pointing to the file path and break if the original is moved."
 }

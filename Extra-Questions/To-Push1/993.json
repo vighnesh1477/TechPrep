@@ -1,14 +1,14 @@
 {
-  "id": "placement-993",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What does a semaphore do?",
-  "options": [
-    "Encrypts data",
-    "Controls access to a shared resource by a pool of threads",
-    "Schedules CPU",
-    "Manages file systems"
-  ],
-  "answer": 1,
-  "explanation": "Semaphores are synchronization tools that control access to shared resources using counters."
+    "id": "pf-1195",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What does a semaphore do?",
+    "options": [
+        "Encrypts data",
+        "Controls access to a shared resource by a pool of threads",
+        "Schedules CPU",
+        "Manages file systems"
+    ],
+    "answer": 1,
+    "explanation": "Semaphores are synchronization tools that control access to shared resources using counters."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-978",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What does the COALESCE() function do?",
-  "options": [
-    "Adds numbers",
-    "Returns the first non-NULL argument in a list",
-    "Counts NULLs",
-    "Replaces NULL with 0 only"
-  ],
-  "answer": 1,
-  "explanation": "COALESCE evaluates its arguments in order and returns the first one that is not NULL."
+    "id": "pf-1180",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What does the COALESCE() function do?",
+    "options": [
+        "Adds numbers",
+        "Returns the first non-NULL argument in a list",
+        "Counts NULLs",
+        "Replaces NULL with 0 only"
+    ],
+    "answer": 1,
+    "explanation": "COALESCE evaluates its arguments in order and returns the first one that is not NULL."
 }

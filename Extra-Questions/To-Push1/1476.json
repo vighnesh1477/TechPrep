@@ -1,14 +1,14 @@
 {
-  "id": "placement-1476",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "In a 5-stage pipeline (Fetch, Decode, Execute, Memory, Write-Back), what is the penalty for a control hazard (branch misprediction) assuming no branch prediction?",
-  "options": [
-    "1 cycle",
-    "2 cycles",
-    "3 cycles",
-    "4 cycles"
-  ],
-  "answer": 2,
-  "explanation": "Without prediction, the pipeline must stall until the branch outcome is known, which happens in the Execute stage. The instructions fetched during the stall (2 instructions) must be flushed, causing a 3-cycle penalty."
+    "id": "pf-1678",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "In a 5-stage pipeline (Fetch, Decode, Execute, Memory, Write-Back), what is the penalty for a control hazard (branch misprediction) assuming no branch prediction?",
+    "options": [
+        "1 cycle",
+        "2 cycles",
+        "3 cycles",
+        "4 cycles"
+    ],
+    "answer": 2,
+    "explanation": "Without prediction, the pipeline must stall until the branch outcome is known, which happens in the Execute stage. The instructions fetched during the stall (2 instructions) must be flushed, causing a 3-cycle penalty."
 }

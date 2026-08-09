@@ -1,14 +1,14 @@
 {
-  "id": "placement-1604",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does the `sizeof` operator return in C?",
-  "options": [
-    "The number of elements in an array",
-    "The size in bytes of the data type or variable",
-    "The maximum value a variable can hold",
-    "The memory address of the variable"
-  ],
-  "answer": 1,
-  "explanation": "The `sizeof` operator yields the size in bytes of the operand, which can be a data type, variable, or expression."
+    "id": "pf-1806",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does the `sizeof` operator return in C?",
+    "options": [
+        "The number of elements in an array",
+        "The size in bytes of the data type or variable",
+        "The maximum value a variable can hold",
+        "The memory address of the variable"
+    ],
+    "answer": 1,
+    "explanation": "The `sizeof` operator yields the size in bytes of the operand, which can be a data type, variable, or expression."
 }

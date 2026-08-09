@@ -1,14 +1,14 @@
 {
-  "id": "placement-1903",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "A shopkeeper marks 20% above CP but gives 4% discount. Profit %?",
-  "options": [
-    "14.8%",
-    "15.2%",
-    "16%",
-    "15%"
-  ],
-  "answer": 1,
-  "explanation": "SP = CP * 1.2 * 0.96 = CP * 1.152. Profit = 15.2%."
+    "id": "pf-2105",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "A shopkeeper marks 20% above CP but gives 4% discount. Profit %?",
+    "options": [
+        "14.8%",
+        "15.2%",
+        "16%",
+        "15%"
+    ],
+    "answer": 1,
+    "explanation": "SP = CP * 1.2 * 0.96 = CP * 1.152. Profit = 15.2%."
 }

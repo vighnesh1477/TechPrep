@@ -1,14 +1,14 @@
 {
-  "id": "placement-1819",
-  "topic": "Basic Algorithms",
-  "difficulty": "Easy",
-  "question": "What is the best-case time complexity of Bubble Sort?",
-  "options": [
-    "O(n^2)",
-    "O(n)",
-    "O(log n)",
-    "O(1)"
-  ],
-  "answer": 1,
-  "explanation": "If the array is already sorted and an optimized version with a flag is used, Bubble Sort makes exactly one pass (n-1 comparisons) and exits, yielding O(n)."
+    "id": "pf-2021",
+    "topic": "Basic Algorithms",
+    "difficulty": "Easy",
+    "question": "What is the best-case time complexity of Bubble Sort?",
+    "options": [
+        "O(n^2)",
+        "O(n)",
+        "O(log n)",
+        "O(1)"
+    ],
+    "answer": 1,
+    "explanation": "If the array is already sorted and an optimized version with a flag is used, Bubble Sort makes exactly one pass (n-1 comparisons) and exits, yielding O(n)."
 }

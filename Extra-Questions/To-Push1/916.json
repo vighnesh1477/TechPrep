@@ -1,14 +1,14 @@
 {
-  "id": "placement-916",
-  "topic": "Data Structures",
-  "difficulty": "Medium",
-  "question": "What is the worst-case time complexity to search in a BST?",
-  "options": [
-    "O(1)",
-    "O(log N)",
-    "O(N)",
-    "O(N log N)"
-  ],
-  "answer": 2,
-  "explanation": "A skewed BST degenerates into a linked list, taking O(N) time."
+    "id": "pf-1118",
+    "topic": "Data Structures",
+    "difficulty": "Medium",
+    "question": "What is the worst-case time complexity to search in a BST?",
+    "options": [
+        "O(1)",
+        "O(log N)",
+        "O(N)",
+        "O(N log N)"
+    ],
+    "answer": 2,
+    "explanation": "A skewed BST degenerates into a linked list, taking O(N) time."
 }

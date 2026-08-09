@@ -1,14 +1,14 @@
 {
-  "id": "placement-608",
-  "topic": "head",
-  "difficulty": "Easy",
-  "question": "By default, how many lines does head display?",
-  "options": [
-    "5 lines",
-    "10 lines",
-    "15 lines",
-    "20 lines"
-  ],
-  "answer": 1,
-  "explanation": "head displays the first 10 lines of a file by default. Use -n to specify a different number of lines."
+    "id": "pf-810",
+    "topic": "head",
+    "difficulty": "Easy",
+    "question": "By default, how many lines does head display?",
+    "options": [
+        "5 lines",
+        "10 lines",
+        "15 lines",
+        "20 lines"
+    ],
+    "answer": 1,
+    "explanation": "head displays the first 10 lines of a file by default. Use -n to specify a different number of lines."
 }

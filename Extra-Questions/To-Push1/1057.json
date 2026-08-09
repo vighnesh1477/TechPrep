@@ -1,14 +1,14 @@
 {
-  "id": "placement-1057",
-  "topic": "Git",
-  "difficulty": "Medium",
-  "question": "What is the staging area (index) in Git?",
-  "options": [
-    "The remote server",
-    "A snapshot of your project that will go into the next commit",
-    "The working directory",
-    "The .git folder"
-  ],
-  "answer": 1,
-  "explanation": "The staging area holds the changes that will be included in the very next commit."
+    "id": "pf-1259",
+    "topic": "Git",
+    "difficulty": "Medium",
+    "question": "What is the staging area (index) in Git?",
+    "options": [
+        "The remote server",
+        "A snapshot of your project that will go into the next commit",
+        "The working directory",
+        "The .git folder"
+    ],
+    "answer": 1,
+    "explanation": "The staging area holds the changes that will be included in the very next commit."
 }

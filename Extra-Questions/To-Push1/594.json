@@ -1,14 +1,14 @@
 {
-  "id": "placement-594",
-  "topic": "cat",
-  "difficulty": "Easy",
-  "question": "Which option with cat displays line numbers?",
-  "options": [
-    "cat -l",
-    "cat -n",
-    "cat -#",
-    "cat --lines"
-  ],
-  "answer": 1,
-  "explanation": "cat -n numbers all output lines, starting from 1. cat -b numbers only non-empty lines."
+    "id": "pf-796",
+    "topic": "cat",
+    "difficulty": "Easy",
+    "question": "Which option with cat displays line numbers?",
+    "options": [
+        "cat -l",
+        "cat -n",
+        "cat -#",
+        "cat --lines"
+    ],
+    "answer": 1,
+    "explanation": "cat -n numbers all output lines, starting from 1. cat -b numbers only non-empty lines."
 }

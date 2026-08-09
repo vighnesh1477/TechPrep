@@ -1,14 +1,14 @@
 {
-  "id": "placement-821",
-  "topic": "cut",
-  "difficulty": "Medium",
-  "question": "What does 'cut -d: -f1-3 /etc/passwd' show?",
-  "options": [
-    "Fields 1, 2, and 3 from each line of /etc/passwd",
-    "Only field 1 through field 3 (first 3 fields)",
-    "Fields 1 and 3",
-    "All fields except the first 3"
-  ],
-  "answer": 0,
-  "explanation": "cut -f1-3 extracts fields 1, 2, and 3 from /etc/passwd (username, password placeholder, UID) using colon as the delimiter."
+    "id": "pf-1023",
+    "topic": "cut",
+    "difficulty": "Medium",
+    "question": "What does 'cut -d: -f1-3 /etc/passwd' show?",
+    "options": [
+        "Fields 1, 2, and 3 from each line of /etc/passwd",
+        "Only field 1 through field 3 (first 3 fields)",
+        "Fields 1 and 3",
+        "All fields except the first 3"
+    ],
+    "answer": 0,
+    "explanation": "cut -f1-3 extracts fields 1, 2, and 3 from /etc/passwd (username, password placeholder, UID) using colon as the delimiter."
 }

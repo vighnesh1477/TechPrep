@@ -1,14 +1,14 @@
 {
-  "id": "placement-1767",
-  "topic": "Strings",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`char a[] = \"xyz\";`\n`char b[] = {'x', 'y', 'z'};`\n`printf(\"%d %d\", sizeof(a), sizeof(b));`",
-  "options": [
-    "3 3",
-    "4 3",
-    "3 4",
-    "4 4"
-  ],
-  "answer": 1,
-  "explanation": "`a` is initialized with a string literal, which appends a `\\0`, making its size 4. `b` is a character array initialized with individual chars, so its size is exactly 3."
+    "id": "pf-1969",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`char a[] = \"xyz\";`\n`char b[] = {'x', 'y', 'z'};`\n`printf(\"%d %d\", sizeof(a), sizeof(b));`",
+    "options": [
+        "3 3",
+        "4 3",
+        "3 4",
+        "4 4"
+    ],
+    "answer": 1,
+    "explanation": "`a` is initialized with a string literal, which appends a `\\0`, making its size 4. `b` is a character array initialized with individual chars, so its size is exactly 3."
 }

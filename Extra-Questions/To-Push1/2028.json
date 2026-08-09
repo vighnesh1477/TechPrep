@@ -1,14 +1,14 @@
 {
-  "id": "placement-2028",
-  "topic": "Permutation and Combination",
-  "difficulty": "Easy",
-  "question": "5! is equal to?",
-  "options": [
-    "60",
-    "100",
-    "120",
-    "150"
-  ],
-  "answer": 2,
-  "explanation": "5*4*3*2*1 = 120."
+    "id": "pf-2230",
+    "topic": "Permutation and Combination",
+    "difficulty": "Easy",
+    "question": "5! is equal to?",
+    "options": [
+        "60",
+        "100",
+        "120",
+        "150"
+    ],
+    "answer": 2,
+    "explanation": "5*4*3*2*1 = 120."
 }

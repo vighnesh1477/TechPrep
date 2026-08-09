@@ -1,14 +1,14 @@
 {
-  "id": "placement-779",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What is the role of system libraries in Linux architecture?",
-  "options": [
-    "They manage hardware resources",
-    "They provide reusable functions that applications can call instead of directly using system calls",
-    "They compile source code",
-    "They manage user accounts"
-  ],
-  "answer": 1,
-  "explanation": "System libraries (like glibc) provide a layer between applications and the kernel, offering common functions (printf, malloc, etc.) that wrap system calls."
+    "id": "pf-981",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What is the role of system libraries in Linux architecture?",
+    "options": [
+        "They manage hardware resources",
+        "They provide reusable functions that applications can call instead of directly using system calls",
+        "They compile source code",
+        "They manage user accounts"
+    ],
+    "answer": 1,
+    "explanation": "System libraries (like glibc) provide a layer between applications and the kernel, offering common functions (printf, malloc, etc.) that wrap system calls."
 }

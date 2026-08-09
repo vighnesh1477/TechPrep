@@ -1,14 +1,14 @@
 {
-  "id": "placement-717",
-  "topic": "Users",
-  "difficulty": "Easy",
-  "question": "Which command changes the current user's password?",
-  "options": [
-    "password",
-    "chpass",
-    "passwd",
-    "setpass"
-  ],
-  "answer": 2,
-  "explanation": "passwd changes the password for the current user. Root can change any user's password with 'passwd username'."
+    "id": "pf-919",
+    "topic": "Users",
+    "difficulty": "Easy",
+    "question": "Which command changes the current user's password?",
+    "options": [
+        "password",
+        "chpass",
+        "passwd",
+        "setpass"
+    ],
+    "answer": 2,
+    "explanation": "passwd changes the password for the current user. Root can change any user's password with 'passwd username'."
 }

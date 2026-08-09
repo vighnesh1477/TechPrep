@@ -1,14 +1,14 @@
 {
-  "id": "placement-1352",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is segmentation in memory management?",
-  "options": [
-    "Dividing memory into fixed-size pages",
-    "Dividing a process into variable-size logical sections (segments) based on the user's view of the program",
-    "Breaking a process into threads",
-    "Allocating disk space to RAM"
-  ],
-  "answer": 1,
-  "explanation": "Segmentation divides the user program into variable-sized segments corresponding to logical divisions like code, data, stack, etc., unlike paging which uses fixed sizes."
+    "id": "pf-1554",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is segmentation in memory management?",
+    "options": [
+        "Dividing memory into fixed-size pages",
+        "Dividing a process into variable-size logical sections (segments) based on the user's view of the program",
+        "Breaking a process into threads",
+        "Allocating disk space to RAM"
+    ],
+    "answer": 1,
+    "explanation": "Segmentation divides the user program into variable-sized segments corresponding to logical divisions like code, data, stack, etc., unlike paging which uses fixed sizes."
 }

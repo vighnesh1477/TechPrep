@@ -1,14 +1,14 @@
 {
-  "id": "placement-1278",
-  "topic": "Python",
-  "difficulty": "Medium",
-  "question": "What is the output of `print(0.1 + 0.2 == 0.3)`?",
-  "options": [
-    "True",
-    "False",
-    "Error",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "Due to floating-point precision limits, 0.1 + 0.2 equals 0.30000000000000004, not exactly 0.3."
+    "id": "pf-1480",
+    "topic": "Python",
+    "difficulty": "Medium",
+    "question": "What is the output of `print(0.1 + 0.2 == 0.3)`?",
+    "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "Due to floating-point precision limits, 0.1 + 0.2 equals 0.30000000000000004, not exactly 0.3."
 }

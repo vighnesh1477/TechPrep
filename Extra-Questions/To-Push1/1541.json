@@ -1,14 +1,14 @@
 {
-  "id": "placement-1541",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is the purpose of 'Register Allocation' in code generation?",
-  "options": [
-    "To allocate RAM for variables",
-    "To assign variables and intermediate values to a limited number of CPU registers to minimize memory accesses",
-    "To allocate disk space for the executable",
-    "To allocate cache lines"
-  ],
-  "answer": 1,
-  "explanation": "Since CPUs have a limited number of registers, the compiler must decide which variables should reside in registers at any given time. Graph coloring is a common algorithm used for this."
+    "id": "pf-1743",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is the purpose of 'Register Allocation' in code generation?",
+    "options": [
+        "To allocate RAM for variables",
+        "To assign variables and intermediate values to a limited number of CPU registers to minimize memory accesses",
+        "To allocate disk space for the executable",
+        "To allocate cache lines"
+    ],
+    "answer": 1,
+    "explanation": "Since CPUs have a limited number of registers, the compiler must decide which variables should reside in registers at any given time. Graph coloring is a common algorithm used for this."
 }

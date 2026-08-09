@@ -1,14 +1,14 @@
 {
-  "id": "placement-1462",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "What is an Interrupt in computer architecture?",
-  "options": [
-    "A syntax error in code",
-    "A signal sent to the processor by hardware or software indicating an event that needs immediate attention",
-    "A type of computer virus",
-    "A command to shut down the system"
-  ],
-  "answer": 1,
-  "explanation": "An interrupt is a signal that causes the CPU to stop its current execution, save its state, and begin executing an interrupt handler to address the event."
+    "id": "pf-1664",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "What is an Interrupt in computer architecture?",
+    "options": [
+        "A syntax error in code",
+        "A signal sent to the processor by hardware or software indicating an event that needs immediate attention",
+        "A type of computer virus",
+        "A command to shut down the system"
+    ],
+    "answer": 1,
+    "explanation": "An interrupt is a signal that causes the CPU to stop its current execution, save its state, and begin executing an interrupt handler to address the event."
 }

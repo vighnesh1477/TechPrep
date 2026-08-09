@@ -1,14 +1,14 @@
 {
-  "id": "placement-1733",
-  "topic": "Arrays",
-  "difficulty": "Easy",
-  "question": "Can the size of a standard array be changed after it is created in C?",
-  "options": [
-    "Yes, using the `resize` function",
-    "Yes, by assigning a new value to its size",
-    "No, standard arrays have a fixed size",
-    "Yes, but only if it is a 2D array"
-  ],
-  "answer": 2,
-  "explanation": "Standard arrays in C are static; their size is fixed at compile time. To have a dynamically sized array, you must use dynamic memory allocation (e.g., `malloc`)."
+    "id": "pf-1935",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "Can the size of a standard array be changed after it is created in C?",
+    "options": [
+        "Yes, using the `resize` function",
+        "Yes, by assigning a new value to its size",
+        "No, standard arrays have a fixed size",
+        "Yes, but only if it is a 2D array"
+    ],
+    "answer": 2,
+    "explanation": "Standard arrays in C are static; their size is fixed at compile time. To have a dynamically sized array, you must use dynamic memory allocation (e.g., `malloc`)."
 }

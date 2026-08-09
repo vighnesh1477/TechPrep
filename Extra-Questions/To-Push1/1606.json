@@ -1,14 +1,14 @@
 {
-  "id": "placement-1606",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following represents a valid variable name in most programming languages?",
-  "options": [
-    "2ndValue",
-    "my-var",
-    "_count",
-    "class"
-  ],
-  "answer": 2,
-  "explanation": "Variable names cannot start with a digit, cannot contain hyphens, and cannot be reserved keywords (like `class`). Starting with an underscore is valid."
+    "id": "pf-1808",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following represents a valid variable name in most programming languages?",
+    "options": [
+        "2ndValue",
+        "my-var",
+        "_count",
+        "class"
+    ],
+    "answer": 2,
+    "explanation": "Variable names cannot start with a digit, cannot contain hyphens, and cannot be reserved keywords (like `class`). Starting with an underscore is valid."
 }

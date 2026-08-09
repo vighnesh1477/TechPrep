@@ -1,14 +1,14 @@
 {
-  "id": "placement-1218",
-  "topic": "Git",
-  "difficulty": "Hard",
-  "question": "What is a Git hook?",
-  "options": [
-    "A type of branch",
-    "Scripts that run automatically before or after Git events like commit or push",
-    "A way to merge code",
-    "A merge conflict resolver"
-  ],
-  "answer": 1,
-  "explanation": "Hooks (e.g., pre-commit, pre-push) allow you to automate tasks like linting or testing during the Git workflow."
+    "id": "pf-1420",
+    "topic": "Git",
+    "difficulty": "Hard",
+    "question": "What is a Git hook?",
+    "options": [
+        "A type of branch",
+        "Scripts that run automatically before or after Git events like commit or push",
+        "A way to merge code",
+        "A merge conflict resolver"
+    ],
+    "answer": 1,
+    "explanation": "Hooks (e.g., pre-commit, pre-push) allow you to automate tasks like linting or testing during the Git workflow."
 }

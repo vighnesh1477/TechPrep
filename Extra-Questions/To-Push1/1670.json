@@ -1,14 +1,14 @@
 {
-  "id": "placement-1670",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output?\n`int x = 10;`\n`if (x > 5) if (x > 15) printf(\"A\"); else printf(\"B\");`",
-  "options": [
-    "A",
-    "B",
-    "AB",
-    "Nothing"
-  ],
-  "answer": 1,
-  "explanation": "This is a dangling else problem. The `else` binds to the nearest `if` (x > 15). Since x=10, `x > 5` is true, but `x > 15` is false, so \"B\" is printed."
+    "id": "pf-1872",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output?\n`int x = 10;`\n`if (x > 5) if (x > 15) printf(\"A\"); else printf(\"B\");`",
+    "options": [
+        "A",
+        "B",
+        "AB",
+        "Nothing"
+    ],
+    "answer": 1,
+    "explanation": "This is a dangling else problem. The `else` binds to the nearest `if` (x > 15). Since x=10, `x > 5` is true, but `x > 15` is false, so \"B\" is printed."
 }

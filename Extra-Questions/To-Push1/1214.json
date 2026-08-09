@@ -1,14 +1,14 @@
 {
-  "id": "placement-1214",
-  "topic": "OOP",
-  "difficulty": "Hard",
-  "question": "What is double dispatch?",
-  "options": [
-    "Sending two packets",
-    "Choosing a method implementation based on the runtime types of two objects",
-    "Calling a constructor twice",
-    "A multithreading concept"
-  ],
-  "answer": 1,
-  "explanation": "Double dispatch resolves a method call based on the dynamic types of two objects, often simulated using the Visitor pattern."
+    "id": "pf-1416",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "What is double dispatch?",
+    "options": [
+        "Sending two packets",
+        "Choosing a method implementation based on the runtime types of two objects",
+        "Calling a constructor twice",
+        "A multithreading concept"
+    ],
+    "answer": 1,
+    "explanation": "Double dispatch resolves a method call based on the dynamic types of two objects, often simulated using the Visitor pattern."
 }

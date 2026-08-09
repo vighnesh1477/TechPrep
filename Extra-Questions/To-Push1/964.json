@@ -1,14 +1,14 @@
 {
-  "id": "placement-964",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "What is Multi-Version Concurrency Control (MVCC)?",
-  "options": [
-    "Locking the whole table",
-    "Keeping multiple versions of rows to allow concurrent reads/writes",
-    "Using multiple databases",
-    "Versioning the schema"
-  ],
-  "answer": 1,
-  "explanation": "MVCC allows readers to see a consistent snapshot without blocking writers by maintaining row versions."
+    "id": "pf-1166",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "What is Multi-Version Concurrency Control (MVCC)?",
+    "options": [
+        "Locking the whole table",
+        "Keeping multiple versions of rows to allow concurrent reads/writes",
+        "Using multiple databases",
+        "Versioning the schema"
+    ],
+    "answer": 1,
+    "explanation": "MVCC allows readers to see a consistent snapshot without blocking writers by maintaining row versions."
 }

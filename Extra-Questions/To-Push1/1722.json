@@ -1,14 +1,14 @@
 {
-  "id": "placement-1722",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the output?\n`def add(a, b=2, c=3): return a+b+c`\n`print(add(1, c=5))`",
-  "options": [
-    "6",
-    "8",
-    "9",
-    "Error"
-  ],
-  "answer": 1,
-  "explanation": "`a` gets 1. `b` uses its default value 2. `c` is explicitly passed as 5 via a named argument. Result: 1 + 2 + 5 = 8."
+    "id": "pf-1924",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the output?\n`def add(a, b=2, c=3): return a+b+c`\n`print(add(1, c=5))`",
+    "options": [
+        "6",
+        "8",
+        "9",
+        "Error"
+    ],
+    "answer": 1,
+    "explanation": "`a` gets 1. `b` uses its default value 2. `c` is explicitly passed as 5 via a named argument. Result: 1 + 2 + 5 = 8."
 }

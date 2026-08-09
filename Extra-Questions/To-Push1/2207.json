@@ -1,14 +1,14 @@
 {
-  "id": "placement-2207",
-  "topic": "Puzzles",
-  "difficulty": "Hard",
-  "question": "A, B, C, D are engineers, doctor, teacher, lawyer (not in order). A is not doctor or teacher. B is teacher. C is not doctor. Who is lawyer?",
-  "options": [
-    "A",
-    "B",
-    "C",
-    "D"
-  ],
-  "answer": 3,
-  "explanation": "B is Teacher. A is Engineer. C is Doctor? No, C is not doctor. So D is Doctor. C is Lawyer."
+    "id": "pf-2409",
+    "topic": "Puzzles",
+    "difficulty": "Hard",
+    "question": "A, B, C, D are engineers, doctor, teacher, lawyer (not in order). A is not doctor or teacher. B is teacher. C is not doctor. Who is lawyer?",
+    "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+    ],
+    "answer": 3,
+    "explanation": "B is Teacher. A is Engineer. C is Doctor? No, C is not doctor. So D is Doctor. C is Lawyer."
 }

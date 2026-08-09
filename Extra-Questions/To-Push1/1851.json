@@ -1,14 +1,14 @@
 {
-  "id": "placement-1851",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the output of `print(type([] is []))` in Python?",
-  "options": [
-    "True",
-    "False",
-    "Error",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "`is` checks for object identity (memory address), not equality. Two empty lists `[]` are distinct objects in memory, so `[] is []` evaluates to False."
+    "id": "pf-2053",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the output of `print(type([] is []))` in Python?",
+    "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "`is` checks for object identity (memory address), not equality. Two empty lists `[]` are distinct objects in memory, so `[] is []` evaluates to False."
 }

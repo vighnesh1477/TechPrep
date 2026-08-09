@@ -1,14 +1,14 @@
 {
-  "id": "placement-1117",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is a data hazard in pipelining?",
-  "options": [
-    "A software bug",
-    "A conflict where an instruction depends on the result of a previous instruction not yet completed",
-    "A hardware failure",
-    "A memory leak"
-  ],
-  "answer": 1,
-  "explanation": "Data hazards occur when instructions overlapping in the pipeline need the same register or memory location."
+    "id": "pf-1319",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is a data hazard in pipelining?",
+    "options": [
+        "A software bug",
+        "A conflict where an instruction depends on the result of a previous instruction not yet completed",
+        "A hardware failure",
+        "A memory leak"
+    ],
+    "answer": 1,
+    "explanation": "Data hazards occur when instructions overlapping in the pipeline need the same register or memory location."
 }

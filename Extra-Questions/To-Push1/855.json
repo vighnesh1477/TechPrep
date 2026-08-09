@@ -1,14 +1,14 @@
 {
-  "id": "placement-855",
-  "topic": "C Programming",
-  "difficulty": "Easy",
-  "question": "What is the default return type of a function in C if no type is specified?",
-  "options": [
-    "void",
-    "int",
-    "char",
-    "float"
-  ],
-  "answer": 1,
-  "explanation": "C defaults to returning an integer if no return type is declared."
+    "id": "pf-1057",
+    "topic": "C Programming",
+    "difficulty": "Easy",
+    "question": "What is the default return type of a function in C if no type is specified?",
+    "options": [
+        "void",
+        "int",
+        "char",
+        "float"
+    ],
+    "answer": 1,
+    "explanation": "C defaults to returning an integer if no return type is declared."
 }

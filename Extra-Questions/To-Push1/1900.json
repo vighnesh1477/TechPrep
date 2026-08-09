@@ -1,14 +1,14 @@
 {
-  "id": "placement-1900",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "A trader uses 800g weight for 1kg. Profit %?",
-  "options": [
-    "20%",
-    "25%",
-    "30%",
-    "15%"
-  ],
-  "answer": 1,
-  "explanation": "CP for 800g, SP for 1000g. Profit = 200/800 * 100 = 25%."
+    "id": "pf-2102",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "A trader uses 800g weight for 1kg. Profit %?",
+    "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+    ],
+    "answer": 1,
+    "explanation": "CP for 800g, SP for 1000g. Profit = 200/800 * 100 = 25%."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1191",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "What does the AS keyword do?",
-  "options": [
-    "Adds a column",
-    "Creates an alias for a column or table",
-    "Selects all columns",
-    "Filters data"
-  ],
-  "answer": 1,
-  "explanation": "AS creates a temporary name (alias) for a column or table in the output."
+    "id": "pf-1393",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "What does the AS keyword do?",
+    "options": [
+        "Adds a column",
+        "Creates an alias for a column or table",
+        "Selects all columns",
+        "Filters data"
+    ],
+    "answer": 1,
+    "explanation": "AS creates a temporary name (alias) for a column or table in the output."
 }

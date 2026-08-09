@@ -1,14 +1,14 @@
 {
-  "id": "placement-792",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What is the purpose of the init process?",
-  "options": [
-    "To initialize the network",
-    "To be the first user-space process that starts all other services and eventually provides the login prompt",
-    "To initialize the kernel",
-    "To initialize the BIOS"
-  ],
-  "answer": 1,
-  "explanation": "init (PID 1) is the first user-space process. On modern systems, systemd takes this role. It starts all necessary services defined by the target runlevel."
+    "id": "pf-994",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the init process?",
+    "options": [
+        "To initialize the network",
+        "To be the first user-space process that starts all other services and eventually provides the login prompt",
+        "To initialize the kernel",
+        "To initialize the BIOS"
+    ],
+    "answer": 1,
+    "explanation": "init (PID 1) is the first user-space process. On modern systems, systemd takes this role. It starts all necessary services defined by the target runlevel."
 }

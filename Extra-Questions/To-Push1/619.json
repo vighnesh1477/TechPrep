@@ -1,14 +1,14 @@
 {
-  "id": "placement-619",
-  "topic": "grep",
-  "difficulty": "Easy",
-  "question": "Which flag makes grep case-insensitive?",
-  "options": [
-    "grep -c",
-    "grep -i",
-    "grep -v",
-    "grep -n"
-  ],
-  "answer": 1,
-  "explanation": "grep -i performs case-insensitive matching, so 'pattern' matches 'Pattern', 'PATTERN', 'pattern', etc."
+    "id": "pf-821",
+    "topic": "grep",
+    "difficulty": "Easy",
+    "question": "Which flag makes grep case-insensitive?",
+    "options": [
+        "grep -c",
+        "grep -i",
+        "grep -v",
+        "grep -n"
+    ],
+    "answer": 1,
+    "explanation": "grep -i performs case-insensitive matching, so 'pattern' matches 'Pattern', 'PATTERN', 'pattern', etc."
 }

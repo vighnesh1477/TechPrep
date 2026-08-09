@@ -1,14 +1,14 @@
 {
-  "id": "placement-1896",
-  "topic": "Profit and Loss",
-  "difficulty": "Easy",
-  "question": "If SP is Rs 600 and profit is 20%, CP is?",
-  "options": [
-    "Rs 480",
-    "Rs 500",
-    "Rs 520",
-    "Rs 550"
-  ],
-  "answer": 1,
-  "explanation": "CP = 600 / 1.2 = 500."
+    "id": "pf-2098",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "If SP is Rs 600 and profit is 20%, CP is?",
+    "options": [
+        "Rs 480",
+        "Rs 500",
+        "Rs 520",
+        "Rs 550"
+    ],
+    "answer": 1,
+    "explanation": "CP = 600 / 1.2 = 500."
 }

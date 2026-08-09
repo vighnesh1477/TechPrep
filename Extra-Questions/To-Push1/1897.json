@@ -1,14 +1,14 @@
 {
-  "id": "placement-1897",
-  "topic": "Profit and Loss",
-  "difficulty": "Easy",
-  "question": "Marked price Rs 500, discount 10%. SP?",
-  "options": [
-    "Rs 400",
-    "Rs 440",
-    "Rs 450",
-    "Rs 460"
-  ],
-  "answer": 2,
-  "explanation": "SP = 500 * 0.9 = 450."
+    "id": "pf-2099",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "Marked price Rs 500, discount 10%. SP?",
+    "options": [
+        "Rs 400",
+        "Rs 440",
+        "Rs 450",
+        "Rs 460"
+    ],
+    "answer": 2,
+    "explanation": "SP = 500 * 0.9 = 450."
 }

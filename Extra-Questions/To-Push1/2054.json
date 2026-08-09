@@ -1,14 +1,14 @@
 {
-  "id": "placement-2054",
-  "topic": "Algebra",
-  "difficulty": "Medium",
-  "question": "If y = 2x + 3 and y = 5, find x.",
-  "options": [
-    "0",
-    "1",
-    "2",
-    "3"
-  ],
-  "answer": 1,
-  "explanation": "5 = 2x + 3 => 2x = 2 => x = 1."
+    "id": "pf-2256",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If y = 2x + 3 and y = 5, find x.",
+    "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+    ],
+    "answer": 1,
+    "explanation": "5 = 2x + 3 => 2x = 2 => x = 1."
 }

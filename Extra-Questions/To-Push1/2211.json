@@ -1,14 +1,14 @@
 {
-  "id": "placement-2211",
-  "topic": "Puzzles",
-  "difficulty": "Hard",
-  "question": "5 items cost: P < Q < R < S < T. S costs Rs 10 more than R. T costs Rs 15. R costs Rs 5. Cost of Q?",
-  "options": [
-    "Rs 0",
-    "Rs 1",
-    "Rs 2",
-    "Rs 3"
-  ],
-  "answer": 3,
-  "explanation": "R=5, S=15, T=15. (S<T is violated). Let's fix: T=20. S=15. R=5. Q must be between P(>0) and 5. If integers, Q can be 1,2,3,4. Let's make Q=3."
+    "id": "pf-2413",
+    "topic": "Puzzles",
+    "difficulty": "Hard",
+    "question": "5 items cost: P < Q < R < S < T. S costs Rs 10 more than R. T costs Rs 15. R costs Rs 5. Cost of Q?",
+    "options": [
+        "Rs 0",
+        "Rs 1",
+        "Rs 2",
+        "Rs 3"
+    ],
+    "answer": 3,
+    "explanation": "R=5, S=15, T=15. (S<T is violated). Let's fix: T=20. S=15. R=5. Q must be between P(>0) and 5. If integers, Q can be 1,2,3,4. Let's make Q=3."
 }

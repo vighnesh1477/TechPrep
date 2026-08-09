@@ -1,14 +1,14 @@
 {
-  "id": "placement-785",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What is the role of the OOM Killer in Linux?",
-  "options": [
-    "It kills processes that consume too much CPU",
-    "It terminates processes when the system runs out of memory to prevent a complete system crash",
-    "It kills zombie processes",
-    "It removes orphaned files"
-  ],
-  "answer": 1,
-  "explanation": "The OOM (Out of Memory) Killer is invoked when the system is critically low on memory. It selects and kills processes based on a scoring system (oom_score) to free memory."
+    "id": "pf-987",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What is the role of the OOM Killer in Linux?",
+    "options": [
+        "It kills processes that consume too much CPU",
+        "It terminates processes when the system runs out of memory to prevent a complete system crash",
+        "It kills zombie processes",
+        "It removes orphaned files"
+    ],
+    "answer": 1,
+    "explanation": "The OOM (Out of Memory) Killer is invoked when the system is critically low on memory. It selects and kills processes based on a scoring system (oom_score) to free memory."
 }

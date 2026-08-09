@@ -1,14 +1,14 @@
 {
-  "id": "placement-666",
-  "topic": "umask",
-  "difficulty": "Easy",
-  "question": "What does 'umask -S' display?",
-  "options": [
-    "The umask in octal form",
-    "The umask in symbolic form",
-    "The system default umask",
-    "A short summary of umask"
-  ],
-  "answer": 1,
-  "explanation": "umask -S displays the umask in symbolic (human-readable) form like u=rwx,g=rx,o=rx instead of the numeric octal form like 022."
+    "id": "pf-868",
+    "topic": "umask",
+    "difficulty": "Easy",
+    "question": "What does 'umask -S' display?",
+    "options": [
+        "The umask in octal form",
+        "The umask in symbolic form",
+        "The system default umask",
+        "A short summary of umask"
+    ],
+    "answer": 1,
+    "explanation": "umask -S displays the umask in symbolic (human-readable) form like u=rwx,g=rx,o=rx instead of the numeric octal form like 022."
 }

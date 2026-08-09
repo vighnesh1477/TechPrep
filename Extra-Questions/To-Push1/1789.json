@@ -1,14 +1,14 @@
 {
-  "id": "placement-1789",
-  "topic": "Pointers and Memory",
-  "difficulty": "Easy",
-  "question": "Can you perform addition of two pointers?",
-  "options": [
-    "Yes, it adds their addresses",
-    "No, pointer addition is not allowed by the compiler",
-    "Yes, but only if they point to the same array",
-    "Yes, it returns the difference"
-  ],
-  "answer": 1,
-  "explanation": "Adding two pointers is illegal in C/C++ because the resulting memory address has no meaningful interpretation in the context of the program's data structures."
+    "id": "pf-1991",
+    "topic": "Pointers and Memory",
+    "difficulty": "Easy",
+    "question": "Can you perform addition of two pointers?",
+    "options": [
+        "Yes, it adds their addresses",
+        "No, pointer addition is not allowed by the compiler",
+        "Yes, but only if they point to the same array",
+        "Yes, it returns the difference"
+    ],
+    "answer": 1,
+    "explanation": "Adding two pointers is illegal in C/C++ because the resulting memory address has no meaningful interpretation in the context of the program's data structures."
 }

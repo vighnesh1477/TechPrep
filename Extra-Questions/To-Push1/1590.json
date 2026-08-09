@@ -1,14 +1,14 @@
 {
-  "id": "placement-1590",
-  "topic": "Data Representation",
-  "difficulty": "Medium",
-  "question": "What is the main difference between UTF-8 and UTF-16?",
-  "options": [
-    "UTF-8 is fixed-width, UTF-16 is variable-width",
-    "UTF-8 uses 1 to 4 bytes per character; UTF-16 uses 2 or 4 bytes per character",
-    "UTF-16 is backward compatible with ASCII, UTF-8 is not",
-    "UTF-8 can only represent English characters"
-  ],
-  "answer": 1,
-  "explanation": "UTF-8 is a variable-width encoding (1-4 bytes) that is backward compatible with ASCII. UTF-16 uses 2 bytes for common characters and 4 bytes for others (emojis, rare scripts)."
+    "id": "pf-1792",
+    "topic": "Data Representation",
+    "difficulty": "Medium",
+    "question": "What is the main difference between UTF-8 and UTF-16?",
+    "options": [
+        "UTF-8 is fixed-width, UTF-16 is variable-width",
+        "UTF-8 uses 1 to 4 bytes per character; UTF-16 uses 2 or 4 bytes per character",
+        "UTF-16 is backward compatible with ASCII, UTF-8 is not",
+        "UTF-8 can only represent English characters"
+    ],
+    "answer": 1,
+    "explanation": "UTF-8 is a variable-width encoding (1-4 bytes) that is backward compatible with ASCII. UTF-16 uses 2 bytes for common characters and 4 bytes for others (emojis, rare scripts)."
 }

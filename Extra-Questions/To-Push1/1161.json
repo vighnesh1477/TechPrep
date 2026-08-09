@@ -1,14 +1,14 @@
 {
-  "id": "placement-1161",
-  "topic": "Python",
-  "difficulty": "Hard",
-  "question": "What is a metaclass in Python?",
-  "options": [
-    "A class inside a class",
-    "A class of a class that controls how the class is constructed",
-    "An abstract class",
-    "A final class"
-  ],
-  "answer": 1,
-  "explanation": "Metaclasses are the 'classes of classes' used to customize class creation (e.g., type())."
+    "id": "pf-1363",
+    "topic": "Python",
+    "difficulty": "Hard",
+    "question": "What is a metaclass in Python?",
+    "options": [
+        "A class inside a class",
+        "A class of a class that controls how the class is constructed",
+        "An abstract class",
+        "A final class"
+    ],
+    "answer": 1,
+    "explanation": "Metaclasses are the 'classes of classes' used to customize class creation (e.g., type())."
 }

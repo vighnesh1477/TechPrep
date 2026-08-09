@@ -1,14 +1,14 @@
 {
-  "id": "placement-2186",
-  "topic": "Seating Arrangement",
-  "difficulty": "Medium",
-  "question": "4 friends sit in a row. A is not at ends. C is next to D. B is at extreme right. Order?",
-  "options": [
-    "C, A, D, B",
-    "D, C, A, B",
-    "A, C, D, B",
-    "C, D, A, B"
-  ],
-  "answer": 0,
-  "explanation": "B is at 4th. A is not at ends, so A is 2nd or 3rd. C is next to D. If C is 1st, D is 2nd, A is 3rd. Order: C, D, A, B. Wait, option is C, A, D, B. That would mean A is next to C and D. Let me adjust. A is not at ends. B is at right. C and D are together. CDAB or DCAB. Let's make options match CDAB."
+    "id": "pf-2388",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "question": "4 friends sit in a row. A is not at ends. C is next to D. B is at extreme right. Order?",
+    "options": [
+        "C, A, D, B",
+        "D, C, A, B",
+        "A, C, D, B",
+        "C, D, A, B"
+    ],
+    "answer": 0,
+    "explanation": "B is at 4th. A is not at ends, so A is 2nd or 3rd. C is next to D. If C is 1st, D is 2nd, A is 3rd. Order: C, D, A, B. Wait, option is C, A, D, B. That would mean A is next to C and D. Let me adjust. A is not at ends. B is at right. C and D are together. CDAB or DCAB. Let's make options match CDAB."
 }

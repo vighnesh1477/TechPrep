@@ -1,14 +1,14 @@
 {
-  "id": "placement-1438",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is subnetting?",
-  "options": [
-    "Combining multiple small networks into one large network",
-    "Dividing a large network into smaller, more efficient sub-networks",
-    "Encrypting network traffic",
-    "Assigning dynamic IPs"
-  ],
-  "answer": 1,
-  "explanation": "Subnetting is the practice of dividing a large network into smaller, more manageable sub-networks (subnets) to improve network performance, security, and IP address management."
+    "id": "pf-1640",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is subnetting?",
+    "options": [
+        "Combining multiple small networks into one large network",
+        "Dividing a large network into smaller, more efficient sub-networks",
+        "Encrypting network traffic",
+        "Assigning dynamic IPs"
+    ],
+    "answer": 1,
+    "explanation": "Subnetting is the practice of dividing a large network into smaller, more manageable sub-networks (subnets) to improve network performance, security, and IP address management."
 }

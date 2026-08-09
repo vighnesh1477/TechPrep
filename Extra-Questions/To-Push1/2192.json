@@ -1,14 +1,14 @@
 {
-  "id": "placement-2192",
-  "topic": "Seating Arrangement",
-  "difficulty": "Hard",
-  "question": "8 people sit in 2 rows of 4, facing each other. A1 faces B2. A2 faces B4. A3 is right of A1. Who faces A4?",
-  "options": [
-    "B1",
-    "B2",
-    "B3",
-    "B4"
-  ],
-  "answer": 0,
-  "explanation": "Row A: A1, A3, A2, A4. (Assuming A3 is immediate right). Opposite row B faces them in order B4, B2, B1, B3 (based on B2 facing A1, B4 facing A2). A4 faces B1."
+    "id": "pf-2394",
+    "topic": "Seating Arrangement",
+    "difficulty": "Hard",
+    "question": "8 people sit in 2 rows of 4, facing each other. A1 faces B2. A2 faces B4. A3 is right of A1. Who faces A4?",
+    "options": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+    ],
+    "answer": 0,
+    "explanation": "Row A: A1, A3, A2, A4. (Assuming A3 is immediate right). Opposite row B faces them in order B4, B2, B1, B3 (based on B2 facing A1, B4 facing A2). A4 faces B1."
 }

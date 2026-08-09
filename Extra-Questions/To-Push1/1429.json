@@ -1,14 +1,14 @@
 {
-  "id": "placement-1429",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a MAC address?",
-  "options": [
-    "A logical address assigned by the network administrator",
-    "A 48-bit physical address embedded in the NIC by the manufacturer",
-    "A 32-bit address used for routing on the internet",
-    "An encrypted address used in HTTPS"
-  ],
-  "answer": 1,
-  "explanation": "A MAC (Media Access Control) address is a unique, 48-bit identifier assigned to a network interface controller (NIC) by the manufacturer. It operates at the Data Link Layer."
+    "id": "pf-1631",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a MAC address?",
+    "options": [
+        "A logical address assigned by the network administrator",
+        "A 48-bit physical address embedded in the NIC by the manufacturer",
+        "A 32-bit address used for routing on the internet",
+        "An encrypted address used in HTTPS"
+    ],
+    "answer": 1,
+    "explanation": "A MAC (Media Access Control) address is a unique, 48-bit identifier assigned to a network interface controller (NIC) by the manufacturer. It operates at the Data Link Layer."
 }

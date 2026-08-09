@@ -1,14 +1,14 @@
 {
-  "id": "placement-741",
-  "topic": "yum",
-  "difficulty": "Easy",
-  "question": "Which package manager is used on RHEL/CentOS systems?",
-  "options": [
-    "apt",
-    "yum",
-    "pacman",
-    "emerge"
-  ],
-  "answer": 1,
-  "explanation": "yum (Yellowdog Updater Modified) is the traditional package manager for Red Hat Enterprise Linux, CentOS, and Fedora (though Fedora now uses dnf)."
+    "id": "pf-943",
+    "topic": "yum",
+    "difficulty": "Easy",
+    "question": "Which package manager is used on RHEL/CentOS systems?",
+    "options": [
+        "apt",
+        "yum",
+        "pacman",
+        "emerge"
+    ],
+    "answer": 1,
+    "explanation": "yum (Yellowdog Updater Modified) is the traditional package manager for Red Hat Enterprise Linux, CentOS, and Fedora (though Fedora now uses dnf)."
 }

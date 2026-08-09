@@ -1,14 +1,14 @@
 {
-  "id": "placement-1605",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "In Python, what is the data type of `x = [1, 2, 3]`?",
-  "options": [
-    "Tuple",
-    "Array",
-    "List",
-    "Dictionary"
-  ],
-  "answer": 2,
-  "explanation": "Square brackets `[]` denote a list in Python. Tuples use parentheses `()`, and dictionaries use curly braces `{}`."
+    "id": "pf-1807",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "In Python, what is the data type of `x = [1, 2, 3]`?",
+    "options": [
+        "Tuple",
+        "Array",
+        "List",
+        "Dictionary"
+    ],
+    "answer": 2,
+    "explanation": "Square brackets `[]` denote a list in Python. Tuples use parentheses `()`, and dictionaries use curly braces `{}`."
 }

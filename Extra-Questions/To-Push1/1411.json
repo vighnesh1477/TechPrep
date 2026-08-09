@@ -1,14 +1,14 @@
 {
-  "id": "placement-1411",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between UNION and UNION ALL?",
-  "options": [
-    "UNION ALL removes duplicates, UNION does not",
-    "UNION removes duplicates, UNION ALL does not (faster)",
-    "UNION requires the same number of columns, UNION ALL does not",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "UNION removes duplicate records from the combined result set, which requires extra processing. UNION ALL keeps all duplicates, making it significantly faster."
+    "id": "pf-1613",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between UNION and UNION ALL?",
+    "options": [
+        "UNION ALL removes duplicates, UNION does not",
+        "UNION removes duplicates, UNION ALL does not (faster)",
+        "UNION requires the same number of columns, UNION ALL does not",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "UNION removes duplicate records from the combined result set, which requires extra processing. UNION ALL keeps all duplicates, making it significantly faster."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1718",
-  "topic": "Functions",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int x = 5;`\n`void foo() { printf(\"%d\", x); }`\n`int main() { int x = 10; foo(); return 0; }`",
-  "options": [
-    "5",
-    "10",
-    "0",
-    "Error"
-  ],
-  "answer": 0,
-  "explanation": "Inside `foo()`, there is no local `x`, so it resolves to the global `x` which is 5. The `x` in `main` is local to `main` and does not affect `foo`."
+    "id": "pf-1920",
+    "topic": "Functions",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int x = 5;`\n`void foo() { printf(\"%d\", x); }`\n`int main() { int x = 10; foo(); return 0; }`",
+    "options": [
+        "5",
+        "10",
+        "0",
+        "Error"
+    ],
+    "answer": 0,
+    "explanation": "Inside `foo()`, there is no local `x`, so it resolves to the global `x` which is 5. The `x` in `main` is local to `main` and does not affect `foo`."
 }

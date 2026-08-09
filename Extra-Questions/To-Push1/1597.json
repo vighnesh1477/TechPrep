@@ -1,14 +1,14 @@
 {
-  "id": "placement-1597",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which data type is most appropriate to store a person's age in C++?",
-  "options": [
-    "float",
-    "char",
-    "int",
-    "string"
-  ],
-  "answer": 2,
-  "explanation": "Age is a whole number without fractional parts, making the integer (`int`) data type the most appropriate choice."
+    "id": "pf-1799",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which data type is most appropriate to store a person's age in C++?",
+    "options": [
+        "float",
+        "char",
+        "int",
+        "string"
+    ],
+    "answer": 2,
+    "explanation": "Age is a whole number without fractional parts, making the integer (`int`) data type the most appropriate choice."
 }

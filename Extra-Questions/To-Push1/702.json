@@ -1,14 +1,14 @@
 {
-  "id": "placement-702",
-  "topic": "nice",
-  "difficulty": "Easy",
-  "question": "What is the default nice value for a new process?",
-  "options": [
-    "-1",
-    "0",
-    "5",
-    "10"
-  ],
-  "answer": 1,
-  "explanation": "The default nice value is 0, which is the baseline priority. Users can increase it (lower priority) without root privileges."
+    "id": "pf-904",
+    "topic": "nice",
+    "difficulty": "Easy",
+    "question": "What is the default nice value for a new process?",
+    "options": [
+        "-1",
+        "0",
+        "5",
+        "10"
+    ],
+    "answer": 1,
+    "explanation": "The default nice value is 0, which is the baseline priority. Users can increase it (lower priority) without root privileges."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-647",
-  "topic": "File Permissions",
-  "difficulty": "Easy",
-  "question": "What does chmod +x script.sh do?",
-  "options": [
-    "Removes execute permission",
-    "Adds execute permission for all (owner, group, others)",
-    "Adds execute permission for owner only",
-    "Sets execute permission to exactly x"
-  ],
-  "answer": 1,
-  "explanation": "chmod +x adds execute permission for all three categories (owner, group, others). Use +u, +g, or +o to target specific categories."
+    "id": "pf-849",
+    "topic": "File Permissions",
+    "difficulty": "Easy",
+    "question": "What does chmod +x script.sh do?",
+    "options": [
+        "Removes execute permission",
+        "Adds execute permission for all (owner, group, others)",
+        "Adds execute permission for owner only",
+        "Sets execute permission to exactly x"
+    ],
+    "answer": 1,
+    "explanation": "chmod +x adds execute permission for all three categories (owner, group, others). Use +u, +g, or +o to target specific categories."
 }

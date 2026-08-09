@@ -1,14 +1,14 @@
 {
-  "id": "placement-1362",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Hard",
-  "question": "Which of the following statements is TRUE regarding deadlock prevention vs. deadlock avoidance?",
-  "options": [
-    "Prevention ensures at least one of the four necessary conditions cannot hold; avoidance dynamically checks if granting a resource leads to a safe state",
-    "Avoidance ensures the Circular Wait condition never occurs",
-    "Prevention uses the Banker's algorithm",
-    "Avoidance requires knowing the maximum resource needs in advance, but prevention does not"
-  ],
-  "answer": 0,
-  "explanation": "Prevention statically constrains requests to ensure at least one deadlock condition cannot happen. Avoidance (like Banker's) dynamically evaluates requests and grants them only if the system remains in a safe state."
+    "id": "pf-1564",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Hard",
+    "question": "Which of the following statements is TRUE regarding deadlock prevention vs. deadlock avoidance?",
+    "options": [
+        "Prevention ensures at least one of the four necessary conditions cannot hold; avoidance dynamically checks if granting a resource leads to a safe state",
+        "Avoidance ensures the Circular Wait condition never occurs",
+        "Prevention uses the Banker's algorithm",
+        "Avoidance requires knowing the maximum resource needs in advance, but prevention does not"
+    ],
+    "answer": 0,
+    "explanation": "Prevention statically constrains requests to ensure at least one deadlock condition cannot happen. Avoidance (like Banker's) dynamically evaluates requests and grants them only if the system remains in a safe state."
 }

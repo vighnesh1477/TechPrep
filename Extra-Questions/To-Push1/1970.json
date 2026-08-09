@@ -1,14 +1,14 @@
 {
-  "id": "placement-1970",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Medium",
-  "question": "A train 200m long crosses another 300m long in 20s going same direction at 50 km/h. Speed of second?",
-  "options": [
-    "40 km/h",
-    "45 km/h",
-    "50 km/h",
-    "55 km/h"
-  ],
-  "answer": 1,
-  "explanation": "Relative speed = 500/20 = 25 m/s = 90 km/h. Second train speed = 90 - 50 = 40 km/h? Wait. If A crosses B, relative speed = V1-V2. 50 km/h = 125/9 m/s. 125/9 - V2 = 25. V2 = 125/9 - 225/9 = -100/9 (impossible). Let's change: A is 50 km/h, B is V. V - 50 = 90 => V = 140 km/h. Let's use 20 m/s relative speed. V1 - V2 = 20. 50 km/h is 125/9 ~ 14 m/s. V2 would be negative. Change A's speed to 108 km/h (30 m/s). V2 = 30 - 25 = 5 m/s = 18 km/h."
+    "id": "pf-2172",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "A train 200m long crosses another 300m long in 20s going same direction at 50 km/h. Speed of second?",
+    "options": [
+        "40 km/h",
+        "45 km/h",
+        "50 km/h",
+        "55 km/h"
+    ],
+    "answer": 1,
+    "explanation": "Relative speed = 500/20 = 25 m/s = 90 km/h. Second train speed = 90 - 50 = 40 km/h? Wait. If A crosses B, relative speed = V1-V2. 50 km/h = 125/9 m/s. 125/9 - V2 = 25. V2 = 125/9 - 225/9 = -100/9 (impossible). Let's change: A is 50 km/h, B is V. V - 50 = 90 => V = 140 km/h. Let's use 20 m/s relative speed. V1 - V2 = 20. 50 km/h is 125/9 ~ 14 m/s. V2 would be negative. Change A's speed to 108 km/h (30 m/s). V2 = 30 - 25 = 5 m/s = 18 km/h."
 }

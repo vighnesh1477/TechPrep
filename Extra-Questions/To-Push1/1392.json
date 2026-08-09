@@ -1,14 +1,14 @@
 {
-  "id": "placement-1392",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is a B+ tree primarily used for in database systems?",
-  "options": [
-    "Sorting data in memory",
-    "Efficiently indexing large amounts of data on disk by storing keys and pointers in a balanced tree structure with all data at the leaves",
-    "Encrypting database files",
-    "Establishing foreign key relationships"
-  ],
-  "answer": 1,
-  "explanation": "B+ trees are balanced search trees optimized for systems that read and write large blocks of data (like disk drives). All values are stored at the leaf level, linked together for sequential access."
+    "id": "pf-1594",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is a B+ tree primarily used for in database systems?",
+    "options": [
+        "Sorting data in memory",
+        "Efficiently indexing large amounts of data on disk by storing keys and pointers in a balanced tree structure with all data at the leaves",
+        "Encrypting database files",
+        "Establishing foreign key relationships"
+    ],
+    "answer": 1,
+    "explanation": "B+ trees are balanced search trees optimized for systems that read and write large blocks of data (like disk drives). All values are stored at the leaf level, linked together for sequential access."
 }

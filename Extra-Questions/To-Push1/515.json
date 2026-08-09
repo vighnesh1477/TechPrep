@@ -1,14 +1,14 @@
 {
-  "id": "placement-515",
-  "topic": "CI/CD Integration",
-  "difficulty": "Medium",
-  "question": "How do Git platforms typically trigger CI/CD pipelines?",
-  "options": [
-    "Manual triggering only",
-    "Through webhooks triggered by push events, pull requests, or other Git operations",
-    "Through cron jobs",
-    "Through SSH connections"
-  ],
-  "answer": 1,
-  "explanation": "Git platforms like GitHub and GitLab send webhook notifications to CI/CD systems when events like pushes or pull requests occur, triggering automated builds and tests."
+    "id": "pf-717",
+    "topic": "CI/CD Integration",
+    "difficulty": "Medium",
+    "question": "How do Git platforms typically trigger CI/CD pipelines?",
+    "options": [
+        "Manual triggering only",
+        "Through webhooks triggered by push events, pull requests, or other Git operations",
+        "Through cron jobs",
+        "Through SSH connections"
+    ],
+    "answer": 1,
+    "explanation": "Git platforms like GitHub and GitLab send webhook notifications to CI/CD systems when events like pushes or pull requests occur, triggering automated builds and tests."
 }

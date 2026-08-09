@@ -1,14 +1,14 @@
 {
-  "id": "placement-352",
-  "topic": "Pull",
-  "difficulty": "Easy",
-  "question": "What does git pull --ff-only do?",
-  "options": [
-    "Pulls and forces a fast-forward merge",
-    "Pulls only if a fast-forward merge is possible, otherwise aborts",
-    "Pulls and creates a merge commit",
-    "Pulls and rebases"
-  ],
-  "answer": 1,
-  "explanation": "git pull --ff-only only succeeds if the merge can be done as a fast-forward, providing a safe pull that avoids creating merge commits."
+    "id": "pf-554",
+    "topic": "Pull",
+    "difficulty": "Easy",
+    "question": "What does git pull --ff-only do?",
+    "options": [
+        "Pulls and forces a fast-forward merge",
+        "Pulls only if a fast-forward merge is possible, otherwise aborts",
+        "Pulls and creates a merge commit",
+        "Pulls and rebases"
+    ],
+    "answer": 1,
+    "explanation": "git pull --ff-only only succeeds if the merge can be done as a fast-forward, providing a safe pull that avoids creating merge commits."
 }

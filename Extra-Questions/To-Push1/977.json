@@ -1,14 +1,14 @@
 {
-  "id": "placement-977",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What is a correlated subquery?",
-  "options": [
-    "A subquery that cannot run alone",
-    "A subquery that references a column from the outer query",
-    "A subquery inside a subquery",
-    "A subquery that returns no rows"
-  ],
-  "answer": 1,
-  "explanation": "A correlated subquery depends on the outer query for its values, executing once per outer row."
+    "id": "pf-1179",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What is a correlated subquery?",
+    "options": [
+        "A subquery that cannot run alone",
+        "A subquery that references a column from the outer query",
+        "A subquery inside a subquery",
+        "A subquery that returns no rows"
+    ],
+    "answer": 1,
+    "explanation": "A correlated subquery depends on the outer query for its values, executing once per outer row."
 }

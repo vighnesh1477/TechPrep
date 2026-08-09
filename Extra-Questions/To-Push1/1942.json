@@ -1,14 +1,14 @@
 {
-  "id": "placement-1942",
-  "topic": "Time and Work",
-  "difficulty": "Easy",
-  "question": "A can finish in 15 days, B in 10 days. They work for 4 days. Work left?",
-  "options": [
-    "1/3",
-    "2/3",
-    "1/2",
-    "3/4"
-  ],
-  "answer": 0,
-  "explanation": "4 days work = 4*(1/15 + 1/10) = 4*(5/30) = 20/30 = 2/3. Left = 1/3."
+    "id": "pf-2144",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "A can finish in 15 days, B in 10 days. They work for 4 days. Work left?",
+    "options": [
+        "1/3",
+        "2/3",
+        "1/2",
+        "3/4"
+    ],
+    "answer": 0,
+    "explanation": "4 days work = 4*(1/15 + 1/10) = 4*(5/30) = 20/30 = 2/3. Left = 1/3."
 }

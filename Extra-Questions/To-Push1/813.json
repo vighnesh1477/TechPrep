@@ -1,14 +1,14 @@
 {
-  "id": "placement-813",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "What does 'sed -n '/pattern/p' file' do?",
-  "options": [
-    "Deletes lines matching the pattern",
-    "Prints only lines matching the pattern (suppressing default output)",
-    "Prints lines before the pattern",
-    "Substitutes the pattern"
-  ],
-  "answer": 1,
-  "explanation": "-n suppresses automatic printing. The /pattern/p command prints only lines matching 'pattern'. This is functionally similar to grep but more flexible."
+    "id": "pf-1015",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "What does 'sed -n '/pattern/p' file' do?",
+    "options": [
+        "Deletes lines matching the pattern",
+        "Prints only lines matching the pattern (suppressing default output)",
+        "Prints lines before the pattern",
+        "Substitutes the pattern"
+    ],
+    "answer": 1,
+    "explanation": "-n suppresses automatic printing. The /pattern/p command prints only lines matching 'pattern'. This is functionally similar to grep but more flexible."
 }

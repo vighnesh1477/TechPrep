@@ -1,14 +1,14 @@
 {
-  "id": "placement-806",
-  "topic": "awk",
-  "difficulty": "Medium",
-  "question": "What does the BEGIN block in awk do?",
-  "options": [
-    "Starts a loop",
-    "Executes before any input is read, used for initialization",
-    "Marks the beginning of the file",
-    "Begins a new output file"
-  ],
-  "answer": 1,
-  "explanation": "BEGIN { } executes before any input lines are processed. It's typically used to set variable values, print headers, or change field separators."
+    "id": "pf-1008",
+    "topic": "awk",
+    "difficulty": "Medium",
+    "question": "What does the BEGIN block in awk do?",
+    "options": [
+        "Starts a loop",
+        "Executes before any input is read, used for initialization",
+        "Marks the beginning of the file",
+        "Begins a new output file"
+    ],
+    "answer": 1,
+    "explanation": "BEGIN { } executes before any input lines are processed. It's typically used to set variable values, print headers, or change field separators."
 }

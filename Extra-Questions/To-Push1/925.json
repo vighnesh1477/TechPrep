@@ -1,14 +1,14 @@
 {
-  "id": "placement-925",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "How many edges does a spanning tree of a connected graph with V vertices have?",
-  "options": [
-    "V",
-    "V-1",
-    "V+1",
-    "V^2"
-  ],
-  "answer": 1,
-  "explanation": "A spanning tree connects all V vertices with the minimum number of edges, which is V-1."
+    "id": "pf-1127",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "How many edges does a spanning tree of a connected graph with V vertices have?",
+    "options": [
+        "V",
+        "V-1",
+        "V+1",
+        "V^2"
+    ],
+    "answer": 1,
+    "explanation": "A spanning tree connects all V vertices with the minimum number of edges, which is V-1."
 }

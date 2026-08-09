@@ -1,14 +1,14 @@
 {
-  "id": "placement-1591",
-  "topic": "Data Representation",
-  "difficulty": "Medium",
-  "question": "In the IEEE 754 single-precision (32-bit) floating-point standard, how many bits are reserved for the exponent?",
-  "options": [
-    "1 bit",
-    "8 bits",
-    "23 bits",
-    "32 bits"
-  ],
-  "answer": 1,
-  "explanation": "IEEE 754 single-precision uses 32 bits total: 1 bit for the sign, 8 bits for the exponent (with a bias of 127), and 23 bits for the fraction (mantissa/significand)."
+    "id": "pf-1793",
+    "topic": "Data Representation",
+    "difficulty": "Medium",
+    "question": "In the IEEE 754 single-precision (32-bit) floating-point standard, how many bits are reserved for the exponent?",
+    "options": [
+        "1 bit",
+        "8 bits",
+        "23 bits",
+        "32 bits"
+    ],
+    "answer": 1,
+    "explanation": "IEEE 754 single-precision uses 32 bits total: 1 bit for the sign, 8 bits for the exponent (with a bias of 127), and 23 bits for the fraction (mantissa/significand)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-994",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What is thrashing in OS?",
-  "options": [
-    "Deleting files accidentally",
-    "High CPU usage",
-    "Spending more time paging than executing instructions",
-    "A type of deadlock"
-  ],
-  "answer": 2,
-  "explanation": "Thrashing occurs when the system is overwhelmed by page faults, swapping pages in and out constantly."
+    "id": "pf-1196",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is thrashing in OS?",
+    "options": [
+        "Deleting files accidentally",
+        "High CPU usage",
+        "Spending more time paging than executing instructions",
+        "A type of deadlock"
+    ],
+    "answer": 2,
+    "explanation": "Thrashing occurs when the system is overwhelmed by page faults, swapping pages in and out constantly."
 }

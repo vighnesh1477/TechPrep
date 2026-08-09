@@ -1,14 +1,14 @@
 {
-  "id": "placement-1533",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which of the following cannot be recognized by a Finite State Automaton (used in lexical analysis)?",
-  "options": [
-    "Keywords",
-    "Identifiers",
-    "Nested parentheses (e.g., '(((...)))')",
-    "Numbers"
-  ],
-  "answer": 2,
-  "explanation": "Finite State Automata (FSA) have no memory (no stack) and cannot count arbitrarily. Recognizing balanced, nested structures like parentheses requires a pushdown automaton (a parser)."
+    "id": "pf-1735",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which of the following cannot be recognized by a Finite State Automaton (used in lexical analysis)?",
+    "options": [
+        "Keywords",
+        "Identifiers",
+        "Nested parentheses (e.g., '(((...)))')",
+        "Numbers"
+    ],
+    "answer": 2,
+    "explanation": "Finite State Automata (FSA) have no memory (no stack) and cannot count arbitrarily. Recognizing balanced, nested structures like parentheses requires a pushdown automaton (a parser)."
 }

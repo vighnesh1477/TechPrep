@@ -1,14 +1,14 @@
 {
-  "id": "placement-1507",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Hard",
-  "question": "What is 'Mutation Testing'?",
-  "options": [
-    "Testing how the software mutates over time",
-    "A type of white-box testing that introduces small changes (mutations) to the code to check if the existing test suite can detect the faults",
-    "Testing on mutated hardware",
-    "A genetic algorithm for test case generation"
-  ],
-  "answer": 1,
-  "explanation": "Mutation testing modifies the source code slightly (e.g., changing operators) to create 'mutants'. If a test suite fails to detect a mutant, the test suite is considered inadequate."
+    "id": "pf-1709",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Hard",
+    "question": "What is 'Mutation Testing'?",
+    "options": [
+        "Testing how the software mutates over time",
+        "A type of white-box testing that introduces small changes (mutations) to the code to check if the existing test suite can detect the faults",
+        "Testing on mutated hardware",
+        "A genetic algorithm for test case generation"
+    ],
+    "answer": 1,
+    "explanation": "Mutation testing modifies the source code slightly (e.g., changing operators) to create 'mutants'. If a test suite fails to detect a mutant, the test suite is considered inadequate."
 }

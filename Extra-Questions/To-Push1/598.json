@@ -1,14 +1,14 @@
 {
-  "id": "placement-598",
-  "topic": "less",
-  "difficulty": "Easy",
-  "question": "What key do you press to quit the less pager?",
-  "options": [
-    "Escape",
-    "q",
-    "x",
-    "Ctrl+C"
-  ],
-  "answer": 1,
-  "explanation": "Pressing 'q' quits the less pager and returns to the shell prompt."
+    "id": "pf-800",
+    "topic": "less",
+    "difficulty": "Easy",
+    "question": "What key do you press to quit the less pager?",
+    "options": [
+        "Escape",
+        "q",
+        "x",
+        "Ctrl+C"
+    ],
+    "answer": 1,
+    "explanation": "Pressing 'q' quits the less pager and returns to the shell prompt."
 }

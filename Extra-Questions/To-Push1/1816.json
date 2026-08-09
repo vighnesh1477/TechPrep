@@ -1,14 +1,14 @@
 {
-  "id": "placement-1816",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the space complexity of standard recursive Binary Search?",
-  "options": [
-    "O(1)",
-    "O(log n)",
-    "O(n)",
-    "O(n log n)"
-  ],
-  "answer": 1,
-  "explanation": "Recursive binary search uses the call stack. The maximum depth of the recursion tree is log2(n), so the space complexity is O(log n)."
+    "id": "pf-2018",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the space complexity of standard recursive Binary Search?",
+    "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+    ],
+    "answer": 1,
+    "explanation": "Recursive binary search uses the call stack. The maximum depth of the recursion tree is log2(n), so the space complexity is O(log n)."
 }

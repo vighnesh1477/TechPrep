@@ -1,14 +1,14 @@
 {
-  "id": "placement-1587",
-  "topic": "Data Representation",
-  "difficulty": "Medium",
-  "question": "What is the decimal value of the 8-bit two's complement number 11111111?",
-  "options": [
-    "-1",
-    "255",
-    "-127",
-    "-0"
-  ],
-  "answer": 0,
-  "explanation": "The most significant bit is 1, so it's negative. To find the magnitude, take the two's complement: Invert (00000000) + 1 = 1. So the value is -1."
+    "id": "pf-1789",
+    "topic": "Data Representation",
+    "difficulty": "Medium",
+    "question": "What is the decimal value of the 8-bit two's complement number 11111111?",
+    "options": [
+        "-1",
+        "255",
+        "-127",
+        "-0"
+    ],
+    "answer": 0,
+    "explanation": "The most significant bit is 1, so it's negative. To find the magnitude, take the two's complement: Invert (00000000) + 1 = 1. So the value is -1."
 }

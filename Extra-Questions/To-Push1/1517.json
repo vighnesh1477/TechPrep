@@ -1,14 +1,14 @@
 {
-  "id": "placement-1517",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the first phase of a compiler?",
-  "options": [
-    "Syntax Analysis",
-    "Lexical Analysis",
-    "Code Generation",
-    "Semantic Analysis"
-  ],
-  "answer": 1,
-  "explanation": "Lexical Analysis (or scanning) is the first phase. It reads the source code as a stream of characters and groups them into meaningful sequences called 'tokens'."
+    "id": "pf-1719",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the first phase of a compiler?",
+    "options": [
+        "Syntax Analysis",
+        "Lexical Analysis",
+        "Code Generation",
+        "Semantic Analysis"
+    ],
+    "answer": 1,
+    "explanation": "Lexical Analysis (or scanning) is the first phase. It reads the source code as a stream of characters and groups them into meaningful sequences called 'tokens'."
 }

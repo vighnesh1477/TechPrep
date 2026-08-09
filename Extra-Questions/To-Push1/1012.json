@@ -1,14 +1,14 @@
 {
-  "id": "placement-1012",
-  "topic": "Computer Networks",
-  "difficulty": "Medium",
-  "question": "What is the maximum segment size of a standard Ethernet frame?",
-  "options": [
-    "64 bytes",
-    "512 bytes",
-    "1500 bytes",
-    "10000 bytes"
-  ],
-  "answer": 2,
-  "explanation": "The standard Maximum Transmission Unit (MTU) for Ethernet is 1500 bytes."
+    "id": "pf-1214",
+    "topic": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "What is the maximum segment size of a standard Ethernet frame?",
+    "options": [
+        "64 bytes",
+        "512 bytes",
+        "1500 bytes",
+        "10000 bytes"
+    ],
+    "answer": 2,
+    "explanation": "The standard Maximum Transmission Unit (MTU) for Ethernet is 1500 bytes."
 }

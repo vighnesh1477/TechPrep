@@ -1,14 +1,14 @@
 {
-  "id": "placement-708",
-  "topic": "Jobs",
-  "difficulty": "Easy",
-  "question": "How do you send a running foreground process to the background?",
-  "options": [
-    "Press Ctrl+C",
-    "Press Ctrl+Z",
-    "Press Ctrl+B",
-    "Press Ctrl+D"
-  ],
-  "answer": 1,
-  "explanation": "Ctrl+Z sends SIGTSTP to suspend the process. It then becomes a stopped job that can be resumed in the background with 'bg' or foreground with 'fg'."
+    "id": "pf-910",
+    "topic": "Jobs",
+    "difficulty": "Easy",
+    "question": "How do you send a running foreground process to the background?",
+    "options": [
+        "Press Ctrl+C",
+        "Press Ctrl+Z",
+        "Press Ctrl+B",
+        "Press Ctrl+D"
+    ],
+    "answer": 1,
+    "explanation": "Ctrl+Z sends SIGTSTP to suspend the process. It then becomes a stopped job that can be resumed in the background with 'bg' or foreground with 'fg'."
 }

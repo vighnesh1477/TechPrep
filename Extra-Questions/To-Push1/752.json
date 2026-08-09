@@ -1,14 +1,14 @@
 {
-  "id": "placement-752",
-  "topic": "du",
-  "difficulty": "Easy",
-  "question": "What does 'du -sh /var/log' show?",
-  "options": [
-    "A summary of all files in /var/log",
-    "The total human-readable size of /var/log directory",
-    "Only symbolic links in /var/log",
-    "Hidden files in /var/log"
-  ],
-  "answer": 1,
-  "explanation": "du -sh shows a summary (-s) of the total size in human-readable format (-h) for the /var/log directory."
+    "id": "pf-954",
+    "topic": "du",
+    "difficulty": "Easy",
+    "question": "What does 'du -sh /var/log' show?",
+    "options": [
+        "A summary of all files in /var/log",
+        "The total human-readable size of /var/log directory",
+        "Only symbolic links in /var/log",
+        "Hidden files in /var/log"
+    ],
+    "answer": 1,
+    "explanation": "du -sh shows a summary (-s) of the total size in human-readable format (-h) for the /var/log directory."
 }

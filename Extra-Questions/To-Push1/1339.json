@@ -1,14 +1,14 @@
 {
-  "id": "placement-1339",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the kernel?",
-  "options": [
-    "The user interface of the OS",
-    "The core component of an operating system that manages system resources",
-    "The command-line interpreter",
-    "A type of antivirus software"
-  ],
-  "answer": 1,
-  "explanation": "The kernel is the central part of an operating system. It manages memory, CPU time, and device I/O, acting as a bridge between applications and hardware."
+    "id": "pf-1541",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the kernel?",
+    "options": [
+        "The user interface of the OS",
+        "The core component of an operating system that manages system resources",
+        "The command-line interpreter",
+        "A type of antivirus software"
+    ],
+    "answer": 1,
+    "explanation": "The kernel is the central part of an operating system. It manages memory, CPU time, and device I/O, acting as a bridge between applications and hardware."
 }

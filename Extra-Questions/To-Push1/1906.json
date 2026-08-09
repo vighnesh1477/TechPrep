@@ -1,14 +1,14 @@
 {
-  "id": "placement-1906",
-  "topic": "Profit and Loss",
-  "difficulty": "Hard",
-  "question": "CP1:CP2 = 3:4. SP1:SP2 = 5:6. Total profit is 20%. Profit on 1st article?",
-  "options": [
-    "25%",
-    "30%",
-    "33.33%",
-    "40%"
-  ],
-  "answer": 0,
-  "explanation": "Let CP1=30, CP2=40. Total CP=70. Total SP=70*1.2=84. SP1+SP2=84. Ratio 5:6 => SP1=84*(5/11)=420/11~38.18. Profit1 = (38.18-30)/30 = 27.2%. Let's make ratio exact: CP1=3x, CP2=4x. SP1=5y, SP2=6y. 5y+6y = 1.2(7x) => 11y = 8.4x => y = 8.4/11 x. SP1 = 5 * 8.4/11 x = 42/11 x. Profit1 = (42/11 x - 3x)/3x = (42/11 - 33/11)/3 = (9/11)/3 = 3/11 = 27.2%. Let's change ratios. CP1:CP2=1:2, SP1:SP2=1:1. Total profit 20%. CP=3, SP=3.6. SP1=1.8. CP1=1. Profit=80%. Let's use: CP1:CP2=2:3, SP1:SP2=4:5. Total CP=5x. SP=6x (20% profit). 4y+5y=6x => 9y=6x => y=2/3 x. SP1=8/3 x. CP1=2x. Profit = (8/3 - 2)/2 = 2/3 / 2 = 1/3 = 33.33%."
+    "id": "pf-2108",
+    "topic": "Profit and Loss",
+    "difficulty": "Hard",
+    "question": "CP1:CP2 = 3:4. SP1:SP2 = 5:6. Total profit is 20%. Profit on 1st article?",
+    "options": [
+        "25%",
+        "30%",
+        "33.33%",
+        "40%"
+    ],
+    "answer": 0,
+    "explanation": "Let CP1=30, CP2=40. Total CP=70. Total SP=70*1.2=84. SP1+SP2=84. Ratio 5:6 => SP1=84*(5/11)=420/11~38.18. Profit1 = (38.18-30)/30 = 27.2%. Let's make ratio exact: CP1=3x, CP2=4x. SP1=5y, SP2=6y. 5y+6y = 1.2(7x) => 11y = 8.4x => y = 8.4/11 x. SP1 = 5 * 8.4/11 x = 42/11 x. Profit1 = (42/11 x - 3x)/3x = (42/11 - 33/11)/3 = (9/11)/3 = 3/11 = 27.2%. Let's change ratios. CP1:CP2=1:2, SP1:SP2=1:1. Total profit 20%. CP=3, SP=3.6. SP1=1.8. CP1=1. Profit=80%. Let's use: CP1:CP2=2:3, SP1:SP2=4:5. Total CP=5x. SP=6x (20% profit). 4y+5y=6x => 9y=6x => y=2/3 x. SP1=8/3 x. CP1=2x. Profit = (8/3 - 2)/2 = 2/3 / 2 = 1/3 = 33.33%."
 }

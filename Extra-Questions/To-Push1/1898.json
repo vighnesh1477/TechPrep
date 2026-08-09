@@ -1,14 +1,14 @@
 {
-  "id": "placement-1898",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "MP is 80% above CP. Discount 25%. Profit %?",
-  "options": [
-    "25%",
-    "30%",
-    "35%",
-    "40%"
-  ],
-  "answer": 2,
-  "explanation": "CP=100, MP=180. SP=180*0.75=135. Profit=35%."
+    "id": "pf-2100",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "MP is 80% above CP. Discount 25%. Profit %?",
+    "options": [
+        "25%",
+        "30%",
+        "35%",
+        "40%"
+    ],
+    "answer": 2,
+    "explanation": "CP=100, MP=180. SP=180*0.75=135. Profit=35%."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2148",
-  "topic": "Direction Sense",
-  "difficulty": "Medium",
-  "question": "A walks 30m North, 20m East, 30m South, 20m West. Where is he?",
-  "options": [
-    "North",
-    "East",
-    "Start point",
-    "West"
-  ],
-  "answer": 2,
-  "explanation": "He returns to the starting point."
+    "id": "pf-2350",
+    "topic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "A walks 30m North, 20m East, 30m South, 20m West. Where is he?",
+    "options": [
+        "North",
+        "East",
+        "Start point",
+        "West"
+    ],
+    "answer": 2,
+    "explanation": "He returns to the starting point."
 }

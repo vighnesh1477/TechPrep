@@ -1,14 +1,14 @@
 {
-  "id": "placement-1341",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "In SJF (Shortest Job First) scheduling, what is the main disadvantage?",
-  "options": [
-    "High context switching overhead",
-    "It can cause starvation for longer processes",
-    "It requires a very large time quantum",
-    "It is non-preemptive only"
-  ],
-  "answer": 1,
-  "explanation": "If shorter processes keep arriving, a long process may never get the CPU, leading to starvation. (Note: While preemptive SJF exists as SRTF, starvation remains the primary drawback)."
+    "id": "pf-1543",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "In SJF (Shortest Job First) scheduling, what is the main disadvantage?",
+    "options": [
+        "High context switching overhead",
+        "It can cause starvation for longer processes",
+        "It requires a very large time quantum",
+        "It is non-preemptive only"
+    ],
+    "answer": 1,
+    "explanation": "If shorter processes keep arriving, a long process may never get the CPU, leading to starvation. (Note: While preemptive SJF exists as SRTF, starvation remains the primary drawback)."
 }

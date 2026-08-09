@@ -1,14 +1,14 @@
 {
-  "id": "placement-542",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "What type of operating system is Linux?",
-  "options": [
-    "Proprietary",
-    "Open source",
-    "Freeware",
-    "Shareware"
-  ],
-  "answer": 1,
-  "explanation": "Linux is released under the GNU General Public License (GPL), making it open source software that anyone can view, modify, and distribute."
+    "id": "pf-744",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "What type of operating system is Linux?",
+    "options": [
+        "Proprietary",
+        "Open source",
+        "Freeware",
+        "Shareware"
+    ],
+    "answer": 1,
+    "explanation": "Linux is released under the GNU General Public License (GPL), making it open source software that anyone can view, modify, and distribute."
 }

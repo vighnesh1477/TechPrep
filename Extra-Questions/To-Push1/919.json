@@ -1,14 +1,14 @@
 {
-  "id": "placement-919",
-  "topic": "Data Structures",
-  "difficulty": "Medium",
-  "question": "What is the primary disadvantage of using an array for a queue?",
-  "options": [
-    "Slow enqueue",
-    "Wasted space due to shifting or circular array limits",
-    "Cannot peek",
-    "FIFO violation"
-  ],
-  "answer": 1,
-  "explanation": "Standard arrays cause shifting overhead; circular arrays mitigate this but have fixed capacity limits."
+    "id": "pf-1121",
+    "topic": "Data Structures",
+    "difficulty": "Medium",
+    "question": "What is the primary disadvantage of using an array for a queue?",
+    "options": [
+        "Slow enqueue",
+        "Wasted space due to shifting or circular array limits",
+        "Cannot peek",
+        "FIFO violation"
+    ],
+    "answer": 1,
+    "explanation": "Standard arrays cause shifting overhead; circular arrays mitigate this but have fixed capacity limits."
 }

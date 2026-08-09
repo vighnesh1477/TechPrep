@@ -1,14 +1,14 @@
 {
-  "id": "placement-701",
-  "topic": "nice",
-  "difficulty": "Easy",
-  "question": "Can a regular user decrease the nice value of a process?",
-  "options": [
-    "Yes, without restrictions",
-    "No, only root can decrease (increase priority) a nice value",
-    "Yes, but only by 1 point at a time",
-    "Yes, if the process is owned by the user"
-  ],
-  "answer": 1,
-  "explanation": "Regular users can only increase the nice value (lower priority). Only root can decrease the nice value (increase priority)."
+    "id": "pf-903",
+    "topic": "nice",
+    "difficulty": "Easy",
+    "question": "Can a regular user decrease the nice value of a process?",
+    "options": [
+        "Yes, without restrictions",
+        "No, only root can decrease (increase priority) a nice value",
+        "Yes, but only by 1 point at a time",
+        "Yes, if the process is owned by the user"
+    ],
+    "answer": 1,
+    "explanation": "Regular users can only increase the nice value (lower priority). Only root can decrease the nice value (increase priority)."
 }

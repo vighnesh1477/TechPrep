@@ -1,14 +1,14 @@
 {
-  "id": "placement-2093",
-  "topic": "Number Series",
-  "difficulty": "Medium",
-  "question": "Find next: 1, 0, 1, 0, 1, ?",
-  "options": [
-    "0",
-    "1",
-    "2",
-    "-1"
-  ],
-  "answer": 0,
-  "explanation": "Alternating 1 and 0."
+    "id": "pf-2295",
+    "topic": "Number Series",
+    "difficulty": "Medium",
+    "question": "Find next: 1, 0, 1, 0, 1, ?",
+    "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+    ],
+    "answer": 0,
+    "explanation": "Alternating 1 and 0."
 }

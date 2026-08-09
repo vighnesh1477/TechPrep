@@ -1,14 +1,14 @@
 {
-  "id": "placement-1149",
-  "topic": "Java",
-  "difficulty": "Hard",
-  "question": "What is a memory leak in Java?",
-  "options": [
-    "Deleting an object",
-    "Unintentional object retention due to lingering references, preventing GC",
-    "Stack overflow",
-    "Syntax error"
-  ],
-  "answer": 1,
-  "explanation": "Since Java uses GC, leaks happen when objects are no longer needed but still referenced, so GC cannot reclaim them."
+    "id": "pf-1351",
+    "topic": "Java",
+    "difficulty": "Hard",
+    "question": "What is a memory leak in Java?",
+    "options": [
+        "Deleting an object",
+        "Unintentional object retention due to lingering references, preventing GC",
+        "Stack overflow",
+        "Syntax error"
+    ],
+    "answer": 1,
+    "explanation": "Since Java uses GC, leaks happen when objects are no longer needed but still referenced, so GC cannot reclaim them."
 }

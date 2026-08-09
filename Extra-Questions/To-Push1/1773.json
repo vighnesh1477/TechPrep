@@ -1,14 +1,14 @@
 {
-  "id": "placement-1773",
-  "topic": "Pointers and Memory",
-  "difficulty": "Medium",
-  "question": "If `int a = 5; int *p = &a;`, what is the value of `*p`?",
-  "options": [
-    "The address of `a`",
-    "The address of `p`",
-    "5",
-    "Undefined"
-  ],
-  "answer": 2,
-  "explanation": "`p` holds the address of `a`. The dereference operator `*` accesses the value stored at that address, which is 5."
+    "id": "pf-1975",
+    "topic": "Pointers and Memory",
+    "difficulty": "Medium",
+    "question": "If `int a = 5; int *p = &a;`, what is the value of `*p`?",
+    "options": [
+        "The address of `a`",
+        "The address of `p`",
+        "5",
+        "Undefined"
+    ],
+    "answer": 2,
+    "explanation": "`p` holds the address of `a`. The dereference operator `*` accesses the value stored at that address, which is 5."
 }

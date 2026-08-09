@@ -1,14 +1,14 @@
 {
-  "id": "placement-259",
-  "topic": "Git Config",
-  "difficulty": "Easy",
-  "question": "Where are global Git configuration settings stored?",
-  "options": [
-    ".git/config in each repository",
-    "~/.gitconfig",
-    "/etc/gitconfig",
-    "~/.git/config"
-  ],
-  "answer": 1,
-  "explanation": "Global Git settings are stored in the ~/.gitconfig file in the user's home directory, applying across all repositories for that user."
+    "id": "pf-461",
+    "topic": "Git Config",
+    "difficulty": "Easy",
+    "question": "Where are global Git configuration settings stored?",
+    "options": [
+        ".git/config in each repository",
+        "~/.gitconfig",
+        "/etc/gitconfig",
+        "~/.git/config"
+    ],
+    "answer": 1,
+    "explanation": "Global Git settings are stored in the ~/.gitconfig file in the user's home directory, applying across all repositories for that user."
 }

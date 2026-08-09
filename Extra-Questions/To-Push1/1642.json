@@ -1,14 +1,14 @@
 {
-  "id": "placement-1642",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the output of the following Python code?\n`a = [1, 2, 3]`\n`b = a`\n`b.append(4)`\n`print(len(a))`",
-  "options": [
-    "3",
-    "4",
-    "Error",
-    "1"
-  ],
-  "answer": 1,
-  "explanation": "In Python, lists are mutable and assigned by reference. `b = a` makes both variables point to the same list object in memory. Modifying `b` also modifies `a`."
+    "id": "pf-1844",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the output of the following Python code?\n`a = [1, 2, 3]`\n`b = a`\n`b.append(4)`\n`print(len(a))`",
+    "options": [
+        "3",
+        "4",
+        "Error",
+        "1"
+    ],
+    "answer": 1,
+    "explanation": "In Python, lists are mutable and assigned by reference. `b = a` makes both variables point to the same list object in memory. Modifying `b` also modifies `a`."
 }

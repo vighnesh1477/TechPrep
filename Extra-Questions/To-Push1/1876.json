@@ -1,14 +1,14 @@
 {
-  "id": "placement-1876",
-  "topic": "Number Systems",
-  "difficulty": "Hard",
-  "question": "A number when divided by 10 leaves 9, by 9 leaves 8, by 8 leaves 7, and so on down to 2 leaving 1. Find the number.",
-  "options": [
-    "2519",
-    "5039",
-    "1259",
-    "3779"
-  ],
-  "answer": 0,
-  "explanation": "LCM(1..10)-1 = 2520-1 = 2519."
+    "id": "pf-2078",
+    "topic": "Number Systems",
+    "difficulty": "Hard",
+    "question": "A number when divided by 10 leaves 9, by 9 leaves 8, by 8 leaves 7, and so on down to 2 leaving 1. Find the number.",
+    "options": [
+        "2519",
+        "5039",
+        "1259",
+        "3779"
+    ],
+    "answer": 0,
+    "explanation": "LCM(1..10)-1 = 2520-1 = 2519."
 }

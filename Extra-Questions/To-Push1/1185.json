@@ -1,14 +1,14 @@
 {
-  "id": "placement-1185",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "What is a check constraint?",
-  "options": [
-    "Checks if a table exists",
-    "Enforces that a column's value must satisfy a specific Boolean condition",
-    "Checks user permissions",
-    "Validates foreign keys"
-  ],
-  "answer": 1,
-  "explanation": "A CHECK constraint ensures data in a column meets a specified condition (e.g., age > 0)."
+    "id": "pf-1387",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is a check constraint?",
+    "options": [
+        "Checks if a table exists",
+        "Enforces that a column's value must satisfy a specific Boolean condition",
+        "Checks user permissions",
+        "Validates foreign keys"
+    ],
+    "answer": 1,
+    "explanation": "A CHECK constraint ensures data in a column meets a specified condition (e.g., age > 0)."
 }

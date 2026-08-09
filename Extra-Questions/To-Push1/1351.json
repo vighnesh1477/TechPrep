@@ -1,14 +1,14 @@
 {
-  "id": "placement-1351",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which page replacement algorithm suffers from Belady's Anomaly?",
-  "options": [
-    "LRU",
-    "Optimal Page Replacement",
-    "FIFO",
-    "MRU"
-  ],
-  "answer": 2,
-  "explanation": "Belady's Anomaly is a phenomenon where increasing the number of page frames results in an increase in the number of page faults. This occurs in FIFO but not in stack-based algorithms like LRU or Optimal."
+    "id": "pf-1553",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which page replacement algorithm suffers from Belady's Anomaly?",
+    "options": [
+        "LRU",
+        "Optimal Page Replacement",
+        "FIFO",
+        "MRU"
+    ],
+    "answer": 2,
+    "explanation": "Belady's Anomaly is a phenomenon where increasing the number of page frames results in an increase in the number of page faults. This occurs in FIFO but not in stack-based algorithms like LRU or Optimal."
 }

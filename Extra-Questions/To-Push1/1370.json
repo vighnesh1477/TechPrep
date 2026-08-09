@@ -1,14 +1,14 @@
 {
-  "id": "placement-1370",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following is an example of a DDL (Data Definition Language) command?",
-  "options": [
-    "SELECT",
-    "INSERT",
-    "CREATE",
-    "UPDATE"
-  ],
-  "answer": 2,
-  "explanation": "DDL commands define or modify the database structure. CREATE, ALTER, DROP, and TRUNCATE are DDL commands. SELECT, INSERT, UPDATE, DELETE are DML."
+    "id": "pf-1572",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following is an example of a DDL (Data Definition Language) command?",
+    "options": [
+        "SELECT",
+        "INSERT",
+        "CREATE",
+        "UPDATE"
+    ],
+    "answer": 2,
+    "explanation": "DDL commands define or modify the database structure. CREATE, ALTER, DROP, and TRUNCATE are DDL commands. SELECT, INSERT, UPDATE, DELETE are DML."
 }

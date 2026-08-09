@@ -1,14 +1,14 @@
 {
-  "id": "placement-823",
-  "topic": "sort",
-  "difficulty": "Medium",
-  "question": "How do you sort a file numerically?",
-  "options": [
-    "sort -n file",
-    "sort --numeric file",
-    "sort -number file",
-    "sort -i file"
-  ],
-  "answer": 0,
-  "explanation": "sort -n sorts numerically. Without -n, sort uses lexicographic order where '10' comes before '2' because '1' is lexicographically less than '2'."
+    "id": "pf-1025",
+    "topic": "sort",
+    "difficulty": "Medium",
+    "question": "How do you sort a file numerically?",
+    "options": [
+        "sort -n file",
+        "sort --numeric file",
+        "sort -number file",
+        "sort -i file"
+    ],
+    "answer": 0,
+    "explanation": "sort -n sorts numerically. Without -n, sort uses lexicographic order where '10' comes before '2' because '1' is lexicographically less than '2'."
 }

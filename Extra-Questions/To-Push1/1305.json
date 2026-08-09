@@ -1,14 +1,14 @@
 {
-  "id": "placement-1305",
-  "topic": "Linux",
-  "difficulty": "Hard",
-  "question": "What does `cgroups` (Control Groups) do?",
-  "options": [
-    "Manages user groups",
-    "Limits, accounts for, and isolates resource usage (CPU, memory, I/O) of a process group",
-    "Controls network traffic",
-    "Compresses files"
-  ],
-  "answer": 1,
-  "explanation": "cgroups are a kernel feature that allocates and restricts resources, foundational to container technologies like Docker."
+    "id": "pf-1507",
+    "topic": "Linux",
+    "difficulty": "Hard",
+    "question": "What does `cgroups` (Control Groups) do?",
+    "options": [
+        "Manages user groups",
+        "Limits, accounts for, and isolates resource usage (CPU, memory, I/O) of a process group",
+        "Controls network traffic",
+        "Compresses files"
+    ],
+    "answer": 1,
+    "explanation": "cgroups are a kernel feature that allocates and restricts resources, foundational to container technologies like Docker."
 }

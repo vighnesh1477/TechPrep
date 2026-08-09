@@ -1,14 +1,14 @@
 {
-  "id": "placement-1299",
-  "topic": "SQL",
-  "difficulty": "Hard",
-  "question": "What is the difference between `ROLLBACK` and `ROLLBACK TO SAVEPOINT`?",
-  "options": [
-    "No difference",
-    "ROLLBACK undoes the whole transaction; ROLLBACK TO SAVEPOINT undoes only changes made after the savepoint",
-    "ROLLBACK TO SAVEPOINT commits the transaction",
-    "ROLLBACK is faster"
-  ],
-  "answer": 1,
-  "explanation": "Savepoints allow partial rollbacks within a transaction, preserving work done before the savepoint."
+    "id": "pf-1501",
+    "topic": "SQL",
+    "difficulty": "Hard",
+    "question": "What is the difference between `ROLLBACK` and `ROLLBACK TO SAVEPOINT`?",
+    "options": [
+        "No difference",
+        "ROLLBACK undoes the whole transaction; ROLLBACK TO SAVEPOINT undoes only changes made after the savepoint",
+        "ROLLBACK TO SAVEPOINT commits the transaction",
+        "ROLLBACK is faster"
+    ],
+    "answer": 1,
+    "explanation": "Savepoints allow partial rollbacks within a transaction, preserving work done before the savepoint."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1870",
-  "topic": "Number Systems",
-  "difficulty": "Medium",
-  "question": "How many factors does 108 have?",
-  "options": [
-    "8",
-    "10",
-    "12",
-    "15"
-  ],
-  "answer": 2,
-  "explanation": "108=2^2*3^3. Factors=(2+1)*(3+1)=12."
+    "id": "pf-2072",
+    "topic": "Number Systems",
+    "difficulty": "Medium",
+    "question": "How many factors does 108 have?",
+    "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+    ],
+    "answer": 2,
+    "explanation": "108=2^2*3^3. Factors=(2+1)*(3+1)=12."
 }

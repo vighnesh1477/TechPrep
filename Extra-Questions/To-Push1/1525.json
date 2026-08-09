@@ -1,14 +1,14 @@
 {
-  "id": "placement-1525",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a parse tree and an abstract syntax tree (AST)?",
-  "options": [
-    "They are the same thing",
-    "A parse tree contains every detail of the syntax (including punctuation); an AST is a simplified, condensed version showing only the logical structure",
-    "An AST is larger than a parse tree",
-    "A parse tree is used in execution, AST in compilation"
-  ],
-  "answer": 1,
-  "explanation": "A parse tree (concrete syntax tree) represents the exact syntax, including trivial syntactic details. An AST abstracts away these details to show only the essential structural elements."
+    "id": "pf-1727",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a parse tree and an abstract syntax tree (AST)?",
+    "options": [
+        "They are the same thing",
+        "A parse tree contains every detail of the syntax (including punctuation); an AST is a simplified, condensed version showing only the logical structure",
+        "An AST is larger than a parse tree",
+        "A parse tree is used in execution, AST in compilation"
+    ],
+    "answer": 1,
+    "explanation": "A parse tree (concrete syntax tree) represents the exact syntax, including trivial syntactic details. An AST abstracts away these details to show only the essential structural elements."
 }

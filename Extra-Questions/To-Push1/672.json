@@ -1,14 +1,14 @@
 {
-  "id": "placement-672",
-  "topic": "Hard Links",
-  "difficulty": "Easy",
-  "question": "What column in 'ls -l' output shows the number of hard links?",
-  "options": [
-    "First column",
-    "Second column (after permissions)",
-    "Third column",
-    "Fourth column"
-  ],
-  "answer": 1,
-  "explanation": "The second column in ls -l output (after the permission string) shows the hard link count for the file."
+    "id": "pf-874",
+    "topic": "Hard Links",
+    "difficulty": "Easy",
+    "question": "What column in 'ls -l' output shows the number of hard links?",
+    "options": [
+        "First column",
+        "Second column (after permissions)",
+        "Third column",
+        "Fourth column"
+    ],
+    "answer": 1,
+    "explanation": "The second column in ls -l output (after the permission string) shows the hard link count for the file."
 }

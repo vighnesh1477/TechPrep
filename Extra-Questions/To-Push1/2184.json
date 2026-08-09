@@ -1,14 +1,14 @@
 {
-  "id": "placement-2184",
-  "topic": "Seating Arrangement",
-  "difficulty": "Easy",
-  "question": "A, B, C sit in a circle facing center. A is opposite C. Who is left of A?",
-  "options": [
-    "A",
-    "B",
-    "C",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "In a 3-person circle, the person not opposite is adjacent. B is left of A."
+    "id": "pf-2386",
+    "topic": "Seating Arrangement",
+    "difficulty": "Easy",
+    "question": "A, B, C sit in a circle facing center. A is opposite C. Who is left of A?",
+    "options": [
+        "A",
+        "B",
+        "C",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "In a 3-person circle, the person not opposite is adjacent. B is left of A."
 }

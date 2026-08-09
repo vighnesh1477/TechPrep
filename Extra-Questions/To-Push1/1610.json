@@ -1,14 +1,14 @@
 {
-  "id": "placement-1610",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What happens when you assign an `int` to a `byte` in Java without casting, if the int value is 128?",
-  "options": [
-    "It stores 128",
-    "It stores -128",
-    "Compiler error",
-    "Runtime exception"
-  ],
-  "answer": 2,
-  "explanation": "Java requires explicit casting when narrowing from a 32-bit `int` to an 8-bit `byte` because 128 exceeds the byte maximum (127). It results in a compilation error."
+    "id": "pf-1812",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What happens when you assign an `int` to a `byte` in Java without casting, if the int value is 128?",
+    "options": [
+        "It stores 128",
+        "It stores -128",
+        "Compiler error",
+        "Runtime exception"
+    ],
+    "answer": 2,
+    "explanation": "Java requires explicit casting when narrowing from a 32-bit `int` to an 8-bit `byte` because 128 exceeds the byte maximum (127). It results in a compilation error."
 }

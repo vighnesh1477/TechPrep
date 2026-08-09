@@ -1,14 +1,14 @@
 {
-  "id": "placement-1237",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What does `awk` do?",
-  "options": [
-    "Deletes files",
-    "A versatile programming language for pattern scanning and processing text files",
-    "Compiles code",
-    "Manages networks"
-  ],
-  "answer": 1,
-  "explanation": "awk is a powerful text-processing tool that operates on lines and fields, ideal for extracting and formatting data."
+    "id": "pf-1439",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What does `awk` do?",
+    "options": [
+        "Deletes files",
+        "A versatile programming language for pattern scanning and processing text files",
+        "Compiles code",
+        "Manages networks"
+    ],
+    "answer": 1,
+    "explanation": "awk is a powerful text-processing tool that operates on lines and fields, ideal for extracting and formatting data."
 }

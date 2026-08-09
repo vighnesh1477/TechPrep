@@ -1,14 +1,14 @@
 {
-  "id": "placement-1779",
-  "topic": "Pointers and Memory",
-  "difficulty": "Easy",
-  "question": "What does the `malloc` function return if it fails to allocate memory?",
-  "options": [
-    "NULL",
-    "-1",
-    "0",
-    "It throws an exception"
-  ],
-  "answer": 0,
-  "explanation": "`malloc` returns a `void*` pointer to the allocated memory. If the allocation fails (e.g., out of memory), it returns `NULL`."
+    "id": "pf-1981",
+    "topic": "Pointers and Memory",
+    "difficulty": "Easy",
+    "question": "What does the `malloc` function return if it fails to allocate memory?",
+    "options": [
+        "NULL",
+        "-1",
+        "0",
+        "It throws an exception"
+    ],
+    "answer": 0,
+    "explanation": "`malloc` returns a `void*` pointer to the allocated memory. If the allocation fails (e.g., out of memory), it returns `NULL`."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1915",
-  "topic": "Ratio and Proportion",
-  "difficulty": "Medium",
-  "question": "In a mixture 60L, milk:water = 2:1. How much water added to make ratio 1:2?",
-  "options": [
-    "40L",
-    "50L",
-    "60L",
-    "30L"
-  ],
-  "answer": 2,
-  "explanation": "Milk=40, Water=20. 40/(20+x)=1/2 => 80=20+x => x=60."
+    "id": "pf-2117",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium",
+    "question": "In a mixture 60L, milk:water = 2:1. How much water added to make ratio 1:2?",
+    "options": [
+        "40L",
+        "50L",
+        "60L",
+        "30L"
+    ],
+    "answer": 2,
+    "explanation": "Milk=40, Water=20. 40/(20+x)=1/2 => 80=20+x => x=60."
 }

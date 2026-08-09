@@ -1,14 +1,14 @@
 {
-  "id": "placement-562",
-  "topic": "cd",
-  "difficulty": "Easy",
-  "question": "If OLDPWD is set to /var/log and you run 'cd -', where do you go?",
-  "options": [
-    "/var/log",
-    "The home directory",
-    "The current directory",
-    "An error occurs"
-  ],
-  "answer": 0,
-  "explanation": "cd - uses the value of OLDPWD environment variable to switch back to the previous directory, which is /var/log in this case."
+    "id": "pf-764",
+    "topic": "cd",
+    "difficulty": "Easy",
+    "question": "If OLDPWD is set to /var/log and you run 'cd -', where do you go?",
+    "options": [
+        "/var/log",
+        "The home directory",
+        "The current directory",
+        "An error occurs"
+    ],
+    "answer": 0,
+    "explanation": "cd - uses the value of OLDPWD environment variable to switch back to the previous directory, which is /var/log in this case."
 }

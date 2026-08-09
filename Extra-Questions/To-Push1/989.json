@@ -1,14 +1,14 @@
 {
-  "id": "placement-989",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What are the necessary conditions for a deadlock?",
-  "options": [
-    "Mutual exclusion, Hold and wait, No preemption, Circular wait",
-    "High memory, Low CPU, Bad disk",
-    "Threads, Processes, Locks, Mutexes",
-    "Read, Write, Execute, Open"
-  ],
-  "answer": 0,
-  "explanation": "All four conditions (Coffman conditions) must hold simultaneously for a deadlock to occur."
+    "id": "pf-1191",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What are the necessary conditions for a deadlock?",
+    "options": [
+        "Mutual exclusion, Hold and wait, No preemption, Circular wait",
+        "High memory, Low CPU, Bad disk",
+        "Threads, Processes, Locks, Mutexes",
+        "Read, Write, Execute, Open"
+    ],
+    "answer": 0,
+    "explanation": "All four conditions (Coffman conditions) must hold simultaneously for a deadlock to occur."
 }

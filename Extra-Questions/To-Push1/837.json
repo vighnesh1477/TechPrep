@@ -1,14 +1,14 @@
 {
-  "id": "placement-837",
-  "topic": "wc",
-  "difficulty": "Medium",
-  "question": "What does 'wc -L file' show?",
-  "options": [
-    "Total lines",
-    "Length of the longest line",
-    "Last line content",
-    "Logical line count"
-  ],
-  "answer": 1,
-  "explanation": "wc -L displays the length (number of characters) of the longest line in the file. This is useful for checking if lines exceed a certain length."
+    "id": "pf-1039",
+    "topic": "wc",
+    "difficulty": "Medium",
+    "question": "What does 'wc -L file' show?",
+    "options": [
+        "Total lines",
+        "Length of the longest line",
+        "Last line content",
+        "Logical line count"
+    ],
+    "answer": 1,
+    "explanation": "wc -L displays the length (number of characters) of the longest line in the file. This is useful for checking if lines exceed a certain length."
 }

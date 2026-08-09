@@ -1,14 +1,14 @@
 {
-  "id": "placement-1052",
-  "topic": "Git",
-  "difficulty": "Medium",
-  "question": "What is the difference between `git merge` and `git rebase`?",
-  "options": [
-    "They are identical",
-    "Merge creates a merge commit; rebase rewrites commit history by applying commits on top of another base",
-    "Rebase is safer",
-    "Merge cannot resolve conflicts"
-  ],
-  "answer": 1,
-  "explanation": "Rebase moves the base of a branch, creating a linear history, whereas merge joins histories with a new commit."
+    "id": "pf-1254",
+    "topic": "Git",
+    "difficulty": "Medium",
+    "question": "What is the difference between `git merge` and `git rebase`?",
+    "options": [
+        "They are identical",
+        "Merge creates a merge commit; rebase rewrites commit history by applying commits on top of another base",
+        "Rebase is safer",
+        "Merge cannot resolve conflicts"
+    ],
+    "answer": 1,
+    "explanation": "Rebase moves the base of a branch, creating a linear history, whereas merge joins histories with a new commit."
 }

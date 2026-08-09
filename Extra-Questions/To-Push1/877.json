@@ -1,14 +1,14 @@
 {
-  "id": "placement-877",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "Which header is required for `std::array`?",
-  "options": [
-    "<vector>",
-    "<array>",
-    "<list>",
-    "<iterator>"
-  ],
-  "answer": 1,
-  "explanation": "std::array is defined in the <array> header."
+    "id": "pf-1079",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "Which header is required for `std::array`?",
+    "options": [
+        "<vector>",
+        "<array>",
+        "<list>",
+        "<iterator>"
+    ],
+    "answer": 1,
+    "explanation": "std::array is defined in the <array> header."
 }

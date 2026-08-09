@@ -1,14 +1,14 @@
 {
-  "id": "placement-1115",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is a von Neumann architecture?",
-  "options": [
-    "Separate memory for data and instructions",
-    "A single memory space storing both data and instructions, and a single bus",
-    "A type of GPU",
-    "A quantum computer architecture"
-  ],
-  "answer": 1,
-  "explanation": "Von Neumann architecture uses a single stored-program memory concept, unlike Harvard architecture."
+    "id": "pf-1317",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is a von Neumann architecture?",
+    "options": [
+        "Separate memory for data and instructions",
+        "A single memory space storing both data and instructions, and a single bus",
+        "A type of GPU",
+        "A quantum computer architecture"
+    ],
+    "answer": 1,
+    "explanation": "Von Neumann architecture uses a single stored-program memory concept, unlike Harvard architecture."
 }

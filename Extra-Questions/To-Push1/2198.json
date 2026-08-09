@@ -1,14 +1,14 @@
 {
-  "id": "placement-2198",
-  "topic": "Puzzles",
-  "difficulty": "Medium",
-  "question": "A, B, C have different weights. A > B > C. A is not heaviest, C is not lightest. Order?",
-  "options": [
-    "A,B,C",
-    "C,A,B",
-    "B,A,C",
-    "Cannot be determined"
-  ],
-  "answer": 3,
-  "explanation": "A > B > C, but A is not heaviest and C is not lightest. Contradiction if only 3 people. Assuming 4 people D, E... we lack info. Cannot be determined."
+    "id": "pf-2400",
+    "topic": "Puzzles",
+    "difficulty": "Medium",
+    "question": "A, B, C have different weights. A > B > C. A is not heaviest, C is not lightest. Order?",
+    "options": [
+        "A,B,C",
+        "C,A,B",
+        "B,A,C",
+        "Cannot be determined"
+    ],
+    "answer": 3,
+    "explanation": "A > B > C, but A is not heaviest and C is not lightest. Contradiction if only 3 people. Assuming 4 people D, E... we lack info. Cannot be determined."
 }

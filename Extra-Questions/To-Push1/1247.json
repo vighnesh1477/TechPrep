@@ -1,14 +1,14 @@
 {
-  "id": "placement-1247",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "What is an implicit lock in DBMS?",
-  "options": [
-    "A lock requested by the user",
-    "A lock automatically acquired by the DBMS based on the SQL statement (e.g., SELECT acquires a shared lock)",
-    "A lock on a view",
-    "A temporary lock"
-  ],
-  "answer": 1,
-  "explanation": "Implicit locks are placed by the database system itself to enforce isolation levels without user intervention."
+    "id": "pf-1449",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "What is an implicit lock in DBMS?",
+    "options": [
+        "A lock requested by the user",
+        "A lock automatically acquired by the DBMS based on the SQL statement (e.g., SELECT acquires a shared lock)",
+        "A lock on a view",
+        "A temporary lock"
+    ],
+    "answer": 1,
+    "explanation": "Implicit locks are placed by the database system itself to enforce isolation levels without user intervention."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1593",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which of the following is NOT a primitive data type in Java?",
-  "options": [
-    "int",
-    "boolean",
-    "String",
-    "char"
-  ],
-  "answer": 2,
-  "explanation": "In Java, String is a class (non-primitive), whereas int, boolean, and char are primitive data types."
+    "id": "pf-1795",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a primitive data type in Java?",
+    "options": [
+        "int",
+        "boolean",
+        "String",
+        "char"
+    ],
+    "answer": 2,
+    "explanation": "In Java, String is a class (non-primitive), whereas int, boolean, and char are primitive data types."
 }

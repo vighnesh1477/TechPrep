@@ -1,14 +1,14 @@
 {
-  "id": "placement-1051",
-  "topic": "Git",
-  "difficulty": "Easy",
-  "question": "What does `git status` show?",
-  "options": [
-    "Only committed files",
-    "The working tree and staging area status",
-    "Remote branches only",
-    "Only deleted files"
-  ],
-  "answer": 1,
-  "explanation": "git status displays paths that have differences between the working directory and the index."
+    "id": "pf-1253",
+    "topic": "Git",
+    "difficulty": "Easy",
+    "question": "What does `git status` show?",
+    "options": [
+        "Only committed files",
+        "The working tree and staging area status",
+        "Remote branches only",
+        "Only deleted files"
+    ],
+    "answer": 1,
+    "explanation": "git status displays paths that have differences between the working directory and the index."
 }

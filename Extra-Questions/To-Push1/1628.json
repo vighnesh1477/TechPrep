@@ -1,14 +1,14 @@
 {
-  "id": "placement-1628",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which statement about `const` in C is true?",
-  "options": [
-    "A const variable cannot be read",
-    "A const variable must be initialized at the time of declaration",
-    "The value of a const variable can be changed using a pointer",
-    "Both B and C"
-  ],
-  "answer": 3,
-  "explanation": "In C, a `const` variable must be initialized when declared. However, C allows pointer manipulation that can technically modify the memory location, bypassing the compiler's read-only checks (though this is undefined behavior)."
+    "id": "pf-1830",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which statement about `const` in C is true?",
+    "options": [
+        "A const variable cannot be read",
+        "A const variable must be initialized at the time of declaration",
+        "The value of a const variable can be changed using a pointer",
+        "Both B and C"
+    ],
+    "answer": 3,
+    "explanation": "In C, a `const` variable must be initialized when declared. However, C allows pointer manipulation that can technically modify the memory location, bypassing the compiler's read-only checks (though this is undefined behavior)."
 }

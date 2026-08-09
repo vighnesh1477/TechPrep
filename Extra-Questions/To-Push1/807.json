@@ -1,14 +1,14 @@
 {
-  "id": "placement-807",
-  "topic": "awk",
-  "difficulty": "Medium",
-  "question": "What does 'awk '{sum += $1} END {print sum}' file' do?",
-  "options": [
-    "Counts the number of lines",
-    "Sums all values in the first column and prints the total",
-    "Prints the sum of all fields",
-    "Averages the first column"
-  ],
-  "answer": 1,
-  "explanation": "This accumulates the sum of the first field across all lines. The END block executes after all input is processed, printing the final sum."
+    "id": "pf-1009",
+    "topic": "awk",
+    "difficulty": "Medium",
+    "question": "What does 'awk '{sum += $1} END {print sum}' file' do?",
+    "options": [
+        "Counts the number of lines",
+        "Sums all values in the first column and prints the total",
+        "Prints the sum of all fields",
+        "Averages the first column"
+    ],
+    "answer": 1,
+    "explanation": "This accumulates the sum of the first field across all lines. The END block executes after all input is processed, printing the final sum."
 }

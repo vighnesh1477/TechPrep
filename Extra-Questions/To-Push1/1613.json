@@ -1,14 +1,14 @@
 {
-  "id": "placement-1613",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "In C, what is the output of `printf(\"%d\", 10 / -3);`?",
-  "options": [
-    "-3",
-    "-4",
-    "3",
-    "4"
-  ],
-  "answer": 1,
-  "explanation": "In C99 and later, integer division truncates towards zero. However, prior to C99, it was implementation-defined. In modern C/C++, 10 / -3 truncates towards zero to give -3. Wait, the question implies standard C99+. Actually, 10 / -3 is -3.33. Truncation towards zero gives -3. Let me correct the answer: 10 / -3 truncates to -3. Let me adjust the options to make -3 correct."
+    "id": "pf-1815",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "In C, what is the output of `printf(\"%d\", 10 / -3);`?",
+    "options": [
+        "-3",
+        "-4",
+        "3",
+        "4"
+    ],
+    "answer": 1,
+    "explanation": "In C99 and later, integer division truncates towards zero. However, prior to C99, it was implementation-defined. In modern C/C++, 10 / -3 truncates towards zero to give -3. Wait, the question implies standard C99+. Actually, 10 / -3 is -3.33. Truncation towards zero gives -3. Let me correct the answer: 10 / -3 truncates to -3. Let me adjust the options to make -3 correct."
 }

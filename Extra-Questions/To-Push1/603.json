@@ -1,14 +1,14 @@
 {
-  "id": "placement-603",
-  "topic": "more",
-  "difficulty": "Easy",
-  "question": "What does the more command do?",
-  "options": [
-    "Displays more information about a file",
-    "Pages through text one screen at a time",
-    "Adds more content to a file",
-    "Compares two files"
-  ],
-  "answer": 1,
-  "explanation": "more is a filter for paging through text one screenful at a time. It is a simpler alternative to less."
+    "id": "pf-805",
+    "topic": "more",
+    "difficulty": "Easy",
+    "question": "What does the more command do?",
+    "options": [
+        "Displays more information about a file",
+        "Pages through text one screen at a time",
+        "Adds more content to a file",
+        "Compares two files"
+    ],
+    "answer": 1,
+    "explanation": "more is a filter for paging through text one screenful at a time. It is a simpler alternative to less."
 }

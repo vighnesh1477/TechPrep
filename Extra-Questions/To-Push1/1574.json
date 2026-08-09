@@ -1,14 +1,14 @@
 {
-  "id": "placement-1574",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Hard",
-  "question": "What is a 'Priority Encoder'?",
-  "options": [
-    "An encoder that encodes all inputs simultaneously",
-    "An encoder that outputs the binary representation of the highest-priority active input if multiple inputs are active at once",
-    "An encoder that prioritizes speed over accuracy",
-    "An encoder with no enable pin"
-  ],
-  "answer": 1,
-  "explanation": "A standard encoder fails if multiple inputs are active. A priority encoder assigns a priority to each input; if multiple inputs are high, it only encodes the one with the highest priority."
+    "id": "pf-1776",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Hard",
+    "question": "What is a 'Priority Encoder'?",
+    "options": [
+        "An encoder that encodes all inputs simultaneously",
+        "An encoder that outputs the binary representation of the highest-priority active input if multiple inputs are active at once",
+        "An encoder that prioritizes speed over accuracy",
+        "An encoder with no enable pin"
+    ],
+    "answer": 1,
+    "explanation": "A standard encoder fails if multiple inputs are active. A priority encoder assigns a priority to each input; if multiple inputs are high, it only encodes the one with the highest priority."
 }

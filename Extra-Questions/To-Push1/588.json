@@ -1,14 +1,14 @@
 {
-  "id": "placement-588",
-  "topic": "touch",
-  "difficulty": "Easy",
-  "question": "What does the touch command do when the specified file does not exist?",
-  "options": [
-    "Returns an error",
-    "Creates an empty file",
-    "Prompts for file content",
-    "Creates a temporary file"
-  ],
-  "answer": 1,
-  "explanation": "If the file does not exist, touch creates it as an empty file. If it exists, touch updates the file's access and modification timestamps."
+    "id": "pf-790",
+    "topic": "touch",
+    "difficulty": "Easy",
+    "question": "What does the touch command do when the specified file does not exist?",
+    "options": [
+        "Returns an error",
+        "Creates an empty file",
+        "Prompts for file content",
+        "Creates a temporary file"
+    ],
+    "answer": 1,
+    "explanation": "If the file does not exist, touch creates it as an empty file. If it exists, touch updates the file's access and modification timestamps."
 }

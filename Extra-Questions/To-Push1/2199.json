@@ -1,14 +1,14 @@
 {
-  "id": "placement-2199",
-  "topic": "Puzzles",
-  "difficulty": "Medium",
-  "question": "5 friends have ages 20, 22, 24, 26, 28. R is older than S but younger than T. U is oldest. V is 22. If T is 26, what is R?",
-  "options": [
-    "20",
-    "22",
-    "24",
-    "28"
-  ],
-  "answer": 2,
-  "explanation": "U=28. T=26. R is between S and T. V=22. So R must be 24."
+    "id": "pf-2401",
+    "topic": "Puzzles",
+    "difficulty": "Medium",
+    "question": "5 friends have ages 20, 22, 24, 26, 28. R is older than S but younger than T. U is oldest. V is 22. If T is 26, what is R?",
+    "options": [
+        "20",
+        "22",
+        "24",
+        "28"
+    ],
+    "answer": 2,
+    "explanation": "U=28. T=26. R is between S and T. V=22. So R must be 24."
 }

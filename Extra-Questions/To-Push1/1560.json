@@ -1,14 +1,14 @@
 {
-  "id": "placement-1560",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Medium",
-  "question": "What is a Half Adder?",
-  "options": [
-    "A circuit that adds two bits and a carry-in, producing a sum and carry-out",
-    "A circuit that adds two bits, producing a sum and a carry-out, without handling a carry-in",
-    "A circuit that adds two binary numbers",
-    "A circuit that subtracts two bits"
-  ],
-  "answer": 1,
-  "explanation": "A Half Adder adds two single binary digits. It has two inputs (A, B) and two outputs (Sum, Carry). It does not account for a carry from a previous addition stage."
+    "id": "pf-1762",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Medium",
+    "question": "What is a Half Adder?",
+    "options": [
+        "A circuit that adds two bits and a carry-in, producing a sum and carry-out",
+        "A circuit that adds two bits, producing a sum and a carry-out, without handling a carry-in",
+        "A circuit that adds two binary numbers",
+        "A circuit that subtracts two bits"
+    ],
+    "answer": 1,
+    "explanation": "A Half Adder adds two single binary digits. It has two inputs (A, B) and two outputs (Sum, Carry). It does not account for a carry from a previous addition stage."
 }

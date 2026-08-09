@@ -1,14 +1,14 @@
 {
-  "id": "placement-876",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "What happens if a base class pointer points to a derived class object and a non-virtual function is called?",
-  "options": [
-    "Derived function runs",
-    "Base function runs",
-    "Compiler error",
-    "Runtime error"
-  ],
-  "answer": 1,
-  "explanation": "Without virtual, function call is resolved at compile time based on the pointer type."
+    "id": "pf-1078",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "What happens if a base class pointer points to a derived class object and a non-virtual function is called?",
+    "options": [
+        "Derived function runs",
+        "Base function runs",
+        "Compiler error",
+        "Runtime error"
+    ],
+    "answer": 1,
+    "explanation": "Without virtual, function call is resolved at compile time based on the pointer type."
 }

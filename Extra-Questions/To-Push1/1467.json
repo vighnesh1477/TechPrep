@@ -1,14 +1,14 @@
 {
-  "id": "placement-1467",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is a Bus in computer architecture?",
-  "options": [
-    "A vehicle for transporting computers",
-    "A communication system that transfers data between components inside a computer",
-    "A type of RAM",
-    "A software driver"
-  ],
-  "answer": 1,
-  "explanation": "A bus is a set of parallel wires or tracks on a circuit board that connects different components (CPU, memory, I/O) to transfer data, addresses, and control signals."
+    "id": "pf-1669",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is a Bus in computer architecture?",
+    "options": [
+        "A vehicle for transporting computers",
+        "A communication system that transfers data between components inside a computer",
+        "A type of RAM",
+        "A software driver"
+    ],
+    "answer": 1,
+    "explanation": "A bus is a set of parallel wires or tracks on a circuit board that connects different components (CPU, memory, I/O) to transfer data, addresses, and control signals."
 }

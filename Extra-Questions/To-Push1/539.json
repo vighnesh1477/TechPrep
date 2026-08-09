@@ -1,14 +1,14 @@
 {
-  "id": "placement-539",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "Which of the following is NOT a Linux distribution?",
-  "options": [
-    "Fedora",
-    "FreeBSD",
-    "Arch Linux",
-    "openSUSE"
-  ],
-  "answer": 1,
-  "explanation": "FreeBSD is a separate Unix-like operating system, not a Linux distribution. It has its own kernel and is derived from BSD Unix."
+    "id": "pf-741",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a Linux distribution?",
+    "options": [
+        "Fedora",
+        "FreeBSD",
+        "Arch Linux",
+        "openSUSE"
+    ],
+    "answer": 1,
+    "explanation": "FreeBSD is a separate Unix-like operating system, not a Linux distribution. It has its own kernel and is derived from BSD Unix."
 }

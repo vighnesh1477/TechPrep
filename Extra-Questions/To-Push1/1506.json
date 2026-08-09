@@ -1,14 +1,14 @@
 {
-  "id": "placement-1506",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Hard",
-  "question": "In the Spiral Model, what happens in each 'loop' or cycle?",
-  "options": [
-    "Only coding and testing",
-    "Planning, Risk Analysis, Engineering (design/code/test), and Evaluation",
-    "Requirements gathering and deployment",
-    "Budgeting and hiring"
-  ],
-  "answer": 1,
-  "explanation": "The Spiral model is a risk-driven software development process. Each spiral pass includes identifying objectives, risk analysis, development and testing, and planning the next iteration."
+    "id": "pf-1708",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Hard",
+    "question": "In the Spiral Model, what happens in each 'loop' or cycle?",
+    "options": [
+        "Only coding and testing",
+        "Planning, Risk Analysis, Engineering (design/code/test), and Evaluation",
+        "Requirements gathering and deployment",
+        "Budgeting and hiring"
+    ],
+    "answer": 1,
+    "explanation": "The Spiral model is a risk-driven software development process. Each spiral pass includes identifying objectives, risk analysis, development and testing, and planning the next iteration."
 }

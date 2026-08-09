@@ -1,14 +1,14 @@
 {
-  "id": "placement-778",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "Which component of Linux architecture directly interacts with hardware?",
-  "options": [
-    "Shell",
-    "Kernel",
-    "System libraries",
-    "Application layer"
-  ],
-  "answer": 1,
-  "explanation": "The kernel is the core component that directly interacts with hardware through device drivers, managing CPU, memory, and I/O devices."
+    "id": "pf-980",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "Which component of Linux architecture directly interacts with hardware?",
+    "options": [
+        "Shell",
+        "Kernel",
+        "System libraries",
+        "Application layer"
+    ],
+    "answer": 1,
+    "explanation": "The kernel is the core component that directly interacts with hardware through device drivers, managing CPU, memory, and I/O devices."
 }

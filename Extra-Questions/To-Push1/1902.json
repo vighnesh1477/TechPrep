@@ -1,14 +1,14 @@
 {
-  "id": "placement-1902",
-  "topic": "Profit and Loss",
-  "difficulty": "Medium",
-  "question": "MP is Rs 1000. Discount 10% and then 20%. Final SP?",
-  "options": [
-    "Rs 700",
-    "Rs 720",
-    "Rs 750",
-    "Rs 780"
-  ],
-  "answer": 1,
-  "explanation": "SP = 1000 * 0.9 * 0.8 = 720."
+    "id": "pf-2104",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "MP is Rs 1000. Discount 10% and then 20%. Final SP?",
+    "options": [
+        "Rs 700",
+        "Rs 720",
+        "Rs 750",
+        "Rs 780"
+    ],
+    "answer": 1,
+    "explanation": "SP = 1000 * 0.9 * 0.8 = 720."
 }

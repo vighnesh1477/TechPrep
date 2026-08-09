@@ -1,14 +1,14 @@
 {
-  "id": "placement-1403",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which aggregate function returns the number of rows?",
-  "options": [
-    "SUM()",
-    "COUNT()",
-    "AVG()",
-    "MAX()"
-  ],
-  "answer": 1,
-  "explanation": "COUNT() returns the number of rows that matches a specified criterion. COUNT(*) counts all rows, while COUNT(column) counts non-NULL values in that column."
+    "id": "pf-1605",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which aggregate function returns the number of rows?",
+    "options": [
+        "SUM()",
+        "COUNT()",
+        "AVG()",
+        "MAX()"
+    ],
+    "answer": 1,
+    "explanation": "COUNT() returns the number of rows that matches a specified criterion. COUNT(*) counts all rows, while COUNT(column) counts non-NULL values in that column."
 }

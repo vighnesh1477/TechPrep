@@ -1,14 +1,14 @@
 {
-  "id": "placement-1697",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the scope of a local variable?",
-  "options": [
-    "The entire program",
-    "The entire file",
-    "Only the function or block in which it is declared",
-    "From the point of declaration to the end of the file"
-  ],
-  "answer": 2,
-  "explanation": "Local variables are declared inside a function or a block `{ }` and can only be accessed within that specific function or block. They are destroyed when the block ends."
+    "id": "pf-1899",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the scope of a local variable?",
+    "options": [
+        "The entire program",
+        "The entire file",
+        "Only the function or block in which it is declared",
+        "From the point of declaration to the end of the file"
+    ],
+    "answer": 2,
+    "explanation": "Local variables are declared inside a function or a block `{ }` and can only be accessed within that specific function or block. They are destroyed when the block ends."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-626",
-  "topic": "find",
-  "difficulty": "Easy",
-  "question": "What does find . -type f -exec rm {} \\; do?",
-  "options": [
-    "Finds and removes all files",
-    "Finds regular files and deletes them",
-    "Finds directories and removes them",
-    "Shows files that would be deleted"
-  ],
-  "answer": 1,
-  "explanation": "This finds all regular files (-type f) and executes rm on each one. {} is replaced by the found filename, and \\; terminates the -exec command."
+    "id": "pf-828",
+    "topic": "find",
+    "difficulty": "Easy",
+    "question": "What does find . -type f -exec rm {} \\; do?",
+    "options": [
+        "Finds and removes all files",
+        "Finds regular files and deletes them",
+        "Finds directories and removes them",
+        "Shows files that would be deleted"
+    ],
+    "answer": 1,
+    "explanation": "This finds all regular files (-type f) and executes rm on each one. {} is replaced by the found filename, and \\; terminates the -exec command."
 }

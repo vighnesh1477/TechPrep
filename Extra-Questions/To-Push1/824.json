@@ -1,14 +1,14 @@
 {
-  "id": "placement-824",
-  "topic": "sort",
-  "difficulty": "Medium",
-  "question": "What does 'sort -r file' do?",
-  "options": [
-    "Removes duplicate lines then sorts",
-    "Sorts in reverse (descending) order",
-    "Sorts randomly",
-    "Removes blank lines then sorts"
-  ],
-  "answer": 1,
-  "explanation": "sort -r reverses the sort order, producing descending output. Combined with -n, it gives a numerical descending sort."
+    "id": "pf-1026",
+    "topic": "sort",
+    "difficulty": "Medium",
+    "question": "What does 'sort -r file' do?",
+    "options": [
+        "Removes duplicate lines then sorts",
+        "Sorts in reverse (descending) order",
+        "Sorts randomly",
+        "Removes blank lines then sorts"
+    ],
+    "answer": 1,
+    "explanation": "sort -r reverses the sort order, producing descending output. Combined with -n, it gives a numerical descending sort."
 }

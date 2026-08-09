@@ -1,14 +1,14 @@
 {
-  "id": "placement-745",
-  "topic": "rpm",
-  "difficulty": "Easy",
-  "question": "How do you check if a specific package is installed using rpm?",
-  "options": [
-    "rpm -q package_name",
-    "rpm -i package_name",
-    "rpm -c package_name",
-    "rpm -s package_name"
-  ],
-  "answer": 0,
-  "explanation": "rpm -q package_name queries whether the specified package is installed. It prints the package version if found, or an error if not."
+    "id": "pf-947",
+    "topic": "rpm",
+    "difficulty": "Easy",
+    "question": "How do you check if a specific package is installed using rpm?",
+    "options": [
+        "rpm -q package_name",
+        "rpm -i package_name",
+        "rpm -c package_name",
+        "rpm -s package_name"
+    ],
+    "answer": 0,
+    "explanation": "rpm -q package_name queries whether the specified package is installed. It prints the package version if found, or an error if not."
 }

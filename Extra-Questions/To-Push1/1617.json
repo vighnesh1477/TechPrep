@@ -1,14 +1,14 @@
 {
-  "id": "placement-1617",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which symbol is used for single-line comments in Java and C++?",
-  "options": [
-    "#",
-    "//",
-    "/* */",
-    "--"
-  ],
-  "answer": 1,
-  "explanation": "The `//` symbol is used to denote a single-line comment in Java, C++, and C#. `/* */` is used for multi-line comments."
+    "id": "pf-1819",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which symbol is used for single-line comments in Java and C++?",
+    "options": [
+        "#",
+        "//",
+        "/* */",
+        "--"
+    ],
+    "answer": 1,
+    "explanation": "The `//` symbol is used to denote a single-line comment in Java, C++, and C#. `/* */` is used for multi-line comments."
 }

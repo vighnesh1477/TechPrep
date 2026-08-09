@@ -1,14 +1,14 @@
 {
-  "id": "placement-1192",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What is the result of `SELECT NULL = NULL;`?",
-  "options": [
-    "TRUE",
-    "FALSE",
-    "NULL",
-    "Error"
-  ],
-  "answer": 2,
-  "explanation": "In SQL, any comparison with NULL evaluates to NULL (unknown), not TRUE or FALSE. Use IS NULL."
+    "id": "pf-1394",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What is the result of `SELECT NULL = NULL;`?",
+    "options": [
+        "TRUE",
+        "FALSE",
+        "NULL",
+        "Error"
+    ],
+    "answer": 2,
+    "explanation": "In SQL, any comparison with NULL evaluates to NULL (unknown), not TRUE or FALSE. Use IS NULL."
 }

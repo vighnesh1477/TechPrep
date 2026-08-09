@@ -1,14 +1,14 @@
 {
-  "id": "placement-1873",
-  "topic": "Number Systems",
-  "difficulty": "Medium",
-  "question": "What is the product of the first 10 odd natural numbers?",
-  "options": [
-    "Ends in 5",
-    "Ends in 0",
-    "Ends in 1",
-    "Ends in 3"
-  ],
-  "answer": 0,
-  "explanation": "Product includes 5 and an even multiple (like 2, 4, 6, 8, 10), so it always ends in 0. Wait, odd numbers only: 1,3,5,7...19. Includes 5 but no even number. Ends in 5."
+    "id": "pf-2075",
+    "topic": "Number Systems",
+    "difficulty": "Medium",
+    "question": "What is the product of the first 10 odd natural numbers?",
+    "options": [
+        "Ends in 5",
+        "Ends in 0",
+        "Ends in 1",
+        "Ends in 3"
+    ],
+    "answer": 0,
+    "explanation": "Product includes 5 and an even multiple (like 2, 4, 6, 8, 10), so it always ends in 0. Wait, odd numbers only: 1,3,5,7...19. Includes 5 but no even number. Ends in 5."
 }

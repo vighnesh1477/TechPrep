@@ -1,14 +1,14 @@
 {
-  "id": "placement-1752",
-  "topic": "Strings",
-  "difficulty": "Easy",
-  "question": "What is the size of the character array `char str[] = \"abc\";` in C?",
-  "options": [
-    "3 bytes",
-    "4 bytes",
-    "2 bytes",
-    "Depends on the compiler"
-  ],
-  "answer": 1,
-  "explanation": "The string \"abc\" consists of 3 characters plus the implicit null terminator `\\0`, making the total array size 4 bytes."
+    "id": "pf-1954",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "question": "What is the size of the character array `char str[] = \"abc\";` in C?",
+    "options": [
+        "3 bytes",
+        "4 bytes",
+        "2 bytes",
+        "Depends on the compiler"
+    ],
+    "answer": 1,
+    "explanation": "The string \"abc\" consists of 3 characters plus the implicit null terminator `\\0`, making the total array size 4 bytes."
 }

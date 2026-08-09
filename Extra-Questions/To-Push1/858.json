@@ -1,14 +1,14 @@
 {
-  "id": "placement-858",
-  "topic": "C Programming",
-  "difficulty": "Medium",
-  "question": "Which keyword is used to prevent a variable from being modified in C?",
-  "options": [
-    "static",
-    "const",
-    "volatile",
-    "extern"
-  ],
-  "answer": 1,
-  "explanation": "const qualifies the variable as read-only."
+    "id": "pf-1060",
+    "topic": "C Programming",
+    "difficulty": "Medium",
+    "question": "Which keyword is used to prevent a variable from being modified in C?",
+    "options": [
+        "static",
+        "const",
+        "volatile",
+        "extern"
+    ],
+    "answer": 1,
+    "explanation": "const qualifies the variable as read-only."
 }

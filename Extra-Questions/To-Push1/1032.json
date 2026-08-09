@@ -1,14 +1,14 @@
 {
-  "id": "placement-1032",
-  "topic": "OOP",
-  "difficulty": "Hard",
-  "question": "What is a pure virtual destructor in C++?",
-  "options": [
-    "A syntax error",
-    "A destructor that must be implemented in the derived class to avoid undefined behavior",
-    "A destructor that deletes everything",
-    "A default destructor"
-  ],
-  "answer": 1,
-  "explanation": "A pure virtual destructor must have a body in the base class to ensure proper destruction of base class parts."
+    "id": "pf-1234",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "What is a pure virtual destructor in C++?",
+    "options": [
+        "A syntax error",
+        "A destructor that must be implemented in the derived class to avoid undefined behavior",
+        "A destructor that deletes everything",
+        "A default destructor"
+    ],
+    "answer": 1,
+    "explanation": "A pure virtual destructor must have a body in the base class to ensure proper destruction of base class parts."
 }

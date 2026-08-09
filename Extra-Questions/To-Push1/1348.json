@@ -1,14 +1,14 @@
 {
-  "id": "placement-1348",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "What causes internal fragmentation in paging?",
-  "options": [
-    "Free memory space scattered in small blocks",
-    "Allocating more memory than requested because memory is allocated in fixed-size pages",
-    "Processes being too large to fit in memory",
-    "Page tables taking up too much space"
-  ],
-  "answer": 1,
-  "explanation": "Internal fragmentation occurs when memory is allocated in fixed-size blocks (pages) and the allocated memory may be slightly larger than the requested memory, leaving unused space inside the page."
+    "id": "pf-1550",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "What causes internal fragmentation in paging?",
+    "options": [
+        "Free memory space scattered in small blocks",
+        "Allocating more memory than requested because memory is allocated in fixed-size pages",
+        "Processes being too large to fit in memory",
+        "Page tables taking up too much space"
+    ],
+    "answer": 1,
+    "explanation": "Internal fragmentation occurs when memory is allocated in fixed-size blocks (pages) and the allocated memory may be slightly larger than the requested memory, leaving unused space inside the page."
 }

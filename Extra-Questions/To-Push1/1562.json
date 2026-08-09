@@ -1,14 +1,14 @@
 {
-  "id": "placement-1562",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Medium",
-  "question": "What is the 'Universal Gate'?",
-  "options": [
-    "AND Gate",
-    "OR Gate",
-    "NAND or NOR Gate",
-    "XOR Gate"
-  ],
-  "answer": 2,
-  "explanation": "NAND and NOR gates are called universal gates because any other logic function (AND, OR, NOT) can be constructed using only NAND gates or only NOR gates."
+    "id": "pf-1764",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Medium",
+    "question": "What is the 'Universal Gate'?",
+    "options": [
+        "AND Gate",
+        "OR Gate",
+        "NAND or NOR Gate",
+        "XOR Gate"
+    ],
+    "answer": 2,
+    "explanation": "NAND and NOR gates are called universal gates because any other logic function (AND, OR, NOT) can be constructed using only NAND gates or only NOR gates."
 }

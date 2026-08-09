@@ -1,14 +1,14 @@
 {
-  "id": "placement-565",
-  "topic": "cp",
-  "difficulty": "Easy",
-  "question": "What does cp -i do?",
-  "options": [
-    "Copies only if the file is newer",
-    "Prompts before overwriting an existing file",
-    "Copies in interactive mode with progress",
-    "Ignores errors"
-  ],
-  "answer": 1,
-  "explanation": "cp -i prompts the user for confirmation before overwriting an existing destination file. This is often aliased in many distributions for safety."
+    "id": "pf-767",
+    "topic": "cp",
+    "difficulty": "Easy",
+    "question": "What does cp -i do?",
+    "options": [
+        "Copies only if the file is newer",
+        "Prompts before overwriting an existing file",
+        "Copies in interactive mode with progress",
+        "Ignores errors"
+    ],
+    "answer": 1,
+    "explanation": "cp -i prompts the user for confirmation before overwriting an existing destination file. This is often aliased in many distributions for safety."
 }

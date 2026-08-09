@@ -1,14 +1,14 @@
 {
-  "id": "placement-819",
-  "topic": "cut",
-  "difficulty": "Medium",
-  "question": "How do you extract characters 1-10 from each line using cut?",
-  "options": [
-    "cut -f1-10 file",
-    "cut -c1-10 file",
-    "cut -n1-10 file",
-    "cut --chars 1,10 file"
-  ],
-  "answer": 1,
-  "explanation": "cut -c1-10 extracts characters 1 through 10 from each line. The -c option selects characters by position rather than by delimiter-based fields."
+    "id": "pf-1021",
+    "topic": "cut",
+    "difficulty": "Medium",
+    "question": "How do you extract characters 1-10 from each line using cut?",
+    "options": [
+        "cut -f1-10 file",
+        "cut -c1-10 file",
+        "cut -n1-10 file",
+        "cut --chars 1,10 file"
+    ],
+    "answer": 1,
+    "explanation": "cut -c1-10 extracts characters 1 through 10 from each line. The -c option selects characters by position rather than by delimiter-based fields."
 }

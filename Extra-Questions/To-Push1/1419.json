@@ -1,14 +1,14 @@
 {
-  "id": "placement-1419",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is the output of `SELECT COALESCE(NULL, NULL, 'Hello', 'World')`?",
-  "options": [
-    "NULL",
-    "Hello",
-    "World",
-    "Error"
-  ],
-  "answer": 1,
-  "explanation": "COALESCE returns the first non-NULL value in a list. It evaluates the arguments in order and stops at the first one that is not NULL, which is 'Hello'."
+    "id": "pf-1621",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is the output of `SELECT COALESCE(NULL, NULL, 'Hello', 'World')`?",
+    "options": [
+        "NULL",
+        "Hello",
+        "World",
+        "Error"
+    ],
+    "answer": 1,
+    "explanation": "COALESCE returns the first non-NULL value in a list. It evaluates the arguments in order and stops at the first one that is not NULL, which is 'Hello'."
 }

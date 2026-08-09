@@ -1,14 +1,14 @@
 {
-  "id": "placement-1894",
-  "topic": "Profit and Loss",
-  "difficulty": "Easy",
-  "question": "A pen bought for Rs 50 is sold at Rs 40. Loss %?",
-  "options": [
-    "10%",
-    "15%",
-    "20%",
-    "25%"
-  ],
-  "answer": 2,
-  "explanation": "Loss = 10. % = 10/50 * 100 = 20%."
+    "id": "pf-2096",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "A pen bought for Rs 50 is sold at Rs 40. Loss %?",
+    "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+    ],
+    "answer": 2,
+    "explanation": "Loss = 10. % = 10/50 * 100 = 20%."
 }

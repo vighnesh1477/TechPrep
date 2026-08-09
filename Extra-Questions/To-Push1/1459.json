@@ -1,14 +1,14 @@
 {
-  "id": "placement-1459",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "What does ROM stand for?",
-  "options": [
-    "Random Only Memory",
-    "Read-Only Memory",
-    "Read-Operate Memory",
-    "Run-Only Memory"
-  ],
-  "answer": 1,
-  "explanation": "ROM stands for Read-Only Memory. It is non-volatile memory that permanently stores instructions needed to boot the computer (like the BIOS/UEFI)."
+    "id": "pf-1661",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "What does ROM stand for?",
+    "options": [
+        "Random Only Memory",
+        "Read-Only Memory",
+        "Read-Operate Memory",
+        "Run-Only Memory"
+    ],
+    "answer": 1,
+    "explanation": "ROM stands for Read-Only Memory. It is non-volatile memory that permanently stores instructions needed to boot the computer (like the BIOS/UEFI)."
 }

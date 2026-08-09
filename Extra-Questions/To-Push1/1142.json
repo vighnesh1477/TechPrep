@@ -1,14 +1,14 @@
 {
-  "id": "placement-1142",
-  "topic": "Java",
-  "difficulty": "Easy",
-  "question": "Is Java pass-by-reference or pass-by-value?",
-  "options": [
-    "Pass-by-reference",
-    "Pass-by-value (object references are passed by value)",
-    "Pass-by-pointer",
-    "Neither"
-  ],
-  "answer": 1,
-  "explanation": "Java passes a copy of the reference (the memory address) by value, not the object itself."
+    "id": "pf-1344",
+    "topic": "Java",
+    "difficulty": "Easy",
+    "question": "Is Java pass-by-reference or pass-by-value?",
+    "options": [
+        "Pass-by-reference",
+        "Pass-by-value (object references are passed by value)",
+        "Pass-by-pointer",
+        "Neither"
+    ],
+    "answer": 1,
+    "explanation": "Java passes a copy of the reference (the memory address) by value, not the object itself."
 }

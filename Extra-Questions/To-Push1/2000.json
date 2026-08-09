@@ -1,14 +1,14 @@
 {
-  "id": "placement-2000",
-  "topic": "Mixtures and Alligation",
-  "difficulty": "Medium",
-  "question": "Tea at Rs 80/kg mixed with Rs 120/kg to get Rs 100/kg. Ratio?",
-  "options": [
-    "1:1",
-    "1:2",
-    "2:1",
-    "3:1"
-  ],
-  "answer": 0,
-  "explanation": "(120-100):(100-80) = 20:20 = 1:1."
+    "id": "pf-2202",
+    "topic": "Mixtures and Alligation",
+    "difficulty": "Medium",
+    "question": "Tea at Rs 80/kg mixed with Rs 120/kg to get Rs 100/kg. Ratio?",
+    "options": [
+        "1:1",
+        "1:2",
+        "2:1",
+        "3:1"
+    ],
+    "answer": 0,
+    "explanation": "(120-100):(100-80) = 20:20 = 1:1."
 }

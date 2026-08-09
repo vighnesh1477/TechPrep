@@ -1,14 +1,14 @@
 {
-  "id": "placement-582",
-  "topic": "mkdir",
-  "difficulty": "Easy",
-  "question": "What does mkdir -v projects do?",
-  "options": [
-    "Creates a virtual directory",
-    "Creates the directory and prints a message about it",
-    "Verifies the directory name",
-    "Creates with verbose error checking"
-  ],
-  "answer": 1,
-  "explanation": "mkdir -v enables verbose mode, printing a message like 'mkdir: created directory projects' to confirm the action."
+    "id": "pf-784",
+    "topic": "mkdir",
+    "difficulty": "Easy",
+    "question": "What does mkdir -v projects do?",
+    "options": [
+        "Creates a virtual directory",
+        "Creates the directory and prints a message about it",
+        "Verifies the directory name",
+        "Creates with verbose error checking"
+    ],
+    "answer": 1,
+    "explanation": "mkdir -v enables verbose mode, printing a message like 'mkdir: created directory projects' to confirm the action."
 }

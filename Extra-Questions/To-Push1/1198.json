@@ -1,14 +1,14 @@
 {
-  "id": "placement-1198",
-  "topic": "Operating Systems",
-  "difficulty": "Easy",
-  "question": "What is a context switch?",
-  "options": [
-    "Turning off the computer",
-    "Saving the state of a process and loading the state of another",
-    "Swapping RAM to disk",
-    "Changing the user password"
-  ],
-  "answer": 1,
-  "explanation": "A context switch is the mechanism to store and restore the execution state so multiple processes can share a single CPU."
+    "id": "pf-1400",
+    "topic": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "What is a context switch?",
+    "options": [
+        "Turning off the computer",
+        "Saving the state of a process and loading the state of another",
+        "Swapping RAM to disk",
+        "Changing the user password"
+    ],
+    "answer": 1,
+    "explanation": "A context switch is the mechanism to store and restore the execution state so multiple processes can share a single CPU."
 }

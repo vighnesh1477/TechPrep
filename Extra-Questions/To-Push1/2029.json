@@ -1,14 +1,14 @@
 {
-  "id": "placement-2029",
-  "topic": "Permutation and Combination",
-  "difficulty": "Easy",
-  "question": "Number of ways to arrange 3 books on a shelf?",
-  "options": [
-    "3",
-    "6",
-    "9",
-    "12"
-  ],
-  "answer": 1,
-  "explanation": "3P3 = 3! = 6."
+    "id": "pf-2231",
+    "topic": "Permutation and Combination",
+    "difficulty": "Easy",
+    "question": "Number of ways to arrange 3 books on a shelf?",
+    "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+    ],
+    "answer": 1,
+    "explanation": "3P3 = 3! = 6."
 }

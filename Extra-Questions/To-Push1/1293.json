@@ -1,14 +1,14 @@
 {
-  "id": "placement-1293",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What is the `mutable` keyword used for in a lambda?",
-  "options": [
-    "Making it static",
-    "Allowing the lambda to modify the variables it captures by value",
-    "Making it virtual",
-    "Deleting captures"
-  ],
-  "answer": 1,
-  "explanation": "By default, value-captured variables are const. `mutable` removes the const qualifier, allowing modification inside the lambda."
+    "id": "pf-1495",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What is the `mutable` keyword used for in a lambda?",
+    "options": [
+        "Making it static",
+        "Allowing the lambda to modify the variables it captures by value",
+        "Making it virtual",
+        "Deleting captures"
+    ],
+    "answer": 1,
+    "explanation": "By default, value-captured variables are const. `mutable` removes the const qualifier, allowing modification inside the lambda."
 }

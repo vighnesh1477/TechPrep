@@ -1,14 +1,14 @@
 {
-  "id": "placement-1449",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is NAT (Network Address Translation) primarily used for?",
-  "options": [
-    "Encrypting internal network traffic",
-    "Mapping multiple private IP addresses to a single public IP address to conserve the IPv4 address space",
-    "Speeding up DNS resolution",
-    "Blocking unauthorized external access"
-  ],
-  "answer": 1,
-  "explanation": "NAT allows a local network to use one set of IP addresses for internal traffic and a different set for external traffic. It maps private IPs to a single public IP, mitigating IPv4 exhaustion."
+    "id": "pf-1651",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is NAT (Network Address Translation) primarily used for?",
+    "options": [
+        "Encrypting internal network traffic",
+        "Mapping multiple private IP addresses to a single public IP address to conserve the IPv4 address space",
+        "Speeding up DNS resolution",
+        "Blocking unauthorized external access"
+    ],
+    "answer": 1,
+    "explanation": "NAT allows a local network to use one set of IP addresses for internal traffic and a different set for external traffic. It maps private IPs to a single public IP, mitigating IPv4 exhaustion."
 }

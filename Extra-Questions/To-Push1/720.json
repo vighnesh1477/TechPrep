@@ -1,14 +1,14 @@
 {
-  "id": "placement-720",
-  "topic": "Groups",
-  "difficulty": "Easy",
-  "question": "Which command creates a new group?",
-  "options": [
-    "newgroup",
-    "groupadd",
-    "mkgroup",
-    "creategroup"
-  ],
-  "answer": 1,
-  "explanation": "groupadd creates a new group entry in /etc/group. On Debian-based systems, addgroup provides a more interactive interface."
+    "id": "pf-922",
+    "topic": "Groups",
+    "difficulty": "Easy",
+    "question": "Which command creates a new group?",
+    "options": [
+        "newgroup",
+        "groupadd",
+        "mkgroup",
+        "creategroup"
+    ],
+    "answer": 1,
+    "explanation": "groupadd creates a new group entry in /etc/group. On Debian-based systems, addgroup provides a more interactive interface."
 }

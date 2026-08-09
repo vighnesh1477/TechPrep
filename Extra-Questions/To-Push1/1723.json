@@ -1,14 +1,14 @@
 {
-  "id": "placement-1723",
-  "topic": "Arrays",
-  "difficulty": "Easy",
-  "question": "What is the index of the first element in an array in C, C++, Java, and Python?",
-  "options": [
-    "1",
-    "0",
-    "-1",
-    "Depends on the array size"
-  ],
-  "answer": 1,
-  "explanation": "In all major programming languages mentioned, arrays are zero-indexed, meaning the first element is at index 0."
+    "id": "pf-1925",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "What is the index of the first element in an array in C, C++, Java, and Python?",
+    "options": [
+        "1",
+        "0",
+        "-1",
+        "Depends on the array size"
+    ],
+    "answer": 1,
+    "explanation": "In all major programming languages mentioned, arrays are zero-indexed, meaning the first element is at index 0."
 }

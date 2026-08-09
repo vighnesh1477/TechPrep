@@ -1,14 +1,14 @@
 {
-  "id": "placement-1895",
-  "topic": "Profit and Loss",
-  "difficulty": "Easy",
-  "question": "To get 25% profit on CP of Rs 400, SP should be?",
-  "options": [
-    "Rs 450",
-    "Rs 475",
-    "Rs 500",
-    "Rs 525"
-  ],
-  "answer": 2,
-  "explanation": "SP = 400 * 1.25 = 500."
+    "id": "pf-2097",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "To get 25% profit on CP of Rs 400, SP should be?",
+    "options": [
+        "Rs 450",
+        "Rs 475",
+        "Rs 500",
+        "Rs 525"
+    ],
+    "answer": 2,
+    "explanation": "SP = 400 * 1.25 = 500."
 }

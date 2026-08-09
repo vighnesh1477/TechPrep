@@ -1,14 +1,14 @@
 {
-  "id": "placement-624",
-  "topic": "find",
-  "difficulty": "Easy",
-  "question": "How do you find files modified in the last 7 days using find?",
-  "options": [
-    "find / -mtime -7",
-    "find / -mtime +7",
-    "find / -time 7",
-    "find / -date 7"
-  ],
-  "answer": 0,
-  "explanation": "find / -mtime -7 finds files modified less than 7 days ago. The minus sign means 'less than.' A plus sign would mean 'more than.'"
+    "id": "pf-826",
+    "topic": "find",
+    "difficulty": "Easy",
+    "question": "How do you find files modified in the last 7 days using find?",
+    "options": [
+        "find / -mtime -7",
+        "find / -mtime +7",
+        "find / -time 7",
+        "find / -date 7"
+    ],
+    "answer": 0,
+    "explanation": "find / -mtime -7 finds files modified less than 7 days ago. The minus sign means 'less than.' A plus sign would mean 'more than.'"
 }

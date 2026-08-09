@@ -1,14 +1,14 @@
 {
-  "id": "placement-1315",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "What is a superkey?",
-  "options": [
-    "A very fast key",
-    "A set of one or more attributes that, taken collectively, can uniquely identify a tuple",
-    "A primary key",
-    "A foreign key"
-  ],
-  "answer": 1,
-  "explanation": "A superkey uniquely identifies a row, but it may contain extra attributes that are not strictly necessary (unlike a candidate key)."
+    "id": "pf-1517",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is a superkey?",
+    "options": [
+        "A very fast key",
+        "A set of one or more attributes that, taken collectively, can uniquely identify a tuple",
+        "A primary key",
+        "A foreign key"
+    ],
+    "answer": 1,
+    "explanation": "A superkey uniquely identifies a row, but it may contain extra attributes that are not strictly necessary (unlike a candidate key)."
 }

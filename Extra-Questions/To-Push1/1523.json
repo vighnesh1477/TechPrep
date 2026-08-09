@@ -1,14 +1,14 @@
 {
-  "id": "placement-1523",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the purpose of the Symbol Table?",
-  "options": [
-    "To store the machine code",
-    "To store information about identifiers (names), their types, scope, and location in memory",
-    "To store syntax errors",
-    "To store the parse tree"
-  ],
-  "answer": 1,
-  "explanation": "A symbol table is a data structure created and maintained by the compiler. It stores essential information about identifiers (variables, functions) used in the source code, used throughout all phases."
+    "id": "pf-1725",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the purpose of the Symbol Table?",
+    "options": [
+        "To store the machine code",
+        "To store information about identifiers (names), their types, scope, and location in memory",
+        "To store syntax errors",
+        "To store the parse tree"
+    ],
+    "answer": 1,
+    "explanation": "A symbol table is a data structure created and maintained by the compiler. It stores essential information about identifiers (variables, functions) used in the source code, used throughout all phases."
 }

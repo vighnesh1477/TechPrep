@@ -1,14 +1,14 @@
 {
-  "id": "placement-1875",
-  "topic": "Number Systems",
-  "difficulty": "Hard",
-  "question": "Find the smallest number that leaves remainder 2, 3, 4 when divided by 3, 4, 5 respectively.",
-  "options": [
-    "59",
-    "61",
-    "119",
-    "121"
-  ],
-  "answer": 0,
-  "explanation": "LCM(3,4,5)=60. Difference is 1. Number = 60-1 = 59."
+    "id": "pf-2077",
+    "topic": "Number Systems",
+    "difficulty": "Hard",
+    "question": "Find the smallest number that leaves remainder 2, 3, 4 when divided by 3, 4, 5 respectively.",
+    "options": [
+        "59",
+        "61",
+        "119",
+        "121"
+    ],
+    "answer": 0,
+    "explanation": "LCM(3,4,5)=60. Difference is 1. Number = 60-1 = 59."
 }

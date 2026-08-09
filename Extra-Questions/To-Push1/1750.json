@@ -1,14 +1,14 @@
 {
-  "id": "placement-1750",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What happens when you use `==` to compare two strings in Java?",
-  "options": [
-    "It compares the contents of the strings",
-    "It compares the memory references of the string objects",
-    "It always returns true",
-    "It throws an exception"
-  ],
-  "answer": 1,
-  "explanation": "In Java, `==` compares object references (memory addresses), not the actual text content. To compare contents, you must use `.equals()`."
+    "id": "pf-1952",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What happens when you use `==` to compare two strings in Java?",
+    "options": [
+        "It compares the contents of the strings",
+        "It compares the memory references of the string objects",
+        "It always returns true",
+        "It throws an exception"
+    ],
+    "answer": 1,
+    "explanation": "In Java, `==` compares object references (memory addresses), not the actual text content. To compare contents, you must use `.equals()`."
 }

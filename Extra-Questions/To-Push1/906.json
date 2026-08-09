@@ -1,14 +1,14 @@
 {
-  "id": "placement-906",
-  "topic": "Python",
-  "difficulty": "Hard",
-  "question": "What is the output of `x = [1, 2, 3]; x += [4]; print(x is y)` if `y = [1, 2, 3, 4]`?",
-  "options": [
-    "True",
-    "False",
-    "Error",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "`+=` on lists modifies in place but can create a new object if type differs, but here x and y are distinct objects in memory."
+    "id": "pf-1108",
+    "topic": "Python",
+    "difficulty": "Hard",
+    "question": "What is the output of `x = [1, 2, 3]; x += [4]; print(x is y)` if `y = [1, 2, 3, 4]`?",
+    "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "`+=` on lists modifies in place but can create a new object if type differs, but here x and y are distinct objects in memory."
 }

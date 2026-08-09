@@ -1,14 +1,14 @@
 {
-  "id": "placement-1201",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What is demand paging?",
-  "options": [
-    "Loading all pages at once",
-    "Loading a page into memory only when it is demanded (accessed) by the process",
-    "Deleting pages automatically",
-    "Paging the CPU"
-  ],
-  "answer": 1,
-  "explanation": "Demand paging reduces memory usage and I/O by only bringing pages into RAM when they are actually needed."
+    "id": "pf-1403",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is demand paging?",
+    "options": [
+        "Loading all pages at once",
+        "Loading a page into memory only when it is demanded (accessed) by the process",
+        "Deleting pages automatically",
+        "Paging the CPU"
+    ],
+    "answer": 1,
+    "explanation": "Demand paging reduces memory usage and I/O by only bringing pages into RAM when they are actually needed."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2168",
-  "topic": "Statements and Conclusions",
-  "difficulty": "Medium",
-  "question": "Statement: Doctors are rich. Conclusion: Rich people are doctors.",
-  "options": [
-    "Follows",
-    "Does not follow",
-    "Partially follows",
-    "Contradiction"
-  ],
-  "answer": 1,
-  "explanation": "Converse of a statement is not necessarily true."
+    "id": "pf-2370",
+    "topic": "Statements and Conclusions",
+    "difficulty": "Medium",
+    "question": "Statement: Doctors are rich. Conclusion: Rich people are doctors.",
+    "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "Contradiction"
+    ],
+    "answer": 1,
+    "explanation": "Converse of a statement is not necessarily true."
 }

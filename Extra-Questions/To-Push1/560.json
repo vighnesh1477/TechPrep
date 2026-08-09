@@ -1,14 +1,14 @@
 {
-  "id": "placement-560",
-  "topic": "cd",
-  "difficulty": "Easy",
-  "question": "What does 'cd ..' accomplish?",
-  "options": [
-    "Moves to the root directory",
-    "Moves up one directory level",
-    "Moves to the home directory",
-    "Moves to the parent of the root"
-  ],
-  "answer": 1,
-  "explanation": "cd .. moves up one directory level to the parent directory. You can use cd ../.. to move up two levels."
+    "id": "pf-762",
+    "topic": "cd",
+    "difficulty": "Easy",
+    "question": "What does 'cd ..' accomplish?",
+    "options": [
+        "Moves to the root directory",
+        "Moves up one directory level",
+        "Moves to the home directory",
+        "Moves to the parent of the root"
+    ],
+    "answer": 1,
+    "explanation": "cd .. moves up one directory level to the parent directory. You can use cd ../.. to move up two levels."
 }

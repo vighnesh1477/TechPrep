@@ -1,14 +1,14 @@
 {
-  "id": "placement-2195",
-  "topic": "Puzzles",
-  "difficulty": "Easy",
-  "question": "If Red = 1, Blue = 2, Green = 3. What is Blue + Green?",
-  "options": [
-    "3",
-    "4",
-    "5",
-    "6"
-  ],
-  "answer": 2,
-  "explanation": "2 + 3 = 5."
+    "id": "pf-2397",
+    "topic": "Puzzles",
+    "difficulty": "Easy",
+    "question": "If Red = 1, Blue = 2, Green = 3. What is Blue + Green?",
+    "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "answer": 2,
+    "explanation": "2 + 3 = 5."
 }

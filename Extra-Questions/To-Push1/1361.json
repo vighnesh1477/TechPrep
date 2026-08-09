@@ -1,14 +1,14 @@
 {
-  "id": "placement-1361",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Hard",
-  "question": "Given page reference string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1. How many page faults occur using LRU replacement with 3 page frames?",
-  "options": [
-    "9",
-    "12",
-    "15",
-    "10"
-  ],
-  "answer": 1,
-  "explanation": "Tracing LRU: 7(f), 0(f), 1(f), 2(f replaces 7), 0(h), 3(f replaces 1), 0(h), 4(f replaces 2), 2(f replaces 3), 3(f replaces 0), 0(f replaces 4), 3(h), 2(h), 1(f replaces 0), 2(h), 0(f replaces 3), 1(h), 7(f replaces 2), 0(h), 1(h). Total = 12."
+    "id": "pf-1563",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Hard",
+    "question": "Given page reference string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1. How many page faults occur using LRU replacement with 3 page frames?",
+    "options": [
+        "9",
+        "12",
+        "15",
+        "10"
+    ],
+    "answer": 1,
+    "explanation": "Tracing LRU: 7(f), 0(f), 1(f), 2(f replaces 7), 0(h), 3(f replaces 1), 0(h), 4(f replaces 2), 2(f replaces 3), 3(f replaces 0), 0(f replaces 4), 3(h), 2(h), 1(f replaces 0), 2(h), 0(f replaces 3), 1(h), 7(f replaces 2), 0(h), 1(h). Total = 12."
 }

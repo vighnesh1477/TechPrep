@@ -1,14 +1,14 @@
 {
-  "id": "placement-1242",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What is the output of `cout << boolalpha << (1 == true);`?",
-  "options": [
-    "1",
-    "true",
-    "True",
-    "0"
-  ],
-  "answer": 1,
-  "explanation": "boolalpha modifies the stream to print boolean values as 'true' or 'false' instead of 1 or 0."
+    "id": "pf-1444",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What is the output of `cout << boolalpha << (1 == true);`?",
+    "options": [
+        "1",
+        "true",
+        "True",
+        "0"
+    ],
+    "answer": 1,
+    "explanation": "boolalpha modifies the stream to print boolean values as 'true' or 'false' instead of 1 or 0."
 }

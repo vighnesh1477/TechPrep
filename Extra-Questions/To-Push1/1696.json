@@ -1,14 +1,14 @@
 {
-  "id": "placement-1696",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`void func(int a) { a = 10; }`\n`int main() {`\n`  int x = 5;`\n`  func(x);`\n`  printf(\"%d\", x);`\n`  return 0;`\n`}`",
-  "options": [
-    "10",
-    "5",
-    "0",
-    "Compilation Error"
-  ],
-  "answer": 1,
-  "explanation": "In C, arguments are passed by value. The function `func` receives a copy of `x`. Changing the copy does not affect the original variable `x` in `main`."
+    "id": "pf-1898",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`void func(int a) { a = 10; }`\n`int main() {`\n`  int x = 5;`\n`  func(x);`\n`  printf(\"%d\", x);`\n`  return 0;`\n`}`",
+    "options": [
+        "10",
+        "5",
+        "0",
+        "Compilation Error"
+    ],
+    "answer": 1,
+    "explanation": "In C, arguments are passed by value. The function `func` receives a copy of `x`. Changing the copy does not affect the original variable `x` in `main`."
 }

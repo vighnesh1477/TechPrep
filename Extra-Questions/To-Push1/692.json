@@ -1,14 +1,14 @@
 {
-  "id": "placement-692",
-  "topic": "htop",
-  "difficulty": "Easy",
-  "question": "What does F6 do in htop?",
-  "options": [
-    "Sorts processes by PID",
-    "Opens a menu to select the sort column",
-    "Shows process environment",
-    "Toggles between user processes"
-  ],
-  "answer": 1,
-  "explanation": "F6 opens a column selection menu where you can choose which column to sort by, such as PID, CPU%, MEM%, TIME+, etc."
+    "id": "pf-894",
+    "topic": "htop",
+    "difficulty": "Easy",
+    "question": "What does F6 do in htop?",
+    "options": [
+        "Sorts processes by PID",
+        "Opens a menu to select the sort column",
+        "Shows process environment",
+        "Toggles between user processes"
+    ],
+    "answer": 1,
+    "explanation": "F6 opens a column selection menu where you can choose which column to sort by, such as PID, CPU%, MEM%, TIME+, etc."
 }

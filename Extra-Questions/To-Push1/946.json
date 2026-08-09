@@ -1,14 +1,14 @@
 {
-  "id": "placement-946",
-  "topic": "Algorithms",
-  "difficulty": "Hard",
-  "question": "What is the lower bound for comparison-based sorting algorithms?",
-  "options": [
-    "O(N)",
-    "O(N log N)",
-    "O(N^2)",
-    "O(1)"
-  ],
-  "answer": 1,
-  "explanation": "Decision tree model proves that comparison sorts require at least O(N log N) comparisons in the worst case."
+    "id": "pf-1148",
+    "topic": "Algorithms",
+    "difficulty": "Hard",
+    "question": "What is the lower bound for comparison-based sorting algorithms?",
+    "options": [
+        "O(N)",
+        "O(N log N)",
+        "O(N^2)",
+        "O(1)"
+    ],
+    "answer": 1,
+    "explanation": "Decision tree model proves that comparison sorts require at least O(N log N) comparisons in the worst case."
 }

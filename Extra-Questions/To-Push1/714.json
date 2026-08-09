@@ -1,14 +1,14 @@
 {
-  "id": "placement-714",
-  "topic": "Users",
-  "difficulty": "Easy",
-  "question": "Where is user password information stored on Linux?",
-  "options": [
-    "/etc/passwd",
-    "/etc/shadow",
-    "/etc/users",
-    "/etc/passwords"
-  ],
-  "answer": 1,
-  "explanation": "Password hashes are stored in /etc/shadow, which is readable only by root. /etc/passwd contains user account information but not passwords."
+    "id": "pf-916",
+    "topic": "Users",
+    "difficulty": "Easy",
+    "question": "Where is user password information stored on Linux?",
+    "options": [
+        "/etc/passwd",
+        "/etc/shadow",
+        "/etc/users",
+        "/etc/passwords"
+    ],
+    "answer": 1,
+    "explanation": "Password hashes are stored in /etc/shadow, which is readable only by root. /etc/passwd contains user account information but not passwords."
 }

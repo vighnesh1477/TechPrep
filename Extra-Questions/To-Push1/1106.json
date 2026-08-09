@@ -1,14 +1,14 @@
 {
-  "id": "placement-1106",
-  "topic": "Cloud Basics",
-  "difficulty": "Hard",
-  "question": "What is Infrastructure as Code (IaC)?",
-  "options": [
-    "Writing code in C",
-    "Managing and provisioning cloud infrastructure using machine-readable configuration files (e.g., Terraform)",
-    "Coding inside a VM",
-    "A cloud programming language"
-  ],
-  "answer": 1,
-  "explanation": "IaC automates infrastructure provisioning, ensuring consistency and version control over the environment."
+    "id": "pf-1308",
+    "topic": "Cloud Basics",
+    "difficulty": "Hard",
+    "question": "What is Infrastructure as Code (IaC)?",
+    "options": [
+        "Writing code in C",
+        "Managing and provisioning cloud infrastructure using machine-readable configuration files (e.g., Terraform)",
+        "Coding inside a VM",
+        "A cloud programming language"
+    ],
+    "answer": 1,
+    "explanation": "IaC automates infrastructure provisioning, ensuring consistency and version control over the environment."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-625",
-  "topic": "find",
-  "difficulty": "Easy",
-  "question": "What does 'find . -type d' find?",
-  "options": [
-    "All regular files",
-    "All directories",
-    "All hidden files",
-    "All device files"
-  ],
-  "answer": 1,
-  "explanation": "find . -type d searches for directories only. Other types include f (regular file), l (symbolic link), b (block device), c (character device)."
+    "id": "pf-827",
+    "topic": "find",
+    "difficulty": "Easy",
+    "question": "What does 'find . -type d' find?",
+    "options": [
+        "All regular files",
+        "All directories",
+        "All hidden files",
+        "All device files"
+    ],
+    "answer": 1,
+    "explanation": "find . -type d searches for directories only. Other types include f (regular file), l (symbolic link), b (block device), c (character device)."
 }

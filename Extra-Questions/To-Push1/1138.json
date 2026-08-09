@@ -1,14 +1,14 @@
 {
-  "id": "placement-1138",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "Which exception is thrown when `new` fails to allocate memory?",
-  "options": [
-    "NullPointerException",
-    "std::bad_alloc",
-    "OutOfMemoryError",
-    "Segmentation fault"
-  ],
-  "answer": 1,
-  "explanation": "new throws std::bad_alloc when the heap is exhausted."
+    "id": "pf-1340",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "Which exception is thrown when `new` fails to allocate memory?",
+    "options": [
+        "NullPointerException",
+        "std::bad_alloc",
+        "OutOfMemoryError",
+        "Segmentation fault"
+    ],
+    "answer": 1,
+    "explanation": "new throws std::bad_alloc when the heap is exhausted."
 }

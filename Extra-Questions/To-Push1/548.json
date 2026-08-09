@@ -1,14 +1,14 @@
 {
-  "id": "placement-548",
-  "topic": "pwd",
-  "difficulty": "Easy",
-  "question": "What does the 'pwd' command stand for?",
-  "options": [
-    "Print Work Directory",
-    "Present Working Directory",
-    "Print Working Directory",
-    "Path Working Directory"
-  ],
-  "answer": 2,
-  "explanation": "pwd stands for Print Working Directory. It outputs the absolute path of the current directory you are in."
+    "id": "pf-750",
+    "topic": "pwd",
+    "difficulty": "Easy",
+    "question": "What does the 'pwd' command stand for?",
+    "options": [
+        "Print Work Directory",
+        "Present Working Directory",
+        "Print Working Directory",
+        "Path Working Directory"
+    ],
+    "answer": 2,
+    "explanation": "pwd stands for Print Working Directory. It outputs the absolute path of the current directory you are in."
 }

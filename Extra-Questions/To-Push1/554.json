@@ -1,14 +1,14 @@
 {
-  "id": "placement-554",
-  "topic": "ls",
-  "difficulty": "Easy",
-  "question": "How do you sort files by size using ls?",
-  "options": [
-    "ls -s",
-    "ls -S",
-    "ls --size",
-    "ls -r"
-  ],
-  "answer": 1,
-  "explanation": "ls -S sorts files by size, largest first. Adding -r (ls -Sr) reverses the order to show smallest first."
+    "id": "pf-756",
+    "topic": "ls",
+    "difficulty": "Easy",
+    "question": "How do you sort files by size using ls?",
+    "options": [
+        "ls -s",
+        "ls -S",
+        "ls --size",
+        "ls -r"
+    ],
+    "answer": 1,
+    "explanation": "ls -S sorts files by size, largest first. Adding -r (ls -Sr) reverses the order to show smallest first."
 }

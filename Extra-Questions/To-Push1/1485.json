@@ -1,14 +1,14 @@
 {
-  "id": "placement-1485",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Easy",
-  "question": "What is SDLC?",
-  "options": [
-    "Software Design Life Cycle",
-    "Software Development Life Cycle",
-    "System Deployment Life Cycle",
-    "Software Debugging Life Cycle"
-  ],
-  "answer": 1,
-  "explanation": "SDLC stands for Software Development Life Cycle. It is a structured framework that defines the process used by organizations to develop, test, and deploy software."
+    "id": "pf-1687",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Easy",
+    "question": "What is SDLC?",
+    "options": [
+        "Software Design Life Cycle",
+        "Software Development Life Cycle",
+        "System Deployment Life Cycle",
+        "Software Debugging Life Cycle"
+    ],
+    "answer": 1,
+    "explanation": "SDLC stands for Software Development Life Cycle. It is a structured framework that defines the process used by organizations to develop, test, and deploy software."
 }

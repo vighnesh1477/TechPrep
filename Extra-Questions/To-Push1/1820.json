@@ -1,14 +1,14 @@
 {
-  "id": "placement-1820",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the time complexity of Selection Sort?",
-  "options": [
-    "O(n)",
-    "O(n log n)",
-    "O(n^2)",
-    "O(n!)"
-  ],
-  "answer": 2,
-  "explanation": "Selection Sort makes n-1 passes, and in each pass, it scans the remaining unsorted portion to find the minimum. This always takes O(n^2) comparisons regardless of input."
+    "id": "pf-2022",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of Selection Sort?",
+    "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(n!)"
+    ],
+    "answer": 2,
+    "explanation": "Selection Sort makes n-1 passes, and in each pass, it scans the remaining unsorted portion to find the minimum. This always takes O(n^2) comparisons regardless of input."
 }

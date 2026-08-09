@@ -1,14 +1,14 @@
 {
-  "id": "placement-1374",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a transaction in a database?",
-  "options": [
-    "A single SQL query",
-    "A logical unit of work consisting of one or more SQL operations",
-    "A connection to the database",
-    "A backup operation"
-  ],
-  "answer": 1,
-  "explanation": "A transaction represents a unit of work performed against a database, treated in a coherent and reliable way independent of other transactions."
+    "id": "pf-1576",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a transaction in a database?",
+    "options": [
+        "A single SQL query",
+        "A logical unit of work consisting of one or more SQL operations",
+        "A connection to the database",
+        "A backup operation"
+    ],
+    "answer": 1,
+    "explanation": "A transaction represents a unit of work performed against a database, treated in a coherent and reliable way independent of other transactions."
 }

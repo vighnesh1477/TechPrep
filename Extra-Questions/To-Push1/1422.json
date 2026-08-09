@@ -1,14 +1,14 @@
 {
-  "id": "placement-1422",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "What does the WINDOW function `ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY salary DESC)` return?",
-  "options": [
-    "The rank of an employee within their department based on salary",
-    "A unique sequential integer for each row within a department partition, ordered by salary descending",
-    "The total number of employees in each department",
-    "The difference in salary between employees in a department"
-  ],
-  "answer": 1,
-  "explanation": "ROW_NUMBER() assigns a unique, sequential number to each row. PARTITION BY resets the number for each department, and ORDER BY determines the sequence (highest salary gets row 1)."
+    "id": "pf-1624",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "What does the WINDOW function `ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY salary DESC)` return?",
+    "options": [
+        "The rank of an employee within their department based on salary",
+        "A unique sequential integer for each row within a department partition, ordered by salary descending",
+        "The total number of employees in each department",
+        "The difference in salary between employees in a department"
+    ],
+    "answer": 1,
+    "explanation": "ROW_NUMBER() assigns a unique, sequential number to each row. PARTITION BY resets the number for each department, and ORDER BY determines the sequence (highest salary gets row 1)."
 }

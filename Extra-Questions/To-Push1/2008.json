@@ -1,14 +1,14 @@
 {
-  "id": "placement-2008",
-  "topic": "Ages",
-  "difficulty": "Medium",
-  "question": "Average age of 5 boys is 12. One boy of 16 leaves. New average?",
-  "options": [
-    "10",
-    "11",
-    "12",
-    "13"
-  ],
-  "answer": 1,
-  "explanation": "Total = 60. New total = 44. New avg = 44/4 = 11."
+    "id": "pf-2210",
+    "topic": "Ages",
+    "difficulty": "Medium",
+    "question": "Average age of 5 boys is 12. One boy of 16 leaves. New average?",
+    "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+    ],
+    "answer": 1,
+    "explanation": "Total = 60. New total = 44. New avg = 44/4 = 11."
 }

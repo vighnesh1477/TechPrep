@@ -1,14 +1,14 @@
 {
-  "id": "placement-501",
-  "topic": "Submodules",
-  "difficulty": "Medium",
-  "question": "What file stores submodule configuration in a repository?",
-  "options": [
-    ".git/submodules",
-    ".gitmodules",
-    "submodules.json",
-    ".git/submodule-config"
-  ],
-  "answer": 1,
-  "explanation": "The .gitmodules file in the repository root stores the mapping between submodule paths and their remote URLs, and is tracked in version control."
+    "id": "pf-703",
+    "topic": "Submodules",
+    "difficulty": "Medium",
+    "question": "What file stores submodule configuration in a repository?",
+    "options": [
+        ".git/submodules",
+        ".gitmodules",
+        "submodules.json",
+        ".git/submodule-config"
+    ],
+    "answer": 1,
+    "explanation": "The .gitmodules file in the repository root stores the mapping between submodule paths and their remote URLs, and is tracked in version control."
 }

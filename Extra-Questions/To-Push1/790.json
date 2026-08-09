@@ -1,14 +1,14 @@
 {
-  "id": "placement-790",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What is initramfs (initial RAM filesystem)?",
-  "options": [
-    "The first partition on the disk",
-    "A temporary filesystem loaded into RAM that contains essential drivers and tools needed to mount the real root filesystem",
-    "A backup of the root filesystem",
-    "The kernel configuration file"
-  ],
-  "answer": 1,
-  "explanation": "initramfs is a compressed archive loaded into RAM by the boot loader. It contains drivers (especially for storage and filesystems) and scripts needed to find and mount the real root filesystem."
+    "id": "pf-992",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What is initramfs (initial RAM filesystem)?",
+    "options": [
+        "The first partition on the disk",
+        "A temporary filesystem loaded into RAM that contains essential drivers and tools needed to mount the real root filesystem",
+        "A backup of the root filesystem",
+        "The kernel configuration file"
+    ],
+    "answer": 1,
+    "explanation": "initramfs is a compressed archive loaded into RAM by the boot loader. It contains drivers (especially for storage and filesystems) and scripts needed to find and mount the real root filesystem."
 }

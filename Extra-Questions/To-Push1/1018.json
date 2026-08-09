@@ -1,14 +1,14 @@
 {
-  "id": "placement-1018",
-  "topic": "OOP",
-  "difficulty": "Easy",
-  "question": "What is inheritance?",
-  "options": [
-    "Hiding data",
-    "Creating new classes from existing ones",
-    "Overloading methods",
-    "Destroying objects"
-  ],
-  "answer": 1,
-  "explanation": "Inheritance allows a child class to inherit attributes and methods from a parent class."
+    "id": "pf-1220",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "What is inheritance?",
+    "options": [
+        "Hiding data",
+        "Creating new classes from existing ones",
+        "Overloading methods",
+        "Destroying objects"
+    ],
+    "answer": 1,
+    "explanation": "Inheritance allows a child class to inherit attributes and methods from a parent class."
 }

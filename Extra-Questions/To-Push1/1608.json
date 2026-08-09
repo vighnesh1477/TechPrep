@@ -1,14 +1,14 @@
 {
-  "id": "placement-1608",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the output of `print(type(10 / 3))` in Python 3?",
-  "options": [
-    "<class 'int'>",
-    "<class 'float'>",
-    "<class 'double'>",
-    "SyntaxError"
-  ],
-  "answer": 1,
-  "explanation": "In Python 3, the standard division operator `/` always returns a float, even if the division is exact (e.g., 10 / 2 returns 2.0)."
+    "id": "pf-1810",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the output of `print(type(10 / 3))` in Python 3?",
+    "options": [
+        "<class 'int'>",
+        "<class 'float'>",
+        "<class 'double'>",
+        "SyntaxError"
+    ],
+    "answer": 1,
+    "explanation": "In Python 3, the standard division operator `/` always returns a float, even if the division is exact (e.g., 10 / 2 returns 2.0)."
 }

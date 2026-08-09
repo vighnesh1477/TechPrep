@@ -1,14 +1,14 @@
 {
-  "id": "placement-1020",
-  "topic": "OOP",
-  "difficulty": "Easy",
-  "question": "What is an abstract class?",
-  "options": [
-    "A class with no methods",
-    "A class that cannot be instantiated and may have abstract methods",
-    "A class with only static methods",
-    "A finalized class"
-  ],
-  "answer": 1,
-  "explanation": "Abstract classes are meant to be subclassed and cannot be instantiated directly."
+    "id": "pf-1222",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "What is an abstract class?",
+    "options": [
+        "A class with no methods",
+        "A class that cannot be instantiated and may have abstract methods",
+        "A class with only static methods",
+        "A finalized class"
+    ],
+    "answer": 1,
+    "explanation": "Abstract classes are meant to be subclassed and cannot be instantiated directly."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1019",
-  "topic": "OOP",
-  "difficulty": "Easy",
-  "question": "What is polymorphism?",
-  "options": [
-    "Many forms",
-    "Single form",
-    "No form",
-    "Data hiding"
-  ],
-  "answer": 0,
-  "explanation": "Polymorphism allows objects to take on many forms, typically through method overriding or overloading."
+    "id": "pf-1221",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "What is polymorphism?",
+    "options": [
+        "Many forms",
+        "Single form",
+        "No form",
+        "Data hiding"
+    ],
+    "answer": 0,
+    "explanation": "Polymorphism allows objects to take on many forms, typically through method overriding or overloading."
 }

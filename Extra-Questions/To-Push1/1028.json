@@ -1,14 +1,14 @@
 {
-  "id": "placement-1028",
-  "topic": "OOP",
-  "difficulty": "Medium",
-  "question": "Which SOLID principle states that a class should have only one reason to change?",
-  "options": [
-    "Open/Closed Principle",
-    "Liskov Substitution",
-    "Single Responsibility Principle",
-    "Interface Segregation"
-  ],
-  "answer": 2,
-  "explanation": "SRP dictates that a class should handle a single responsibility or functional area."
+    "id": "pf-1230",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which SOLID principle states that a class should have only one reason to change?",
+    "options": [
+        "Open/Closed Principle",
+        "Liskov Substitution",
+        "Single Responsibility Principle",
+        "Interface Segregation"
+    ],
+    "answer": 2,
+    "explanation": "SRP dictates that a class should handle a single responsibility or functional area."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-817",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "How do you append a line after each line matching a pattern in sed?",
-  "options": [
-    "sed '/pattern/a\\New Line' file",
-    "sed '/pattern/append New Line' file",
-    "sed '/pattern/+ New Line' file",
-    "sed '/pattern/A New Line' file"
-  ],
-  "answer": 0,
-  "explanation": "The 'a' command appends text after the matched line. The backslash after 'a' is required in some sed versions. Use 'i' to insert text before the matched line."
+    "id": "pf-1019",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "How do you append a line after each line matching a pattern in sed?",
+    "options": [
+        "sed '/pattern/a\\New Line' file",
+        "sed '/pattern/append New Line' file",
+        "sed '/pattern/+ New Line' file",
+        "sed '/pattern/A New Line' file"
+    ],
+    "answer": 0,
+    "explanation": "The 'a' command appends text after the matched line. The backslash after 'a' is required in some sed versions. Use 'i' to insert text before the matched line."
 }

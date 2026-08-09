@@ -1,14 +1,14 @@
 {
-  "id": "placement-1468",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "Which type of cache mapping uses a formula (Block Address mod Number of Lines) to determine cache placement?",
-  "options": [
-    "Direct Mapping",
-    "Fully Associative Mapping",
-    "Set-Associative Mapping",
-    "Sequential Mapping"
-  ],
-  "answer": 0,
-  "explanation": "In Direct Mapping, each block of main memory maps to exactly one specific line in the cache, determined by the modulo operation. It is simple but can cause high conflict misses."
+    "id": "pf-1670",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "Which type of cache mapping uses a formula (Block Address mod Number of Lines) to determine cache placement?",
+    "options": [
+        "Direct Mapping",
+        "Fully Associative Mapping",
+        "Set-Associative Mapping",
+        "Sequential Mapping"
+    ],
+    "answer": 0,
+    "explanation": "In Direct Mapping, each block of main memory maps to exactly one specific line in the cache, determined by the modulo operation. It is simple but can cause high conflict misses."
 }

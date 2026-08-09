@@ -1,14 +1,14 @@
 {
-  "id": "placement-885",
-  "topic": "Java",
-  "difficulty": "Easy",
-  "question": "Which exception is thrown when dividing by zero for integers?",
-  "options": [
-    "IllegalArgumentException",
-    "ArithmeticException",
-    "NullPointerException",
-    "NumberFormatException"
-  ],
-  "answer": 1,
-  "explanation": "Integer division by zero throws an ArithmeticException."
+    "id": "pf-1087",
+    "topic": "Java",
+    "difficulty": "Easy",
+    "question": "Which exception is thrown when dividing by zero for integers?",
+    "options": [
+        "IllegalArgumentException",
+        "ArithmeticException",
+        "NullPointerException",
+        "NumberFormatException"
+    ],
+    "answer": 1,
+    "explanation": "Integer division by zero throws an ArithmeticException."
 }

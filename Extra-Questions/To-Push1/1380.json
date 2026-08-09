@@ -1,14 +1,14 @@
 {
-  "id": "placement-1380",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the 'Lost Update' problem in DBMS?",
-  "options": [
-    "When a transaction is aborted and its updates are lost",
-    "When two transactions read the same data and then update it based on the read value, causing one update to overwrite the other",
-    "When data is deleted by mistake",
-    "When the database crashes before writing to disk"
-  ],
-  "answer": 1,
-  "explanation": "Lost update occurs when two transactions T1 and T2 read the same data, and then both update it. The second update overwrites the first, meaning the first update is 'lost'."
+    "id": "pf-1582",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the 'Lost Update' problem in DBMS?",
+    "options": [
+        "When a transaction is aborted and its updates are lost",
+        "When two transactions read the same data and then update it based on the read value, causing one update to overwrite the other",
+        "When data is deleted by mistake",
+        "When the database crashes before writing to disk"
+    ],
+    "answer": 1,
+    "explanation": "Lost update occurs when two transactions T1 and T2 read the same data, and then both update it. The second update overwrites the first, meaning the first update is 'lost'."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2053",
-  "topic": "Algebra",
-  "difficulty": "Medium",
-  "question": "Find the 5th term of AP: 2, 5, 8, 11...",
-  "options": [
-    "12",
-    "14",
-    "16",
-    "18"
-  ],
-  "answer": 1,
-  "explanation": "a=2, d=3. t5 = 2 + 4*3 = 14."
+    "id": "pf-2255",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "Find the 5th term of AP: 2, 5, 8, 11...",
+    "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+    ],
+    "answer": 1,
+    "explanation": "a=2, d=3. t5 = 2 + 4*3 = 14."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-825",
-  "topic": "sort",
-  "difficulty": "Medium",
-  "question": "How do you sort by the 3rd field in a colon-delimited file?",
-  "options": [
-    "sort -f3 -d: file",
-    "sort -t: -k3 file",
-    "sort --key=3 --delim=: file",
-    "sort -c3 file"
-  ],
-  "answer": 1,
-  "explanation": "sort -t: -k3 uses colon as the field separator (-t:) and sorts by the 3rd field (-k3). You can specify more complex keys like -k3,3n for numeric sort on field 3."
+    "id": "pf-1027",
+    "topic": "sort",
+    "difficulty": "Medium",
+    "question": "How do you sort by the 3rd field in a colon-delimited file?",
+    "options": [
+        "sort -f3 -d: file",
+        "sort -t: -k3 file",
+        "sort --key=3 --delim=: file",
+        "sort -c3 file"
+    ],
+    "answer": 1,
+    "explanation": "sort -t: -k3 uses colon as the field separator (-t:) and sorts by the 3rd field (-k3). You can specify more complex keys like -k3,3n for numeric sort on field 3."
 }

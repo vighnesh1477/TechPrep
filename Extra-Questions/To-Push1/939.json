@@ -1,14 +1,14 @@
 {
-  "id": "placement-939",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the space complexity of standard recursive DFS?",
-  "options": [
-    "O(1)",
-    "O(V)",
-    "O(E)",
-    "O(V+E)"
-  ],
-  "answer": 1,
-  "explanation": "DFS uses a call stack proportional to the depth of the graph/tree, which is at most V."
+    "id": "pf-1141",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the space complexity of standard recursive DFS?",
+    "options": [
+        "O(1)",
+        "O(V)",
+        "O(E)",
+        "O(V+E)"
+    ],
+    "answer": 1,
+    "explanation": "DFS uses a call stack proportional to the depth of the graph/tree, which is at most V."
 }

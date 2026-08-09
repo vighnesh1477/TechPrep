@@ -1,14 +1,14 @@
 {
-  "id": "placement-781",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What is a system call in Linux?",
-  "options": [
-    "A command you type in the terminal",
-    "An interface through which a program requests a service from the kernel",
-    "A function provided by glibc",
-    "A network request"
-  ],
-  "answer": 1,
-  "explanation": "System calls are the interface between user-space programs and the kernel. Examples include open(), read(), write(), fork(), execve(). They trigger a context switch to kernel mode."
+    "id": "pf-983",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What is a system call in Linux?",
+    "options": [
+        "A command you type in the terminal",
+        "An interface through which a program requests a service from the kernel",
+        "A function provided by glibc",
+        "A network request"
+    ],
+    "answer": 1,
+    "explanation": "System calls are the interface between user-space programs and the kernel. Examples include open(), read(), write(), fork(), execve(). They trigger a context switch to kernel mode."
 }

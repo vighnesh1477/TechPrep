@@ -1,14 +1,14 @@
 {
-  "id": "placement-1333",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the primary purpose of a semaphore?",
-  "options": [
-    "To allocate memory",
-    "To manage file systems",
-    "To control access to shared resources by multiple processes",
-    "To schedule CPU tasks"
-  ],
-  "answer": 2,
-  "explanation": "A semaphore is a synchronization tool used to manage concurrent processes by controlling access to shared resources to prevent race conditions."
+    "id": "pf-1535",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the primary purpose of a semaphore?",
+    "options": [
+        "To allocate memory",
+        "To manage file systems",
+        "To control access to shared resources by multiple processes",
+        "To schedule CPU tasks"
+    ],
+    "answer": 2,
+    "explanation": "A semaphore is a synchronization tool used to manage concurrent processes by controlling access to shared resources to prevent race conditions."
 }

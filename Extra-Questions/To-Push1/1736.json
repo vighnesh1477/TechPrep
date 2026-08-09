@@ -1,14 +1,14 @@
 {
-  "id": "placement-1736",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "What does `arr[-1]` return in Python if `arr = [10, 20, 30]`?",
-  "options": [
-    "Error",
-    "10",
-    "30",
-    "0"
-  ],
-  "answer": 2,
-  "explanation": "Python supports negative indexing, where `-1` refers to the last element, `-2` to the second-to-last, and so on. Thus, `arr[-1]` is 30."
+    "id": "pf-1938",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "What does `arr[-1]` return in Python if `arr = [10, 20, 30]`?",
+    "options": [
+        "Error",
+        "10",
+        "30",
+        "0"
+    ],
+    "answer": 2,
+    "explanation": "Python supports negative indexing, where `-1` refers to the last element, `-2` to the second-to-last, and so on. Thus, `arr[-1]` is 30."
 }

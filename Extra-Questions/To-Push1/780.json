@@ -1,14 +1,14 @@
 {
-  "id": "placement-780",
-  "topic": "Linux Architecture",
-  "difficulty": "Medium",
-  "question": "What is the difference between monolithic and microkernel architectures?",
-  "options": [
-    "Monolithic kernels are slower",
-    "Monolithic kernels run all services in kernel space; microkernels run most services in user space",
-    "Microkernels are more common in Linux",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "Linux uses a monolithic kernel where all OS services run in kernel space. Microkernels (like Minix) keep only essential services in kernel space and run others in user space."
+    "id": "pf-982",
+    "topic": "Linux Architecture",
+    "difficulty": "Medium",
+    "question": "What is the difference between monolithic and microkernel architectures?",
+    "options": [
+        "Monolithic kernels are slower",
+        "Monolithic kernels run all services in kernel space; microkernels run most services in user space",
+        "Microkernels are more common in Linux",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "Linux uses a monolithic kernel where all OS services run in kernel space. Microkernels (like Minix) keep only essential services in kernel space and run others in user space."
 }

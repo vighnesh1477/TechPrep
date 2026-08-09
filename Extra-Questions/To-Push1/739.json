@@ -1,14 +1,14 @@
 {
-  "id": "placement-739",
-  "topic": "apt",
-  "difficulty": "Easy",
-  "question": "What does 'apt update' do?",
-  "options": [
-    "Upgrades all installed packages",
-    "Downloads the latest package information from repositories",
-    "Updates the kernel",
-    "Updates the apt package itself"
-  ],
-  "answer": 1,
-  "explanation": "apt update downloads the latest package lists from the configured repositories. It does not upgrade any packages; use 'apt upgrade' for that."
+    "id": "pf-941",
+    "topic": "apt",
+    "difficulty": "Easy",
+    "question": "What does 'apt update' do?",
+    "options": [
+        "Upgrades all installed packages",
+        "Downloads the latest package information from repositories",
+        "Updates the kernel",
+        "Updates the apt package itself"
+    ],
+    "answer": 1,
+    "explanation": "apt update downloads the latest package lists from the configured repositories. It does not upgrade any packages; use 'apt upgrade' for that."
 }

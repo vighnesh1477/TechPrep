@@ -1,14 +1,14 @@
 {
-  "id": "placement-529",
-  "topic": "Cherry Pick",
-  "difficulty": "Medium",
-  "question": "What happens if a cherry-picked commit's changes conflict with the current branch?",
-  "options": [
-    "Git skips the commit silently",
-    "Git pauses and requires you to resolve the conflict before continuing",
-    "Git automatically resolves using the cherry-picked version",
-    "The cherry-pick is aborted completely"
-  ],
-  "answer": 1,
-  "explanation": "If a cherry-pick encounters a conflict, Git pauses and marks the conflicting files, waiting for you to resolve them and then run git cherry-pick --continue."
+    "id": "pf-731",
+    "topic": "Cherry Pick",
+    "difficulty": "Medium",
+    "question": "What happens if a cherry-picked commit's changes conflict with the current branch?",
+    "options": [
+        "Git skips the commit silently",
+        "Git pauses and requires you to resolve the conflict before continuing",
+        "Git automatically resolves using the cherry-picked version",
+        "The cherry-pick is aborted completely"
+    ],
+    "answer": 1,
+    "explanation": "If a cherry-pick encounters a conflict, Git pauses and marks the conflicting files, waiting for you to resolve them and then run git cherry-pick --continue."
 }

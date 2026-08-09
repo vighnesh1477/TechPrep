@@ -1,14 +1,14 @@
 {
-  "id": "placement-1552",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "What is a Flip-Flop in digital logic?",
-  "options": [
-    "A type of logic gate",
-    "A circuit that has two stable states and can be used to store state information (1 bit of memory)",
-    "A type of cable",
-    "A type of error"
-  ],
-  "answer": 1,
-  "explanation": "A flip-flop is a sequential logic circuit that acts as a basic memory element. It can maintain one bit of state (0 or 1) until an input signal changes it."
+    "id": "pf-1754",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "What is a Flip-Flop in digital logic?",
+    "options": [
+        "A type of logic gate",
+        "A circuit that has two stable states and can be used to store state information (1 bit of memory)",
+        "A type of cable",
+        "A type of error"
+    ],
+    "answer": 1,
+    "explanation": "A flip-flop is a sequential logic circuit that acts as a basic memory element. It can maintain one bit of state (0 or 1) until an input signal changes it."
 }

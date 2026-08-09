@@ -1,14 +1,14 @@
 {
-  "id": "placement-1400",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does the NULL value represent in SQL?",
-  "options": [
-    "Zero",
-    "An empty string",
-    "A missing or unknown value",
-    "False"
-  ],
-  "answer": 2,
-  "explanation": "A NULL value represents missing, inapplicable, or unknown data. It is not the same as zero or an empty string. Comparisons with NULL (e.g., = NULL) yield unknown, requiring IS NULL syntax."
+    "id": "pf-1602",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does the NULL value represent in SQL?",
+    "options": [
+        "Zero",
+        "An empty string",
+        "A missing or unknown value",
+        "False"
+    ],
+    "answer": 2,
+    "explanation": "A NULL value represents missing, inapplicable, or unknown data. It is not the same as zero or an empty string. Comparisons with NULL (e.g., = NULL) yield unknown, requiring IS NULL syntax."
 }

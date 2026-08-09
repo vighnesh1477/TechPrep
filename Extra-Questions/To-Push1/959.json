@@ -1,14 +1,14 @@
 {
-  "id": "placement-959",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "Which concurrency control protocol locks all items before execution?",
-  "options": [
-    "Two-phase locking",
-    "Strict two-phase locking",
-    "Timestamp ordering",
-    "Optimistic"
-  ],
-  "answer": 1,
-  "explanation": "Strict 2PL holds all locks until the transaction commits/aborts, preventing cascading rollbacks."
+    "id": "pf-1161",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "Which concurrency control protocol locks all items before execution?",
+    "options": [
+        "Two-phase locking",
+        "Strict two-phase locking",
+        "Timestamp ordering",
+        "Optimistic"
+    ],
+    "answer": 1,
+    "explanation": "Strict 2PL holds all locks until the transaction commits/aborts, preventing cascading rollbacks."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1139",
-  "topic": "C++",
-  "difficulty": "Hard",
-  "question": "What is RAII?",
-  "options": [
-    "A Java concept",
-    "Resource Acquisition Is Initialization: binding resource lifecycles to object lifecycles",
-    "A type of array",
-    "A loop structure"
-  ],
-  "answer": 1,
-  "explanation": "RAII ensures resources are properly released when an object goes out of scope (e.g., destructors freeing memory)."
+    "id": "pf-1341",
+    "topic": "C++",
+    "difficulty": "Hard",
+    "question": "What is RAII?",
+    "options": [
+        "A Java concept",
+        "Resource Acquisition Is Initialization: binding resource lifecycles to object lifecycles",
+        "A type of array",
+        "A loop structure"
+    ],
+    "answer": 1,
+    "explanation": "RAII ensures resources are properly released when an object goes out of scope (e.g., destructors freeing memory)."
 }

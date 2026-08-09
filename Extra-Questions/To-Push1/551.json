@@ -1,14 +1,14 @@
 {
-  "id": "placement-551",
-  "topic": "pwd",
-  "difficulty": "Easy",
-  "question": "The built-in pwd command differs from /bin/pwd in that the built-in version:",
-  "options": [
-    "Always shows the physical path",
-    "Can be affected by shell options like -P",
-    "Does not support any options",
-    "Shows the parent directory"
-  ],
-  "answer": 1,
-  "explanation": "The shell built-in pwd respects shell options like -P for physical path, while /bin/pwd is a standalone binary that always defaults to -P behavior."
+    "id": "pf-753",
+    "topic": "pwd",
+    "difficulty": "Easy",
+    "question": "The built-in pwd command differs from /bin/pwd in that the built-in version:",
+    "options": [
+        "Always shows the physical path",
+        "Can be affected by shell options like -P",
+        "Does not support any options",
+        "Shows the parent directory"
+    ],
+    "answer": 1,
+    "explanation": "The shell built-in pwd respects shell options like -P for physical path, while /bin/pwd is a standalone binary that always defaults to -P behavior."
 }

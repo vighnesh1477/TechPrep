@@ -1,14 +1,14 @@
 {
-  "id": "placement-842",
-  "topic": "xargs",
-  "difficulty": "Medium",
-  "question": "What does 'xargs -n 1' do?",
-  "options": [
-    "Runs the command only once",
-    "Uses one argument per command execution",
-    "Excludes the first argument",
-    "Shows only one result"
-  ],
-  "answer": 1,
-  "explanation": "xargs -n 1 passes exactly one argument per command invocation. This is useful when the command only accepts one argument at a time."
+    "id": "pf-1044",
+    "topic": "xargs",
+    "difficulty": "Medium",
+    "question": "What does 'xargs -n 1' do?",
+    "options": [
+        "Runs the command only once",
+        "Uses one argument per command execution",
+        "Excludes the first argument",
+        "Shows only one result"
+    ],
+    "answer": 1,
+    "explanation": "xargs -n 1 passes exactly one argument per command invocation. This is useful when the command only accepts one argument at a time."
 }

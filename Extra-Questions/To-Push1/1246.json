@@ -1,14 +1,14 @@
 {
-  "id": "placement-1246",
-  "topic": "Algorithms",
-  "difficulty": "Hard",
-  "question": "What is the time complexity of the Hungarian algorithm?",
-  "options": [
-    "O(V^2)",
-    "O(V^3)",
-    "O(E log V)",
-    "O(V+E)"
-  ],
-  "answer": 1,
-  "explanation": "The Hungarian algorithm solves the assignment problem in O(V^3) time, where V is the number of vertices/workers."
+    "id": "pf-1448",
+    "topic": "Algorithms",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of the Hungarian algorithm?",
+    "options": [
+        "O(V^2)",
+        "O(V^3)",
+        "O(E log V)",
+        "O(V+E)"
+    ],
+    "answer": 1,
+    "explanation": "The Hungarian algorithm solves the assignment problem in O(V^3) time, where V is the number of vertices/workers."
 }

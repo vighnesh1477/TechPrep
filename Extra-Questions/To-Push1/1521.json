@@ -1,14 +1,14 @@
 {
-  "id": "placement-1521",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does the Semantic Analysis phase check?",
-  "options": [
-    "Spelling mistakes",
-    "Grammar rules",
-    "Meaning and correctness of the code (e.g., type checking, variable declarations)",
-    "Memory allocation"
-  ],
-  "answer": 2,
-  "explanation": "Semantic Analysis checks the parse tree for semantic errors, such as type mismatches, undeclared variables, or incorrect usage of operators. It ensures the code makes sense."
+    "id": "pf-1723",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does the Semantic Analysis phase check?",
+    "options": [
+        "Spelling mistakes",
+        "Grammar rules",
+        "Meaning and correctness of the code (e.g., type checking, variable declarations)",
+        "Memory allocation"
+    ],
+    "answer": 2,
+    "explanation": "Semantic Analysis checks the parse tree for semantic errors, such as type mismatches, undeclared variables, or incorrect usage of operators. It ensures the code makes sense."
 }

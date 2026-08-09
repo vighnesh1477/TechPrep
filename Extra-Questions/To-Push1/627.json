@@ -1,14 +1,14 @@
 {
-  "id": "placement-627",
-  "topic": "find",
-  "difficulty": "Easy",
-  "question": "How do you find files larger than 100MB?",
-  "options": [
-    "find / -size +100M",
-    "find / -size 100M",
-    "find / -larger 100M",
-    "find / -gt 100MB"
-  ],
-  "answer": 0,
-  "explanation": "find / -size +100M finds files larger than 100 megabytes. Units include c (bytes), k (KB), M (MB), G (GB)."
+    "id": "pf-829",
+    "topic": "find",
+    "difficulty": "Easy",
+    "question": "How do you find files larger than 100MB?",
+    "options": [
+        "find / -size +100M",
+        "find / -size 100M",
+        "find / -larger 100M",
+        "find / -gt 100MB"
+    ],
+    "answer": 0,
+    "explanation": "find / -size +100M finds files larger than 100 megabytes. Units include c (bytes), k (KB), M (MB), G (GB)."
 }

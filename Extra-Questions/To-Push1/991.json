@@ -1,14 +1,14 @@
 {
-  "id": "placement-991",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "Which page replacement algorithm suffers from Belady's Anomaly?",
-  "options": [
-    "LRU",
-    "Optimal Page Replacement",
-    "FIFO",
-    "Clock"
-  ],
-  "answer": 2,
-  "explanation": "FIFO can exhibit Belady's Anomaly, where increasing frames increases page faults."
+    "id": "pf-1193",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Which page replacement algorithm suffers from Belady's Anomaly?",
+    "options": [
+        "LRU",
+        "Optimal Page Replacement",
+        "FIFO",
+        "Clock"
+    ],
+    "answer": 2,
+    "explanation": "FIFO can exhibit Belady's Anomaly, where increasing frames increases page faults."
 }

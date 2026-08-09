@@ -1,14 +1,14 @@
 {
-  "id": "placement-486",
-  "topic": "Detached HEAD",
-  "difficulty": "Medium",
-  "question": "What warning does Git show when entering a detached HEAD state?",
-  "options": [
-    "WARNING: You are in a dangerous state",
-    "HEAD detached at <commit-hash>",
-    "ERROR: No branch selected",
-    "WARNING: Changes may be lost"
-  ],
-  "answer": 1,
-  "explanation": "Git displays 'HEAD detached at <commit-hash>' to clearly indicate that HEAD is pointing to a commit rather than a branch reference."
+    "id": "pf-688",
+    "topic": "Detached HEAD",
+    "difficulty": "Medium",
+    "question": "What warning does Git show when entering a detached HEAD state?",
+    "options": [
+        "WARNING: You are in a dangerous state",
+        "HEAD detached at <commit-hash>",
+        "ERROR: No branch selected",
+        "WARNING: Changes may be lost"
+    ],
+    "answer": 1,
+    "explanation": "Git displays 'HEAD detached at <commit-hash>' to clearly indicate that HEAD is pointing to a commit rather than a branch reference."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-534",
-  "topic": "Stash",
-  "difficulty": "Medium",
-  "question": "What does git stash branch <branch-name> do?",
-  "options": [
-    "Creates a branch from the stash and applies it",
-    "Stashes the current branch name",
-    "Creates a branch and deletes the stash",
-    "Moves the stash to a different branch"
-  ],
-  "answer": 0,
-  "explanation": "git stash branch creates a new branch from the commit the stash was based on, applies the stash changes, and then drops the stash if successful."
+    "id": "pf-736",
+    "topic": "Stash",
+    "difficulty": "Medium",
+    "question": "What does git stash branch <branch-name> do?",
+    "options": [
+        "Creates a branch from the stash and applies it",
+        "Stashes the current branch name",
+        "Creates a branch and deletes the stash",
+        "Moves the stash to a different branch"
+    ],
+    "answer": 0,
+    "explanation": "git stash branch creates a new branch from the commit the stash was based on, applies the stash changes, and then drops the stash if successful."
 }

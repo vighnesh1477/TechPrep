@@ -1,14 +1,14 @@
 {
-  "id": "placement-2116",
-  "topic": "Coding-Decoding",
-  "difficulty": "Easy",
-  "question": "If 1=A, 2=B, what is 12?",
-  "options": [
-    "L",
-    "K",
-    "M",
-    "J"
-  ],
-  "answer": 0,
-  "explanation": "12th letter is L."
+    "id": "pf-2318",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "If 1=A, 2=B, what is 12?",
+    "options": [
+        "L",
+        "K",
+        "M",
+        "J"
+    ],
+    "answer": 0,
+    "explanation": "12th letter is L."
 }

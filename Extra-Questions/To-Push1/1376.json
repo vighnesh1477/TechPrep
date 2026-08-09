@@ -1,14 +1,14 @@
 {
-  "id": "placement-1376",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "When is a relation in BCNF (Boyce-Codd Normal Form)?",
-  "options": [
-    "When it is in 3NF and has no multi-valued dependencies",
-    "For every non-trivial functional dependency X -> Y, X is a super key",
-    "When it is in 2NF and all non-key attributes depend on the primary key",
-    "When there are no transitive dependencies"
-  ],
-  "answer": 1,
-  "explanation": "BCNF is a stricter version of 3NF. A table is in BCNF if, for every non-trivial FD X -> Y, X is a superkey. This removes all redundancy based on functional dependencies."
+    "id": "pf-1578",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "When is a relation in BCNF (Boyce-Codd Normal Form)?",
+    "options": [
+        "When it is in 3NF and has no multi-valued dependencies",
+        "For every non-trivial functional dependency X -> Y, X is a super key",
+        "When it is in 2NF and all non-key attributes depend on the primary key",
+        "When there are no transitive dependencies"
+    ],
+    "answer": 1,
+    "explanation": "BCNF is a stricter version of 3NF. A table is in BCNF if, for every non-trivial FD X -> Y, X is a superkey. This removes all redundancy based on functional dependencies."
 }

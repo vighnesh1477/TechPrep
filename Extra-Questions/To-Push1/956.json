@@ -1,14 +1,14 @@
 {
-  "id": "placement-956",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "Which normal form removes transitive dependencies?",
-  "options": [
-    "1NF",
-    "2NF",
-    "3NF",
-    "4NF"
-  ],
-  "answer": 2,
-  "explanation": "3NF requires that non-key attributes depend ONLY on the primary key, removing transitive dependencies."
+    "id": "pf-1158",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "Which normal form removes transitive dependencies?",
+    "options": [
+        "1NF",
+        "2NF",
+        "3NF",
+        "4NF"
+    ],
+    "answer": 2,
+    "explanation": "3NF requires that non-key attributes depend ONLY on the primary key, removing transitive dependencies."
 }

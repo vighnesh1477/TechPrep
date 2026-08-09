@@ -1,14 +1,14 @@
 {
-  "id": "placement-2017",
-  "topic": "Probability",
-  "difficulty": "Easy",
-  "question": "Two coins tossed. Probability of exactly one head?",
-  "options": [
-    "1/4",
-    "1/2",
-    "3/4",
-    "1"
-  ],
-  "answer": 1,
-  "explanation": "Outcomes=4(HT,TH,HH,TT). Exactly one head=2. P=2/4=1/2."
+    "id": "pf-2219",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "question": "Two coins tossed. Probability of exactly one head?",
+    "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+    ],
+    "answer": 1,
+    "explanation": "Outcomes=4(HT,TH,HH,TT). Exactly one head=2. P=2/4=1/2."
 }

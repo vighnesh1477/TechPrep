@@ -1,14 +1,14 @@
 {
-  "id": "placement-650",
-  "topic": "chmod",
-  "difficulty": "Easy",
-  "question": "What does chmod -R 755 /opt/app do?",
-  "options": [
-    "Removes permissions recursively",
-    "Sets 755 permissions recursively on /opt/app and all its contents",
-    "Sets 755 only on /opt/app directory",
-    "Reverses the current permissions"
-  ],
-  "answer": 1,
-  "explanation": "chmod -R recursively applies 755 permissions to the directory /opt/app and all files and subdirectories within it."
+    "id": "pf-852",
+    "topic": "chmod",
+    "difficulty": "Easy",
+    "question": "What does chmod -R 755 /opt/app do?",
+    "options": [
+        "Removes permissions recursively",
+        "Sets 755 permissions recursively on /opt/app and all its contents",
+        "Sets 755 only on /opt/app directory",
+        "Reverses the current permissions"
+    ],
+    "answer": 1,
+    "explanation": "chmod -R recursively applies 755 permissions to the directory /opt/app and all files and subdirectories within it."
 }

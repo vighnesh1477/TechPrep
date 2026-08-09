@@ -1,14 +1,14 @@
 {
-  "id": "placement-765",
-  "topic": "Logs",
-  "difficulty": "Easy",
-  "question": "What command views systemd journal logs?",
-  "options": [
-    "syslog",
-    "journalctl",
-    "logview",
-    "showlog"
-  ],
-  "answer": 1,
-  "explanation": "journalctl queries and displays logs collected by systemd-journald. It is the primary log viewing tool on systems using systemd."
+    "id": "pf-967",
+    "topic": "Logs",
+    "difficulty": "Easy",
+    "question": "What command views systemd journal logs?",
+    "options": [
+        "syslog",
+        "journalctl",
+        "logview",
+        "showlog"
+    ],
+    "answer": 1,
+    "explanation": "journalctl queries and displays logs collected by systemd-journald. It is the primary log viewing tool on systems using systemd."
 }

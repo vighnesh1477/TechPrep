@@ -1,14 +1,14 @@
 {
-  "id": "placement-623",
-  "topic": "find",
-  "difficulty": "Easy",
-  "question": "What does 'find /home -name *.txt' search for?",
-  "options": [
-    "All .txt files in /home and subdirectories",
-    "Only .txt files directly in /home",
-    "Files named '*.txt' literally",
-    "All text files on the system"
-  ],
-  "answer": 0,
-  "explanation": "find /home -name '*.txt' searches recursively under /home for files ending with .txt. The wildcard should be quoted to prevent shell expansion."
+    "id": "pf-825",
+    "topic": "find",
+    "difficulty": "Easy",
+    "question": "What does 'find /home -name *.txt' search for?",
+    "options": [
+        "All .txt files in /home and subdirectories",
+        "Only .txt files directly in /home",
+        "Files named '*.txt' literally",
+        "All text files on the system"
+    ],
+    "answer": 0,
+    "explanation": "find /home -name '*.txt' searches recursively under /home for files ending with .txt. The wildcard should be quoted to prevent shell expansion."
 }

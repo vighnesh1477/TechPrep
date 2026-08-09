@@ -1,14 +1,14 @@
 {
-  "id": "placement-1444",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a Hub and a Switch?",
-  "options": [
-    "A hub is intelligent and uses MAC tables; a switch is dumb",
-    "A hub broadcasts data to all ports; a switch forwards data only to the specific destination port based on MAC addresses",
-    "A hub operates at Layer 3; a switch at Layer 2",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "A hub is a physical layer device that broadcasts incoming data to all connected ports. A switch is a data link layer device that learns MAC addresses and forwards frames only to the intended recipient port."
+    "id": "pf-1646",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a Hub and a Switch?",
+    "options": [
+        "A hub is intelligent and uses MAC tables; a switch is dumb",
+        "A hub broadcasts data to all ports; a switch forwards data only to the specific destination port based on MAC addresses",
+        "A hub operates at Layer 3; a switch at Layer 2",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "A hub is a physical layer device that broadcasts incoming data to all connected ports. A switch is a data link layer device that learns MAC addresses and forwards frames only to the intended recipient port."
 }

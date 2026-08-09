@@ -1,14 +1,14 @@
 {
-  "id": "placement-735",
-  "topic": "ip",
-  "difficulty": "Easy",
-  "question": "What does 'ip link show' display?",
-  "options": [
-    "IP addresses of interfaces",
-    "Network layer information including MAC addresses and interface state",
-    "Routing table",
-    "ARP table"
-  ],
-  "answer": 1,
-  "explanation": "ip link show displays link layer (data link layer) information including MAC addresses, MTU, state (UP/DOWN), and interface flags."
+    "id": "pf-937",
+    "topic": "ip",
+    "difficulty": "Easy",
+    "question": "What does 'ip link show' display?",
+    "options": [
+        "IP addresses of interfaces",
+        "Network layer information including MAC addresses and interface state",
+        "Routing table",
+        "ARP table"
+    ],
+    "answer": 1,
+    "explanation": "ip link show displays link layer (data link layer) information including MAC addresses, MTU, state (UP/DOWN), and interface flags."
 }

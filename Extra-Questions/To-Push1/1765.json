@@ -1,14 +1,14 @@
 {
-  "id": "placement-1765",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What is the output of `len(\"Hello \\n World\")` in Python?",
-  "options": [
-    "11",
-    "12",
-    "13",
-    "10"
-  ],
-  "answer": 1,
-  "explanation": "`\\n` is a single escape character (newline), not two characters. The string has 5 + 1 (space) + 1 (\\n) + 1 (space) + 5 = 13? Wait: 'H','e','l','l','o',' ','\\n',' ','W','o','r','l','d'. That is 13 characters. Let me recount: Hello (5) + space (1) + \\n (1) + space (1) + World (5) = 13. Let me correct the options."
+    "id": "pf-1967",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What is the output of `len(\"Hello \\n World\")` in Python?",
+    "options": [
+        "11",
+        "12",
+        "13",
+        "10"
+    ],
+    "answer": 1,
+    "explanation": "`\\n` is a single escape character (newline), not two characters. The string has 5 + 1 (space) + 1 (\\n) + 1 (space) + 5 = 13? Wait: 'H','e','l','l','o',' ','\\n',' ','W','o','r','l','d'. That is 13 characters. Let me recount: Hello (5) + space (1) + \\n (1) + space (1) + World (5) = 13. Let me correct the options."
 }

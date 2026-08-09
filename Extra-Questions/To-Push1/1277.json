@@ -1,14 +1,14 @@
 {
-  "id": "placement-1277",
-  "topic": "Java",
-  "difficulty": "Medium",
-  "question": "What does the `transient` keyword do?",
-  "options": [
-    "Makes a variable constant",
-    "Prevents a variable from being serialized",
-    "Deletes a variable",
-    "Makes a variable static"
-  ],
-  "answer": 1,
-  "explanation": "When an object is serialized, transient variables are ignored and not included in the byte stream."
+    "id": "pf-1479",
+    "topic": "Java",
+    "difficulty": "Medium",
+    "question": "What does the `transient` keyword do?",
+    "options": [
+        "Makes a variable constant",
+        "Prevents a variable from being serialized",
+        "Deletes a variable",
+        "Makes a variable static"
+    ],
+    "answer": 1,
+    "explanation": "When an object is serialized, transient variables are ignored and not included in the byte stream."
 }

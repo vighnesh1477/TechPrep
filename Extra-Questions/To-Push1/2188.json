@@ -1,14 +1,14 @@
 {
-  "id": "placement-2188",
-  "topic": "Seating Arrangement",
-  "difficulty": "Medium",
-  "question": "5 cars are parked in a line. Red is left of Blue. Green is right of Blue. White is extreme left. Black is extreme right. Middle car?",
-  "options": [
-    "Red",
-    "Blue",
-    "Green",
-    "White"
-  ],
-  "answer": 1,
-  "explanation": "White, Red, Blue, Green, Black. Blue is in middle."
+    "id": "pf-2390",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "question": "5 cars are parked in a line. Red is left of Blue. Green is right of Blue. White is extreme left. Black is extreme right. Middle car?",
+    "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "White"
+    ],
+    "answer": 1,
+    "explanation": "White, Red, Blue, Green, Black. Blue is in middle."
 }

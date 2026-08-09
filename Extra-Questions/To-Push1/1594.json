@@ -1,14 +1,14 @@
 {
-  "id": "placement-1594",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the size of a `char` data type in C?",
-  "options": [
-    "2 bytes",
-    "1 byte",
-    "4 bytes",
-    "8 bytes"
-  ],
-  "answer": 1,
-  "explanation": "In C, a char strictly occupies 1 byte of memory, which is exactly 8 bits on most standard architectures."
+    "id": "pf-1796",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the size of a `char` data type in C?",
+    "options": [
+        "2 bytes",
+        "1 byte",
+        "4 bytes",
+        "8 bytes"
+    ],
+    "answer": 1,
+    "explanation": "In C, a char strictly occupies 1 byte of memory, which is exactly 8 bits on most standard architectures."
 }

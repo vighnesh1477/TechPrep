@@ -1,14 +1,14 @@
 {
-  "id": "placement-1578",
-  "topic": "Data Representation",
-  "difficulty": "Easy",
-  "question": "What does ASCII stand for?",
-  "options": [
-    "American Standard Code for Information Interchange",
-    "Advanced Standard Code for Information Interchange",
-    "American System Code for International Interchange",
-    "Automated Standard Code for Information Integration"
-  ],
-  "answer": 0,
-  "explanation": "ASCII is a character encoding standard for electronic communication. It represents text in computers using 7 bits, allowing for 128 characters (0-127)."
+    "id": "pf-1780",
+    "topic": "Data Representation",
+    "difficulty": "Easy",
+    "question": "What does ASCII stand for?",
+    "options": [
+        "American Standard Code for Information Interchange",
+        "Advanced Standard Code for Information Interchange",
+        "American System Code for International Interchange",
+        "Automated Standard Code for Information Integration"
+    ],
+    "answer": 0,
+    "explanation": "ASCII is a character encoding standard for electronic communication. It represents text in computers using 7 bits, allowing for 128 characters (0-127)."
 }

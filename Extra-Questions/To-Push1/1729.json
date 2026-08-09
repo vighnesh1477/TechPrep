@@ -1,14 +1,14 @@
 {
-  "id": "placement-1729",
-  "topic": "Arrays",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int arr[] = {10, 20, 30, 40};`\n`int *p = arr;`\n`printf(\"%d\", *(p + 2));`",
-  "options": [
-    "10",
-    "20",
-    "30",
-    "12"
-  ],
-  "answer": 2,
-  "explanation": "`p` points to `arr[0]`. Pointer arithmetic `p + 2` advances the pointer by 2 integer positions, pointing to `arr[2]`. Dereferencing it gives 30."
+    "id": "pf-1931",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int arr[] = {10, 20, 30, 40};`\n`int *p = arr;`\n`printf(\"%d\", *(p + 2));`",
+    "options": [
+        "10",
+        "20",
+        "30",
+        "12"
+    ],
+    "answer": 2,
+    "explanation": "`p` points to `arr[0]`. Pointer arithmetic `p + 2` advances the pointer by 2 integer positions, pointing to `arr[2]`. Dereferencing it gives 30."
 }

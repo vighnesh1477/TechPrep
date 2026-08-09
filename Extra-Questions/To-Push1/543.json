@@ -1,14 +1,14 @@
 {
-  "id": "placement-543",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "Which file system is commonly used as the default in modern Linux distributions?",
-  "options": [
-    "NTFS",
-    "FAT32",
-    "ext4",
-    "HFS+"
-  ],
-  "answer": 2,
-  "explanation": "ext4 is the most commonly used default file system in modern Linux distributions, succeeding ext3 with improved performance and reliability."
+    "id": "pf-745",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "Which file system is commonly used as the default in modern Linux distributions?",
+    "options": [
+        "NTFS",
+        "FAT32",
+        "ext4",
+        "HFS+"
+    ],
+    "answer": 2,
+    "explanation": "ext4 is the most commonly used default file system in modern Linux distributions, succeeding ext3 with improved performance and reliability."
 }

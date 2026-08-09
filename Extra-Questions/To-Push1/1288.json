@@ -1,14 +1,14 @@
 {
-  "id": "placement-1288",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What does `chmod +x script.sh` do?",
-  "options": [
-    "Deletes the script",
-    "Gives the file execute permission",
-    "Makes it read-only",
-    "Compiles the script"
-  ],
-  "answer": 1,
-  "explanation": "+x adds execute permissions, allowing the shell script to be run directly."
+    "id": "pf-1490",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What does `chmod +x script.sh` do?",
+    "options": [
+        "Deletes the script",
+        "Gives the file execute permission",
+        "Makes it read-only",
+        "Compiles the script"
+    ],
+    "answer": 1,
+    "explanation": "+x adds execute permissions, allowing the shell script to be run directly."
 }

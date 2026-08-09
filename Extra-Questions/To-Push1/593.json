@@ -1,14 +1,14 @@
 {
-  "id": "placement-593",
-  "topic": "cat",
-  "difficulty": "Easy",
-  "question": "What does the cat command stand for?",
-  "options": [
-    "Catalog",
-    "Concatenate",
-    "Category",
-    "Capture"
-  ],
-  "answer": 1,
-  "explanation": "cat stands for concatenate. It reads data from files and outputs their contents, and can combine (concatenate) multiple files."
+    "id": "pf-795",
+    "topic": "cat",
+    "difficulty": "Easy",
+    "question": "What does the cat command stand for?",
+    "options": [
+        "Catalog",
+        "Concatenate",
+        "Category",
+        "Capture"
+    ],
+    "answer": 1,
+    "explanation": "cat stands for concatenate. It reads data from files and outputs their contents, and can combine (concatenate) multiple files."
 }

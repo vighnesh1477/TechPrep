@@ -1,14 +1,14 @@
 {
-  "id": "placement-1774",
-  "topic": "Pointers and Memory",
-  "difficulty": "Medium",
-  "question": "What is pointer arithmetic?",
-  "options": [
-    "Performing math on the pointer's memory address directly",
-    "Moving the pointer by the size of the data type it points to",
-    "Adding two pointers together",
-    "Dividing a pointer by an integer"
-  ],
-  "answer": 1,
-  "explanation": "When you add an integer `n` to a pointer, the pointer advances by `n * sizeof(data_type)` bytes, moving it to point to the `n`-th next element of that type."
+    "id": "pf-1976",
+    "topic": "Pointers and Memory",
+    "difficulty": "Medium",
+    "question": "What is pointer arithmetic?",
+    "options": [
+        "Performing math on the pointer's memory address directly",
+        "Moving the pointer by the size of the data type it points to",
+        "Adding two pointers together",
+        "Dividing a pointer by an integer"
+    ],
+    "answer": 1,
+    "explanation": "When you add an integer `n` to a pointer, the pointer advances by `n * sizeof(data_type)` bytes, moving it to point to the `n`-th next element of that type."
 }

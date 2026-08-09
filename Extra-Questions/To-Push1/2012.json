@@ -1,14 +1,14 @@
 {
-  "id": "placement-2012",
-  "topic": "Ages",
-  "difficulty": "Hard",
-  "question": "Father says to son, 'I was your present age when you were born'. Father is 36. Son's age?",
-  "options": [
-    "12",
-    "15",
-    "18",
-    "20"
-  ],
-  "answer": 2,
-  "explanation": "F = S + S => 2S = 36 => S = 18."
+    "id": "pf-2214",
+    "topic": "Ages",
+    "difficulty": "Hard",
+    "question": "Father says to son, 'I was your present age when you were born'. Father is 36. Son's age?",
+    "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+    ],
+    "answer": 2,
+    "explanation": "F = S + S => 2S = 36 => S = 18."
 }

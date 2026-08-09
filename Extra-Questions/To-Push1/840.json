@@ -1,14 +1,14 @@
 {
-  "id": "placement-840",
-  "topic": "xargs",
-  "difficulty": "Medium",
-  "question": "What does 'xargs -p' do?",
-  "options": [
-    "Runs in parallel",
-    "Prompts the user before executing each command",
-    "Shows progress",
-    "Parses the input"
-  ],
-  "answer": 1,
-  "explanation": "xargs -p (interactive) prompts the user for confirmation before running each command, showing the exact command that will be executed."
+    "id": "pf-1042",
+    "topic": "xargs",
+    "difficulty": "Medium",
+    "question": "What does 'xargs -p' do?",
+    "options": [
+        "Runs in parallel",
+        "Prompts the user before executing each command",
+        "Shows progress",
+        "Parses the input"
+    ],
+    "answer": 1,
+    "explanation": "xargs -p (interactive) prompts the user for confirmation before running each command, showing the exact command that will be executed."
 }

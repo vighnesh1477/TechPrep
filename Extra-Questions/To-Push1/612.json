@@ -1,14 +1,14 @@
 {
-  "id": "placement-612",
-  "topic": "head",
-  "difficulty": "Easy",
-  "question": "How do you get the first line of multiple files with filenames labeled?",
-  "options": [
-    "head -n 1 -v file1 file2",
-    "head -n 1 file1 file2",
-    "head -1 -q file1 file2",
-    "head -n 1 --silent file1 file2"
-  ],
-  "answer": 0,
-  "explanation": "head -v (verbose) explicitly shows file name headers. With multiple files, head shows headers by default, but -v ensures it."
+    "id": "pf-814",
+    "topic": "head",
+    "difficulty": "Easy",
+    "question": "How do you get the first line of multiple files with filenames labeled?",
+    "options": [
+        "head -n 1 -v file1 file2",
+        "head -n 1 file1 file2",
+        "head -1 -q file1 file2",
+        "head -n 1 --silent file1 file2"
+    ],
+    "answer": 0,
+    "explanation": "head -v (verbose) explicitly shows file name headers. With multiple files, head shows headers by default, but -v ensures it."
 }

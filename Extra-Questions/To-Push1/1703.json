@@ -1,14 +1,14 @@
 {
-  "id": "placement-1703",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "In C++, what happens if you pass an argument by reference?",
-  "options": [
-    "A copy of the argument is created",
-    "The function receives the memory address of the argument",
-    "The function receives an alias to the original argument",
-    "The argument cannot be modified inside the function"
-  ],
-  "answer": 2,
-  "explanation": "Pass-by-reference (using `&`) creates an alias to the original variable. No copy is made, and modifications inside the function directly affect the original variable."
+    "id": "pf-1905",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "In C++, what happens if you pass an argument by reference?",
+    "options": [
+        "A copy of the argument is created",
+        "The function receives the memory address of the argument",
+        "The function receives an alias to the original argument",
+        "The argument cannot be modified inside the function"
+    ],
+    "answer": 2,
+    "explanation": "Pass-by-reference (using `&`) creates an alias to the original variable. No copy is made, and modifications inside the function directly affect the original variable."
 }

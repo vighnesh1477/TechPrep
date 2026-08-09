@@ -1,14 +1,14 @@
 {
-  "id": "placement-1937",
-  "topic": "Averages",
-  "difficulty": "Hard",
-  "question": "A class has 30 boys and 20 girls. Average age of boys is 15, girls is 12. Class average?",
-  "options": [
-    "13.2",
-    "13.8",
-    "14.0",
-    "14.5"
-  ],
-  "answer": 1,
-  "explanation": "Total age = 30*15 + 20*12 = 450 + 240 = 690. Average = 690/50 = 13.8."
+    "id": "pf-2139",
+    "topic": "Averages",
+    "difficulty": "Hard",
+    "question": "A class has 30 boys and 20 girls. Average age of boys is 15, girls is 12. Class average?",
+    "options": [
+        "13.2",
+        "13.8",
+        "14.0",
+        "14.5"
+    ],
+    "answer": 1,
+    "explanation": "Total age = 30*15 + 20*12 = 450 + 240 = 690. Average = 690/50 = 13.8."
 }

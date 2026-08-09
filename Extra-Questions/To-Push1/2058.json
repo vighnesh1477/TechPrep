@@ -1,14 +1,14 @@
 {
-  "id": "placement-2058",
-  "topic": "Algebra",
-  "difficulty": "Hard",
-  "question": "If a + b + c = 0, find a^3 + b^3 + c^3 / 3abc.",
-  "options": [
-    "0",
-    "1",
-    "3",
-    "-1"
-  ],
-  "answer": 0,
-  "explanation": "Standard identity: a^3+b^3+c^3 - 3abc = (a+b+c)(...). If a+b+c=0, a^3+b^3+c^3 = 3abc. Ratio is 1. Wait. If a+b+c=0, a^3+b^3+c^3 = 3abc. Ratio = 1. Option 1."
+    "id": "pf-2260",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "If a + b + c = 0, find a^3 + b^3 + c^3 / 3abc.",
+    "options": [
+        "0",
+        "1",
+        "3",
+        "-1"
+    ],
+    "answer": 0,
+    "explanation": "Standard identity: a^3+b^3+c^3 - 3abc = (a+b+c)(...). If a+b+c=0, a^3+b^3+c^3 = 3abc. Ratio is 1. Wait. If a+b+c=0, a^3+b^3+c^3 = 3abc. Ratio = 1. Option 1."
 }

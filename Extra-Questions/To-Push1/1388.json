@@ -1,14 +1,14 @@
 {
-  "id": "placement-1388",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is the 'Phantom Read' problem?",
-  "options": [
-    "Reading data that has been rolled back",
-    "A transaction re-executes a query returning a set of rows that satisfies a search condition, and finds that the set of rows has changed due to another recently committed transaction",
-    "Reading uncommitted data from another transaction",
-    "Reading the same row twice and getting different values"
-  ],
-  "answer": 1,
-  "explanation": "Phantom read occurs when, in the course of a transaction, new rows are added (or removed) by another transaction to the records being read, changing the result set of the original query."
+    "id": "pf-1590",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is the 'Phantom Read' problem?",
+    "options": [
+        "Reading data that has been rolled back",
+        "A transaction re-executes a query returning a set of rows that satisfies a search condition, and finds that the set of rows has changed due to another recently committed transaction",
+        "Reading uncommitted data from another transaction",
+        "Reading the same row twice and getting different values"
+    ],
+    "answer": 1,
+    "explanation": "Phantom read occurs when, in the course of a transaction, new rows are added (or removed) by another transaction to the records being read, changing the result set of the original query."
 }

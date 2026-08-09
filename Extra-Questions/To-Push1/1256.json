@@ -1,14 +1,14 @@
 {
-  "id": "placement-1256",
-  "topic": "Cloud Basics",
-  "difficulty": "Hard",
-  "question": "What is a bare-metal cloud server?",
-  "options": [
-    "A server without an OS",
-    "A single-tenant physical server provided by a cloud provider, not shared with other tenants",
-    "A virtual machine",
-    "A cheap server"
-  ],
-  "answer": 1,
-  "explanation": "Bare-metal servers give direct access to physical hardware, offering the performance of on-premise servers with cloud flexibility."
+    "id": "pf-1458",
+    "topic": "Cloud Basics",
+    "difficulty": "Hard",
+    "question": "What is a bare-metal cloud server?",
+    "options": [
+        "A server without an OS",
+        "A single-tenant physical server provided by a cloud provider, not shared with other tenants",
+        "A virtual machine",
+        "A cheap server"
+    ],
+    "answer": 1,
+    "explanation": "Bare-metal servers give direct access to physical hardware, offering the performance of on-premise servers with cloud flexibility."
 }

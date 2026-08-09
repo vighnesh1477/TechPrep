@@ -1,14 +1,14 @@
 {
-  "id": "placement-873",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "What is the output of `cout << typeid(5.0).name();`?",
-  "options": [
-    "int",
-    "float",
-    "double",
-    "char"
-  ],
-  "answer": 2,
-  "explanation": "5.0 is a double literal by default in C++."
+    "id": "pf-1075",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "What is the output of `cout << typeid(5.0).name();`?",
+    "options": [
+        "int",
+        "float",
+        "double",
+        "char"
+    ],
+    "answer": 2,
+    "explanation": "5.0 is a double literal by default in C++."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1181",
-  "topic": "Algorithms",
-  "difficulty": "Hard",
-  "question": "Which algorithm solves the all-pairs shortest path problem?",
-  "options": [
-    "Dijkstra's",
-    "Bellman-Ford",
-    "Floyd-Warshall",
-    "Kruskal's"
-  ],
-  "answer": 2,
-  "explanation": "Floyd-Warshall computes shortest paths between all pairs of vertices in O(V^3) time."
+    "id": "pf-1383",
+    "topic": "Algorithms",
+    "difficulty": "Hard",
+    "question": "Which algorithm solves the all-pairs shortest path problem?",
+    "options": [
+        "Dijkstra's",
+        "Bellman-Ford",
+        "Floyd-Warshall",
+        "Kruskal's"
+    ],
+    "answer": 2,
+    "explanation": "Floyd-Warshall computes shortest paths between all pairs of vertices in O(V^3) time."
 }

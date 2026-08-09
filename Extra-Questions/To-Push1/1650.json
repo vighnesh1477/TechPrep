@@ -1,14 +1,14 @@
 {
-  "id": "placement-1650",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this Python code?\n`x = 5\nif x > 4:\n    x = x + 1\nelif x == 5:\n    x = x + 2\nelse:\n    x = x + 3\nprint(x)`",
-  "options": [
-    "5",
-    "6",
-    "7",
-    "8"
-  ],
-  "answer": 1,
-  "explanation": "Since `x > 4` (5 > 4) is true, the first block executes (`x = 5 + 1 = 6`). The `elif` and `else` blocks are skipped entirely."
+    "id": "pf-1852",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this Python code?\n`x = 5\nif x > 4:\n    x = x + 1\nelif x == 5:\n    x = x + 2\nelse:\n    x = x + 3\nprint(x)`",
+    "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "answer": 1,
+    "explanation": "Since `x > 4` (5 > 4) is true, the first block executes (`x = 5 + 1 = 6`). The `elif` and `else` blocks are skipped entirely."
 }

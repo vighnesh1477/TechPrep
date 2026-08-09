@@ -1,14 +1,14 @@
 {
-  "id": "placement-516",
-  "topic": "CI/CD Integration",
-  "difficulty": "Medium",
-  "question": "What is a common pattern for CI/CD configuration files in Git repositories?",
-  "options": [
-    "Storing them in the .git directory",
-    "Storing them in the repository root (e.g., .github/workflows/, .gitlab-ci.yml)",
-    "Storing them on the CI server only",
-    "Storing them in a separate repository"
-  ],
-  "answer": 1,
-  "explanation": "Modern CI/CD systems use configuration files stored in the repository itself (like GitHub Actions workflows or GitLab CI yml files), making pipelines version-controlled."
+    "id": "pf-718",
+    "topic": "CI/CD Integration",
+    "difficulty": "Medium",
+    "question": "What is a common pattern for CI/CD configuration files in Git repositories?",
+    "options": [
+        "Storing them in the .git directory",
+        "Storing them in the repository root (e.g., .github/workflows/, .gitlab-ci.yml)",
+        "Storing them on the CI server only",
+        "Storing them in a separate repository"
+    ],
+    "answer": 1,
+    "explanation": "Modern CI/CD systems use configuration files stored in the repository itself (like GitHub Actions workflows or GitLab CI yml files), making pipelines version-controlled."
 }

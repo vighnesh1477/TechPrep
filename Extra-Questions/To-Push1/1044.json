@@ -1,14 +1,14 @@
 {
-  "id": "placement-1044",
-  "topic": "Software Engineering",
-  "difficulty": "Hard",
-  "question": "What is the difference between coupling and cohesion?",
-  "options": [
-    "They are the same",
-    "Coupling measures inter-module dependency; cohesion measures how focused a single module is",
-    "High coupling is good, high cohesion is bad",
-    "Cohesion is between modules"
-  ],
-  "answer": 1,
-  "explanation": "Good design aims for low coupling (modules are independent) and high cohesion (module does one thing well)."
+    "id": "pf-1246",
+    "topic": "Software Engineering",
+    "difficulty": "Hard",
+    "question": "What is the difference between coupling and cohesion?",
+    "options": [
+        "They are the same",
+        "Coupling measures inter-module dependency; cohesion measures how focused a single module is",
+        "High coupling is good, high cohesion is bad",
+        "Cohesion is between modules"
+    ],
+    "answer": 1,
+    "explanation": "Good design aims for low coupling (modules are independent) and high cohesion (module does one thing well)."
 }

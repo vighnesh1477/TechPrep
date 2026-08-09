@@ -1,14 +1,14 @@
 {
-  "id": "placement-1791",
-  "topic": "Pointers and Memory",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int a[] = {1, 2, 3};`\n`int *p = a;`\n`int *q = p + 2;`\n`printf(\"%ld\", q - p);`",
-  "options": [
-    "8",
-    "2",
-    "4",
-    "Error"
-  ],
-  "answer": 1,
-  "explanation": "`q` points to `a[2]` and `p` points to `a[0]`. The difference `q - p` gives the number of elements between them, which is 2."
+    "id": "pf-1993",
+    "topic": "Pointers and Memory",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int a[] = {1, 2, 3};`\n`int *p = a;`\n`int *q = p + 2;`\n`printf(\"%ld\", q - p);`",
+    "options": [
+        "8",
+        "2",
+        "4",
+        "Error"
+    ],
+    "answer": 1,
+    "explanation": "`q` points to `a[2]` and `p` points to `a[0]`. The difference `q - p` gives the number of elements between them, which is 2."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1338",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is thrashing?",
-  "options": [
-    "A hardware malfunction",
-    "A situation where the system spends more time paging (swapping) than executing actual application code",
-    "A type of denial-of-service attack",
-    "Deleting temporary files"
-  ],
-  "answer": 1,
-  "explanation": "Thrashing occurs when a computer's virtual memory subsystem is in a constant state of paging, rapidly exchanging data between RAM and disk, severely degrading performance."
+    "id": "pf-1540",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is thrashing?",
+    "options": [
+        "A hardware malfunction",
+        "A situation where the system spends more time paging (swapping) than executing actual application code",
+        "A type of denial-of-service attack",
+        "Deleting temporary files"
+    ],
+    "answer": 1,
+    "explanation": "Thrashing occurs when a computer's virtual memory subsystem is in a constant state of paging, rapidly exchanging data between RAM and disk, severely degrading performance."
 }

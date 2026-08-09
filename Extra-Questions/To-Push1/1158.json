@@ -1,14 +1,14 @@
 {
-  "id": "placement-1158",
-  "topic": "Python",
-  "difficulty": "Hard",
-  "question": "What is the GIL (Global Interpreter Lock)?",
-  "options": [
-    "A lock on files",
-    "A mutex that allows only one thread to execute Python bytecodes at a time",
-    "A security feature",
-    "A type of variable"
-  ],
-  "answer": 1,
-  "explanation": "The GIL prevents multiple native threads from executing Python bytecodes simultaneously, limiting multi-threading performance."
+    "id": "pf-1360",
+    "topic": "Python",
+    "difficulty": "Hard",
+    "question": "What is the GIL (Global Interpreter Lock)?",
+    "options": [
+        "A lock on files",
+        "A mutex that allows only one thread to execute Python bytecodes at a time",
+        "A security feature",
+        "A type of variable"
+    ],
+    "answer": 1,
+    "explanation": "The GIL prevents multiple native threads from executing Python bytecodes simultaneously, limiting multi-threading performance."
 }

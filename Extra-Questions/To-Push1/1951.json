@@ -1,14 +1,14 @@
 {
-  "id": "placement-1951",
-  "topic": "Time and Work",
-  "difficulty": "Medium",
-  "question": "A is 60% more efficient than B. If A takes 15 days, B takes?",
-  "options": [
-    "20 days",
-    "24 days",
-    "25 days",
-    "30 days"
-  ],
-  "answer": 1,
-  "explanation": "Efficiency ratio 1.6:1 = 8:5. Time ratio 5:8. B takes 15 * 8/5 = 24 days."
+    "id": "pf-2153",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "A is 60% more efficient than B. If A takes 15 days, B takes?",
+    "options": [
+        "20 days",
+        "24 days",
+        "25 days",
+        "30 days"
+    ],
+    "answer": 1,
+    "explanation": "Efficiency ratio 1.6:1 = 8:5. Time ratio 5:8. B takes 15 * 8/5 = 24 days."
 }

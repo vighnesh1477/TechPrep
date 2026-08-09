@@ -1,14 +1,14 @@
 {
-  "id": "placement-1727",
-  "topic": "Arrays",
-  "difficulty": "Easy",
-  "question": "How many elements does the array `int arr[] = {2, 4, 6, 8};` have?",
-  "options": [
-    "5",
-    "4",
-    "3",
-    "Compilation error, size must be specified"
-  ],
-  "answer": 1,
-  "explanation": "When initializing an array without specifying its size, the compiler automatically calculates the size based on the number of elements in the initializer list (4 elements)."
+    "id": "pf-1929",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "How many elements does the array `int arr[] = {2, 4, 6, 8};` have?",
+    "options": [
+        "5",
+        "4",
+        "3",
+        "Compilation error, size must be specified"
+    ],
+    "answer": 1,
+    "explanation": "When initializing an array without specifying its size, the compiler automatically calculates the size based on the number of elements in the initializer list (4 elements)."
 }

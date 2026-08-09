@@ -1,14 +1,14 @@
 {
-  "id": "placement-601",
-  "topic": "less",
-  "difficulty": "Easy",
-  "question": "What does less -N do?",
-  "options": [
-    "Shows line numbers",
-    "Does not use line numbers",
-    "Shows only the first N lines",
-    "Navigates to line N"
-  ],
-  "answer": 0,
-  "explanation": "less -N displays line numbers at the beginning of each line in the left margin."
+    "id": "pf-803",
+    "topic": "less",
+    "difficulty": "Easy",
+    "question": "What does less -N do?",
+    "options": [
+        "Shows line numbers",
+        "Does not use line numbers",
+        "Shows only the first N lines",
+        "Navigates to line N"
+    ],
+    "answer": 0,
+    "explanation": "less -N displays line numbers at the beginning of each line in the left margin."
 }

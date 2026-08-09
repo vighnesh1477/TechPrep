@@ -1,14 +1,14 @@
 {
-  "id": "placement-920",
-  "topic": "Data Structures",
-  "difficulty": "Medium",
-  "question": "Which hashing technique deals with collisions by finding the next empty slot?",
-  "options": [
-    "Chaining",
-    "Open addressing",
-    "Linear hashing",
-    "Double hashing"
-  ],
-  "answer": 1,
-  "explanation": "Open addressing finds another open slot in the hash table array (e.g., linear probing)."
+    "id": "pf-1122",
+    "topic": "Data Structures",
+    "difficulty": "Medium",
+    "question": "Which hashing technique deals with collisions by finding the next empty slot?",
+    "options": [
+        "Chaining",
+        "Open addressing",
+        "Linear hashing",
+        "Double hashing"
+    ],
+    "answer": 1,
+    "explanation": "Open addressing finds another open slot in the hash table array (e.g., linear probing)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-463",
-  "topic": "Reset",
-  "difficulty": "Medium",
-  "question": "What does git reset --hard HEAD~1 do?",
-  "options": [
-    "Undoes the last commit but keeps changes",
-    "Undoes the last commit and discards all changes in both the staging area and working tree",
-    "Resets only the staging area",
-    "Deletes the branch"
-  ],
-  "answer": 1,
-  "explanation": "git reset --hard is destructive: it moves the branch pointer back and resets both the staging area and working tree to match, permanently discarding changes."
+    "id": "pf-665",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "What does git reset --hard HEAD~1 do?",
+    "options": [
+        "Undoes the last commit but keeps changes",
+        "Undoes the last commit and discards all changes in both the staging area and working tree",
+        "Resets only the staging area",
+        "Deletes the branch"
+    ],
+    "answer": 1,
+    "explanation": "git reset --hard is destructive: it moves the branch pointer back and resets both the staging area and working tree to match, permanently discarding changes."
 }

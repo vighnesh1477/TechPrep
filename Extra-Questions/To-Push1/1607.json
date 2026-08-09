@@ -1,14 +1,14 @@
 {
-  "id": "placement-1607",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is type casting?",
-  "options": [
-    "Destroying a variable's type",
-    "Converting a value from one data type to another",
-    "Creating a new data type",
-    "Checking the type of a variable at runtime"
-  ],
-  "answer": 1,
-  "explanation": "Type casting (or type conversion) is the process of converting a value from one data type to another, either implicitly or explicitly."
+    "id": "pf-1809",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is type casting?",
+    "options": [
+        "Destroying a variable's type",
+        "Converting a value from one data type to another",
+        "Creating a new data type",
+        "Checking the type of a variable at runtime"
+    ],
+    "answer": 1,
+    "explanation": "Type casting (or type conversion) is the process of converting a value from one data type to another, either implicitly or explicitly."
 }

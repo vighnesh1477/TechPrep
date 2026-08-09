@@ -1,14 +1,14 @@
 {
-  "id": "placement-670",
-  "topic": "Hard Links",
-  "difficulty": "Easy",
-  "question": "Can you create a hard link to a directory?",
-  "options": [
-    "Yes, with no restrictions",
-    "No, most systems prevent hard links to directories to prevent circular references",
-    "Yes, but only root can do it",
-    "Yes, but only on ext4 file systems"
-  ],
-  "answer": 1,
-  "explanation": "Most Linux systems prevent creating hard links to directories to avoid circular references in the directory tree that could cause infinite loops."
+    "id": "pf-872",
+    "topic": "Hard Links",
+    "difficulty": "Easy",
+    "question": "Can you create a hard link to a directory?",
+    "options": [
+        "Yes, with no restrictions",
+        "No, most systems prevent hard links to directories to prevent circular references",
+        "Yes, but only root can do it",
+        "Yes, but only on ext4 file systems"
+    ],
+    "answer": 1,
+    "explanation": "Most Linux systems prevent creating hard links to directories to avoid circular references in the directory tree that could cause infinite loops."
 }

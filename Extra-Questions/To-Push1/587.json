@@ -1,14 +1,14 @@
 {
-  "id": "placement-587",
-  "topic": "rmdir",
-  "difficulty": "Easy",
-  "question": "Which command removes multiple empty directories dir1, dir2, dir3?",
-  "options": [
-    "rmdir dir1,dir2,dir3",
-    "rmdir dir1 dir2 dir3",
-    "rmdir -m dir1 dir2 dir3",
-    "rmdir --all dir1 dir2 dir3"
-  ],
-  "answer": 1,
-  "explanation": "rmdir accepts multiple directory names as arguments and attempts to remove each one, provided they are all empty."
+    "id": "pf-789",
+    "topic": "rmdir",
+    "difficulty": "Easy",
+    "question": "Which command removes multiple empty directories dir1, dir2, dir3?",
+    "options": [
+        "rmdir dir1,dir2,dir3",
+        "rmdir dir1 dir2 dir3",
+        "rmdir -m dir1 dir2 dir3",
+        "rmdir --all dir1 dir2 dir3"
+    ],
+    "answer": 1,
+    "explanation": "rmdir accepts multiple directory names as arguments and attempts to remove each one, provided they are all empty."
 }

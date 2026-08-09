@@ -1,14 +1,14 @@
 {
-  "id": "placement-660",
-  "topic": "chgrp",
-  "difficulty": "Easy",
-  "question": "What condition must be met for a non-root user to change a file's group using chgrp?",
-  "options": [
-    "The user must be root",
-    "The user must own the file and be a member of the target group",
-    "The user must be in the same group as the file",
-    "No conditions, any user can change any file's group"
-  ],
-  "answer": 1,
-  "explanation": "A non-root user can change a file's group only if they own the file and are a member of the target group."
+    "id": "pf-862",
+    "topic": "chgrp",
+    "difficulty": "Easy",
+    "question": "What condition must be met for a non-root user to change a file's group using chgrp?",
+    "options": [
+        "The user must be root",
+        "The user must own the file and be a member of the target group",
+        "The user must be in the same group as the file",
+        "No conditions, any user can change any file's group"
+    ],
+    "answer": 1,
+    "explanation": "A non-root user can change a file's group only if they own the file and are a member of the target group."
 }

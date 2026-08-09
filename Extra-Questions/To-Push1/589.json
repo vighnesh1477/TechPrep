@@ -1,14 +1,14 @@
 {
-  "id": "placement-589",
-  "topic": "touch",
-  "difficulty": "Easy",
-  "question": "How do you create multiple empty files at once using touch?",
-  "options": [
-    "touch -m file1 file2 file3",
-    "touch file1 file2 file3",
-    "touch --create file1 file2 file3",
-    "touch -c file1 file2 file3"
-  ],
-  "answer": 1,
-  "explanation": "touch accepts multiple filenames as arguments and creates each one as an empty file if it does not already exist."
+    "id": "pf-791",
+    "topic": "touch",
+    "difficulty": "Easy",
+    "question": "How do you create multiple empty files at once using touch?",
+    "options": [
+        "touch -m file1 file2 file3",
+        "touch file1 file2 file3",
+        "touch --create file1 file2 file3",
+        "touch -c file1 file2 file3"
+    ],
+    "answer": 1,
+    "explanation": "touch accepts multiple filenames as arguments and creates each one as an empty file if it does not already exist."
 }

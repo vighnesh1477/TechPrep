@@ -1,14 +1,14 @@
 {
-  "id": "placement-1812",
-  "topic": "Recursion",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`void fun(int n) {`\n`  if(n > 0) {`\n`    fun(n - 1);`\n`    printf(\"%d \", n);`\n`    fun(n - 1);`\n`  }`\n`}`\n`fun(2);`",
-  "options": [
-    "1 2 1",
-    "2 1 2",
-    "1 1 2 1 1",
-    "1 2 1 2 1"
-  ],
-  "answer": 2,
-  "explanation": "This is a binary recursion tree. Left branch of 2 calls 1 (prints 1), then 2 prints 2, then right branch of 2 calls 1 (prints 1). So: 1, 2, 1. Wait, `fun(1)` prints 1, then calls `fun(0)` twice. Total: 1 2 1? Let me re-trace. `fun(2)` -> `fun(1)` -> `fun(0)`. Print 1. `fun(0)`. Back to `fun(2)`. Print 2. `fun(1)` -> `fun(0)`. Print 1. `fun(0)`. Result: 1 2 1."
+    "id": "pf-2014",
+    "topic": "Recursion",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`void fun(int n) {`\n`  if(n > 0) {`\n`    fun(n - 1);`\n`    printf(\"%d \", n);`\n`    fun(n - 1);`\n`  }`\n`}`\n`fun(2);`",
+    "options": [
+        "1 2 1",
+        "2 1 2",
+        "1 1 2 1 1",
+        "1 2 1 2 1"
+    ],
+    "answer": 2,
+    "explanation": "This is a binary recursion tree. Left branch of 2 calls 1 (prints 1), then 2 prints 2, then right branch of 2 calls 1 (prints 1). So: 1, 2, 1. Wait, `fun(1)` prints 1, then calls `fun(0)` twice. Total: 1 2 1? Let me re-trace. `fun(2)` -> `fun(1)` -> `fun(0)`. Print 1. `fun(0)`. Back to `fun(2)`. Print 2. `fun(1)` -> `fun(0)`. Print 1. `fun(0)`. Result: 1 2 1."
 }

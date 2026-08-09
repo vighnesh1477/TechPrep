@@ -1,14 +1,14 @@
 {
-  "id": "placement-1760",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`char str[10] = \"Prog\";`\n`printf(\"%d\", strlen(str));`",
-  "options": [
-    "10",
-    "4",
-    "5",
-    "3"
-  ],
-  "answer": 1,
-  "explanation": "`strlen` counts characters until the first null terminator. The string \"Prog\" has 4 characters. The remaining 6 bytes in the array are irrelevant to `strlen`."
+    "id": "pf-1962",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`char str[10] = \"Prog\";`\n`printf(\"%d\", strlen(str));`",
+    "options": [
+        "10",
+        "4",
+        "5",
+        "3"
+    ],
+    "answer": 1,
+    "explanation": "`strlen` counts characters until the first null terminator. The string \"Prog\" has 4 characters. The remaining 6 bytes in the array are irrelevant to `strlen`."
 }

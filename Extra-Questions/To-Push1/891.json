@@ -1,14 +1,14 @@
 {
-  "id": "placement-891",
-  "topic": "Java",
-  "difficulty": "Hard",
-  "question": "What is the output of `System.out.println(1 + 2 + \"3\");`?",
-  "options": [
-    "33",
-    "123",
-    "6",
-    "15"
-  ],
-  "answer": 0,
-  "explanation": "1+2 evaluates to integer 3, then 3 is concatenated with string \"3\" to form \"33\"."
+    "id": "pf-1093",
+    "topic": "Java",
+    "difficulty": "Hard",
+    "question": "What is the output of `System.out.println(1 + 2 + \"3\");`?",
+    "options": [
+        "33",
+        "123",
+        "6",
+        "15"
+    ],
+    "answer": 0,
+    "explanation": "1+2 evaluates to integer 3, then 3 is concatenated with string \"3\" to form \"33\"."
 }

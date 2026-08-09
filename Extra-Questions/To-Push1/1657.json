@@ -1,14 +1,14 @@
 {
-  "id": "placement-1657",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int x = 1;`\n`if (x = 0) { printf(\"True\"); } else { printf(\"False\"); }`",
-  "options": [
-    "True",
-    "False",
-    "Compilation Error",
-    "Runtime Error"
-  ],
-  "answer": 1,
-  "explanation": "The condition uses the assignment operator `=` instead of `==`. `x = 0` assigns 0 to `x` and evaluates to 0 (false). Therefore, the `else` block executes."
+    "id": "pf-1859",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int x = 1;`\n`if (x = 0) { printf(\"True\"); } else { printf(\"False\"); }`",
+    "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Error"
+    ],
+    "answer": 1,
+    "explanation": "The condition uses the assignment operator `=` instead of `==`. `x = 0` assigns 0 to `x` and evaluates to 0 (false). Therefore, the `else` block executes."
 }

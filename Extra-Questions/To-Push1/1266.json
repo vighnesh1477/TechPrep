@@ -1,14 +1,14 @@
 {
-  "id": "placement-1266",
-  "topic": "Operating Systems",
-  "difficulty": "Easy",
-  "question": "What is an interrupt?",
-  "options": [
-    "A power failure",
-    "A signal sent to the CPU by hardware or software indicating an event that needs immediate attention",
-    "A virus",
-    "A system crash"
-  ],
-  "answer": 1,
-  "explanation": "Interrupts cause the CPU to stop its current task and execute an interrupt handler to address the event."
+    "id": "pf-1468",
+    "topic": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "What is an interrupt?",
+    "options": [
+        "A power failure",
+        "A signal sent to the CPU by hardware or software indicating an event that needs immediate attention",
+        "A virus",
+        "A system crash"
+    ],
+    "answer": 1,
+    "explanation": "Interrupts cause the CPU to stop its current task and execute an interrupt handler to address the event."
 }

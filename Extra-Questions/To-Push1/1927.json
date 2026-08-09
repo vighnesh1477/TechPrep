@@ -1,14 +1,14 @@
 {
-  "id": "placement-1927",
-  "topic": "Averages",
-  "difficulty": "Easy",
-  "question": "Average of first 5 prime numbers?",
-  "options": [
-    "4.2",
-    "5.6",
-    "5.0",
-    "4.8"
-  ],
-  "answer": 1,
-  "explanation": "2,3,5,7,11. Sum=28. Average=28/5=5.6."
+    "id": "pf-2129",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "question": "Average of first 5 prime numbers?",
+    "options": [
+        "4.2",
+        "5.6",
+        "5.0",
+        "4.8"
+    ],
+    "answer": 1,
+    "explanation": "2,3,5,7,11. Sum=28. Average=28/5=5.6."
 }

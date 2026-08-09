@@ -1,14 +1,14 @@
 {
-  "id": "placement-659",
-  "topic": "chgrp",
-  "difficulty": "Easy",
-  "question": "How do you recursively change the group of a directory?",
-  "options": [
-    "chgrp -r group dir",
-    "chgrp -R group dir",
-    "chgrp --all group dir",
-    "chgrp -s group dir"
-  ],
-  "answer": 1,
-  "explanation": "chgrp -R recursively changes the group ownership of a directory and all its contents."
+    "id": "pf-861",
+    "topic": "chgrp",
+    "difficulty": "Easy",
+    "question": "How do you recursively change the group of a directory?",
+    "options": [
+        "chgrp -r group dir",
+        "chgrp -R group dir",
+        "chgrp --all group dir",
+        "chgrp -s group dir"
+    ],
+    "answer": 1,
+    "explanation": "chgrp -R recursively changes the group ownership of a directory and all its contents."
 }

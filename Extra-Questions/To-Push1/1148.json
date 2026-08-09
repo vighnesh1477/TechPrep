@@ -1,14 +1,14 @@
 {
-  "id": "placement-1148",
-  "topic": "Java",
-  "difficulty": "Hard",
-  "question": "What is the difference between `HashMap` and `Hashtable`?",
-  "options": [
-    "No difference",
-    "Hashtable is synchronized and does not allow null keys/values; HashMap is not",
-    "HashMap is synchronized",
-    "Hashtable is faster"
-  ],
-  "answer": 1,
-  "explanation": "Hashtable is thread-safe (synchronized) and rejects nulls, making it slower than HashMap."
+    "id": "pf-1350",
+    "topic": "Java",
+    "difficulty": "Hard",
+    "question": "What is the difference between `HashMap` and `Hashtable`?",
+    "options": [
+        "No difference",
+        "Hashtable is synchronized and does not allow null keys/values; HashMap is not",
+        "HashMap is synchronized",
+        "Hashtable is faster"
+    ],
+    "answer": 1,
+    "explanation": "Hashtable is thread-safe (synchronized) and rejects nulls, making it slower than HashMap."
 }

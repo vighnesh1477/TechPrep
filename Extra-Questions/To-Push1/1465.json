@@ -1,14 +1,14 @@
 {
-  "id": "placement-1465",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the key difference between RISC and CISC architectures?",
-  "options": [
-    "RISC has more instructions than CISC",
-    "RISC uses simple, fixed-length instructions executed in one clock cycle; CISC uses complex, variable-length instructions that may take multiple cycles",
-    "CISC is only used in mobile phones",
-    "RISC stands for Complex Instruction Set Computer"
-  ],
-  "answer": 1,
-  "explanation": "RISC (Reduced Instruction Set Computer) focuses on a small set of simple instructions for high performance. CISC (Complex Instruction Set Computer) has many complex instructions that perform multi-step operations."
+    "id": "pf-1667",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the key difference between RISC and CISC architectures?",
+    "options": [
+        "RISC has more instructions than CISC",
+        "RISC uses simple, fixed-length instructions executed in one clock cycle; CISC uses complex, variable-length instructions that may take multiple cycles",
+        "CISC is only used in mobile phones",
+        "RISC stands for Complex Instruction Set Computer"
+    ],
+    "answer": 1,
+    "explanation": "RISC (Reduced Instruction Set Computer) focuses on a small set of simple instructions for high performance. CISC (Complex Instruction Set Computer) has many complex instructions that perform multi-step operations."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1739",
-  "topic": "Arrays",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int arr[] = {5, 10, 15};`\n`int *p = arr;`\n`printf(\"%d %d\", *p, *(p++));`",
-  "options": [
-    "5 5",
-    "10 5",
-    "5 10",
-    "Undefined Behavior"
-  ],
-  "answer": 3,
-  "explanation": "In C/C++, the evaluation order of function arguments is unspecified. If `*p` is evaluated first, it's 5. If `*(p++)` is evaluated first, `p` changes before `*p` is evaluated. This is Undefined Behavior."
+    "id": "pf-1941",
+    "topic": "Arrays",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int arr[] = {5, 10, 15};`\n`int *p = arr;`\n`printf(\"%d %d\", *p, *(p++));`",
+    "options": [
+        "5 5",
+        "10 5",
+        "5 10",
+        "Undefined Behavior"
+    ],
+    "answer": 3,
+    "explanation": "In C/C++, the evaluation order of function arguments is unspecified. If `*p` is evaluated first, it's 5. If `*(p++)` is evaluated first, `p` changes before `*p` is evaluated. This is Undefined Behavior."
 }

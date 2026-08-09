@@ -1,14 +1,14 @@
 {
-  "id": "placement-886",
-  "topic": "Java",
-  "difficulty": "Medium",
-  "question": "Can an interface have a method with a body in Java 8+?",
-  "options": [
-    "No, never",
-    "Yes, if declared default",
-    "Only if abstract",
-    "Yes, if static only"
-  ],
-  "answer": 1,
-  "explanation": "Java 8 introduced default methods in interfaces to provide backward compatibility."
+    "id": "pf-1088",
+    "topic": "Java",
+    "difficulty": "Medium",
+    "question": "Can an interface have a method with a body in Java 8+?",
+    "options": [
+        "No, never",
+        "Yes, if declared default",
+        "Only if abstract",
+        "Yes, if static only"
+    ],
+    "answer": 1,
+    "explanation": "Java 8 introduced default methods in interfaces to provide backward compatibility."
 }

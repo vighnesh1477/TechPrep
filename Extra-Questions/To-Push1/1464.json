@@ -1,14 +1,14 @@
 {
-  "id": "placement-1464",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "What is the Instruction Cycle?",
-  "options": [
-    "The time it takes to turn on the computer",
-    "The process of a CPU fetching, decoding, and executing an instruction",
-    "The process of compiling code",
-    "The cycle of charging and discharging a battery"
-  ],
-  "answer": 1,
-  "explanation": "The instruction cycle (also called the fetch-decode-execute cycle) is the basic operational cycle of a CPU to execute a single instruction."
+    "id": "pf-1666",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "What is the Instruction Cycle?",
+    "options": [
+        "The time it takes to turn on the computer",
+        "The process of a CPU fetching, decoding, and executing an instruction",
+        "The process of compiling code",
+        "The cycle of charging and discharging a battery"
+    ],
+    "answer": 1,
+    "explanation": "The instruction cycle (also called the fetch-decode-execute cycle) is the basic operational cycle of a CPU to execute a single instruction."
 }

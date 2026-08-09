@@ -1,14 +1,14 @@
 {
-  "id": "placement-715",
-  "topic": "Users",
-  "difficulty": "Easy",
-  "question": "What does 'id' command show?",
-  "options": [
-    "The process ID",
-    "User ID (UID), group ID (GID), and group memberships",
-    "The installation date",
-    "The identity of the kernel"
-  ],
-  "answer": 1,
-  "explanation": "id displays the real and effective user ID (UID), group ID (GID), and supplementary group memberships of the current user."
+    "id": "pf-917",
+    "topic": "Users",
+    "difficulty": "Easy",
+    "question": "What does 'id' command show?",
+    "options": [
+        "The process ID",
+        "User ID (UID), group ID (GID), and group memberships",
+        "The installation date",
+        "The identity of the kernel"
+    ],
+    "answer": 1,
+    "explanation": "id displays the real and effective user ID (UID), group ID (GID), and supplementary group memberships of the current user."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-572",
-  "topic": "mv",
-  "difficulty": "Easy",
-  "question": "How do you move all .jpg files to the /images directory?",
-  "options": [
-    "mv *.jpg /images",
-    "mv -jpg /images",
-    "mv --all jpg /images",
-    "mv .jpg /images"
-  ],
-  "answer": 0,
-  "explanation": "mv *.jpg /images uses shell globbing to match all files ending with .jpg and moves them to the /images directory."
+    "id": "pf-774",
+    "topic": "mv",
+    "difficulty": "Easy",
+    "question": "How do you move all .jpg files to the /images directory?",
+    "options": [
+        "mv *.jpg /images",
+        "mv -jpg /images",
+        "mv --all jpg /images",
+        "mv .jpg /images"
+    ],
+    "answer": 0,
+    "explanation": "mv *.jpg /images uses shell globbing to match all files ending with .jpg and moves them to the /images directory."
 }

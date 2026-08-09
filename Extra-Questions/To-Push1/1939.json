@@ -1,14 +1,14 @@
 {
-  "id": "placement-1939",
-  "topic": "Time and Work",
-  "difficulty": "Easy",
-  "question": "A does 1/5 of work in 2 days. Whole work in?",
-  "options": [
-    "5 days",
-    "8 days",
-    "10 days",
-    "15 days"
-  ],
-  "answer": 2,
-  "explanation": "1/5 work = 2 days. 1 work = 10 days."
+    "id": "pf-2141",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "A does 1/5 of work in 2 days. Whole work in?",
+    "options": [
+        "5 days",
+        "8 days",
+        "10 days",
+        "15 days"
+    ],
+    "answer": 2,
+    "explanation": "1/5 work = 2 days. 1 work = 10 days."
 }

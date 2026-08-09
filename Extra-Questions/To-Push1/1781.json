@@ -1,14 +1,14 @@
 {
-  "id": "placement-1781",
-  "topic": "Pointers and Memory",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int a = 5;`\n`int *p = &a;`\n`int **q = &p;`\n`printf(\"%d\", **q);`",
-  "options": [
-    "Address of a",
-    "Address of p",
-    "5",
-    "Error"
-  ],
-  "answer": 2,
-  "explanation": "`q` holds the address of `p`. `*q` dereferences `q` to get `p`. `**q` dereferences `p` to get the value of `a`, which is 5."
+    "id": "pf-1983",
+    "topic": "Pointers and Memory",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int a = 5;`\n`int *p = &a;`\n`int **q = &p;`\n`printf(\"%d\", **q);`",
+    "options": [
+        "Address of a",
+        "Address of p",
+        "5",
+        "Error"
+    ],
+    "answer": 2,
+    "explanation": "`q` holds the address of `p`. `*q` dereferences `q` to get `p`. `**q` dereferences `p` to get the value of `a`, which is 5."
 }

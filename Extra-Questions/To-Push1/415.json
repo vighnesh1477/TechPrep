@@ -1,14 +1,14 @@
 {
-  "id": "placement-415",
-  "topic": "Commits",
-  "difficulty": "Easy",
-  "question": "How long is a full Git commit SHA-1 hash?",
-  "options": [
-    "32 characters",
-    "40 characters",
-    "64 characters",
-    "20 characters"
-  ],
-  "answer": 1,
-  "explanation": "A full SHA-1 hash in Git is 40 hexadecimal characters long, representing 160 bits of hash output."
+    "id": "pf-617",
+    "topic": "Commits",
+    "difficulty": "Easy",
+    "question": "How long is a full Git commit SHA-1 hash?",
+    "options": [
+        "32 characters",
+        "40 characters",
+        "64 characters",
+        "20 characters"
+    ],
+    "answer": 1,
+    "explanation": "A full SHA-1 hash in Git is 40 hexadecimal characters long, representing 160 bits of hash output."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1704",
-  "topic": "Functions",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int func(int a, int b = 10) { return a + b; }`\n`int main() { cout << func(5); return 0; }`",
-  "options": [
-    "15",
-    "5",
-    "Compilation Error",
-    "Runtime Error"
-  ],
-  "answer": 0,
-  "explanation": "This is a default argument in C++. Since only one argument is passed, `b` takes its default value of 10. The result is 5 + 10 = 15."
+    "id": "pf-1906",
+    "topic": "Functions",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int func(int a, int b = 10) { return a + b; }`\n`int main() { cout << func(5); return 0; }`",
+    "options": [
+        "15",
+        "5",
+        "Compilation Error",
+        "Runtime Error"
+    ],
+    "answer": 0,
+    "explanation": "This is a default argument in C++. Since only one argument is passed, `b` takes its default value of 10. The result is 5 + 10 = 15."
 }

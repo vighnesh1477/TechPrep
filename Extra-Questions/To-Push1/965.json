@@ -1,14 +1,14 @@
 {
-  "id": "placement-965",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "What is a phantom read anomaly?",
-  "options": [
-    "Reading uncommitted data",
-    "Reading the same row twice and getting different values",
-    "Executing the same query twice and getting new rows",
-    "Dropping a table while reading"
-  ],
-  "answer": 2,
-  "explanation": "A phantom read occurs when a transaction re-executes a query and finds new rows inserted by another transaction."
+    "id": "pf-1167",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "What is a phantom read anomaly?",
+    "options": [
+        "Reading uncommitted data",
+        "Reading the same row twice and getting different values",
+        "Executing the same query twice and getting new rows",
+        "Dropping a table while reading"
+    ],
+    "answer": 2,
+    "explanation": "A phantom read occurs when a transaction re-executes a query and finds new rows inserted by another transaction."
 }

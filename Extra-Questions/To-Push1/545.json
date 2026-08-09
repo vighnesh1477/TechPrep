@@ -1,14 +1,14 @@
 {
-  "id": "placement-545",
-  "topic": "Linux Basics",
-  "difficulty": "Easy",
-  "question": "Which command displays the current working directory?",
-  "options": [
-    "cwd",
-    "cd",
-    "pwd",
-    "dir"
-  ],
-  "answer": 2,
-  "explanation": "pwd (Print Working Directory) displays the full path of the current working directory."
+    "id": "pf-747",
+    "topic": "Linux Basics",
+    "difficulty": "Easy",
+    "question": "Which command displays the current working directory?",
+    "options": [
+        "cwd",
+        "cd",
+        "pwd",
+        "dir"
+    ],
+    "answer": 2,
+    "explanation": "pwd (Print Working Directory) displays the full path of the current working directory."
 }

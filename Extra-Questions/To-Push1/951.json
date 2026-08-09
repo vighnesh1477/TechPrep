@@ -1,14 +1,14 @@
 {
-  "id": "placement-951",
-  "topic": "DBMS",
-  "difficulty": "Easy",
-  "question": "Which key uniquely identifies a record in a database table?",
-  "options": [
-    "Foreign Key",
-    "Super Key",
-    "Primary Key",
-    "Candidate Key"
-  ],
-  "answer": 2,
-  "explanation": "The Primary Key is chosen from candidate keys to uniquely identify each row."
+    "id": "pf-1153",
+    "topic": "DBMS",
+    "difficulty": "Easy",
+    "question": "Which key uniquely identifies a record in a database table?",
+    "options": [
+        "Foreign Key",
+        "Super Key",
+        "Primary Key",
+        "Candidate Key"
+    ],
+    "answer": 2,
+    "explanation": "The Primary Key is chosen from candidate keys to uniquely identify each row."
 }

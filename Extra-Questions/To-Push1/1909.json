@@ -1,14 +1,14 @@
 {
-  "id": "placement-1909",
-  "topic": "Ratio and Proportion",
-  "difficulty": "Easy",
-  "question": "Divide Rs 1000 in ratio 2:3.",
-  "options": [
-    "400, 600",
-    "300, 700",
-    "500, 500",
-    "200, 800"
-  ],
-  "answer": 0,
-  "explanation": "Sum=5. 1000/5=200. Parts are 400 and 600."
+    "id": "pf-2111",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "question": "Divide Rs 1000 in ratio 2:3.",
+    "options": [
+        "400, 600",
+        "300, 700",
+        "500, 500",
+        "200, 800"
+    ],
+    "answer": 0,
+    "explanation": "Sum=5. 1000/5=200. Parts are 400 and 600."
 }

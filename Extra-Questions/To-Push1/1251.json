@@ -1,14 +1,14 @@
 {
-  "id": "placement-1251",
-  "topic": "OOP",
-  "difficulty": "Hard",
-  "question": "What is the Dependency Inversion Principle?",
-  "options": [
-    "Depend on concrete classes",
-    "High-level modules should not depend on low-level modules; both should depend on abstractions",
-    "Low-level modules depend on high-level modules",
-    "Use global variables"
-  ],
-  "answer": 1,
-  "explanation": "DIP decouples high-level logic from low-level details by making both rely on interfaces or abstract classes."
+    "id": "pf-1453",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Dependency Inversion Principle?",
+    "options": [
+        "Depend on concrete classes",
+        "High-level modules should not depend on low-level modules; both should depend on abstractions",
+        "Low-level modules depend on high-level modules",
+        "Use global variables"
+    ],
+    "answer": 1,
+    "explanation": "DIP decouples high-level logic from low-level details by making both rely on interfaces or abstract classes."
 }

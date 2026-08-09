@@ -1,14 +1,14 @@
 {
-  "id": "placement-1660",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this Python snippet?\n`for i in range(3):`\n`    pass`\n`print(i)`",
-  "options": [
-    "0",
-    "2",
-    "3",
-    "Error"
-  ],
-  "answer": 1,
-  "explanation": "`range(3)` generates 0, 1, 2. The `pass` statement does nothing. After the loop completes, the loop variable `i` retains its last assigned value, which is 2."
+    "id": "pf-1862",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this Python snippet?\n`for i in range(3):`\n`    pass`\n`print(i)`",
+    "options": [
+        "0",
+        "2",
+        "3",
+        "Error"
+    ],
+    "answer": 1,
+    "explanation": "`range(3)` generates 0, 1, 2. The `pass` statement does nothing. After the loop completes, the loop variable `i` retains its last assigned value, which is 2."
 }

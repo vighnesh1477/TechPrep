@@ -1,14 +1,14 @@
 {
-  "id": "placement-2136",
-  "topic": "Blood Relations",
-  "difficulty": "Medium",
-  "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
-  "options": [
-    "Grandmother",
-    "Granddaughter",
-    "Daughter",
-    "Grandfather"
-  ],
-  "answer": 1,
-  "explanation": "D is grandfather of A. So A is D's granddaughter."
+    "id": "pf-2338",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+    "options": [
+        "Grandmother",
+        "Granddaughter",
+        "Daughter",
+        "Grandfather"
+    ],
+    "answer": 1,
+    "explanation": "D is grandfather of A. So A is D's granddaughter."
 }

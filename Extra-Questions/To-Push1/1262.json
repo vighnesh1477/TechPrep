@@ -1,14 +1,14 @@
 {
-  "id": "placement-1262",
-  "topic": "Data Structures",
-  "difficulty": "Easy",
-  "question": "What is the index of the first element in an array in most programming languages?",
-  "options": [
-    "1",
-    "0",
-    "-1",
-    "Depends on the array size"
-  ],
-  "answer": 1,
-  "explanation": "Zero-based indexing is standard in languages like C, C++, Java, and Python."
+    "id": "pf-1464",
+    "topic": "Data Structures",
+    "difficulty": "Easy",
+    "question": "What is the index of the first element in an array in most programming languages?",
+    "options": [
+        "1",
+        "0",
+        "-1",
+        "Depends on the array size"
+    ],
+    "answer": 1,
+    "explanation": "Zero-based indexing is standard in languages like C, C++, Java, and Python."
 }

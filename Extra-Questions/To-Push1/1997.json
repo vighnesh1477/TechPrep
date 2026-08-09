@@ -1,14 +1,14 @@
 {
-  "id": "placement-1997",
-  "topic": "Mixtures and Alligation",
-  "difficulty": "Medium",
-  "question": "A 60L mixture has milk:water = 2:1. 10L removed and replaced with water. Final milk?",
-  "options": [
-    "30L",
-    "35L",
-    "40L",
-    "45L"
-  ],
-  "answer": 1,
-  "explanation": "Milk = 40L. 10L removed removes 10*(2/3)=6.66L milk. Left 33.33L."
+    "id": "pf-2199",
+    "topic": "Mixtures and Alligation",
+    "difficulty": "Medium",
+    "question": "A 60L mixture has milk:water = 2:1. 10L removed and replaced with water. Final milk?",
+    "options": [
+        "30L",
+        "35L",
+        "40L",
+        "45L"
+    ],
+    "answer": 1,
+    "explanation": "Milk = 40L. 10L removed removes 10*(2/3)=6.66L milk. Left 33.33L."
 }

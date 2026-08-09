@@ -1,14 +1,14 @@
 {
-  "id": "placement-1075",
-  "topic": "Linux",
-  "difficulty": "Hard",
-  "question": "What is the `root` user in Linux?",
-  "options": [
-    "The home directory user",
-    "The superuser with unrestricted access to all commands and files",
-    "A user named 'root' with normal permissions",
-    "A system service"
-  ],
-  "answer": 1,
-  "explanation": "The root user (UID 0) has absolute system privileges and can perform any action."
+    "id": "pf-1277",
+    "topic": "Linux",
+    "difficulty": "Hard",
+    "question": "What is the `root` user in Linux?",
+    "options": [
+        "The home directory user",
+        "The superuser with unrestricted access to all commands and files",
+        "A user named 'root' with normal permissions",
+        "A system service"
+    ],
+    "answer": 1,
+    "explanation": "The root user (UID 0) has absolute system privileges and can perform any action."
 }

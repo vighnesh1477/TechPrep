@@ -1,14 +1,14 @@
 {
-  "id": "placement-1450",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Hard",
-  "question": "Which routing protocol uses the Dijkstra algorithm to find the shortest path?",
-  "options": [
-    "RIP",
-    "BGP",
-    "OSPF",
-    "IGRP"
-  ],
-  "answer": 2,
-  "explanation": "OSPF (Open Shortest Path First) uses Dijkstra's Shortest Path First (SPF) algorithm to calculate the shortest path to all known destinations."
+    "id": "pf-1652",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Hard",
+    "question": "Which routing protocol uses the Dijkstra algorithm to find the shortest path?",
+    "options": [
+        "RIP",
+        "BGP",
+        "OSPF",
+        "IGRP"
+    ],
+    "answer": 2,
+    "explanation": "OSPF (Open Shortest Path First) uses Dijkstra's Shortest Path First (SPF) algorithm to calculate the shortest path to all known destinations."
 }

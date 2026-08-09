@@ -1,14 +1,14 @@
 {
-  "id": "placement-1439",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which transport layer protocol is used for DNS queries?",
-  "options": [
-    "TCP",
-    "UDP",
-    "FTP",
-    "ICMP"
-  ],
-  "answer": 1,
-  "explanation": "DNS primarily uses UDP on port 53 because queries and responses are generally small and fit within a single UDP datagram, making it faster than establishing a TCP connection. TCP is used for zone transfers."
+    "id": "pf-1641",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which transport layer protocol is used for DNS queries?",
+    "options": [
+        "TCP",
+        "UDP",
+        "FTP",
+        "ICMP"
+    ],
+    "answer": 1,
+    "explanation": "DNS primarily uses UDP on port 53 because queries and responses are generally small and fit within a single UDP datagram, making it faster than establishing a TCP connection. TCP is used for zone transfers."
 }

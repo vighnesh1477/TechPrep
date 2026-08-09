@@ -1,14 +1,14 @@
 {
-  "id": "placement-1565",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Hard",
-  "question": "What is a 'Race Condition' in digital logic?",
-  "options": [
-    "A circuit that runs too fast",
-    "An undesired situation where the output depends on the order in which signals arrive at the gate due to different propagation delays",
-    "A circuit that uses too much power",
-    "An error in the K-Map"
-  ],
-  "answer": 1,
-  "explanation": "In asynchronous sequential circuits, if two or more binary variables change state, and their delays are different, the final state may depend on which signal arrives first—a race condition."
+    "id": "pf-1767",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Hard",
+    "question": "What is a 'Race Condition' in digital logic?",
+    "options": [
+        "A circuit that runs too fast",
+        "An undesired situation where the output depends on the order in which signals arrive at the gate due to different propagation delays",
+        "A circuit that uses too much power",
+        "An error in the K-Map"
+    ],
+    "answer": 1,
+    "explanation": "In asynchronous sequential circuits, if two or more binary variables change state, and their delays are different, the final state may depend on which signal arrives first—a race condition."
 }

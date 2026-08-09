@@ -1,14 +1,14 @@
 {
-  "id": "placement-1518",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a Token in the context of compilers?",
-  "options": [
-    "A security key",
-    "A meaningful group of characters representing an identifier, keyword, operator, etc., produced by the lexer",
-    "A type of error",
-    "A machine code instruction"
-  ],
-  "answer": 1,
-  "explanation": "A token is a string of characters, categorized according to the rules as a symbol (e.g., IDENTIFIER, NUMBER, COMMA). The lexer strips out whitespace and comments."
+    "id": "pf-1720",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a Token in the context of compilers?",
+    "options": [
+        "A security key",
+        "A meaningful group of characters representing an identifier, keyword, operator, etc., produced by the lexer",
+        "A type of error",
+        "A machine code instruction"
+    ],
+    "answer": 1,
+    "explanation": "A token is a string of characters, categorized according to the rules as a symbol (e.g., IDENTIFIER, NUMBER, COMMA). The lexer strips out whitespace and comments."
 }

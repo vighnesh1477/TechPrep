@@ -1,14 +1,14 @@
 {
-  "id": "placement-839",
-  "topic": "xargs",
-  "difficulty": "Medium",
-  "question": "What does 'find . -name '*.log' | xargs rm' do?",
-  "options": [
-    "Finds and lists all .log files",
-    "Finds all .log files and passes them as arguments to rm for deletion",
-    "Finds .log files and renames them",
-    "Creates .log files"
-  ],
-  "answer": 1,
-  "explanation": "xargs takes the list of .log files from find's output and passes them as arguments to rm, deleting them. This is more efficient than find -exec rm {} \\; for many files."
+    "id": "pf-1041",
+    "topic": "xargs",
+    "difficulty": "Medium",
+    "question": "What does 'find . -name '*.log' | xargs rm' do?",
+    "options": [
+        "Finds and lists all .log files",
+        "Finds all .log files and passes them as arguments to rm for deletion",
+        "Finds .log files and renames them",
+        "Creates .log files"
+    ],
+    "answer": 1,
+    "explanation": "xargs takes the list of .log files from find's output and passes them as arguments to rm, deleting them. This is more efficient than find -exec rm {} \\; for many files."
 }

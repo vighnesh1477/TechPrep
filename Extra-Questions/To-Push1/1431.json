@@ -1,14 +1,14 @@
 {
-  "id": "placement-1431",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which protocol is used to send emails?",
-  "options": [
-    "FTP",
-    "HTTP",
-    "SMTP",
-    "POP3"
-  ],
-  "answer": 2,
-  "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails from a mail client to a mail server or between mail servers. (POP3/IMAP are for receiving)."
+    "id": "pf-1633",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which protocol is used to send emails?",
+    "options": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "POP3"
+    ],
+    "answer": 2,
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails from a mail client to a mail server or between mail servers. (POP3/IMAP are for receiving)."
 }

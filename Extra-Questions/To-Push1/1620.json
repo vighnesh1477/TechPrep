@@ -1,14 +1,14 @@
 {
-  "id": "placement-1620",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the result of the expression `!0` in C?",
-  "options": [
-    "0",
-    "1",
-    "-1",
-    "Undefined"
-  ],
-  "answer": 1,
-  "explanation": "In C, 0 is considered false, and any non-zero value is true. The logical NOT operator (`!`) converts false to true (1) and true to false (0)."
+    "id": "pf-1822",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the result of the expression `!0` in C?",
+    "options": [
+        "0",
+        "1",
+        "-1",
+        "Undefined"
+    ],
+    "answer": 1,
+    "explanation": "In C, 0 is considered false, and any non-zero value is true. The logical NOT operator (`!`) converts false to true (1) and true to false (0)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-700",
-  "topic": "nice",
-  "difficulty": "Easy",
-  "question": "What does a higher nice value mean for a process?",
-  "options": [
-    "Higher priority",
-    "Lower priority",
-    "No change in priority",
-    "The process is nicer to other processes"
-  ],
-  "answer": 1,
-  "explanation": "A higher nice value means lower priority. A process with nice value 19 gets the least CPU time, while -20 gets the most."
+    "id": "pf-902",
+    "topic": "nice",
+    "difficulty": "Easy",
+    "question": "What does a higher nice value mean for a process?",
+    "options": [
+        "Higher priority",
+        "Lower priority",
+        "No change in priority",
+        "The process is nicer to other processes"
+    ],
+    "answer": 1,
+    "explanation": "A higher nice value means lower priority. A process with nice value 19 gets the least CPU time, while -20 gets the most."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-859",
-  "topic": "C Programming",
-  "difficulty": "Medium",
-  "question": "What does `malloc(0)` return in standard C?",
-  "options": [
-    "NULL",
-    "A valid pointer",
-    "0",
-    "Compiler error"
-  ],
-  "answer": 1,
-  "explanation": "Standard allows returning either NULL or a unique pointer that can be freed."
+    "id": "pf-1061",
+    "topic": "C Programming",
+    "difficulty": "Medium",
+    "question": "What does `malloc(0)` return in standard C?",
+    "options": [
+        "NULL",
+        "A valid pointer",
+        "0",
+        "Compiler error"
+    ],
+    "answer": 1,
+    "explanation": "Standard allows returning either NULL or a unique pointer that can be freed."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-841",
-  "topic": "xargs",
-  "difficulty": "Medium",
-  "question": "What problem does xargs solve with 'Argument list too long' errors?",
-  "options": [
-    "It compresses the arguments",
-    "It splits the input into batches that fit within the system's argument length limit",
-    "It ignores extra arguments",
-    "It stores arguments in a file"
-  ],
-  "answer": 1,
-  "explanation": "xargs automatically breaks a long list of arguments into smaller batches that fit within the system's maximum argument length, executing the command multiple times if needed."
+    "id": "pf-1043",
+    "topic": "xargs",
+    "difficulty": "Medium",
+    "question": "What problem does xargs solve with 'Argument list too long' errors?",
+    "options": [
+        "It compresses the arguments",
+        "It splits the input into batches that fit within the system's argument length limit",
+        "It ignores extra arguments",
+        "It stores arguments in a file"
+    ],
+    "answer": 1,
+    "explanation": "xargs automatically breaks a long list of arguments into smaller batches that fit within the system's maximum argument length, executing the command multiple times if needed."
 }

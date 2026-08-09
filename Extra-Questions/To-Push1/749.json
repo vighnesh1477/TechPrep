@@ -1,14 +1,14 @@
 {
-  "id": "placement-749",
-  "topic": "df",
-  "difficulty": "Easy",
-  "question": "What does df -T show that df does not?",
-  "options": [
-    "Total disk size",
-    "File system type",
-    "Temporary files",
-    "Timestamps"
-  ],
-  "answer": 1,
-  "explanation": "df -T adds a Type column showing the file system type (ext4, xfs, tmpfs, etc.) for each mounted file system."
+    "id": "pf-951",
+    "topic": "df",
+    "difficulty": "Easy",
+    "question": "What does df -T show that df does not?",
+    "options": [
+        "Total disk size",
+        "File system type",
+        "Temporary files",
+        "Timestamps"
+    ],
+    "answer": 1,
+    "explanation": "df -T adds a Type column showing the file system type (ext4, xfs, tmpfs, etc.) for each mounted file system."
 }

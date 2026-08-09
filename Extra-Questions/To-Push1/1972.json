@@ -1,14 +1,14 @@
 {
-  "id": "placement-1972",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Medium",
-  "question": "A thief is spotted by police 200m away. Thief runs at 10 m/s, police at 12 m/s. Time to catch?",
-  "options": [
-    "50s",
-    "100s",
-    "150s",
-    "200s"
-  ],
-  "answer": 1,
-  "explanation": "Relative speed = 2 m/s. Distance = 200m. Time = 200/2 = 100s."
+    "id": "pf-2174",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "A thief is spotted by police 200m away. Thief runs at 10 m/s, police at 12 m/s. Time to catch?",
+    "options": [
+        "50s",
+        "100s",
+        "150s",
+        "200s"
+    ],
+    "answer": 1,
+    "explanation": "Relative speed = 2 m/s. Distance = 200m. Time = 200/2 = 100s."
 }

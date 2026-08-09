@@ -1,14 +1,14 @@
 {
-  "id": "placement-509",
-  "topic": "Git Flow",
-  "difficulty": "Medium",
-  "question": "What is the purpose of a release branch in Git Flow?",
-  "options": [
-    "To develop new features",
-    "To prepare for a production release with bug fixes and version bumps",
-    "To fix production emergencies",
-    "To test experimental features"
-  ],
-  "answer": 1,
-  "explanation": "A release branch is created from develop to stabilize the code for release, allowing new features to continue being added to develop in parallel."
+    "id": "pf-711",
+    "topic": "Git Flow",
+    "difficulty": "Medium",
+    "question": "What is the purpose of a release branch in Git Flow?",
+    "options": [
+        "To develop new features",
+        "To prepare for a production release with bug fixes and version bumps",
+        "To fix production emergencies",
+        "To test experimental features"
+    ],
+    "answer": 1,
+    "explanation": "A release branch is created from develop to stabilize the code for release, allowing new features to continue being added to develop in parallel."
 }

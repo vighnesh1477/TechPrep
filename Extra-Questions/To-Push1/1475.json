@@ -1,14 +1,14 @@
 {
-  "id": "placement-1475",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "A system has a main memory access time of 100ns and a cache access time of 10ns. If the hit rate is 90%, what is the average memory access time (AMAT)?",
-  "options": [
-    "19ns",
-    "91ns",
-    "55ns",
-    "20ns"
-  ],
-  "answer": 0,
-  "explanation": "AMAT = (Hit Rate * Cache Time) + (Miss Rate * Main Memory Time). AMAT = (0.9 * 10ns) + (0.1 * 100ns) = 9ns + 10ns = 19ns."
+    "id": "pf-1677",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "A system has a main memory access time of 100ns and a cache access time of 10ns. If the hit rate is 90%, what is the average memory access time (AMAT)?",
+    "options": [
+        "19ns",
+        "91ns",
+        "55ns",
+        "20ns"
+    ],
+    "answer": 0,
+    "explanation": "AMAT = (Hit Rate * Cache Time) + (Miss Rate * Main Memory Time). AMAT = (0.9 * 10ns) + (0.1 * 100ns) = 9ns + 10ns = 19ns."
 }

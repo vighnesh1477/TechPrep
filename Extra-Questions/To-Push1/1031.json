@@ -1,14 +1,14 @@
 {
-  "id": "placement-1031",
-  "topic": "OOP",
-  "difficulty": "Hard",
-  "question": "What is dynamic dispatch?",
-  "options": [
-    "Compile-time method resolution",
-    "Runtime selection of the method implementation based on the actual object type",
-    "Static binding",
-    "Memory allocation at runtime"
-  ],
-  "answer": 1,
-  "explanation": "Dynamic dispatch (used in virtual functions) determines which method to call at runtime based on the object's actual class."
+    "id": "pf-1233",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "What is dynamic dispatch?",
+    "options": [
+        "Compile-time method resolution",
+        "Runtime selection of the method implementation based on the actual object type",
+        "Static binding",
+        "Memory allocation at runtime"
+    ],
+    "answer": 1,
+    "explanation": "Dynamic dispatch (used in virtual functions) determines which method to call at runtime based on the object's actual class."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1219",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What does the `crontab` utility do?",
-  "options": [
-    "Cleans temporary files",
-    "Schedules commands or scripts to run automatically at specified times",
-    "Manages users",
-    "Formats disks"
-  ],
-  "answer": 1,
-  "explanation": "cron is a time-based job scheduler in Unix-like OS, configured using the crontab command."
+    "id": "pf-1421",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What does the `crontab` utility do?",
+    "options": [
+        "Cleans temporary files",
+        "Schedules commands or scripts to run automatically at specified times",
+        "Manages users",
+        "Formats disks"
+    ],
+    "answer": 1,
+    "explanation": "cron is a time-based job scheduler in Unix-like OS, configured using the crontab command."
 }

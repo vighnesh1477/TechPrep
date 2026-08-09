@@ -1,14 +1,14 @@
 {
-  "id": "placement-1013",
-  "topic": "Computer Networks",
-  "difficulty": "Hard",
-  "question": "What is NAT (Network Address Translation) used for?",
-  "options": [
-    "Speeding up internet",
-    "Mapping private IP addresses to a public IP address to conserve IPv4 space",
-    "Encrypting packets",
-    "Routing between subnets"
-  ],
-  "answer": 1,
-  "explanation": "NAT allows multiple devices on a local network to share a single public IP address."
+    "id": "pf-1215",
+    "topic": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "What is NAT (Network Address Translation) used for?",
+    "options": [
+        "Speeding up internet",
+        "Mapping private IP addresses to a public IP address to conserve IPv4 space",
+        "Encrypting packets",
+        "Routing between subnets"
+    ],
+    "answer": 1,
+    "explanation": "NAT allows multiple devices on a local network to share a single public IP address."
 }

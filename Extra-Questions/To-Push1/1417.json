@@ -1,14 +1,14 @@
 {
-  "id": "placement-1417",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Hard",
-  "question": "What does the command `DELETE FROM table_name WHERE id NOT IN (SELECT MIN(id) FROM table_name GROUP BY duplicate_column)` do?",
-  "options": [
-    "Deletes all rows from the table",
-    "Deletes duplicate rows, keeping only the one with the smallest id",
-    "Deletes rows that have no duplicates",
-    "Deletes the row with the minimum id"
-  ],
-  "answer": 1,
-  "explanation": "This is a common pattern to remove duplicates. The subquery finds the minimum ID for each group of duplicates. The DELETE statement removes any row whose ID is not that minimum."
+    "id": "pf-1619",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Hard",
+    "question": "What does the command `DELETE FROM table_name WHERE id NOT IN (SELECT MIN(id) FROM table_name GROUP BY duplicate_column)` do?",
+    "options": [
+        "Deletes all rows from the table",
+        "Deletes duplicate rows, keeping only the one with the smallest id",
+        "Deletes rows that have no duplicates",
+        "Deletes the row with the minimum id"
+    ],
+    "answer": 1,
+    "explanation": "This is a common pattern to remove duplicates. The subquery finds the minimum ID for each group of duplicates. The DELETE statement removes any row whose ID is not that minimum."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-2144",
-  "topic": "Direction Sense",
-  "difficulty": "Easy",
-  "question": "If you face East and turn 90 degrees left, which direction do you face?",
-  "options": [
-    "West",
-    "North",
-    "South",
-    "East"
-  ],
-  "answer": 1,
-  "explanation": "East -> Left 90 -> North."
+    "id": "pf-2346",
+    "topic": "Direction Sense",
+    "difficulty": "Easy",
+    "question": "If you face East and turn 90 degrees left, which direction do you face?",
+    "options": [
+        "West",
+        "North",
+        "South",
+        "East"
+    ],
+    "answer": 1,
+    "explanation": "East -> Left 90 -> North."
 }

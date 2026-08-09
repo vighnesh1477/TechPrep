@@ -1,14 +1,14 @@
 {
-  "id": "placement-1892",
-  "topic": "Percentages",
-  "difficulty": "Hard",
-  "question": "A's salary is 20% less than B. B spends 60% of income. If A spends same amount, what % does A save?",
-  "options": [
-    "20%",
-    "25%",
-    "30%",
-    "15%"
-  ],
-  "answer": 1,
-  "explanation": "B=100, A=80. B spends 60. A spends 60. A saves 20/80 = 25%."
+    "id": "pf-2094",
+    "topic": "Percentages",
+    "difficulty": "Hard",
+    "question": "A's salary is 20% less than B. B spends 60% of income. If A spends same amount, what % does A save?",
+    "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+    ],
+    "answer": 1,
+    "explanation": "B=100, A=80. B spends 60. A spends 60. A saves 20/80 = 25%."
 }

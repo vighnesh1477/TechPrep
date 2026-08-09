@@ -1,14 +1,14 @@
 {
-  "id": "placement-1510",
-  "topic": "Software Engineering Basics",
-  "difficulty": "Hard",
-  "question": "What is the 'Single Responsibility Principle'?",
-  "options": [
-    "A class should have only one method",
-    "A class should have only one reason to change, meaning it should have only one job",
-    "A team should have only one developer",
-    "A function should have only one argument"
-  ],
-  "answer": 1,
-  "explanation": "The 'S' in SOLID states that a class or module should have one, and only one, reason to change. This means it should be responsible for a single part of the functionality."
+    "id": "pf-1712",
+    "topic": "Software Engineering Basics",
+    "difficulty": "Hard",
+    "question": "What is the 'Single Responsibility Principle'?",
+    "options": [
+        "A class should have only one method",
+        "A class should have only one reason to change, meaning it should have only one job",
+        "A team should have only one developer",
+        "A function should have only one argument"
+    ],
+    "answer": 1,
+    "explanation": "The 'S' in SOLID states that a class or module should have one, and only one, reason to change. This means it should be responsible for a single part of the functionality."
 }

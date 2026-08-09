@@ -1,14 +1,14 @@
 {
-  "id": "placement-757",
-  "topic": "mount",
-  "difficulty": "Easy",
-  "question": "Where is the configuration for file systems to mount at boot stored?",
-  "options": [
-    "/etc/mount.conf",
-    "/etc/fstab",
-    "/etc/filesystems",
-    "/boot/mounts"
-  ],
-  "answer": 1,
-  "explanation": "/etc/fstab (file system table) contains information about file systems that are mounted at boot time, including device, mount point, file system type, and options."
+    "id": "pf-959",
+    "topic": "mount",
+    "difficulty": "Easy",
+    "question": "Where is the configuration for file systems to mount at boot stored?",
+    "options": [
+        "/etc/mount.conf",
+        "/etc/fstab",
+        "/etc/filesystems",
+        "/boot/mounts"
+    ],
+    "answer": 1,
+    "explanation": "/etc/fstab (file system table) contains information about file systems that are mounted at boot time, including device, mount point, file system type, and options."
 }

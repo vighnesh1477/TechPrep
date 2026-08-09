@@ -1,14 +1,14 @@
 {
-  "id": "placement-478",
-  "topic": "Pull",
-  "difficulty": "Medium",
-  "question": "What does git pull --no-rebase do?",
-  "options": [
-    "Cancels the pull operation",
-    "Ensures the pull uses merge instead of rebase, even if pull.rebase is configured",
-    "Pulls without updating the working tree",
-    "Pulls only the remote tracking branch"
-  ],
-  "answer": 1,
-  "explanation": "git pull --no-rebase overrides any pull.rebase configuration and ensures the pull uses a merge strategy instead of rebase."
+    "id": "pf-680",
+    "topic": "Pull",
+    "difficulty": "Medium",
+    "question": "What does git pull --no-rebase do?",
+    "options": [
+        "Cancels the pull operation",
+        "Ensures the pull uses merge instead of rebase, even if pull.rebase is configured",
+        "Pulls without updating the working tree",
+        "Pulls only the remote tracking branch"
+    ],
+    "answer": 1,
+    "explanation": "git pull --no-rebase overrides any pull.rebase configuration and ensures the pull uses a merge strategy instead of rebase."
 }

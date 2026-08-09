@@ -1,14 +1,14 @@
 {
-  "id": "placement-1647",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "What does the `continue` statement do inside a loop?",
-  "options": [
-    "Exits the loop entirely",
-    "Skips the rest of the current iteration and moves to the next iteration",
-    "Pauses the loop for 1 second",
-    "Restarts the loop from the beginning"
-  ],
-  "answer": 1,
-  "explanation": "`continue` skips the remaining statements in the current loop iteration and immediately re-evaluates the loop condition for the next iteration."
+    "id": "pf-1849",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "What does the `continue` statement do inside a loop?",
+    "options": [
+        "Exits the loop entirely",
+        "Skips the rest of the current iteration and moves to the next iteration",
+        "Pauses the loop for 1 second",
+        "Restarts the loop from the beginning"
+    ],
+    "answer": 1,
+    "explanation": "`continue` skips the remaining statements in the current loop iteration and immediately re-evaluates the loop condition for the next iteration."
 }

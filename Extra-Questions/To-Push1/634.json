@@ -1,14 +1,14 @@
 {
-  "id": "placement-634",
-  "topic": "which",
-  "difficulty": "Easy",
-  "question": "What does 'which ls' typically return?",
-  "options": [
-    "/bin/ls",
-    "/usr/bin/ls",
-    "Either /bin/ls or /usr/bin/ls depending on distribution",
-    "/sbin/ls"
-  ],
-  "answer": 2,
-  "explanation": "The path to ls depends on the distribution. On some it's /bin/ls, on others /usr/bin/ls. Both are common."
+    "id": "pf-836",
+    "topic": "which",
+    "difficulty": "Easy",
+    "question": "What does 'which ls' typically return?",
+    "options": [
+        "/bin/ls",
+        "/usr/bin/ls",
+        "Either /bin/ls or /usr/bin/ls depending on distribution",
+        "/sbin/ls"
+    ],
+    "answer": 2,
+    "explanation": "The path to ls depends on the distribution. On some it's /bin/ls, on others /usr/bin/ls. Both are common."
 }

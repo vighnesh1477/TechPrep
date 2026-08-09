@@ -1,14 +1,14 @@
 {
-  "id": "placement-376",
-  "topic": "Git Log",
-  "difficulty": "Easy",
-  "question": "Which flag filters git log to show commits by a specific author?",
-  "options": [
-    "--author",
-    "--by",
-    "--user",
-    "--person"
-  ],
-  "answer": 0,
-  "explanation": "git log --author=\"name\" filters the log to show only commits authored by the specified person, supporting pattern matching."
+    "id": "pf-578",
+    "topic": "Git Log",
+    "difficulty": "Easy",
+    "question": "Which flag filters git log to show commits by a specific author?",
+    "options": [
+        "--author",
+        "--by",
+        "--user",
+        "--person"
+    ],
+    "answer": 0,
+    "explanation": "git log --author=\"name\" filters the log to show only commits authored by the specified person, supporting pattern matching."
 }

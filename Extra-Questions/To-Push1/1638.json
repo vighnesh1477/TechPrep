@@ -1,14 +1,14 @@
 {
-  "id": "placement-1638",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the output of `print(0.1 + 0.2 == 0.3)` in Python?",
-  "options": [
-    "True",
-    "False",
-    "Error",
-    "None"
-  ],
-  "answer": 1,
-  "explanation": "Due to floating-point precision issues inherent in IEEE 754, `0.1 + 0.2` actually evaluates to `0.30000000000000004`, making the equality check `False`."
+    "id": "pf-1840",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the output of `print(0.1 + 0.2 == 0.3)` in Python?",
+    "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ],
+    "answer": 1,
+    "explanation": "Due to floating-point precision issues inherent in IEEE 754, `0.1 + 0.2` actually evaluates to `0.30000000000000004`, making the equality check `False`."
 }

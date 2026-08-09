@@ -1,14 +1,14 @@
 {
-  "id": "placement-940",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "Which searching algorithm requires the array to be sorted?",
-  "options": [
-    "Linear Search",
-    "Binary Search",
-    "Hashing",
-    "Jump Search"
-  ],
-  "answer": 1,
-  "explanation": "Binary search compares the target to the middle element, requiring a sorted array to discard halves correctly."
+    "id": "pf-1142",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "Which searching algorithm requires the array to be sorted?",
+    "options": [
+        "Linear Search",
+        "Binary Search",
+        "Hashing",
+        "Jump Search"
+    ],
+    "answer": 1,
+    "explanation": "Binary search compares the target to the middle element, requiring a sorted array to discard halves correctly."
 }

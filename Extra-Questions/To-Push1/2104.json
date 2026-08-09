@@ -1,14 +1,14 @@
 {
-  "id": "placement-2104",
-  "topic": "Alphabet Series",
-  "difficulty": "Easy",
-  "question": "A, C, E, G, ?",
-  "options": [
-    "H",
-    "I",
-    "J",
-    "K"
-  ],
-  "answer": 1,
-  "explanation": "Skipping one letter (+2)."
+    "id": "pf-2306",
+    "topic": "Alphabet Series",
+    "difficulty": "Easy",
+    "question": "A, C, E, G, ?",
+    "options": [
+        "H",
+        "I",
+        "J",
+        "K"
+    ],
+    "answer": 1,
+    "explanation": "Skipping one letter (+2)."
 }

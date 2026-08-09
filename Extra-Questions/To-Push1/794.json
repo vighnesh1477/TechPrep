@@ -1,14 +1,14 @@
 {
-  "id": "placement-794",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "How do you check the default systemd boot target?",
-  "options": [
-    "systemctl default",
-    "systemctl get-default",
-    "systemctl show-default",
-    "runlevel --default"
-  ],
-  "answer": 1,
-  "explanation": "systemctl get-default shows the default target (like graphical.target or multi-user.target) that the system boots into."
+    "id": "pf-996",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "How do you check the default systemd boot target?",
+    "options": [
+        "systemctl default",
+        "systemctl get-default",
+        "systemctl show-default",
+        "runlevel --default"
+    ],
+    "answer": 1,
+    "explanation": "systemctl get-default shows the default target (like graphical.target or multi-user.target) that the system boots into."
 }

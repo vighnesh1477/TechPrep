@@ -1,14 +1,14 @@
 {
-  "id": "placement-804",
-  "topic": "awk",
-  "difficulty": "Medium",
-  "question": "How do you change the field separator in awk to a colon?",
-  "options": [
-    "awk -s ':' '{print $1}' file",
-    "awk -F: '{print $1}' file",
-    "awk --sep=':' '{print $1}' file",
-    "awk -d ':' '{print $1}' file"
-  ],
-  "answer": 1,
-  "explanation": "awk -F: sets the field separator to a colon. This is commonly used for parsing /etc/passwd. You can also use -F ':' with quotes."
+    "id": "pf-1006",
+    "topic": "awk",
+    "difficulty": "Medium",
+    "question": "How do you change the field separator in awk to a colon?",
+    "options": [
+        "awk -s ':' '{print $1}' file",
+        "awk -F: '{print $1}' file",
+        "awk --sep=':' '{print $1}' file",
+        "awk -d ':' '{print $1}' file"
+    ],
+    "answer": 1,
+    "explanation": "awk -F: sets the field separator to a colon. This is commonly used for parsing /etc/passwd. You can also use -F ':' with quotes."
 }

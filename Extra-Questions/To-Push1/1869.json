@@ -1,14 +1,14 @@
 {
-  "id": "placement-1869",
-  "topic": "Number Systems",
-  "difficulty": "Medium",
-  "question": "Find the smallest 4-digit number divisible by 19.",
-  "options": [
-    "1007",
-    "1012",
-    "1025",
-    "1030"
-  ],
-  "answer": 0,
-  "explanation": "1000/19 = 52.6. 53*19 = 1007."
+    "id": "pf-2071",
+    "topic": "Number Systems",
+    "difficulty": "Medium",
+    "question": "Find the smallest 4-digit number divisible by 19.",
+    "options": [
+        "1007",
+        "1012",
+        "1025",
+        "1030"
+    ],
+    "answer": 0,
+    "explanation": "1000/19 = 52.6. 53*19 = 1007."
 }

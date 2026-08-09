@@ -1,14 +1,14 @@
 {
-  "id": "placement-1519",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which phase of the compiler builds a Parse Tree?",
-  "options": [
-    "Lexical Analysis",
-    "Syntax Analysis",
-    "Code Optimization",
-    "Code Generation"
-  ],
-  "answer": 1,
-  "explanation": "Syntax Analysis (or parsing) is the second phase. It takes the tokens from the lexical analyzer and uses them to construct a parse tree (or syntax tree) based on the grammar rules."
+    "id": "pf-1721",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which phase of the compiler builds a Parse Tree?",
+    "options": [
+        "Lexical Analysis",
+        "Syntax Analysis",
+        "Code Optimization",
+        "Code Generation"
+    ],
+    "answer": 1,
+    "explanation": "Syntax Analysis (or parsing) is the second phase. It takes the tokens from the lexical analyzer and uses them to construct a parse tree (or syntax tree) based on the grammar rules."
 }

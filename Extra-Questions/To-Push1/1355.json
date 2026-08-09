@@ -1,14 +1,14 @@
 {
-  "id": "placement-1355",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is an orphan process?",
-  "options": [
-    "A process that has no threads",
-    "A process whose parent has terminated, so it is adopted by the init process",
-    "A process in a deadlock state",
-    "A process that failed to allocate memory"
-  ],
-  "answer": 1,
-  "explanation": "If a parent process terminates before its child, the child becomes an orphan. Operating systems resolve this by re-parenting the orphan to the init process (PID 1)."
+    "id": "pf-1557",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is an orphan process?",
+    "options": [
+        "A process that has no threads",
+        "A process whose parent has terminated, so it is adopted by the init process",
+        "A process in a deadlock state",
+        "A process that failed to allocate memory"
+    ],
+    "answer": 1,
+    "explanation": "If a parent process terminates before its child, the child becomes an orphan. Operating systems resolve this by re-parenting the orphan to the init process (PID 1)."
 }

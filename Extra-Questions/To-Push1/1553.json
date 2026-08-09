@@ -1,14 +1,14 @@
 {
-  "id": "placement-1553",
-  "topic": "Digital Logic Basics",
-  "difficulty": "Easy",
-  "question": "Which of the following is a combinational logic circuit?",
-  "options": [
-    "Flip-Flop",
-    "Counter",
-    "Multiplexer",
-    "Register"
-  ],
-  "answer": 2,
-  "explanation": "Combinational circuits have outputs that depend only on the current inputs (no memory). Multiplexers, decoders, and adders are combinational. Flip-flops, counters, and registers are sequential (have memory)."
+    "id": "pf-1755",
+    "topic": "Digital Logic Basics",
+    "difficulty": "Easy",
+    "question": "Which of the following is a combinational logic circuit?",
+    "options": [
+        "Flip-Flop",
+        "Counter",
+        "Multiplexer",
+        "Register"
+    ],
+    "answer": 2,
+    "explanation": "Combinational circuits have outputs that depend only on the current inputs (no memory). Multiplexers, decoders, and adders are combinational. Flip-flops, counters, and registers are sequential (have memory)."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1356",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "Which of the following is a preemptive scheduling algorithm?",
-  "options": [
-    "Non-preemptive SJF",
-    "FCFS",
-    "Round Robin",
-    "All of the above"
-  ],
-  "answer": 2,
-  "explanation": "Round Robin is inherently preemptive because it forcibly removes a process from the CPU when its time quantum expires. FCFS and non-preemptive SJF do not preempt."
+    "id": "pf-1558",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "Which of the following is a preemptive scheduling algorithm?",
+    "options": [
+        "Non-preemptive SJF",
+        "FCFS",
+        "Round Robin",
+        "All of the above"
+    ],
+    "answer": 2,
+    "explanation": "Round Robin is inherently preemptive because it forcibly removes a process from the CPU when its time quantum expires. FCFS and non-preemptive SJF do not preempt."
 }

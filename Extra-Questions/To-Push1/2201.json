@@ -1,14 +1,14 @@
 {
-  "id": "placement-2201",
-  "topic": "Puzzles",
-  "difficulty": "Medium",
-  "question": "3 locks, 3 keys. Minimum tries to match all?",
-  "options": [
-    "3",
-    "4",
-    "5",
-    "6"
-  ],
-  "answer": 0,
-  "explanation": "Try 2 keys for 1st lock. If none, 3rd is correct (2 tries). Repeat. Total 2+1+0 = 3. Wait, 2 tries for 1st, 1 try for 2nd, 0 for 3rd. Total 3 tries."
+    "id": "pf-2403",
+    "topic": "Puzzles",
+    "difficulty": "Medium",
+    "question": "3 locks, 3 keys. Minimum tries to match all?",
+    "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "answer": 0,
+    "explanation": "Try 2 keys for 1st lock. If none, 3rd is correct (2 tries). Repeat. Total 2+1+0 = 3. Wait, 2 tries for 1st, 1 try for 2nd, 0 for 3rd. Total 3 tries."
 }

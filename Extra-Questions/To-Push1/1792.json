@@ -1,14 +1,14 @@
 {
-  "id": "placement-1792",
-  "topic": "Pointers and Memory",
-  "difficulty": "Medium",
-  "question": "What is the primary advantage of dynamic memory allocation?",
-  "options": [
-    "It is faster than stack allocation",
-    "It allows the size of data structures to be determined at runtime",
-    "It prevents memory leaks",
-    "It automatically frees memory"
-  ],
-  "answer": 1,
-  "explanation": "Dynamic memory allocation allows programs to request memory exactly when needed and in the exact size needed at runtime, unlike static allocation where sizes are fixed at compile time."
+    "id": "pf-1994",
+    "topic": "Pointers and Memory",
+    "difficulty": "Medium",
+    "question": "What is the primary advantage of dynamic memory allocation?",
+    "options": [
+        "It is faster than stack allocation",
+        "It allows the size of data structures to be determined at runtime",
+        "It prevents memory leaks",
+        "It automatically frees memory"
+    ],
+    "answer": 1,
+    "explanation": "Dynamic memory allocation allows programs to request memory exactly when needed and in the exact size needed at runtime, unlike static allocation where sizes are fixed at compile time."
 }

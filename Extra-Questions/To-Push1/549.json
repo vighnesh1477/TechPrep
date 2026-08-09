@@ -1,14 +1,14 @@
 {
-  "id": "placement-549",
-  "topic": "pwd",
-  "difficulty": "Easy",
-  "question": "If you are in /home/user/Documents and run pwd, what is the output?",
-  "options": [
-    "Documents",
-    "/home/user/Documents",
-    "~/Documents",
-    "user/Documents"
-  ],
-  "answer": 1,
-  "explanation": "pwd always prints the absolute (full) path, which would be /home/user/Documents in this case."
+    "id": "pf-751",
+    "topic": "pwd",
+    "difficulty": "Easy",
+    "question": "If you are in /home/user/Documents and run pwd, what is the output?",
+    "options": [
+        "Documents",
+        "/home/user/Documents",
+        "~/Documents",
+        "user/Documents"
+    ],
+    "answer": 1,
+    "explanation": "pwd always prints the absolute (full) path, which would be /home/user/Documents in this case."
 }

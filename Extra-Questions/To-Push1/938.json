@@ -1,14 +1,14 @@
 {
-  "id": "placement-938",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "What is dynamic programming primarily used for?",
-  "options": [
-    "Sorting",
-    "Solving optimization problems with overlapping subproblems",
-    "Graph traversal",
-    "Searching"
-  ],
-  "answer": 1,
-  "explanation": "DP stores results of overlapping subproblems to avoid redundant calculations in optimization problems."
+    "id": "pf-1140",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "What is dynamic programming primarily used for?",
+    "options": [
+        "Sorting",
+        "Solving optimization problems with overlapping subproblems",
+        "Graph traversal",
+        "Searching"
+    ],
+    "answer": 1,
+    "explanation": "DP stores results of overlapping subproblems to avoid redundant calculations in optimization problems."
 }

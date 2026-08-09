@@ -1,14 +1,14 @@
 {
-  "id": "placement-2042",
-  "topic": "Permutation and Combination",
-  "difficulty": "Hard",
-  "question": "Find number of ways to arrange letters of MISSISSIPPI.",
-  "options": [
-    "34650",
-    "39600",
-    "24500",
-    "45000"
-  ],
-  "answer": 0,
-  "explanation": "11!/(4!4!2!) = 39916800/(24*24*2) = 39916800/1152 = 34650."
+    "id": "pf-2244",
+    "topic": "Permutation and Combination",
+    "difficulty": "Hard",
+    "question": "Find number of ways to arrange letters of MISSISSIPPI.",
+    "options": [
+        "34650",
+        "39600",
+        "24500",
+        "45000"
+    ],
+    "answer": 0,
+    "explanation": "11!/(4!4!2!) = 39916800/(24*24*2) = 39916800/1152 = 34650."
 }

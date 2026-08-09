@@ -1,14 +1,14 @@
 {
-  "id": "placement-2006",
-  "topic": "Ages",
-  "difficulty": "Medium",
-  "question": "Ratio of A:B is 3:4. After 5 years, 4:5. A's present age?",
-  "options": [
-    "10",
-    "15",
-    "20",
-    "25"
-  ],
-  "answer": 1,
-  "explanation": "(3x+5)/(4x+5)=4/5 => 15x+25=16x+20 => x=5. A=15."
+    "id": "pf-2208",
+    "topic": "Ages",
+    "difficulty": "Medium",
+    "question": "Ratio of A:B is 3:4. After 5 years, 4:5. A's present age?",
+    "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+    ],
+    "answer": 1,
+    "explanation": "(3x+5)/(4x+5)=4/5 => 15x+25=16x+20 => x=5. A=15."
 }

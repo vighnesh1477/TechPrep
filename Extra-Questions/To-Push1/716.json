@@ -1,14 +1,14 @@
 {
-  "id": "placement-716",
-  "topic": "Users",
-  "difficulty": "Easy",
-  "question": "What is the UID of the root user?",
-  "options": [
-    "0",
-    "1",
-    "100",
-    "1000"
-  ],
-  "answer": 0,
-  "explanation": "The root user always has UID 0. Any user with UID 0 has root privileges regardless of the username."
+    "id": "pf-918",
+    "topic": "Users",
+    "difficulty": "Easy",
+    "question": "What is the UID of the root user?",
+    "options": [
+        "0",
+        "1",
+        "100",
+        "1000"
+    ],
+    "answer": 0,
+    "explanation": "The root user always has UID 0. Any user with UID 0 has root privileges regardless of the username."
 }

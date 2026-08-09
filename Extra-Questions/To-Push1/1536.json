@@ -1,14 +1,14 @@
 {
-  "id": "placement-1536",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Hard",
-  "question": "What is 'Common Subexpression Elimination'?",
-  "options": [
-    "Removing duplicate lines of code",
-    "Identifying and replacing multiple instances of the same computation with a single variable holding the computed value",
-    "Merging similar functions",
-    "Deleting unused functions"
-  ],
-  "answer": 1,
-  "explanation": "If an expression (e.g., `a + b`) is computed multiple times and its operands do not change, the compiler computes it once, stores it in a temporary variable, and reuses that variable."
+    "id": "pf-1738",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Hard",
+    "question": "What is 'Common Subexpression Elimination'?",
+    "options": [
+        "Removing duplicate lines of code",
+        "Identifying and replacing multiple instances of the same computation with a single variable holding the computed value",
+        "Merging similar functions",
+        "Deleting unused functions"
+    ],
+    "answer": 1,
+    "explanation": "If an expression (e.g., `a + b`) is computed multiple times and its operands do not change, the compiler computes it once, stores it in a temporary variable, and reuses that variable."
 }

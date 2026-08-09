@@ -1,14 +1,14 @@
 {
-  "id": "placement-530",
-  "topic": "Reset",
-  "difficulty": "Medium",
-  "question": "What is the difference between git reset and git checkout for a file?",
-  "options": [
-    "They are identical",
-    "Reset moves the branch pointer; checkout only affects the working tree",
-    "Reset only affects the working tree; checkout moves the branch pointer",
-    "Reset is for branches, checkout is for files only"
-  ],
-  "answer": 1,
-  "explanation": "git reset moves the branch pointer (affecting which commit the branch points to), while git checkout only updates the working tree without moving the branch."
+    "id": "pf-732",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "What is the difference between git reset and git checkout for a file?",
+    "options": [
+        "They are identical",
+        "Reset moves the branch pointer; checkout only affects the working tree",
+        "Reset only affects the working tree; checkout moves the branch pointer",
+        "Reset is for branches, checkout is for files only"
+    ],
+    "answer": 1,
+    "explanation": "git reset moves the branch pointer (affecting which commit the branch points to), while git checkout only updates the working tree without moving the branch."
 }

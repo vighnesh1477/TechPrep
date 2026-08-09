@@ -1,14 +1,14 @@
 {
-  "id": "placement-1346",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a counting semaphore and a binary semaphore?",
-  "options": [
-    "Binary semaphores can count from 0 to N",
-    "Counting semaphores allow an arbitrary resource count, binary semaphores are restricted to 0 and 1",
-    "There is no difference",
-    "Counting semaphores cannot be used for mutual exclusion"
-  ],
-  "answer": 1,
-  "explanation": "A counting semaphore's value can range over an unrestricted domain, used to manage multiple instances of a resource. A binary semaphore is restricted to values 0 and 1, acting like a mutex."
+    "id": "pf-1548",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a counting semaphore and a binary semaphore?",
+    "options": [
+        "Binary semaphores can count from 0 to N",
+        "Counting semaphores allow an arbitrary resource count, binary semaphores are restricted to 0 and 1",
+        "There is no difference",
+        "Counting semaphores cannot be used for mutual exclusion"
+    ],
+    "answer": 1,
+    "explanation": "A counting semaphore's value can range over an unrestricted domain, used to manage multiple instances of a resource. A binary semaphore is restricted to values 0 and 1, acting like a mutex."
 }

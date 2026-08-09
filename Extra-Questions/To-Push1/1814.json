@@ -1,14 +1,14 @@
 {
-  "id": "placement-1814",
-  "topic": "Basic Algorithms",
-  "difficulty": "Easy",
-  "question": "What is a prerequisite for performing Binary Search on an array?",
-  "options": [
-    "The array must be of even length",
-    "The array must be sorted",
-    "The array must contain only integers",
-    "The array must be a linked list"
-  ],
-  "answer": 1,
-  "explanation": "Binary search works by repeatedly dividing the search interval in half. This is only possible if the array is sorted in ascending or descending order."
+    "id": "pf-2016",
+    "topic": "Basic Algorithms",
+    "difficulty": "Easy",
+    "question": "What is a prerequisite for performing Binary Search on an array?",
+    "options": [
+        "The array must be of even length",
+        "The array must be sorted",
+        "The array must contain only integers",
+        "The array must be a linked list"
+    ],
+    "answer": 1,
+    "explanation": "Binary search works by repeatedly dividing the search interval in half. This is only possible if the array is sorted in ascending or descending order."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1190",
-  "topic": "SQL",
-  "difficulty": "Easy",
-  "question": "Which keyword is used to sort the result set?",
-  "options": [
-    "SORT BY",
-    "ORDER BY",
-    "GROUP BY",
-    "ARRANGE BY"
-  ],
-  "answer": 1,
-  "explanation": "ORDER BY is used to sort the result set in ascending or descending order."
+    "id": "pf-1392",
+    "topic": "SQL",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to sort the result set?",
+    "options": [
+        "SORT BY",
+        "ORDER BY",
+        "GROUP BY",
+        "ARRANGE BY"
+    ],
+    "answer": 1,
+    "explanation": "ORDER BY is used to sort the result set in ascending or descending order."
 }

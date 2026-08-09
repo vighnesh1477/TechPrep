@@ -1,14 +1,14 @@
 {
-  "id": "placement-1948",
-  "topic": "Time and Work",
-  "difficulty": "Medium",
-  "question": "A works for 5 days, B works for 8 days to finish. A alone 15 days. B alone?",
-  "options": [
-    "20 days",
-    "24 days",
-    "25 days",
-    "30 days"
-  ],
-  "answer": 1,
-  "explanation": "5/15 + 8/B = 1 => 8/B = 2/3 => B = 12. Let's change A to 10 days. 5/10 + 8/B = 1 => 1/2 + 8/B = 1 => 8/B = 1/2 => B=16. Let's make it: A 10 days, B works 15 days, A works 5 days. 5/10 + 15/B = 1 => 15/B = 1/2 => B=30."
+    "id": "pf-2150",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "A works for 5 days, B works for 8 days to finish. A alone 15 days. B alone?",
+    "options": [
+        "20 days",
+        "24 days",
+        "25 days",
+        "30 days"
+    ],
+    "answer": 1,
+    "explanation": "5/15 + 8/B = 1 => 8/B = 2/3 => B = 12. Let's change A to 10 days. 5/10 + 8/B = 1 => 1/2 + 8/B = 1 => 8/B = 1/2 => B=16. Let's make it: A 10 days, B works 15 days, A works 5 days. 5/10 + 15/B = 1 => 15/B = 1/2 => B=30."
 }

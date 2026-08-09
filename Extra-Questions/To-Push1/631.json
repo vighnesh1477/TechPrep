@@ -1,14 +1,14 @@
 {
-  "id": "placement-631",
-  "topic": "locate",
-  "difficulty": "Easy",
-  "question": "What does locate -i filename do?",
-  "options": [
-    "Shows only the inode number",
-    "Performs a case-insensitive search",
-    "Includes hidden files",
-    "Ignores errors"
-  ],
-  "answer": 1,
-  "explanation": "locate -i performs a case-insensitive search, matching filenames regardless of uppercase or lowercase letters."
+    "id": "pf-833",
+    "topic": "locate",
+    "difficulty": "Easy",
+    "question": "What does locate -i filename do?",
+    "options": [
+        "Shows only the inode number",
+        "Performs a case-insensitive search",
+        "Includes hidden files",
+        "Ignores errors"
+    ],
+    "answer": 1,
+    "explanation": "locate -i performs a case-insensitive search, matching filenames regardless of uppercase or lowercase letters."
 }

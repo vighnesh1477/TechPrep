@@ -1,14 +1,14 @@
 {
-  "id": "placement-1317",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What is a page fault?",
-  "options": [
-    "A broken page",
-    "An interrupt that occurs when a program accesses a page of memory that is not currently mapped into physical memory",
-    "A hard drive crash",
-    "A CPU error"
-  ],
-  "answer": 1,
-  "explanation": "A page fault triggers the OS to load the required page from disk into RAM, or terminate the program if invalid."
+    "id": "pf-1519",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is a page fault?",
+    "options": [
+        "A broken page",
+        "An interrupt that occurs when a program accesses a page of memory that is not currently mapped into physical memory",
+        "A hard drive crash",
+        "A CPU error"
+    ],
+    "answer": 1,
+    "explanation": "A page fault triggers the OS to load the required page from disk into RAM, or terminate the program if invalid."
 }

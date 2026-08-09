@@ -1,14 +1,14 @@
 {
-  "id": "placement-1589",
-  "topic": "Data Representation",
-  "difficulty": "Medium",
-  "question": "How many characters can the standard ASCII table represent?",
-  "options": [
-    "128",
-    "256",
-    "64",
-    "512"
-  ],
-  "answer": 0,
-  "explanation": "Standard ASCII uses 7 bits, allowing for 2^7 = 128 unique characters (from 0 to 127). Extended ASCII uses 8 bits for 256 characters."
+    "id": "pf-1791",
+    "topic": "Data Representation",
+    "difficulty": "Medium",
+    "question": "How many characters can the standard ASCII table represent?",
+    "options": [
+        "128",
+        "256",
+        "64",
+        "512"
+    ],
+    "answer": 0,
+    "explanation": "Standard ASCII uses 7 bits, allowing for 2^7 = 128 unique characters (from 0 to 127). Extended ASCII uses 8 bits for 256 characters."
 }

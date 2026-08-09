@@ -1,14 +1,14 @@
 {
-  "id": "placement-1204",
-  "topic": "Computer Networks",
-  "difficulty": "Easy",
-  "question": "What is the maximum length of a Cat6 Ethernet cable?",
-  "options": [
-    "50 meters",
-    "100 meters",
-    "200 meters",
-    "500 meters"
-  ],
-  "answer": 1,
-  "explanation": "The maximum standard length for a Cat6 Ethernet cable run is 100 meters (328 feet)."
+    "id": "pf-1406",
+    "topic": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "What is the maximum length of a Cat6 Ethernet cable?",
+    "options": [
+        "50 meters",
+        "100 meters",
+        "200 meters",
+        "500 meters"
+    ],
+    "answer": 1,
+    "explanation": "The maximum standard length for a Cat6 Ethernet cable run is 100 meters (328 feet)."
 }

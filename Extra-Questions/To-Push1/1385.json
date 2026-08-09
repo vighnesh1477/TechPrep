@@ -1,14 +1,14 @@
 {
-  "id": "placement-1385",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the difference between a Clustered Index and a Non-Clustered Index?",
-  "options": [
-    "A clustered index sorts and stores the data rows in the table based on the index key; a non-clustered index creates a separate structure with pointers to the data rows",
-    "A clustered index is faster for reads, a non-clustered is faster for writes",
-    "A table can have multiple clustered indexes but only one non-clustered",
-    "There is no difference"
-  ],
-  "answer": 0,
-  "explanation": "A clustered index determines the physical order of data in a table (you can only have one per table). A non-clustered index has a structure separate from the data rows, containing pointers to the actual data."
+    "id": "pf-1587",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the difference between a Clustered Index and a Non-Clustered Index?",
+    "options": [
+        "A clustered index sorts and stores the data rows in the table based on the index key; a non-clustered index creates a separate structure with pointers to the data rows",
+        "A clustered index is faster for reads, a non-clustered is faster for writes",
+        "A table can have multiple clustered indexes but only one non-clustered",
+        "There is no difference"
+    ],
+    "answer": 0,
+    "explanation": "A clustered index determines the physical order of data in a table (you can only have one per table). A non-clustered index has a structure separate from the data rows, containing pointers to the actual data."
 }

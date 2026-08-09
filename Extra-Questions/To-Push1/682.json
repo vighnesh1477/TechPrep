@@ -1,14 +1,14 @@
 {
-  "id": "placement-682",
-  "topic": "ps",
-  "difficulty": "Easy",
-  "question": "How do you find a specific process by name using ps?",
-  "options": [
-    "ps aux | grep processname",
-    "ps -find processname",
-    "ps --name processname",
-    "ps -n processname"
-  ],
-  "answer": 0,
-  "explanation": "ps aux | grep processname pipes the full process list to grep, which filters for lines containing the process name. Alternatively, pgrep can be used."
+    "id": "pf-884",
+    "topic": "ps",
+    "difficulty": "Easy",
+    "question": "How do you find a specific process by name using ps?",
+    "options": [
+        "ps aux | grep processname",
+        "ps -find processname",
+        "ps --name processname",
+        "ps -n processname"
+    ],
+    "answer": 0,
+    "explanation": "ps aux | grep processname pipes the full process list to grep, which filters for lines containing the process name. Alternatively, pgrep can be used."
 }

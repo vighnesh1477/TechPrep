@@ -1,14 +1,14 @@
 {
-  "id": "placement-1815",
-  "topic": "Basic Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the worst-case time complexity of Binary Search?",
-  "options": [
-    "O(n)",
-    "O(n^2)",
-    "O(log n)",
-    "O(1)"
-  ],
-  "answer": 2,
-  "explanation": "Binary search halves the search space with each comparison. The maximum number of comparisons needed is log2(n), resulting in O(log n) time complexity."
+    "id": "pf-2017",
+    "topic": "Basic Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the worst-case time complexity of Binary Search?",
+    "options": [
+        "O(n)",
+        "O(n^2)",
+        "O(log n)",
+        "O(1)"
+    ],
+    "answer": 2,
+    "explanation": "Binary search halves the search space with each comparison. The maximum number of comparisons needed is log2(n), resulting in O(log n) time complexity."
 }

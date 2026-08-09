@@ -1,14 +1,14 @@
 {
-  "id": "placement-337",
-  "topic": "Merge",
-  "difficulty": "Easy",
-  "question": "What does git merge --abort do?",
-  "options": [
-    "Deletes the current branch",
-    "Cancels the merge process and returns to the pre-merge state",
-    "Completes the merge automatically",
-    "Reverts the last merge commit"
-  ],
-  "answer": 1,
-  "explanation": "git merge --abort cancels a conflicted merge and attempts to restore the working tree to the state before the merge began."
+    "id": "pf-539",
+    "topic": "Merge",
+    "difficulty": "Easy",
+    "question": "What does git merge --abort do?",
+    "options": [
+        "Deletes the current branch",
+        "Cancels the merge process and returns to the pre-merge state",
+        "Completes the merge automatically",
+        "Reverts the last merge commit"
+    ],
+    "answer": 1,
+    "explanation": "git merge --abort cancels a conflicted merge and attempts to restore the working tree to the state before the merge began."
 }

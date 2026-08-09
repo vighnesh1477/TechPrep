@@ -1,14 +1,14 @@
 {
-  "id": "placement-1323",
-  "topic": "Cyber Security Basics",
-  "difficulty": "Medium",
-  "question": "What is ransomware?",
-  "options": [
-    "Software that demands a ransom to unlock encrypted files",
-    "Malware that steals passwords",
-    "A type of firewall",
-    "A secure encryption algorithm"
-  ],
-  "answer": 0,
-  "explanation": "Ransomware encrypts the victim's files and demands payment (usually in cryptocurrency) for the decryption key."
+    "id": "pf-1525",
+    "topic": "Cyber Security Basics",
+    "difficulty": "Medium",
+    "question": "What is ransomware?",
+    "options": [
+        "Software that demands a ransom to unlock encrypted files",
+        "Malware that steals passwords",
+        "A type of firewall",
+        "A secure encryption algorithm"
+    ],
+    "answer": 0,
+    "explanation": "Ransomware encrypts the victim's files and demands payment (usually in cryptocurrency) for the decryption key."
 }

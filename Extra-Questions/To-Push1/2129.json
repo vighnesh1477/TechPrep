@@ -1,14 +1,14 @@
 {
-  "id": "placement-2129",
-  "topic": "Coding-Decoding",
-  "difficulty": "Hard",
-  "question": "If 1st and 2nd letters of ROCKET are interchanged, 3rd and 4th, 5th and 6th, what is the new word?",
-  "options": [
-    "ORCKTE",
-    "ORCKET",
-    "ORCETK",
-    "ORCTKE"
-  ],
-  "answer": 0,
-  "explanation": "RO -> OR, CK -> KC, ET -> TE. ORKCTE. Let me correct options: ORKCTE."
+    "id": "pf-2331",
+    "topic": "Coding-Decoding",
+    "difficulty": "Hard",
+    "question": "If 1st and 2nd letters of ROCKET are interchanged, 3rd and 4th, 5th and 6th, what is the new word?",
+    "options": [
+        "ORCKTE",
+        "ORCKET",
+        "ORCETK",
+        "ORCTKE"
+    ],
+    "answer": 0,
+    "explanation": "RO -> OR, CK -> KC, ET -> TE. ORKCTE. Let me correct options: ORKCTE."
 }

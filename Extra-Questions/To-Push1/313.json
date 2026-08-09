@@ -1,14 +1,14 @@
 {
-  "id": "placement-313",
-  "topic": "Ignore (.gitignore)",
-  "difficulty": "Easy",
-  "question": "Which pattern in .gitignore ignores all .log files in any directory?",
-  "options": [
-    "*.log",
-    "/ *.log",
-    ".log",
-    "**.log"
-  ],
-  "answer": 0,
-  "explanation": "The *.log pattern matches any file ending with .log in any directory within the repository, effectively ignoring all log files."
+    "id": "pf-515",
+    "topic": "Ignore (.gitignore)",
+    "difficulty": "Easy",
+    "question": "Which pattern in .gitignore ignores all .log files in any directory?",
+    "options": [
+        "*.log",
+        "/ *.log",
+        ".log",
+        "**.log"
+    ],
+    "answer": 0,
+    "explanation": "The *.log pattern matches any file ending with .log in any directory within the repository, effectively ignoring all log files."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-797",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What is the difference between cold boot and warm boot?",
-  "options": [
-    "Cold boot is faster",
-    "Cold boot powers on from zero state (POST); warm boot skips POST and reloads the OS",
-    "Warm boot updates the BIOS",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "Cold boot (power-on) performs full POST and initializes all hardware. Warm boot (reboot) may skip some POST steps and reloads the OS more quickly."
+    "id": "pf-999",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What is the difference between cold boot and warm boot?",
+    "options": [
+        "Cold boot is faster",
+        "Cold boot powers on from zero state (POST); warm boot skips POST and reloads the OS",
+        "Warm boot updates the BIOS",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "Cold boot (power-on) performs full POST and initializes all hardware. Warm boot (reboot) may skip some POST steps and reloads the OS more quickly."
 }

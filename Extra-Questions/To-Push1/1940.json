@@ -1,14 +1,14 @@
 {
-  "id": "placement-1940",
-  "topic": "Time and Work",
-  "difficulty": "Easy",
-  "question": "A is twice as efficient as B. If B takes 12 days, A takes?",
-  "options": [
-    "6 days",
-    "8 days",
-    "10 days",
-    "24 days"
-  ],
-  "answer": 0,
-  "explanation": "Efficiency ratio 2:1. Time ratio 1:2. A takes 12/2 = 6 days."
+    "id": "pf-2142",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "A is twice as efficient as B. If B takes 12 days, A takes?",
+    "options": [
+        "6 days",
+        "8 days",
+        "10 days",
+        "24 days"
+    ],
+    "answer": 0,
+    "explanation": "Efficiency ratio 2:1. Time ratio 1:2. A takes 12/2 = 6 days."
 }

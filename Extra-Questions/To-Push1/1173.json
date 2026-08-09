@@ -1,14 +1,14 @@
 {
-  "id": "placement-1173",
-  "topic": "Algorithms",
-  "difficulty": "Easy",
-  "question": "What is the time complexity of Bubble Sort?",
-  "options": [
-    "O(N)",
-    "O(N log N)",
-    "O(N^2)",
-    "O(log N)"
-  ],
-  "answer": 2,
-  "explanation": "Bubble Sort repeatedly compares adjacent elements, requiring nested loops in the worst and average cases."
+    "id": "pf-1375",
+    "topic": "Algorithms",
+    "difficulty": "Easy",
+    "question": "What is the time complexity of Bubble Sort?",
+    "options": [
+        "O(N)",
+        "O(N log N)",
+        "O(N^2)",
+        "O(log N)"
+    ],
+    "answer": 2,
+    "explanation": "Bubble Sort repeatedly compares adjacent elements, requiring nested loops in the worst and average cases."
 }

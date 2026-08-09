@@ -1,14 +1,14 @@
 {
-  "id": "placement-584",
-  "topic": "rmdir",
-  "difficulty": "Easy",
-  "question": "What does rmdir -p a/b/c do?",
-  "options": [
-    "Prompts before removing each directory",
-    "Removes c, then b, then a if they become empty",
-    "Permanently removes without confirmation",
-    "Pauses between each removal"
-  ],
-  "answer": 1,
-  "explanation": "rmdir -p removes the directory hierarchy. It removes c first, then b if empty, then a if empty, stopping when a non-empty directory is encountered."
+    "id": "pf-786",
+    "topic": "rmdir",
+    "difficulty": "Easy",
+    "question": "What does rmdir -p a/b/c do?",
+    "options": [
+        "Prompts before removing each directory",
+        "Removes c, then b, then a if they become empty",
+        "Permanently removes without confirmation",
+        "Pauses between each removal"
+    ],
+    "answer": 1,
+    "explanation": "rmdir -p removes the directory hierarchy. It removes c first, then b if empty, then a if empty, stopping when a non-empty directory is encountered."
 }

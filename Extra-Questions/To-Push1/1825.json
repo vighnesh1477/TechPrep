@@ -1,14 +1,14 @@
 {
-  "id": "placement-1825",
-  "topic": "Basic Algorithms",
-  "difficulty": "Hard",
-  "question": "After the first pass of Selection Sort on `[64, 25, 12, 22, 11]`, what is the state of the array?",
-  "options": [
-    "[11, 25, 12, 22, 64]",
-    "[11, 64, 25, 12, 22]",
-    "[11, 12, 22, 25, 64]",
-    "[11, 25, 64, 22, 12]"
-  ],
-  "answer": 0,
-  "explanation": "Selection sort finds the minimum (11) and swaps it with the first element (64). The array becomes [11, 25, 12, 22, 64]."
+    "id": "pf-2027",
+    "topic": "Basic Algorithms",
+    "difficulty": "Hard",
+    "question": "After the first pass of Selection Sort on `[64, 25, 12, 22, 11]`, what is the state of the array?",
+    "options": [
+        "[11, 25, 12, 22, 64]",
+        "[11, 64, 25, 12, 22]",
+        "[11, 12, 22, 25, 64]",
+        "[11, 25, 64, 22, 12]"
+    ],
+    "answer": 0,
+    "explanation": "Selection sort finds the minimum (11) and swaps it with the first element (64). The array becomes [11, 25, 12, 22, 64]."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-992",
-  "topic": "Operating Systems",
-  "difficulty": "Medium",
-  "question": "What is the difference between a thread and a process?",
-  "options": [
-    "Threads are heavier",
-    "Threads share the same memory space of their parent process",
-    "Processes share memory",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "Threads are lightweight and share the code section, data section, and OS resources of their process."
+    "id": "pf-1194",
+    "topic": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is the difference between a thread and a process?",
+    "options": [
+        "Threads are heavier",
+        "Threads share the same memory space of their parent process",
+        "Processes share memory",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "Threads are lightweight and share the code section, data section, and OS resources of their process."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1367",
-  "topic": "DBMS Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the difference between a Candidate Key and a Super Key?",
-  "options": [
-    "A Super Key has no redundant attributes; a Candidate Key does",
-    "A Candidate Key is a minimal Super Key (no redundant attributes)",
-    "They are exactly the same thing",
-    "A Candidate Key can contain NULLs, a Super Key cannot"
-  ],
-  "answer": 1,
-  "explanation": "A Super Key is any set of columns that uniquely identifies a row. A Candidate Key is a Super Key stripped of any redundant columns; it is minimal."
+    "id": "pf-1569",
+    "topic": "DBMS Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the difference between a Candidate Key and a Super Key?",
+    "options": [
+        "A Super Key has no redundant attributes; a Candidate Key does",
+        "A Candidate Key is a minimal Super Key (no redundant attributes)",
+        "They are exactly the same thing",
+        "A Candidate Key can contain NULLs, a Super Key cannot"
+    ],
+    "answer": 1,
+    "explanation": "A Super Key is any set of columns that uniquely identifies a row. A Candidate Key is a Super Key stripped of any redundant columns; it is minimal."
 }

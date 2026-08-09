@@ -1,14 +1,14 @@
 {
-  "id": "placement-759",
-  "topic": "Shell",
-  "difficulty": "Easy",
-  "question": "Which of the following is NOT a Linux shell?",
-  "options": [
-    "bash",
-    "zsh",
-    "csh",
-    "cmd"
-  ],
-  "answer": 3,
-  "explanation": "cmd is the Windows command interpreter, not a Linux shell. bash, zsh, and csh are all Unix/Linux shells."
+    "id": "pf-961",
+    "topic": "Shell",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a Linux shell?",
+    "options": [
+        "bash",
+        "zsh",
+        "csh",
+        "cmd"
+    ],
+    "answer": 3,
+    "explanation": "cmd is the Windows command interpreter, not a Linux shell. bash, zsh, and csh are all Unix/Linux shells."
 }

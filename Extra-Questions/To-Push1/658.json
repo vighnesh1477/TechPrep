@@ -1,14 +1,14 @@
 {
-  "id": "placement-658",
-  "topic": "chgrp",
-  "difficulty": "Easy",
-  "question": "What does the chgrp command do?",
-  "options": [
-    "Changes the owner of a file",
-    "Changes the group ownership of a file",
-    "Creates a new group",
-    "Changes the group password"
-  ],
-  "answer": 1,
-  "explanation": "chgrp (change group) changes the group ownership of files. It is functionally similar to 'chown :group file' but specifically for groups."
+    "id": "pf-860",
+    "topic": "chgrp",
+    "difficulty": "Easy",
+    "question": "What does the chgrp command do?",
+    "options": [
+        "Changes the owner of a file",
+        "Changes the group ownership of a file",
+        "Creates a new group",
+        "Changes the group password"
+    ],
+    "answer": 1,
+    "explanation": "chgrp (change group) changes the group ownership of files. It is functionally similar to 'chown :group file' but specifically for groups."
 }

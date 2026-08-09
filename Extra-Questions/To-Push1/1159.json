@@ -1,14 +1,14 @@
 {
-  "id": "placement-1159",
-  "topic": "Python",
-  "difficulty": "Hard",
-  "question": "What is the output of `x = [1]; x.append(x); print(len(x))`?",
-  "options": [
-    "1",
-    "2",
-    "Infinite loop",
-    "RecursionError"
-  ],
-  "answer": 1,
-  "explanation": "The list now contains the integer 1 and a reference to itself. Its length is 2."
+    "id": "pf-1361",
+    "topic": "Python",
+    "difficulty": "Hard",
+    "question": "What is the output of `x = [1]; x.append(x); print(len(x))`?",
+    "options": [
+        "1",
+        "2",
+        "Infinite loop",
+        "RecursionError"
+    ],
+    "answer": 1,
+    "explanation": "The list now contains the integer 1 and a reference to itself. Its length is 2."
 }

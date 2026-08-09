@@ -1,14 +1,14 @@
 {
-  "id": "placement-1241",
-  "topic": "C Programming",
-  "difficulty": "Hard",
-  "question": "What is the output of `int arr[] = {1, 2, 3}; int *p = arr; printf(\"%d\", *p++);`?",
-  "options": [
-    "1",
-    "2",
-    "Address",
-    "Error"
-  ],
-  "answer": 0,
-  "explanation": "*p++ dereferences p (prints 1) and then increments the pointer to point to the next element."
+    "id": "pf-1443",
+    "topic": "C Programming",
+    "difficulty": "Hard",
+    "question": "What is the output of `int arr[] = {1, 2, 3}; int *p = arr; printf(\"%d\", *p++);`?",
+    "options": [
+        "1",
+        "2",
+        "Address",
+        "Error"
+    ],
+    "answer": 0,
+    "explanation": "*p++ dereferences p (prints 1) and then increments the pointer to point to the next element."
 }

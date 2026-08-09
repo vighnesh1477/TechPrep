@@ -1,14 +1,14 @@
 {
-  "id": "placement-1682",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "Which statement is used to skip the current iteration of a loop and proceed to the next?",
-  "options": [
-    "break",
-    "skip",
-    "goto",
-    "continue"
-  ],
-  "answer": 3,
-  "explanation": "The `continue` statement is specifically designed to skip the remaining code within the current loop iteration and jump to the loop's condition check."
+    "id": "pf-1884",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "Which statement is used to skip the current iteration of a loop and proceed to the next?",
+    "options": [
+        "break",
+        "skip",
+        "goto",
+        "continue"
+    ],
+    "answer": 3,
+    "explanation": "The `continue` statement is specifically designed to skip the remaining code within the current loop iteration and jump to the loop's condition check."
 }

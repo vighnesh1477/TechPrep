@@ -1,14 +1,14 @@
 {
-  "id": "placement-1099",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "Which cloud deployment model is shared by multiple organizations?",
-  "options": [
-    "Public Cloud",
-    "Private Cloud",
-    "Community Cloud",
-    "Hybrid Cloud"
-  ],
-  "answer": 2,
-  "explanation": "A Community Cloud is a multi-tenant setup shared by organizations with similar requirements (e.g., government agencies)."
+    "id": "pf-1301",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "Which cloud deployment model is shared by multiple organizations?",
+    "options": [
+        "Public Cloud",
+        "Private Cloud",
+        "Community Cloud",
+        "Hybrid Cloud"
+    ],
+    "answer": 2,
+    "explanation": "A Community Cloud is a multi-tenant setup shared by organizations with similar requirements (e.g., government agencies)."
 }

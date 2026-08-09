@@ -1,14 +1,14 @@
 {
-  "id": "placement-1095",
-  "topic": "Cloud Basics",
-  "difficulty": "Easy",
-  "question": "What is the main difference between a VM and a Container?",
-  "options": [
-    "They are the same",
-    "VMs include a full guest OS; containers share the host OS kernel",
-    "Containers are slower",
-    "VMs use less memory"
-  ],
-  "answer": 1,
-  "explanation": "Containers are lightweight because they share the host OS kernel, whereas VMs require a full OS installation."
+    "id": "pf-1297",
+    "topic": "Cloud Basics",
+    "difficulty": "Easy",
+    "question": "What is the main difference between a VM and a Container?",
+    "options": [
+        "They are the same",
+        "VMs include a full guest OS; containers share the host OS kernel",
+        "Containers are slower",
+        "VMs use less memory"
+    ],
+    "answer": 1,
+    "explanation": "Containers are lightweight because they share the host OS kernel, whereas VMs require a full OS installation."
 }

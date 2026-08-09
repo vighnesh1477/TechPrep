@@ -1,14 +1,14 @@
 {
-  "id": "placement-1675",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output?\n`for x in \"abc\":`\n`    if x == 'b': break`\n`    print(x, end=\"\")`",
-  "options": [
-    "abc",
-    "ab",
-    "a",
-    "b"
-  ],
-  "answer": 2,
-  "explanation": "The loop iterates over 'a', 'b', 'c'. When `x` is 'a', it prints 'a'. When `x` is 'b', the `break` statement terminates the loop."
+    "id": "pf-1877",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output?\n`for x in \"abc\":`\n`    if x == 'b': break`\n`    print(x, end=\"\")`",
+    "options": [
+        "abc",
+        "ab",
+        "a",
+        "b"
+    ],
+    "answer": 2,
+    "explanation": "The loop iterates over 'a', 'b', 'c'. When `x` is 'a', it prints 'a'. When `x` is 'b', the `break` statement terminates the loop."
 }

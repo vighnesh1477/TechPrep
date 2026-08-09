@@ -1,14 +1,14 @@
 {
-  "id": "placement-866",
-  "topic": "C Programming",
-  "difficulty": "Hard",
-  "question": "What does `sizeof(\"hello\")` return?",
-  "options": [
-    "5",
-    "6",
-    "Pointer size",
-    "Compiler error"
-  ],
-  "answer": 1,
-  "explanation": "String literals include the null terminator, so 5 chars + 1 null = 6 bytes."
+    "id": "pf-1068",
+    "topic": "C Programming",
+    "difficulty": "Hard",
+    "question": "What does `sizeof(\"hello\")` return?",
+    "options": [
+        "5",
+        "6",
+        "Pointer size",
+        "Compiler error"
+    ],
+    "answer": 1,
+    "explanation": "String literals include the null terminator, so 5 chars + 1 null = 6 bytes."
 }

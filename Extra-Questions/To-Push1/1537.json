@@ -1,14 +1,14 @@
 {
-  "id": "placement-1537",
-  "topic": "Compiler Fundamentals",
-  "difficulty": "Hard",
-  "question": "Which data structure is typically used to implement a Symbol Table for fast lookups?",
-  "options": [
-    "Array",
-    "Linked List",
-    "Hash Table",
-    "Stack"
-  ],
-  "answer": 2,
-  "explanation": "Hash tables provide O(1) average time complexity for insertions, deletions, and lookups, making them the most common choice for implementing symbol tables in compilers."
+    "id": "pf-1739",
+    "topic": "Compiler Fundamentals",
+    "difficulty": "Hard",
+    "question": "Which data structure is typically used to implement a Symbol Table for fast lookups?",
+    "options": [
+        "Array",
+        "Linked List",
+        "Hash Table",
+        "Stack"
+    ],
+    "answer": 2,
+    "explanation": "Hash tables provide O(1) average time complexity for insertions, deletions, and lookups, making them the most common choice for implementing symbol tables in compilers."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1296",
-  "topic": "Data Structures",
-  "difficulty": "Hard",
-  "question": "What is a segment tree used for?",
-  "options": [
-    "Storing strings",
-    "Efficiently answering range queries (like sum, min, max) and allowing point updates",
-    "Sorting arrays",
-    "Graph traversal"
-  ],
-  "answer": 1,
-  "explanation": "Segment trees allow range queries and point updates in O(log N) time."
+    "id": "pf-1498",
+    "topic": "Data Structures",
+    "difficulty": "Hard",
+    "question": "What is a segment tree used for?",
+    "options": [
+        "Storing strings",
+        "Efficiently answering range queries (like sum, min, max) and allowing point updates",
+        "Sorting arrays",
+        "Graph traversal"
+    ],
+    "answer": 1,
+    "explanation": "Segment trees allow range queries and point updates in O(log N) time."
 }

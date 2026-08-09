@@ -1,14 +1,14 @@
 {
-  "id": "placement-945",
-  "topic": "Algorithms",
-  "difficulty": "Hard",
-  "question": "Which technique is used to solve the 0/1 Knapsack problem optimally?",
-  "options": [
-    "Greedy",
-    "Divide and Conquer",
-    "Dynamic Programming",
-    "Binary Search"
-  ],
-  "answer": 2,
-  "explanation": "0/1 Knapsack has overlapping subproblems and optimal substructure, making DP the optimal choice."
+    "id": "pf-1147",
+    "topic": "Algorithms",
+    "difficulty": "Hard",
+    "question": "Which technique is used to solve the 0/1 Knapsack problem optimally?",
+    "options": [
+        "Greedy",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Binary Search"
+    ],
+    "answer": 2,
+    "explanation": "0/1 Knapsack has overlapping subproblems and optimal substructure, making DP the optimal choice."
 }

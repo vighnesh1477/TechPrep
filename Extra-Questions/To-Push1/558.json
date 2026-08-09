@@ -1,14 +1,14 @@
 {
-  "id": "placement-558",
-  "topic": "cd",
-  "difficulty": "Easy",
-  "question": "Which command takes you to the home directory from anywhere in the file system?",
-  "options": [
-    "cd /",
-    "cd ~",
-    "cd ..",
-    "cd ."
-  ],
-  "answer": 1,
-  "explanation": "cd ~ or simply cd without arguments takes you to the current user's home directory."
+    "id": "pf-760",
+    "topic": "cd",
+    "difficulty": "Easy",
+    "question": "Which command takes you to the home directory from anywhere in the file system?",
+    "options": [
+        "cd /",
+        "cd ~",
+        "cd ..",
+        "cd ."
+    ],
+    "answer": 1,
+    "explanation": "cd ~ or simply cd without arguments takes you to the current user's home directory."
 }

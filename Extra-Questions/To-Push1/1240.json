@@ -1,14 +1,14 @@
 {
-  "id": "placement-1240",
-  "topic": "Computer Architecture",
-  "difficulty": "Medium",
-  "question": "What is the difference between Harvard and Von Neumann architecture?",
-  "options": [
-    "No difference",
-    "Harvard uses separate memory and buses for instructions and data; Von Neumann uses a single shared memory and bus",
-    "Harvard is older",
-    "Von Neumann is faster"
-  ],
-  "answer": 1,
-  "explanation": "Harvard architecture allows simultaneous instruction and data fetches, while Von Neumann must alternate them."
+    "id": "pf-1442",
+    "topic": "Computer Architecture",
+    "difficulty": "Medium",
+    "question": "What is the difference between Harvard and Von Neumann architecture?",
+    "options": [
+        "No difference",
+        "Harvard uses separate memory and buses for instructions and data; Von Neumann uses a single shared memory and bus",
+        "Harvard is older",
+        "Von Neumann is faster"
+    ],
+    "answer": 1,
+    "explanation": "Harvard architecture allows simultaneous instruction and data fetches, while Von Neumann must alternate them."
 }

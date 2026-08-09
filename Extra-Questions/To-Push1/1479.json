@@ -1,14 +1,14 @@
 {
-  "id": "placement-1479",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What is the difference between a Von Neumann architecture and a Harvard architecture?",
-  "options": [
-    "Von Neumann uses RAM, Harvard uses ROM",
-    "Von Neumann uses a single, shared memory space and bus for data and instructions; Harvard uses separate, physically separated memory and buses for data and instructions",
-    "Harvard architecture is older",
-    "There is no difference"
-  ],
-  "answer": 1,
-  "explanation": "Von Neumann architecture shares memory and a bus between data and instructions (creating the 'Von Neumann bottleneck'). Harvard architecture has separate storage and pathways, allowing simultaneous access."
+    "id": "pf-1681",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What is the difference between a Von Neumann architecture and a Harvard architecture?",
+    "options": [
+        "Von Neumann uses RAM, Harvard uses ROM",
+        "Von Neumann uses a single, shared memory space and bus for data and instructions; Harvard uses separate, physically separated memory and buses for data and instructions",
+        "Harvard architecture is older",
+        "There is no difference"
+    ],
+    "answer": 1,
+    "explanation": "Von Neumann architecture shares memory and a bus between data and instructions (creating the 'Von Neumann bottleneck'). Harvard architecture has separate storage and pathways, allowing simultaneous access."
 }

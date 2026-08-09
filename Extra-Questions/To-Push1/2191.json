@@ -1,14 +1,14 @@
 {
-  "id": "placement-2191",
-  "topic": "Seating Arrangement",
-  "difficulty": "Hard",
-  "question": "6 people A-F sit in a circle. A is between B and F. C is opposite D. E is not next to A. Who is next to D?",
-  "options": [
-    "B and F",
-    "C and E",
-    "A and E",
-    "Cannot determine"
-  ],
-  "answer": 1,
-  "explanation": "C opposite D. A is between B and F. The remaining spot between C and D must be taken by E and the other by B or F. Since E is not next to A, E must be next to C and D. So D is between C and E."
+    "id": "pf-2393",
+    "topic": "Seating Arrangement",
+    "difficulty": "Hard",
+    "question": "6 people A-F sit in a circle. A is between B and F. C is opposite D. E is not next to A. Who is next to D?",
+    "options": [
+        "B and F",
+        "C and E",
+        "A and E",
+        "Cannot determine"
+    ],
+    "answer": 1,
+    "explanation": "C opposite D. A is between B and F. The remaining spot between C and D must be taken by E and the other by B or F. Since E is not next to A, E must be next to C and D. So D is between C and E."
 }

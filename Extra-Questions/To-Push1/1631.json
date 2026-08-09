@@ -1,14 +1,14 @@
 {
-  "id": "placement-1631",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Medium",
-  "question": "What does the `static` keyword do to a local variable in C?",
-  "options": [
-    "It makes the variable global",
-    "It extends the lifetime of the variable to the program's duration but preserves local scope",
-    "It decreases the size of the variable",
-    "It initializes the variable to 0 only once"
-  ],
-  "answer": 1,
-  "explanation": "A `static` local variable is allocated in the data segment (not the stack), so it retains its value between function calls, but its scope remains limited to the function block."
+    "id": "pf-1833",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Medium",
+    "question": "What does the `static` keyword do to a local variable in C?",
+    "options": [
+        "It makes the variable global",
+        "It extends the lifetime of the variable to the program's duration but preserves local scope",
+        "It decreases the size of the variable",
+        "It initializes the variable to 0 only once"
+    ],
+    "answer": 1,
+    "explanation": "A `static` local variable is allocated in the data segment (not the stack), so it retains its value between function calls, but its scope remains limited to the function block."
 }

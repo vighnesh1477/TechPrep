@@ -1,14 +1,14 @@
 {
-  "id": "placement-2115",
-  "topic": "Coding-Decoding",
-  "difficulty": "Easy",
-  "question": "If APPLE is coded as ELPPA, what is MANGO?",
-  "options": [
-    "OGNAM",
-    "OGANM",
-    "MANGP",
-    "PMAOG"
-  ],
-  "answer": 0,
-  "explanation": "Letters are reversed."
+    "id": "pf-2317",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "If APPLE is coded as ELPPA, what is MANGO?",
+    "options": [
+        "OGNAM",
+        "OGANM",
+        "MANGP",
+        "PMAOG"
+    ],
+    "answer": 0,
+    "explanation": "Letters are reversed."
 }

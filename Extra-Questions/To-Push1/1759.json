@@ -1,14 +1,14 @@
 {
-  "id": "placement-1759",
-  "topic": "Strings",
-  "difficulty": "Easy",
-  "question": "How do you find the index of a substring in Python?",
-  "options": [
-    "str.indexof('sub')",
-    "str.find('sub')",
-    "str.search('sub')",
-    "str.locate('sub')"
-  ],
-  "answer": 1,
-  "explanation": "The `find()` method returns the lowest index of the substring if found. (Note: `index()` also exists but raises a ValueError if not found, whereas `find()` returns -1)."
+    "id": "pf-1961",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "question": "How do you find the index of a substring in Python?",
+    "options": [
+        "str.indexof('sub')",
+        "str.find('sub')",
+        "str.search('sub')",
+        "str.locate('sub')"
+    ],
+    "answer": 1,
+    "explanation": "The `find()` method returns the lowest index of the substring if found. (Note: `index()` also exists but raises a ValueError if not found, whereas `find()` returns -1)."
 }

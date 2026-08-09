@@ -1,14 +1,14 @@
 {
-  "id": "placement-1579",
-  "topic": "Data Representation",
-  "difficulty": "Easy",
-  "question": "How many bits does a standard ASCII character use?",
-  "options": [
-    "4 bits",
-    "8 bits",
-    "7 bits",
-    "16 bits"
-  ],
-  "answer": 2,
-  "explanation": "Standard ASCII uses 7 bits to represent characters. However, it is typically stored in 1 byte (8 bits), with the most significant bit unused or used for parity."
+    "id": "pf-1781",
+    "topic": "Data Representation",
+    "difficulty": "Easy",
+    "question": "How many bits does a standard ASCII character use?",
+    "options": [
+        "4 bits",
+        "8 bits",
+        "7 bits",
+        "16 bits"
+    ],
+    "answer": 2,
+    "explanation": "Standard ASCII uses 7 bits to represent characters. However, it is typically stored in 1 byte (8 bits), with the most significant bit unused or used for parity."
 }

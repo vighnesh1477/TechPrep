@@ -1,14 +1,14 @@
 {
-  "id": "placement-1430",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the difference between TCP and UDP?",
-  "options": [
-    "TCP is connectionless, UDP is connection-oriented",
-    "TCP provides reliable, ordered delivery; UDP provides fast, unordered, unreliable delivery",
-    "TCP is faster than UDP",
-    "UDP uses handshakes, TCP does not"
-  ],
-  "answer": 1,
-  "explanation": "TCP (Transmission Control Protocol) is connection-oriented, reliable, and guarantees order. UDP (User Datagram Protocol) is connectionless, does not guarantee delivery or order, but is much faster."
+    "id": "pf-1632",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the difference between TCP and UDP?",
+    "options": [
+        "TCP is connectionless, UDP is connection-oriented",
+        "TCP provides reliable, ordered delivery; UDP provides fast, unordered, unreliable delivery",
+        "TCP is faster than UDP",
+        "UDP uses handshakes, TCP does not"
+    ],
+    "answer": 1,
+    "explanation": "TCP (Transmission Control Protocol) is connection-oriented, reliable, and guarantees order. UDP (User Datagram Protocol) is connectionless, does not guarantee delivery or order, but is much faster."
 }

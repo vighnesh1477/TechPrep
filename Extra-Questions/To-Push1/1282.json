@@ -1,14 +1,14 @@
 {
-  "id": "placement-1282",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What does the `IN` operator do?",
-  "options": [
-    "Checks for NULL",
-    "Allows specifying multiple values in a WHERE clause",
-    "Checks for ranges",
-    "Joins tables"
-  ],
-  "answer": 1,
-  "explanation": "IN is a shorthand for multiple OR conditions, e.g., `WHERE country IN ('USA', 'UK')`."
+    "id": "pf-1484",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What does the `IN` operator do?",
+    "options": [
+        "Checks for NULL",
+        "Allows specifying multiple values in a WHERE clause",
+        "Checks for ranges",
+        "Joins tables"
+    ],
+    "answer": 1,
+    "explanation": "IN is a shorthand for multiple OR conditions, e.g., `WHERE country IN ('USA', 'UK')`."
 }

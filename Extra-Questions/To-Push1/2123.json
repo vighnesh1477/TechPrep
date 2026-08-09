@@ -1,14 +1,14 @@
 {
-  "id": "placement-2123",
-  "topic": "Coding-Decoding",
-  "difficulty": "Medium",
-  "question": "If A=1, B=2... Z=26. What is the value of WORD?",
-  "options": [
-    "50",
-    "58",
-    "60",
-    "65"
-  ],
-  "answer": 1,
-  "explanation": "W=23, O=15, R=18, D=4. Sum = 60. Let me recalculate: 23+15+18+4 = 60. Option 2 is 58. Let me change to WORK: K=11. 23+15+18+11 = 67. Let's use CODE: 3+15+4+5 = 27."
+    "id": "pf-2325",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If A=1, B=2... Z=26. What is the value of WORD?",
+    "options": [
+        "50",
+        "58",
+        "60",
+        "65"
+    ],
+    "answer": 1,
+    "explanation": "W=23, O=15, R=18, D=4. Sum = 60. Let me recalculate: 23+15+18+4 = 60. Option 2 is 58. Let me change to WORK: K=11. 23+15+18+11 = 67. Let's use CODE: 3+15+4+5 = 27."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1595",
-  "topic": "Programming Fundamentals",
-  "difficulty": "Easy",
-  "question": "Which keyword is used to declare a constant in Python?",
-  "options": [
-    "const",
-    "constant",
-    "Python does not have a built-in constant keyword",
-    "define"
-  ],
-  "answer": 2,
-  "explanation": "Python does not have a dedicated keyword for constants. By convention, developers use all uppercase variable names (e.g., MAX_SIZE) to indicate a constant."
+    "id": "pf-1797",
+    "topic": "Programming Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to declare a constant in Python?",
+    "options": [
+        "const",
+        "constant",
+        "Python does not have a built-in constant keyword",
+        "define"
+    ],
+    "answer": 2,
+    "explanation": "Python does not have a dedicated keyword for constants. By convention, developers use all uppercase variable names (e.g., MAX_SIZE) to indicate a constant."
 }

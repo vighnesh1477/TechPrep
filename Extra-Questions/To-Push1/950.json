@@ -1,14 +1,14 @@
 {
-  "id": "placement-950",
-  "topic": "DBMS",
-  "difficulty": "Easy",
-  "question": "What does ACID stand for in database transactions?",
-  "options": [
-    "Atomicity, Consistency, Isolation, Durability",
-    "Association, Consistency, Integrity, Data",
-    "Atomicity, Concurrency, Isolation, Distribution",
-    "Association, Concurrency, Integrity, Durability"
-  ],
-  "answer": 0,
-  "explanation": "ACID properties ensure reliable database transactions."
+    "id": "pf-1152",
+    "topic": "DBMS",
+    "difficulty": "Easy",
+    "question": "What does ACID stand for in database transactions?",
+    "options": [
+        "Atomicity, Consistency, Isolation, Durability",
+        "Association, Consistency, Integrity, Data",
+        "Atomicity, Concurrency, Isolation, Distribution",
+        "Association, Concurrency, Integrity, Durability"
+    ],
+    "answer": 0,
+    "explanation": "ACID properties ensure reliable database transactions."
 }

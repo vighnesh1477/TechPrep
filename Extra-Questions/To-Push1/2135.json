@@ -1,14 +1,14 @@
 {
-  "id": "placement-2135",
-  "topic": "Blood Relations",
-  "difficulty": "Easy",
-  "question": "If P + Q means P is father of Q. A + B + C. How is A related to C?",
-  "options": [
-    "Father",
-    "Grandfather",
-    "Son",
-    "Uncle"
-  ],
-  "answer": 1,
-  "explanation": "A is father of B, B is father of C. A is grandfather of C."
+    "id": "pf-2337",
+    "topic": "Blood Relations",
+    "difficulty": "Easy",
+    "question": "If P + Q means P is father of Q. A + B + C. How is A related to C?",
+    "options": [
+        "Father",
+        "Grandfather",
+        "Son",
+        "Uncle"
+    ],
+    "answer": 1,
+    "explanation": "A is father of B, B is father of C. A is grandfather of C."
 }

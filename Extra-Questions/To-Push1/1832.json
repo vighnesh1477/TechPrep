@@ -1,14 +1,14 @@
 {
-  "id": "placement-1832",
-  "topic": "Basic Algorithms",
-  "difficulty": "Easy",
-  "question": "What does a sorting algorithm's \"stability\" mean?",
-  "options": [
-    "It always finishes in the same amount of time",
-    "It preserves the relative order of equal elements",
-    "It does not crash on large datasets",
-    "It uses O(1) extra space"
-  ],
-  "answer": 1,
-  "explanation": "A stable sorting algorithm maintains the relative order of records with equal keys. For example, if A and B have the same value and A appeared first, A will remain first after sorting."
+    "id": "pf-2034",
+    "topic": "Basic Algorithms",
+    "difficulty": "Easy",
+    "question": "What does a sorting algorithm's \"stability\" mean?",
+    "options": [
+        "It always finishes in the same amount of time",
+        "It preserves the relative order of equal elements",
+        "It does not crash on large datasets",
+        "It uses O(1) extra space"
+    ],
+    "answer": 1,
+    "explanation": "A stable sorting algorithm maintains the relative order of records with equal keys. For example, if A and B have the same value and A appeared first, A will remain first after sorting."
 }

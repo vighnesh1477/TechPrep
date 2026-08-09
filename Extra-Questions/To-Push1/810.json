@@ -1,14 +1,14 @@
 {
-  "id": "placement-810",
-  "topic": "sed",
-  "difficulty": "Medium",
-  "question": "What does 'sed 's/old/new/' file' do?",
-  "options": [
-    "Deletes 'old' from the file",
-    "Substitutes the first occurrence of 'old' with 'new' on each line",
-    "Substitutes all occurrences of 'old' with 'new'",
-    "Searches for 'old' and 'new'"
-  ],
-  "answer": 1,
-  "explanation": "sed 's/old/new/' substitutes the first occurrence of 'old' with 'new' on each line. Add the 'g' flag (s/old/new/g) for global replacement on each line."
+    "id": "pf-1012",
+    "topic": "sed",
+    "difficulty": "Medium",
+    "question": "What does 'sed 's/old/new/' file' do?",
+    "options": [
+        "Deletes 'old' from the file",
+        "Substitutes the first occurrence of 'old' with 'new' on each line",
+        "Substitutes all occurrences of 'old' with 'new'",
+        "Searches for 'old' and 'new'"
+    ],
+    "answer": 1,
+    "explanation": "sed 's/old/new/' substitutes the first occurrence of 'old' with 'new' on each line. Add the 'g' flag (s/old/new/g) for global replacement on each line."
 }

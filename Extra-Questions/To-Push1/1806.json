@@ -1,14 +1,14 @@
 {
-  "id": "placement-1806",
-  "topic": "Recursion",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int f(int n) { return (n <= 1) ? n : f(n-1) + f(n-2); }`\n`int main() { printf(\"%d\", f(4)); return 0; }`",
-  "options": [
-    "2",
-    "3",
-    "4",
-    "5"
-  ],
-  "answer": 1,
-  "explanation": "This is Fibonacci. f(4) = f(3) + f(2) = (f(2)+f(1)) + (f(1)+f(0)) = ((f(1)+f(0))+1) + (1+0) = ((1+0)+1) + 1 = 3."
+    "id": "pf-2008",
+    "topic": "Recursion",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int f(int n) { return (n <= 1) ? n : f(n-1) + f(n-2); }`\n`int main() { printf(\"%d\", f(4)); return 0; }`",
+    "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "answer": 1,
+    "explanation": "This is Fibonacci. f(4) = f(3) + f(2) = (f(2)+f(1)) + (f(1)+f(0)) = ((f(1)+f(0))+1) + (1+0) = ((1+0)+1) + 1 = 3."
 }

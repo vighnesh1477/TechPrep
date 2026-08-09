@@ -1,14 +1,14 @@
 {
-  "id": "placement-1687",
-  "topic": "Control Flow",
-  "difficulty": "Hard",
-  "question": "What is the output?\n`int i = 1, j = 1;`\n`while (i <= 3 || j <= 2) {`\n`    printf(\"%d%d \", i, j);`\n`    i++; j++;`\n`}`",
-  "options": [
-    "11 22 33",
-    "11 22",
-    "11 22 33 43",
-    "11"
-  ],
-  "answer": 0,
-  "explanation": "Iter 1: i=1, j=1 (both true). Prints 11. i=2, j=2. Iter 2: i=2(true), j=2(true). Prints 22. i=3, j=3. Iter 3: i=3(true), j=3(false), but OR makes it true. Prints 33. i=4, j=4. Loop ends."
+    "id": "pf-1889",
+    "topic": "Control Flow",
+    "difficulty": "Hard",
+    "question": "What is the output?\n`int i = 1, j = 1;`\n`while (i <= 3 || j <= 2) {`\n`    printf(\"%d%d \", i, j);`\n`    i++; j++;`\n`}`",
+    "options": [
+        "11 22 33",
+        "11 22",
+        "11 22 33 43",
+        "11"
+    ],
+    "answer": 0,
+    "explanation": "Iter 1: i=1, j=1 (both true). Prints 11. i=2, j=2. Iter 2: i=2(true), j=2(true). Prints 22. i=3, j=3. Iter 3: i=3(true), j=3(false), but OR makes it true. Prints 33. i=4, j=4. Loop ends."
 }

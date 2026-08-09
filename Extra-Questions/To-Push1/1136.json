@@ -1,14 +1,14 @@
 {
-  "id": "placement-1136",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "What happens if you forget to write a destructor for a class with dynamic memory?",
-  "options": [
-    "Nothing",
-    "Memory leak",
-    "Syntax error",
-    "Automatic deletion"
-  ],
-  "answer": 1,
-  "explanation": "Without a destructor to call delete, dynamically allocated memory is not freed, causing a leak."
+    "id": "pf-1338",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "What happens if you forget to write a destructor for a class with dynamic memory?",
+    "options": [
+        "Nothing",
+        "Memory leak",
+        "Syntax error",
+        "Automatic deletion"
+    ],
+    "answer": 1,
+    "explanation": "Without a destructor to call delete, dynamically allocated memory is not freed, causing a leak."
 }

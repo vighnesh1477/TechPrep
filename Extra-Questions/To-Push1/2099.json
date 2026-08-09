@@ -1,14 +1,14 @@
 {
-  "id": "placement-2099",
-  "topic": "Number Series",
-  "difficulty": "Hard",
-  "question": "Find next: 12, 24, 72, 288, ?",
-  "options": [
-    "576",
-    "864",
-    "1152",
-    "1440"
-  ],
-  "answer": 3,
-  "explanation": "12*2=24, 24*3=72, 72*4=288, 288*5=1440."
+    "id": "pf-2301",
+    "topic": "Number Series",
+    "difficulty": "Hard",
+    "question": "Find next: 12, 24, 72, 288, ?",
+    "options": [
+        "576",
+        "864",
+        "1152",
+        "1440"
+    ],
+    "answer": 3,
+    "explanation": "12*2=24, 24*3=72, 72*4=288, 288*5=1440."
 }

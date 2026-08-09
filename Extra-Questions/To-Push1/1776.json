@@ -1,14 +1,14 @@
 {
-  "id": "placement-1776",
-  "topic": "Pointers and Memory",
-  "difficulty": "Medium",
-  "question": "Where are local variables stored in memory?",
-  "options": [
-    "Heap",
-    "Data Segment",
-    "Stack",
-    "Code Segment"
-  ],
-  "answer": 2,
-  "explanation": "Local variables and function call information (like return addresses and parameters) are stored in the stack segment of memory, which grows and shrinks dynamically."
+    "id": "pf-1978",
+    "topic": "Pointers and Memory",
+    "difficulty": "Medium",
+    "question": "Where are local variables stored in memory?",
+    "options": [
+        "Heap",
+        "Data Segment",
+        "Stack",
+        "Code Segment"
+    ],
+    "answer": 2,
+    "explanation": "Local variables and function call information (like return addresses and parameters) are stored in the stack segment of memory, which grows and shrinks dynamically."
 }

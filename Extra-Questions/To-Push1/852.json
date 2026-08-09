@@ -1,14 +1,14 @@
 {
-  "id": "placement-852",
-  "topic": "C Programming",
-  "difficulty": "Easy",
-  "question": "What is the size of a pointer on a 64-bit system?",
-  "options": [
-    "2 bytes",
-    "4 bytes",
-    "8 bytes",
-    "16 bytes"
-  ],
-  "answer": 2,
-  "explanation": "64-bit systems use 64-bit (8-byte) addresses."
+    "id": "pf-1054",
+    "topic": "C Programming",
+    "difficulty": "Easy",
+    "question": "What is the size of a pointer on a 64-bit system?",
+    "options": [
+        "2 bytes",
+        "4 bytes",
+        "8 bytes",
+        "16 bytes"
+    ],
+    "answer": 2,
+    "explanation": "64-bit systems use 64-bit (8-byte) addresses."
 }

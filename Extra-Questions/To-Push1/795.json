@@ -1,14 +1,14 @@
 {
-  "id": "placement-795",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What does 'systemctl isolate multi-user.target' do?",
-  "options": [
-    "Shows the multi-user target configuration",
-    "Changes the current system state to multi-user.target, stopping services not needed in that target",
-    "Creates a new multi-user target",
-    "Isolates the multi-user target from the network"
-  ],
-  "answer": 1,
-  "explanation": "isolate changes the current system state to the specified target, starting/stopping services as needed. This is equivalent to changing runlevels in SysVinit."
+    "id": "pf-997",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What does 'systemctl isolate multi-user.target' do?",
+    "options": [
+        "Shows the multi-user target configuration",
+        "Changes the current system state to multi-user.target, stopping services not needed in that target",
+        "Creates a new multi-user target",
+        "Isolates the multi-user target from the network"
+    ],
+    "answer": 1,
+    "explanation": "isolate changes the current system state to the specified target, starting/stopping services as needed. This is equivalent to changing runlevels in SysVinit."
 }

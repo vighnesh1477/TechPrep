@@ -1,14 +1,14 @@
 {
-  "id": "placement-1823",
-  "topic": "Basic Algorithms",
-  "difficulty": "Easy",
-  "question": "Which sorting algorithm is most efficient for small datasets or nearly sorted data?",
-  "options": [
-    "Selection Sort",
-    "Insertion Sort",
-    "Bubble Sort",
-    "Merge Sort"
-  ],
-  "answer": 1,
-  "explanation": "Insertion Sort has very low overhead and runs in O(n) time on nearly sorted data, making it highly efficient for small or partially sorted datasets."
+    "id": "pf-2025",
+    "topic": "Basic Algorithms",
+    "difficulty": "Easy",
+    "question": "Which sorting algorithm is most efficient for small datasets or nearly sorted data?",
+    "options": [
+        "Selection Sort",
+        "Insertion Sort",
+        "Bubble Sort",
+        "Merge Sort"
+    ],
+    "answer": 1,
+    "explanation": "Insertion Sort has very low overhead and runs in O(n) time on nearly sorted data, making it highly efficient for small or partially sorted datasets."
 }

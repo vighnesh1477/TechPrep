@@ -1,14 +1,14 @@
 {
-  "id": "placement-1331",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is a deadlock in an operating system?",
-  "options": [
-    "A process that is using too much CPU",
-    "A situation where a set of processes are blocked because each is holding a resource and waiting for another",
-    "A network connectivity issue",
-    "A memory leak"
-  ],
-  "answer": 1,
-  "explanation": "Deadlock is a specific state where two or more processes are unable to proceed because each is waiting for the other to release a resource."
+    "id": "pf-1533",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a deadlock in an operating system?",
+    "options": [
+        "A process that is using too much CPU",
+        "A situation where a set of processes are blocked because each is holding a resource and waiting for another",
+        "A network connectivity issue",
+        "A memory leak"
+    ],
+    "answer": 1,
+    "explanation": "Deadlock is a specific state where two or more processes are unable to proceed because each is waiting for the other to release a resource."
 }

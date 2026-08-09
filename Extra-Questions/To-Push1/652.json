@@ -1,14 +1,14 @@
 {
-  "id": "placement-652",
-  "topic": "chmod",
-  "difficulty": "Easy",
-  "question": "What does chmod a=r file do?",
-  "options": [
-    "Adds read permission for all",
-    "Sets read-only permission for all, removing other permissions",
-    "Removes read permission for all",
-    "Adds read and execute for all"
-  ],
-  "answer": 1,
-  "explanation": "chmod a=r sets (not adds) read permission for all (owner, group, others) and removes all other permissions. The '=' operator sets exact permissions."
+    "id": "pf-854",
+    "topic": "chmod",
+    "difficulty": "Easy",
+    "question": "What does chmod a=r file do?",
+    "options": [
+        "Adds read permission for all",
+        "Sets read-only permission for all, removing other permissions",
+        "Removes read permission for all",
+        "Adds read and execute for all"
+    ],
+    "answer": 1,
+    "explanation": "chmod a=r sets (not adds) read permission for all (owner, group, others) and removes all other permissions. The '=' operator sets exact permissions."
 }

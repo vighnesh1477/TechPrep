@@ -1,14 +1,14 @@
 {
-  "id": "placement-1396",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Easy",
-  "question": "What does the DISTINCT keyword do in a SELECT statement?",
-  "options": [
-    "Deletes duplicate rows from the table",
-    "Returns only unique values in the result set",
-    "Sorts the results",
-    "Limits the number of rows returned"
-  ],
-  "answer": 1,
-  "explanation": "DISTINCT is used to remove duplicate values from the result set of a SELECT statement. It ensures that the output contains only unique rows."
+    "id": "pf-1598",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Easy",
+    "question": "What does the DISTINCT keyword do in a SELECT statement?",
+    "options": [
+        "Deletes duplicate rows from the table",
+        "Returns only unique values in the result set",
+        "Sorts the results",
+        "Limits the number of rows returned"
+    ],
+    "answer": 1,
+    "explanation": "DISTINCT is used to remove duplicate values from the result set of a SELECT statement. It ensures that the output contains only unique rows."
 }

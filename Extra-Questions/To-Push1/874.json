@@ -1,14 +1,14 @@
 {
-  "id": "placement-874",
-  "topic": "C++",
-  "difficulty": "Medium",
-  "question": "Which type of inheritance prevents a class from being used as a base class?",
-  "options": [
-    "Private",
-    "Protected",
-    "Virtual",
-    "Final (C++11)"
-  ],
-  "answer": 3,
-  "explanation": "The `final` keyword prevents a class from being inherited."
+    "id": "pf-1076",
+    "topic": "C++",
+    "difficulty": "Medium",
+    "question": "Which type of inheritance prevents a class from being used as a base class?",
+    "options": [
+        "Private",
+        "Protected",
+        "Virtual",
+        "Final (C++11)"
+    ],
+    "answer": 3,
+    "explanation": "The `final` keyword prevents a class from being inherited."
 }

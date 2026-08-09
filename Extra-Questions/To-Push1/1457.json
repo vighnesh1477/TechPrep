@@ -1,14 +1,14 @@
 {
-  "id": "placement-1457",
-  "topic": "Computer Architecture",
-  "difficulty": "Easy",
-  "question": "Which type of memory loses its data when the power is turned off?",
-  "options": [
-    "ROM",
-    "RAM",
-    "Hard Drive",
-    "SSD"
-  ],
-  "answer": 1,
-  "explanation": "RAM (Random Access Memory) is volatile memory, meaning it requires power to retain data. Once the power is turned off, all data in RAM is lost."
+    "id": "pf-1659",
+    "topic": "Computer Architecture",
+    "difficulty": "Easy",
+    "question": "Which type of memory loses its data when the power is turned off?",
+    "options": [
+        "ROM",
+        "RAM",
+        "Hard Drive",
+        "SSD"
+    ],
+    "answer": 1,
+    "explanation": "RAM (Random Access Memory) is volatile memory, meaning it requires power to retain data. Once the power is turned off, all data in RAM is lost."
 }

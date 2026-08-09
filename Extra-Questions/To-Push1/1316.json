@@ -1,14 +1,14 @@
 {
-  "id": "placement-1316",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "What does the `TRIM()` function do?",
-  "options": [
-    "Deletes a table",
-    "Removes leading and trailing spaces (or specified characters) from a string",
-    "Truncates a number",
-    "Joins strings"
-  ],
-  "answer": 1,
-  "explanation": "TRIM cleans up string data by removing unwanted characters, usually whitespace, from the ends."
+    "id": "pf-1518",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "What does the `TRIM()` function do?",
+    "options": [
+        "Deletes a table",
+        "Removes leading and trailing spaces (or specified characters) from a string",
+        "Truncates a number",
+        "Joins strings"
+    ],
+    "answer": 1,
+    "explanation": "TRIM cleans up string data by removing unwanted characters, usually whitespace, from the ends."
 }

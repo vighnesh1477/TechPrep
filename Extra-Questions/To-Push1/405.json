@@ -1,14 +1,14 @@
 {
-  "id": "placement-405",
-  "topic": "Ignore (.gitignore)",
-  "difficulty": "Easy",
-  "question": "What does a single * in a .gitignore pattern match?",
-  "options": [
-    "All files and directories recursively",
-    "Any characters except a slash within a single directory level",
-    "Only hidden files",
-    "Only text files"
-  ],
-  "answer": 1,
-  "explanation": "A single * matches any number of characters except a slash, so it operates within a single directory level rather than recursively."
+    "id": "pf-607",
+    "topic": "Ignore (.gitignore)",
+    "difficulty": "Easy",
+    "question": "What does a single * in a .gitignore pattern match?",
+    "options": [
+        "All files and directories recursively",
+        "Any characters except a slash within a single directory level",
+        "Only hidden files",
+        "Only text files"
+    ],
+    "answer": 1,
+    "explanation": "A single * matches any number of characters except a slash, so it operates within a single directory level rather than recursively."
 }

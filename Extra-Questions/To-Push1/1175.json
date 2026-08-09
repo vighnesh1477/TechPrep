@@ -1,14 +1,14 @@
 {
-  "id": "placement-1175",
-  "topic": "Algorithms",
-  "difficulty": "Medium",
-  "question": "What is the space complexity of the standard recursive implementation of Fibonacci?",
-  "options": [
-    "O(1)",
-    "O(N)",
-    "O(N^2)",
-    "O(2^N)"
-  ],
-  "answer": 1,
-  "explanation": "The space complexity is O(N) due to the maximum depth of the recursion tree (call stack)."
+    "id": "pf-1377",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "question": "What is the space complexity of the standard recursive implementation of Fibonacci?",
+    "options": [
+        "O(1)",
+        "O(N)",
+        "O(N^2)",
+        "O(2^N)"
+    ],
+    "answer": 1,
+    "explanation": "The space complexity is O(N) due to the maximum depth of the recursion tree (call stack)."
 }

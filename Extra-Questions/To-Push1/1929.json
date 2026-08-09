@@ -1,14 +1,14 @@
 {
-  "id": "placement-1929",
-  "topic": "Averages",
-  "difficulty": "Medium",
-  "question": "Average weight of 8 people increases by 2.5 kg when a new person replaces one weighing 65 kg. New person's weight?",
-  "options": [
-    "80 kg",
-    "85 kg",
-    "75 kg",
-    "90 kg"
-  ],
-  "answer": 1,
-  "explanation": "Total increase = 8 * 2.5 = 20 kg. New weight = 65 + 20 = 85 kg."
+    "id": "pf-2131",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "question": "Average weight of 8 people increases by 2.5 kg when a new person replaces one weighing 65 kg. New person's weight?",
+    "options": [
+        "80 kg",
+        "85 kg",
+        "75 kg",
+        "90 kg"
+    ],
+    "answer": 1,
+    "explanation": "Total increase = 8 * 2.5 = 20 kg. New weight = 65 + 20 = 85 kg."
 }

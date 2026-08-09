@@ -1,14 +1,14 @@
 {
-  "id": "placement-2010",
-  "topic": "Ages",
-  "difficulty": "Medium",
-  "question": "A's age is 1/3 of B's. After 12 years, A's age is 1/2 of B's. B's age?",
-  "options": [
-    "12",
-    "18",
-    "24",
-    "36"
-  ],
-  "answer": 2,
-  "explanation": "A=B/3. B/3+12 = (B+12)/2 => 2B+72 = 3B+36 => B=36."
+    "id": "pf-2212",
+    "topic": "Ages",
+    "difficulty": "Medium",
+    "question": "A's age is 1/3 of B's. After 12 years, A's age is 1/2 of B's. B's age?",
+    "options": [
+        "12",
+        "18",
+        "24",
+        "36"
+    ],
+    "answer": 2,
+    "explanation": "A=B/3. B/3+12 = (B+12)/2 => 2B+72 = 3B+36 => B=36."
 }

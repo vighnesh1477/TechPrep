@@ -1,14 +1,14 @@
 {
-  "id": "placement-1941",
-  "topic": "Time and Work",
-  "difficulty": "Easy",
-  "question": "Pipe A fills tank in 4 hrs, Pipe B in 6 hrs. Both together in?",
-  "options": [
-    "2 hrs",
-    "2.4 hrs",
-    "3 hrs",
-    "5 hrs"
-  ],
-  "answer": 1,
-  "explanation": "1/4 + 1/6 = 5/12. Time = 12/5 = 2.4 hrs."
+    "id": "pf-2143",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "Pipe A fills tank in 4 hrs, Pipe B in 6 hrs. Both together in?",
+    "options": [
+        "2 hrs",
+        "2.4 hrs",
+        "3 hrs",
+        "5 hrs"
+    ],
+    "answer": 1,
+    "explanation": "1/4 + 1/6 = 5/12. Time = 12/5 = 2.4 hrs."
 }

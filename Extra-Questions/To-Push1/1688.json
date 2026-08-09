@@ -1,14 +1,14 @@
 {
-  "id": "placement-1688",
-  "topic": "Control Flow",
-  "difficulty": "Easy",
-  "question": "What does a `while(0)` loop do?",
-  "options": [
-    "Runs infinitely",
-    "Runs exactly once",
-    "Never executes the loop body",
-    "Causes a compilation error"
-  ],
-  "answer": 2,
-  "explanation": "The condition `0` evaluates to false in C/C++ and most languages. Therefore, the loop body is never entered."
+    "id": "pf-1890",
+    "topic": "Control Flow",
+    "difficulty": "Easy",
+    "question": "What does a `while(0)` loop do?",
+    "options": [
+        "Runs infinitely",
+        "Runs exactly once",
+        "Never executes the loop body",
+        "Causes a compilation error"
+    ],
+    "answer": 2,
+    "explanation": "The condition `0` evaluates to false in C/C++ and most languages. Therefore, the loop body is never entered."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-979",
-  "topic": "SQL",
-  "difficulty": "Hard",
-  "question": "What is the difference between RANK() and DENSE_RANK() window functions?",
-  "options": [
-    "No difference",
-    "RANK() leaves gaps in ranks, DENSE_RANK() does not",
-    "DENSE_RANK() is faster",
-    "RANK() only works on numbers"
-  ],
-  "answer": 1,
-  "explanation": "If two rows tie for rank 1, RANK() gives the next row rank 3, DENSE_RANK() gives it rank 2."
+    "id": "pf-1181",
+    "topic": "SQL",
+    "difficulty": "Hard",
+    "question": "What is the difference between RANK() and DENSE_RANK() window functions?",
+    "options": [
+        "No difference",
+        "RANK() leaves gaps in ranks, DENSE_RANK() does not",
+        "DENSE_RANK() is faster",
+        "RANK() only works on numbers"
+    ],
+    "answer": 1,
+    "explanation": "If two rows tie for rank 1, RANK() gives the next row rank 3, DENSE_RANK() gives it rank 2."
 }

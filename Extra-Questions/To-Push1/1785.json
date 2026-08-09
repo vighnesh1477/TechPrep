@@ -1,14 +1,14 @@
 {
-  "id": "placement-1785",
-  "topic": "Pointers and Memory",
-  "difficulty": "Easy",
-  "question": "Which function is used to release dynamically allocated memory in C?",
-  "options": [
-    "delete",
-    "free",
-    "release",
-    "dispose"
-  ],
-  "answer": 1,
-  "explanation": "In C, the `free()` function is used to deallocate memory that was previously allocated by `malloc`, `calloc`, or `realloc`."
+    "id": "pf-1987",
+    "topic": "Pointers and Memory",
+    "difficulty": "Easy",
+    "question": "Which function is used to release dynamically allocated memory in C?",
+    "options": [
+        "delete",
+        "free",
+        "release",
+        "dispose"
+    ],
+    "answer": 1,
+    "explanation": "In C, the `free()` function is used to deallocate memory that was previously allocated by `malloc`, `calloc`, or `realloc`."
 }

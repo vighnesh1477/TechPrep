@@ -1,14 +1,14 @@
 {
-  "id": "placement-1965",
-  "topic": "Time, Speed and Distance",
-  "difficulty": "Medium",
-  "question": "Average speed for 60 km at 30 km/h and 60 km at 60 km/h?",
-  "options": [
-    "40 km/h",
-    "45 km/h",
-    "50 km/h",
-    "60 km/h"
-  ],
-  "answer": 0,
-  "explanation": "Total dist=120, total time=2+1=3. Avg speed=120/3=40 km/h."
+    "id": "pf-2167",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "Average speed for 60 km at 30 km/h and 60 km at 60 km/h?",
+    "options": [
+        "40 km/h",
+        "45 km/h",
+        "50 km/h",
+        "60 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Total dist=120, total time=2+1=3. Avg speed=120/3=40 km/h."
 }

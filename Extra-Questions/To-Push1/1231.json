@@ -1,14 +1,14 @@
 {
-  "id": "placement-1231",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "Which clause is used to filter aggregated results?",
-  "options": [
-    "WHERE",
-    "HAVING",
-    "GROUP BY",
-    "ORDER BY"
-  ],
-  "answer": 1,
-  "explanation": "HAVING filters groups created by GROUP BY, whereas WHERE filters individual rows before grouping."
+    "id": "pf-1433",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "Which clause is used to filter aggregated results?",
+    "options": [
+        "WHERE",
+        "HAVING",
+        "GROUP BY",
+        "ORDER BY"
+    ],
+    "answer": 1,
+    "explanation": "HAVING filters groups created by GROUP BY, whereas WHERE filters individual rows before grouping."
 }

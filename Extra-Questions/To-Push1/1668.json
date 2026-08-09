@@ -1,14 +1,14 @@
 {
-  "id": "placement-1668",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of this Java snippet?\n`boolean flag = false;`\n`while(flag) {`\n`    System.out.print(\"X\");`\n`}`\n`System.out.print(\"Y\");`",
-  "options": [
-    "XY",
-    "Y",
-    "X",
-    "Infinite loop of X"
-  ],
-  "answer": 1,
-  "explanation": "Since `flag` is initially `false`, the condition in the `while` loop evaluates to false immediately, so the loop body never executes. Only \"Y\" is printed."
+    "id": "pf-1870",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of this Java snippet?\n`boolean flag = false;`\n`while(flag) {`\n`    System.out.print(\"X\");`\n`}`\n`System.out.print(\"Y\");`",
+    "options": [
+        "XY",
+        "Y",
+        "X",
+        "Infinite loop of X"
+    ],
+    "answer": 1,
+    "explanation": "Since `flag` is initially `false`, the condition in the `while` loop evaluates to false immediately, so the loop body never executes. Only \"Y\" is printed."
 }

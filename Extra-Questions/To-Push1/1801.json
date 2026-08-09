@@ -1,14 +1,14 @@
 {
-  "id": "placement-1801",
-  "topic": "Recursion",
-  "difficulty": "Hard",
-  "question": "What is the space complexity of a standard non-tail-recursive function that makes `n` calls?",
-  "options": [
-    "O(1)",
-    "O(n)",
-    "O(n^2)",
-    "O(log n)"
-  ],
-  "answer": 1,
-  "explanation": "Each recursive call adds a new frame to the call stack. For `n` calls, the maximum stack depth is `n`, resulting in O(n) auxiliary space complexity."
+    "id": "pf-2003",
+    "topic": "Recursion",
+    "difficulty": "Hard",
+    "question": "What is the space complexity of a standard non-tail-recursive function that makes `n` calls?",
+    "options": [
+        "O(1)",
+        "O(n)",
+        "O(n^2)",
+        "O(log n)"
+    ],
+    "answer": 1,
+    "explanation": "Each recursive call adds a new frame to the call stack. For `n` calls, the maximum stack depth is `n`, resulting in O(n) auxiliary space complexity."
 }

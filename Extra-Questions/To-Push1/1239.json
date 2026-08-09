@@ -1,14 +1,14 @@
 {
-  "id": "placement-1239",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is a Virtual Private Cloud (VPC)?",
-  "options": [
-    "A public cloud",
-    "A logically isolated section of a public cloud where you can launch resources in a virtual network",
-    "An on-premise server",
-    "A type of VPN"
-  ],
-  "answer": 1,
-  "explanation": "A VPC provides a private subnet within a public cloud, giving users control over their virtual networking environment."
+    "id": "pf-1441",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is a Virtual Private Cloud (VPC)?",
+    "options": [
+        "A public cloud",
+        "A logically isolated section of a public cloud where you can launch resources in a virtual network",
+        "An on-premise server",
+        "A type of VPN"
+    ],
+    "answer": 1,
+    "explanation": "A VPC provides a private subnet within a public cloud, giving users control over their virtual networking environment."
 }

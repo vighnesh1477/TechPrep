@@ -1,14 +1,14 @@
 {
-  "id": "placement-1184",
-  "topic": "DBMS",
-  "difficulty": "Medium",
-  "question": "What is a transaction in a database?",
-  "options": [
-    "A single SQL query",
-    "A logical unit of work consisting of one or more SQL operations",
-    "A connection string",
-    "A backup file"
-  ],
-  "answer": 1,
-  "explanation": "A transaction groups multiple operations into a single unit that either entirely succeeds or fails."
+    "id": "pf-1386",
+    "topic": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is a transaction in a database?",
+    "options": [
+        "A single SQL query",
+        "A logical unit of work consisting of one or more SQL operations",
+        "A connection string",
+        "A backup file"
+    ],
+    "answer": 1,
+    "explanation": "A transaction groups multiple operations into a single unit that either entirely succeeds or fails."
 }

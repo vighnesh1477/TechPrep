@@ -1,14 +1,14 @@
 {
-  "id": "placement-753",
-  "topic": "du",
-  "difficulty": "Easy",
-  "question": "What does du -h --max-depth=1 do?",
-  "options": [
-    "Shows only the top-level directory size",
-    "Shows sizes of directories one level deep in human-readable format",
-    "Shows sizes limited to 1 GB",
-    "Shows sizes with one decimal place"
-  ],
-  "answer": 1,
-  "explanation": "--max-depth=1 limits the directory traversal to one level deep, showing sizes of immediate subdirectories plus the total."
+    "id": "pf-955",
+    "topic": "du",
+    "difficulty": "Easy",
+    "question": "What does du -h --max-depth=1 do?",
+    "options": [
+        "Shows only the top-level directory size",
+        "Shows sizes of directories one level deep in human-readable format",
+        "Shows sizes limited to 1 GB",
+        "Shows sizes with one decimal place"
+    ],
+    "answer": 1,
+    "explanation": "--max-depth=1 limits the directory traversal to one level deep, showing sizes of immediate subdirectories plus the total."
 }

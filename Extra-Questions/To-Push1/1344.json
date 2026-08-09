@@ -1,14 +1,14 @@
 {
-  "id": "placement-1344",
-  "topic": "Operating Systems Fundamentals",
-  "difficulty": "Medium",
-  "question": "What is the Banker's Algorithm used for?",
-  "options": [
-    "Process scheduling",
-    "Memory allocation",
-    "Deadlock avoidance",
-    "Disk scheduling"
-  ],
-  "answer": 2,
-  "explanation": "The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm that simulates allocation of maximum possible amounts of all resources, then checks for a safe state."
+    "id": "pf-1546",
+    "topic": "Operating Systems Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the Banker's Algorithm used for?",
+    "options": [
+        "Process scheduling",
+        "Memory allocation",
+        "Deadlock avoidance",
+        "Disk scheduling"
+    ],
+    "answer": 2,
+    "explanation": "The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm that simulates allocation of maximum possible amounts of all resources, then checks for a safe state."
 }

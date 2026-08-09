@@ -1,14 +1,14 @@
 {
-  "id": "placement-1930",
-  "topic": "Averages",
-  "difficulty": "Medium",
-  "question": "Average of 25 results is 18. Average of first 12 is 14, last 12 is 17. 13th result?",
-  "options": [
-    "78",
-    "68",
-    "58",
-    "88"
-  ],
-  "answer": 0,
-  "explanation": "Sum of 25 = 450. Sum of 24 = 12*14 + 12*17 = 168 + 204 = 372. 13th = 450 - 372 = 78."
+    "id": "pf-2132",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "question": "Average of 25 results is 18. Average of first 12 is 14, last 12 is 17. 13th result?",
+    "options": [
+        "78",
+        "68",
+        "58",
+        "88"
+    ],
+    "answer": 0,
+    "explanation": "Sum of 25 = 450. Sum of 24 = 12*14 + 12*17 = 168 + 204 = 372. 13th = 450 - 372 = 78."
 }

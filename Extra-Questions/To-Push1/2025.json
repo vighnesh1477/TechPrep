@@ -1,14 +1,14 @@
 {
-  "id": "placement-2025",
-  "topic": "Probability",
-  "difficulty": "Hard",
-  "question": "A speaks truth 60%, B 70%. What is prob they contradict on a statement?",
-  "options": [
-    "0.42",
-    "0.46",
-    "0.58",
-    "0.54"
-  ],
-  "answer": 1,
-  "explanation": "Contradict = (A true, B false) + (A false, B true) = 0.6*0.3 + 0.4*0.7 = 0.18 + 0.28 = 0.46."
+    "id": "pf-2227",
+    "topic": "Probability",
+    "difficulty": "Hard",
+    "question": "A speaks truth 60%, B 70%. What is prob they contradict on a statement?",
+    "options": [
+        "0.42",
+        "0.46",
+        "0.58",
+        "0.54"
+    ],
+    "answer": 1,
+    "explanation": "Contradict = (A true, B false) + (A false, B true) = 0.6*0.3 + 0.4*0.7 = 0.18 + 0.28 = 0.46."
 }

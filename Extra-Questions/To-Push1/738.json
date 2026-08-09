@@ -1,14 +1,14 @@
 {
-  "id": "placement-738",
-  "topic": "Package Managers",
-  "difficulty": "Easy",
-  "question": "Which package manager is used on Debian-based systems?",
-  "options": [
-    "yum",
-    "dnf",
-    "apt",
-    "zypper"
-  ],
-  "answer": 2,
-  "explanation": "apt (Advanced Package Tool) is the primary package manager for Debian-based distributions like Ubuntu, Debian, and Linux Mint."
+    "id": "pf-940",
+    "topic": "Package Managers",
+    "difficulty": "Easy",
+    "question": "Which package manager is used on Debian-based systems?",
+    "options": [
+        "yum",
+        "dnf",
+        "apt",
+        "zypper"
+    ],
+    "answer": 2,
+    "explanation": "apt (Advanced Package Tool) is the primary package manager for Debian-based distributions like Ubuntu, Debian, and Linux Mint."
 }

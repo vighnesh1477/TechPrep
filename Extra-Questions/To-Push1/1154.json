@@ -1,14 +1,14 @@
 {
-  "id": "placement-1154",
-  "topic": "Python",
-  "difficulty": "Medium",
-  "question": "What does `yield` do in a function?",
-  "options": [
-    "Returns a value and terminates the function",
-    "Pauses the function, returning a value, and resumes from there on the next call",
-    "Raises an exception",
-    "Exits a loop"
-  ],
-  "answer": 1,
-  "explanation": "yield turns a function into a generator, pausing execution and maintaining state between calls."
+    "id": "pf-1356",
+    "topic": "Python",
+    "difficulty": "Medium",
+    "question": "What does `yield` do in a function?",
+    "options": [
+        "Returns a value and terminates the function",
+        "Pauses the function, returning a value, and resumes from there on the next call",
+        "Raises an exception",
+        "Exits a loop"
+    ],
+    "answer": 1,
+    "explanation": "yield turns a function into a generator, pausing execution and maintaining state between calls."
 }

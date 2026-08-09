@@ -1,14 +1,14 @@
 {
-  "id": "placement-1164",
-  "topic": "Data Structures",
-  "difficulty": "Medium",
-  "question": "What is the worst-case time complexity to search in a Hash Table?",
-  "options": [
-    "O(1)",
-    "O(N)",
-    "O(log N)",
-    "O(N^2)"
-  ],
-  "answer": 1,
-  "explanation": "If all keys collide into the same bucket (e.g., due to a bad hash function), it degrades to searching a linked list of size N."
+    "id": "pf-1366",
+    "topic": "Data Structures",
+    "difficulty": "Medium",
+    "question": "What is the worst-case time complexity to search in a Hash Table?",
+    "options": [
+        "O(1)",
+        "O(N)",
+        "O(log N)",
+        "O(N^2)"
+    ],
+    "answer": 1,
+    "explanation": "If all keys collide into the same bucket (e.g., due to a bad hash function), it degrades to searching a linked list of size N."
 }

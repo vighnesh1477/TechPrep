@@ -1,14 +1,14 @@
 {
-  "id": "placement-1324",
-  "topic": "Cloud Basics",
-  "difficulty": "Medium",
-  "question": "What is a cloud load balancer?",
-  "options": [
-    "A heavy server",
-    "A tool that distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed",
-    "A database optimizer",
-    "A firewall"
-  ],
-  "answer": 1,
-  "explanation": "Load balancers improve application availability and responsiveness by spreading requests across healthy instances."
+    "id": "pf-1526",
+    "topic": "Cloud Basics",
+    "difficulty": "Medium",
+    "question": "What is a cloud load balancer?",
+    "options": [
+        "A heavy server",
+        "A tool that distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed",
+        "A database optimizer",
+        "A firewall"
+    ],
+    "answer": 1,
+    "explanation": "Load balancers improve application availability and responsiveness by spreading requests across healthy instances."
 }

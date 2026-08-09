@@ -1,14 +1,14 @@
 {
-  "id": "placement-1189",
-  "topic": "DBMS",
-  "difficulty": "Hard",
-  "question": "What is a materialized view?",
-  "options": [
-    "A virtual view",
-    "A view that physically stores the query result on disk and is updated periodically",
-    "A 3D database concept",
-    "A deleted view"
-  ],
-  "answer": 1,
-  "explanation": "Unlike standard views, materialized views store the computed data, speeding up complex queries at the cost of storage and refresh time."
+    "id": "pf-1391",
+    "topic": "DBMS",
+    "difficulty": "Hard",
+    "question": "What is a materialized view?",
+    "options": [
+        "A virtual view",
+        "A view that physically stores the query result on disk and is updated periodically",
+        "A 3D database concept",
+        "A deleted view"
+    ],
+    "answer": 1,
+    "explanation": "Unlike standard views, materialized views store the computed data, speeding up complex queries at the cost of storage and refresh time."
 }

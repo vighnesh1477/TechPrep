@@ -1,14 +1,14 @@
 {
-  "id": "placement-893",
-  "topic": "Java",
-  "difficulty": "Hard",
-  "question": "What happens when you call `start()` twice on the same Thread object?",
-  "options": [
-    "Runs twice",
-    "IllegalThreadStateException",
-    "Ignores second call",
-    "Deadlock"
-  ],
-  "answer": 1,
-  "explanation": "Once a thread has terminated, calling start() again throws an IllegalThreadStateException."
+    "id": "pf-1095",
+    "topic": "Java",
+    "difficulty": "Hard",
+    "question": "What happens when you call `start()` twice on the same Thread object?",
+    "options": [
+        "Runs twice",
+        "IllegalThreadStateException",
+        "Ignores second call",
+        "Deadlock"
+    ],
+    "answer": 1,
+    "explanation": "Once a thread has terminated, calling start() again throws an IllegalThreadStateException."
 }

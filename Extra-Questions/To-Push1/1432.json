@@ -1,14 +1,14 @@
 {
-  "id": "placement-1432",
-  "topic": "Computer Networks Fundamentals",
-  "difficulty": "Easy",
-  "question": "What is the default port number for HTTP?",
-  "options": [
-    "21",
-    "22",
-    "443",
-    "80"
-  ],
-  "answer": 3,
-  "explanation": "HTTP typically uses port 80. HTTPS uses port 443, FTP uses port 21, and SSH uses port 22."
+    "id": "pf-1634",
+    "topic": "Computer Networks Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the default port number for HTTP?",
+    "options": [
+        "21",
+        "22",
+        "443",
+        "80"
+    ],
+    "answer": 3,
+    "explanation": "HTTP typically uses port 80. HTTPS uses port 443, FTP uses port 21, and SSH uses port 22."
 }

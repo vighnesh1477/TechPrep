@@ -1,14 +1,14 @@
 {
-  "id": "placement-796",
-  "topic": "Boot Process",
-  "difficulty": "Medium",
-  "question": "What file controls GRUB boot menu configuration?",
-  "options": [
-    "/boot/grub/grub.conf",
-    "/etc/default/grub",
-    "/boot/grub/grub.cfg (generated from /etc/default/grub)",
-    "/etc/grub/menu.lst"
-  ],
-  "answer": 2,
-  "explanation": "grub.cfg is the actual configuration file read by GRUB, but it is auto-generated. Users edit /etc/default/grub and then run 'grub-mkconfig' or 'update-grub' to regenerate grub.cfg."
+    "id": "pf-998",
+    "topic": "Boot Process",
+    "difficulty": "Medium",
+    "question": "What file controls GRUB boot menu configuration?",
+    "options": [
+        "/boot/grub/grub.conf",
+        "/etc/default/grub",
+        "/boot/grub/grub.cfg (generated from /etc/default/grub)",
+        "/etc/grub/menu.lst"
+    ],
+    "answer": 2,
+    "explanation": "grub.cfg is the actual configuration file read by GRUB, but it is auto-generated. Users edit /etc/default/grub and then run 'grub-mkconfig' or 'update-grub' to regenerate grub.cfg."
 }

@@ -1,14 +1,14 @@
 {
-  "id": "placement-1706",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "What is the output of this C code?\n`int f(int a) { return a++; }`\n`int main() { printf(\"%d\", f(5)); return 0; }`",
-  "options": [
-    "5",
-    "6",
-    "4",
-    "Undefined"
-  ],
-  "answer": 0,
-  "explanation": "The post-increment operator `a++` returns the current value of `a` (which is 5) to the return statement, and then increments `a` (which is immediately discarded)."
+    "id": "pf-1908",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "What is the output of this C code?\n`int f(int a) { return a++; }`\n`int main() { printf(\"%d\", f(5)); return 0; }`",
+    "options": [
+        "5",
+        "6",
+        "4",
+        "Undefined"
+    ],
+    "answer": 0,
+    "explanation": "The post-increment operator `a++` returns the current value of `a` (which is 5) to the return statement, and then increments `a` (which is immediately discarded)."
 }

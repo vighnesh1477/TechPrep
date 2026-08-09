@@ -1,14 +1,14 @@
 {
-  "id": "placement-1130",
-  "topic": "C Programming",
-  "difficulty": "Hard",
-  "question": "What is function pointer used for?",
-  "options": [
-    "Pointing to global variables",
-    "Storing the address of a function to call it dynamically",
-    "Returning pointers from functions",
-    "Pointing to struct members"
-  ],
-  "answer": 1,
-  "explanation": "Function pointers allow passing functions as arguments and implementing callbacks."
+    "id": "pf-1332",
+    "topic": "C Programming",
+    "difficulty": "Hard",
+    "question": "What is function pointer used for?",
+    "options": [
+        "Pointing to global variables",
+        "Storing the address of a function to call it dynamically",
+        "Returning pointers from functions",
+        "Pointing to struct members"
+    ],
+    "answer": 1,
+    "explanation": "Function pointers allow passing functions as arguments and implementing callbacks."
 }

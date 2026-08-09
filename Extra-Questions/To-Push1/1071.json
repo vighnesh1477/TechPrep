@@ -1,14 +1,14 @@
 {
-  "id": "placement-1071",
-  "topic": "Linux",
-  "difficulty": "Medium",
-  "question": "What does `> ` do in a command like `echo 'hello' > file.txt`?",
-  "options": [
-    "Appends to file",
-    "Overwrites the file with the output",
-    "Reads from file",
-    "Creates a directory"
-  ],
-  "answer": 1,
-  "explanation": "The single greater-than sign redirects output and overwrites the target file."
+    "id": "pf-1273",
+    "topic": "Linux",
+    "difficulty": "Medium",
+    "question": "What does `> ` do in a command like `echo 'hello' > file.txt`?",
+    "options": [
+        "Appends to file",
+        "Overwrites the file with the output",
+        "Reads from file",
+        "Creates a directory"
+    ],
+    "answer": 1,
+    "explanation": "The single greater-than sign redirects output and overwrites the target file."
 }

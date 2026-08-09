@@ -1,14 +1,14 @@
 {
-  "id": "placement-1308",
-  "topic": "Computer Architecture",
-  "difficulty": "Hard",
-  "question": "What is a cache miss?",
-  "options": [
-    "Deleting a cache",
-    "When the data requested by the CPU is not found in the cache and must be fetched from main memory",
-    "A cache hit",
-    "A network error"
-  ],
-  "answer": 1,
-  "explanation": "A cache miss results in a delay (stall) while the CPU fetches the data from slower main memory or lower cache levels."
+    "id": "pf-1510",
+    "topic": "Computer Architecture",
+    "difficulty": "Hard",
+    "question": "What is a cache miss?",
+    "options": [
+        "Deleting a cache",
+        "When the data requested by the CPU is not found in the cache and must be fetched from main memory",
+        "A cache hit",
+        "A network error"
+    ],
+    "answer": 1,
+    "explanation": "A cache miss results in a delay (stall) while the CPU fetches the data from slower main memory or lower cache levels."
 }

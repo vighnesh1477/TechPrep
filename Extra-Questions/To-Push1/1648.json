@@ -1,14 +1,14 @@
 {
-  "id": "placement-1648",
-  "topic": "Control Flow",
-  "difficulty": "Medium",
-  "question": "What is the output of the following C code?\n`for(int i=0; i<5; i++);`\n`printf(\"%d\", i);`",
-  "options": [
-    "01234",
-    "5",
-    "Compilation Error",
-    "Infinite Loop"
-  ],
-  "answer": 2,
-  "explanation": "The semicolon `;` immediately after the for loop creates an empty loop body. The variable `i` is declared within the loop's initialization, so it is out of scope at the `printf` statement, causing a compilation error."
+    "id": "pf-1850",
+    "topic": "Control Flow",
+    "difficulty": "Medium",
+    "question": "What is the output of the following C code?\n`for(int i=0; i<5; i++);`\n`printf(\"%d\", i);`",
+    "options": [
+        "01234",
+        "5",
+        "Compilation Error",
+        "Infinite Loop"
+    ],
+    "answer": 2,
+    "explanation": "The semicolon `;` immediately after the for loop creates an empty loop body. The variable `i` is declared within the loop's initialization, so it is out of scope at the `printf` statement, causing a compilation error."
 }

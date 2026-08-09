@@ -1,14 +1,14 @@
 {
-  "id": "placement-697",
-  "topic": "kill",
-  "difficulty": "Easy",
-  "question": "What does 'killall nginx' do?",
-  "options": [
-    "Kills all processes on the system",
-    "Kills all processes named 'nginx'",
-    "Kills the nginx group",
-    "Kills all processes owned by the nginx user"
-  ],
-  "answer": 1,
-  "explanation": "killall sends a signal to all processes with the specified name. 'killall nginx' sends SIGTERM to all running nginx processes."
+    "id": "pf-899",
+    "topic": "kill",
+    "difficulty": "Easy",
+    "question": "What does 'killall nginx' do?",
+    "options": [
+        "Kills all processes on the system",
+        "Kills all processes named 'nginx'",
+        "Kills the nginx group",
+        "Kills all processes owned by the nginx user"
+    ],
+    "answer": 1,
+    "explanation": "killall sends a signal to all processes with the specified name. 'killall nginx' sends SIGTERM to all running nginx processes."
 }

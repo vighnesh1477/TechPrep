@@ -1,14 +1,14 @@
 {
-  "id": "placement-772",
-  "topic": "fdisk",
-  "difficulty": "Easy",
-  "question": "What does the 'w' command do in fdisk?",
-  "options": [
-    "Wipes the disk",
-    "Writes the partition table to disk and exits",
-    "Shows warnings",
-    "Waits for user input"
-  ],
-  "answer": 1,
-  "explanation": "w writes the partition table changes to disk and exits fdisk. Changes are not applied until you write them, allowing you to abort with 'q'."
+    "id": "pf-974",
+    "topic": "fdisk",
+    "difficulty": "Easy",
+    "question": "What does the 'w' command do in fdisk?",
+    "options": [
+        "Wipes the disk",
+        "Writes the partition table to disk and exits",
+        "Shows warnings",
+        "Waits for user input"
+    ],
+    "answer": 1,
+    "explanation": "w writes the partition table changes to disk and exits fdisk. Changes are not applied until you write them, allowing you to abort with 'q'."
 }

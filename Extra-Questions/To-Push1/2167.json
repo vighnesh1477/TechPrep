@@ -1,14 +1,14 @@
 {
-  "id": "placement-2167",
-  "topic": "Statements and Conclusions",
-  "difficulty": "Medium",
-  "question": "Statement: Company X profits increased by 20%. Conclusion: Company X sold more products.",
-  "options": [
-    "Follows",
-    "Does not follow",
-    "Partially follows",
-    "Contradiction"
-  ],
-  "answer": 1,
-  "explanation": "Profit can increase by cutting costs, not necessarily by selling more."
+    "id": "pf-2369",
+    "topic": "Statements and Conclusions",
+    "difficulty": "Medium",
+    "question": "Statement: Company X profits increased by 20%. Conclusion: Company X sold more products.",
+    "options": [
+        "Follows",
+        "Does not follow",
+        "Partially follows",
+        "Contradiction"
+    ],
+    "answer": 1,
+    "explanation": "Profit can increase by cutting costs, not necessarily by selling more."
 }

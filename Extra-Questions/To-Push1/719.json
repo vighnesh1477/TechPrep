@@ -1,14 +1,14 @@
 {
-  "id": "placement-719",
-  "topic": "Groups",
-  "difficulty": "Easy",
-  "question": "How do you list the groups a user belongs to?",
-  "options": [
-    "groups username",
-    "id username",
-    "Both A and B",
-    "listgroups username"
-  ],
-  "answer": 2,
-  "explanation": "Both 'groups username' and 'id username' show the groups a user belongs to. 'id' also shows UID and GID information."
+    "id": "pf-921",
+    "topic": "Groups",
+    "difficulty": "Easy",
+    "question": "How do you list the groups a user belongs to?",
+    "options": [
+        "groups username",
+        "id username",
+        "Both A and B",
+        "listgroups username"
+    ],
+    "answer": 2,
+    "explanation": "Both 'groups username' and 'id username' show the groups a user belongs to. 'id' also shows UID and GID information."
 }

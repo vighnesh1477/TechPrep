@@ -1,14 +1,14 @@
 {
-  "id": "placement-973",
-  "topic": "SQL",
-  "difficulty": "Medium",
-  "question": "Which query returns the second highest salary from an Employee table?",
-  "options": [
-    "SELECT MAX(salary) FROM Employee LIMIT 1 OFFSET 1",
-    "SELECT DISTINCT salary FROM Employee ORDER BY salary DESC LIMIT 1 OFFSET 1",
-    "SELECT salary FROM Employee WHERE salary < MAX(salary)",
-    "SELECT MAX(salary) - 1 FROM Employee"
-  ],
-  "answer": 1,
-  "explanation": "Sorting distinct salaries descending and skipping the first row (OFFSET 1) correctly gets the second highest."
+    "id": "pf-1175",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "Which query returns the second highest salary from an Employee table?",
+    "options": [
+        "SELECT MAX(salary) FROM Employee LIMIT 1 OFFSET 1",
+        "SELECT DISTINCT salary FROM Employee ORDER BY salary DESC LIMIT 1 OFFSET 1",
+        "SELECT salary FROM Employee WHERE salary < MAX(salary)",
+        "SELECT MAX(salary) - 1 FROM Employee"
+    ],
+    "answer": 1,
+    "explanation": "Sorting distinct salaries descending and skipping the first row (OFFSET 1) correctly gets the second highest."
 }

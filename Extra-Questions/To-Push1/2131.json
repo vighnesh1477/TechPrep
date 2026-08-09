@@ -1,14 +1,14 @@
 {
-  "id": "placement-2131",
-  "topic": "Coding-Decoding",
-  "difficulty": "Hard",
-  "question": "If 'go for walk' is 'na pa da', 'walk is good' is 'da ma re', 'go and come' is 'pa su fi'. Code for 'for'?",
-  "options": [
-    "na",
-    "pa",
-    "da",
-    "ma"
-  ],
-  "answer": 0,
-  "explanation": "'go' is 'pa'. 'walk' is 'da'. 'for' is 'na'."
+    "id": "pf-2333",
+    "topic": "Coding-Decoding",
+    "difficulty": "Hard",
+    "question": "If 'go for walk' is 'na pa da', 'walk is good' is 'da ma re', 'go and come' is 'pa su fi'. Code for 'for'?",
+    "options": [
+        "na",
+        "pa",
+        "da",
+        "ma"
+    ],
+    "answer": 0,
+    "explanation": "'go' is 'pa'. 'walk' is 'da'. 'for' is 'na'."
 }

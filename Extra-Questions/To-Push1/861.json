@@ -1,14 +1,14 @@
 {
-  "id": "placement-861",
-  "topic": "C Programming",
-  "difficulty": "Medium",
-  "question": "How are structure members stored in memory by default?",
-  "options": [
-    "Random order",
-    "Reverse order",
-    "Order of declaration",
-    "Alphabetical order"
-  ],
-  "answer": 2,
-  "explanation": "Members are allocated sequentially in the order they are declared."
+    "id": "pf-1063",
+    "topic": "C Programming",
+    "difficulty": "Medium",
+    "question": "How are structure members stored in memory by default?",
+    "options": [
+        "Random order",
+        "Reverse order",
+        "Order of declaration",
+        "Alphabetical order"
+    ],
+    "answer": 2,
+    "explanation": "Members are allocated sequentially in the order they are declared."
 }

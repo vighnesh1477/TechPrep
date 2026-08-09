@@ -1,14 +1,14 @@
 {
-  "id": "placement-1719",
-  "topic": "Functions",
-  "difficulty": "Medium",
-  "question": "In C++, where must default arguments be specified?",
-  "options": [
-    "In the function call",
-    "In the function declaration or definition (usually the declaration)",
-    "In the main function",
-    "In a separate configuration file"
-  ],
-  "answer": 1,
-  "explanation": "Default arguments must be specified in the function prototype (declaration) or definition. If specified in both, they must match exactly, and typically they are put in the declaration."
+    "id": "pf-1921",
+    "topic": "Functions",
+    "difficulty": "Medium",
+    "question": "In C++, where must default arguments be specified?",
+    "options": [
+        "In the function call",
+        "In the function declaration or definition (usually the declaration)",
+        "In the main function",
+        "In a separate configuration file"
+    ],
+    "answer": 1,
+    "explanation": "Default arguments must be specified in the function prototype (declaration) or definition. If specified in both, they must match exactly, and typically they are put in the declaration."
 }

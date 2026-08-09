@@ -1,14 +1,14 @@
 {
-  "id": "placement-1003",
-  "topic": "Computer Networks",
-  "difficulty": "Easy",
-  "question": "What does DNS stand for?",
-  "options": [
-    "Dynamic Network System",
-    "Domain Name System",
-    "Data Network Service",
-    "Digital Name Server"
-  ],
-  "answer": 1,
-  "explanation": "DNS translates human-readable domain names into IP addresses."
+    "id": "pf-1205",
+    "topic": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "What does DNS stand for?",
+    "options": [
+        "Dynamic Network System",
+        "Domain Name System",
+        "Data Network Service",
+        "Digital Name Server"
+    ],
+    "answer": 1,
+    "explanation": "DNS translates human-readable domain names into IP addresses."
 }

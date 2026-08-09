@@ -1,14 +1,14 @@
 {
-  "id": "placement-1412",
-  "topic": "SQL Fundamentals",
-  "difficulty": "Medium",
-  "question": "In a LEFT JOIN, if a row from the left table has no match in the right table, what values appear for the right table's columns?",
-  "options": [
-    "Empty strings",
-    "Zeros",
-    "NULL",
-    "The query fails"
-  ],
-  "answer": 2,
-  "explanation": "In a LEFT JOIN, if there is no match, the result is NULL on the right side. The row from the left table is still included in the result set."
+    "id": "pf-1614",
+    "topic": "SQL Fundamentals",
+    "difficulty": "Medium",
+    "question": "In a LEFT JOIN, if a row from the left table has no match in the right table, what values appear for the right table's columns?",
+    "options": [
+        "Empty strings",
+        "Zeros",
+        "NULL",
+        "The query fails"
+    ],
+    "answer": 2,
+    "explanation": "In a LEFT JOIN, if there is no match, the result is NULL on the right side. The row from the left table is still included in the result set."
 }

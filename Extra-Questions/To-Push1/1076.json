@@ -1,14 +1,14 @@
 {
-  "id": "placement-1076",
-  "topic": "Linux",
-  "difficulty": "Hard",
-  "question": "What does `df -h` show?",
-  "options": [
-    "Disk usage of files",
-    "Disk space usage of file systems in human-readable format",
-    "Directory hierarchy",
-    "Hardware info"
-  ],
-  "answer": 1,
-  "explanation": "df (disk free) reports file system disk space usage, and -h makes it human-readable (e.g., GB, MB)."
+    "id": "pf-1278",
+    "topic": "Linux",
+    "difficulty": "Hard",
+    "question": "What does `df -h` show?",
+    "options": [
+        "Disk usage of files",
+        "Disk space usage of file systems in human-readable format",
+        "Directory hierarchy",
+        "Hardware info"
+    ],
+    "answer": 1,
+    "explanation": "df (disk free) reports file system disk space usage, and -h makes it human-readable (e.g., GB, MB)."
 }

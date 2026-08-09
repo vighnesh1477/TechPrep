@@ -1,14 +1,14 @@
 {
-  "id": "placement-2082",
-  "topic": "Data Interpretation",
-  "difficulty": "Hard",
-  "question": "Bar chart: A=200, B=300, C=400, D=500. If A and B combined, what % is it of C and D?",
-  "options": [
-    "40%",
-    "50%",
-    "55.5%",
-    "60%"
-  ],
-  "answer": 2,
-  "explanation": "A+B=500. C+D=900. 500/900 * 100 = 55.5%."
+    "id": "pf-2284",
+    "topic": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Bar chart: A=200, B=300, C=400, D=500. If A and B combined, what % is it of C and D?",
+    "options": [
+        "40%",
+        "50%",
+        "55.5%",
+        "60%"
+    ],
+    "answer": 2,
+    "explanation": "A+B=500. C+D=900. 500/900 * 100 = 55.5%."
 }

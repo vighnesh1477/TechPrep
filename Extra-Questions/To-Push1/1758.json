@@ -1,14 +1,14 @@
 {
-  "id": "placement-1758",
-  "topic": "Strings",
-  "difficulty": "Medium",
-  "question": "What does `str1.equalsIgnoreCase(str2)` do in Java?",
-  "options": [
-    "Converts both strings to lowercase and compares",
-    "Compares two strings, ignoring case differences",
-    "Checks if the strings have the same length",
-    "Throws an exception if cases are different"
-  ],
-  "answer": 1,
-  "explanation": "This method compares two strings lexicographically, treating uppercase and lowercase characters as equivalent (e.g., \"Hello\" equals \"hello\")."
+    "id": "pf-1960",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "question": "What does `str1.equalsIgnoreCase(str2)` do in Java?",
+    "options": [
+        "Converts both strings to lowercase and compares",
+        "Compares two strings, ignoring case differences",
+        "Checks if the strings have the same length",
+        "Throws an exception if cases are different"
+    ],
+    "answer": 1,
+    "explanation": "This method compares two strings lexicographically, treating uppercase and lowercase characters as equivalent (e.g., \"Hello\" equals \"hello\")."
 }
