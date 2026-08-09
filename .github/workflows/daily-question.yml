@@ -1,0 +1,215 @@
+name: Add Daily Placement Question
+
+on:
+  schedule:
+    # 8:00 AM IST = 2:30 AM UTC
+    - cron: "30 2 * * *"
+
+    # 8:00 PM IST = 2:30 PM UTC
+    - cron: "30 14 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-question-update
+  cancel-in-progress: false
+
+jobs:
+  add-question:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ============================================================
+      # 1. Checkout repository
+      # ============================================================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ============================================================
+      # 2. Setup Python
+      # ============================================================
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # ============================================================
+      # 3. Add next question
+      # ============================================================
+      - name: Add next question
+        shell: python
+        run: |
+          import json
+          import re
+          from pathlib import Path
+
+          QUEUE_DIR = Path("Extra-Questions/To-Push1")
+          MAIN_FILE = Path("data/placement_fundamentals.js")
+
+          print("=" * 70)
+          print("DAILY QUESTION AUTOMATION")
+          print("=" * 70)
+
+          # --------------------------------------------------------
+          # Find all numbered JSON files
+          # --------------------------------------------------------
+          queue_files = []
+
+          for file in QUEUE_DIR.glob("*.json"):
+              if file.stem.isdigit():
+                  queue_files.append(file)
+
+          queue_files.sort(key=lambda p: int(p.stem))
+
+          print(f"Queue files available: {len(queue_files)}")
+
+          # --------------------------------------------------------
+          # Stop if queue is empty
+          # --------------------------------------------------------
+          if not queue_files:
+              print("No questions remaining in queue.")
+              print("Nothing to process.")
+              raise SystemExit(0)
+
+          # --------------------------------------------------------
+          # Pick the lowest numbered question
+          # --------------------------------------------------------
+          question_file = queue_files[0]
+
+          print(f"Selected question: {question_file}")
+
+          # --------------------------------------------------------
+          # Read question
+          # --------------------------------------------------------
+          with question_file.open("r", encoding="utf-8") as f:
+              question = json.load(f)
+
+          print(f"Question ID : {question.get('id')}")
+          print(f"Topic       : {question.get('topic')}")
+          print(f"Difficulty  : {question.get('difficulty')}")
+
+          # --------------------------------------------------------
+          # Validate question
+          # --------------------------------------------------------
+          required_fields = [
+              "id",
+              "topic",
+              "difficulty",
+              "question",
+              "options",
+              "answer",
+              "explanation"
+          ]
+
+          for field in required_fields:
+              if field not in question:
+                  raise ValueError(
+                      f"Question is missing required field: {field}"
+                  )
+
+          if not isinstance(question["options"], list):
+              raise ValueError("Question options must be a list.")
+
+          if len(question["options"]) != 4:
+              raise ValueError(
+                  f"Expected 4 options, found {len(question['options'])}."
+              )
+
+          # --------------------------------------------------------
+          # Read main dataset
+          # --------------------------------------------------------
+          text = MAIN_FILE.read_text(encoding="utf-8")
+
+          # --------------------------------------------------------
+          # Find the final closing bracket of:
+          #
+          # export default [
+          #   {...},
+          #   {...}
+          # ];
+          #
+          # --------------------------------------------------------
+          closing_index = text.rfind("]")
+
+          if closing_index == -1:
+              raise ValueError(
+                  "Could not find closing ']' in placement_fundamentals.js"
+              )
+
+          # --------------------------------------------------------
+          # Convert question to JavaScript object format
+          # --------------------------------------------------------
+          question_js = json.dumps(
+              question,
+              ensure_ascii=False,
+              indent=4
+          )
+
+          # --------------------------------------------------------
+          # Determine whether existing array has questions
+          # --------------------------------------------------------
+          content_before = text[:closing_index].rstrip()
+
+          if content_before.endswith("["):
+              separator = "\n"
+          else:
+              separator = ",\n"
+
+          # --------------------------------------------------------
+          # Insert question before final ]
+          # --------------------------------------------------------
+          new_text = (
+              content_before
+              + separator
+              + "    "
+              + question_js.replace("\n", "\n    ")
+              + "\n"
+              + text[closing_index:]
+          )
+
+          # --------------------------------------------------------
+          # Write updated dataset
+          # --------------------------------------------------------
+          MAIN_FILE.write_text(
+              new_text,
+              encoding="utf-8"
+          )
+
+          # --------------------------------------------------------
+          # Delete processed question
+          # ONLY after successful dataset update
+          # --------------------------------------------------------
+          question_file.unlink()
+
+          print()
+          print("=" * 70)
+          print("SUCCESS")
+          print("=" * 70)
+          print(f"Added : {question_file.name}")
+          print(f"File  : {MAIN_FILE}")
+          print(f"Deleted from queue: {question_file.name}")
+          print("=" * 70)
+
+      # ============================================================
+      # 4. Commit and push
+      # ============================================================
+      - name: Commit and push
+        shell: bash
+        run: |
+          git config user.name "vighnesh1477"
+          git config user.email "vighnesh1477@users.noreply.github.com"
+
+          git add data/placement_fundamentals.js Extra-Questions/To-Push1/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Add daily placement question"
+          git push
