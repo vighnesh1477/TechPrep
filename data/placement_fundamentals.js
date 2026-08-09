@@ -6345,5 +6345,19 @@ export default [
         explanation: "Public clients (SPAs, mobile apps) embed the client secret in source code, making it not actually secret. PKCE generates a random code_verifier, sends its hash (code_challenge) in the auth request, and sends the plain code_verifier in the token request. An interceptor can't exchange the code without the verifier.",
         difficulty: "Hard",
         topic: "OAuth 2.0"
+    },
+    {
+        "id": "pf-454",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What does Git primarily track in a project?",
+        "options": [
+            "File permissions only",
+            "Changes to file content",
+            "Disk space usage",
+            "Network traffic"
+        ],
+        "answer": 1,
+        "explanation": "Git is a distributed version control system that tracks changes to file content over time, enabling collaboration and history tracking."
     }
 ];
