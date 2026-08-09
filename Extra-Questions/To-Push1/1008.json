@@ -1,0 +1,14 @@
+{
+  "id": "placement-1008",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "Which protocol is used to send emails?",
+  "options": [
+    "FTP",
+    "HTTP",
+    "SMTP",
+    "POP3"
+  ],
+  "answer": 2,
+  "explanation": "Simple Mail Transfer Protocol (SMTP) is the standard protocol for sending emails."
+}

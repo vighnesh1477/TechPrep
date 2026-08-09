@@ -1,0 +1,14 @@
+{
+  "id": "placement-1215",
+  "topic": "Software Engineering",
+  "difficulty": "Easy",
+  "question": "What is a prototype in SDLC?",
+  "options": [
+    "The final product",
+    "A preliminary version of a system to gather requirements",
+    "A test case",
+    "A bug report"
+  ],
+  "answer": 1,
+  "explanation": "Prototyping builds an early model to visualize and refine requirements before full-scale development."
+}

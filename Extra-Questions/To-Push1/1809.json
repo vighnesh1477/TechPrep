@@ -1,0 +1,14 @@
+{
+  "id": "placement-1809",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is the output of this code?\n`def mystery(n):`\n`    if n == 1: return 0`\n`    return 1 + mystery(n // 2)`\n`print(mystery(8))`",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "8"
+  ],
+  "answer": 1,
+  "explanation": "This function calculates the number of times you can divide `n` by 2 before reaching 1, which is log2(n). log2(8) = 3."
+}

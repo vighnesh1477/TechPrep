@@ -1,0 +1,14 @@
+{
+  "id": "placement-1572",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Hard",
+  "question": "What is 'Metastability' in digital circuits?",
+  "options": [
+    "When a circuit is completely stable",
+    "An unwanted state where a flip-flop's output hovers between 0 and 1 due to a violation of setup or hold time",
+    "A stable oscillation",
+    "A type of logic gate"
+  ],
+  "answer": 1,
+  "explanation": "Metastability occurs when a flip-flop's data input changes too close to the clock edge (violating setup/hold times), causing the output to be unpredictable or oscillate before settling."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1021",
+  "topic": "OOP",
+  "difficulty": "Easy",
+  "question": "What is the difference between a class and an object?",
+  "options": [
+    "They are the same",
+    "A class is a blueprint; an object is an instance of a class",
+    "An object is a blueprint; a class is an instance",
+    "Classes use less memory"
+  ],
+  "answer": 1,
+  "explanation": "A class defines the structure, while an object is a concrete entity created from that blueprint."
+}

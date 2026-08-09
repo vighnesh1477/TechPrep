@@ -1,0 +1,14 @@
+{
+  "id": "placement-1636",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the value of `x` after: `int x = -5; x = x >> 1;` in Java?",
+  "options": [
+    "-2",
+    "-3",
+    "2",
+    "250"
+  ],
+  "answer": 1,
+  "explanation": "Java uses arithmetic right shift (`>>`) which preserves the sign bit. Shifting -5 (binary 111...1011) right by 1 results in 111...1101, which is -3 in two's complement."
+}

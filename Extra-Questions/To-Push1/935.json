@@ -1,0 +1,14 @@
+{
+  "id": "placement-935",
+  "topic": "Algorithms",
+  "difficulty": "Easy",
+  "question": "What is the time complexity of swapping two elements in an array?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N^2)"
+  ],
+  "answer": 0,
+  "explanation": "Swapping requires a constant number of operations regardless of array size."
+}

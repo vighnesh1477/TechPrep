@@ -1,0 +1,14 @@
+{
+  "id": "placement-577",
+  "topic": "rm",
+  "difficulty": "Easy",
+  "question": "What does rm -v do?",
+  "options": [
+    "Verifies files before removing",
+    "Shows what is being removed (verbose mode)",
+    "Removes in virtual mode without actual deletion",
+    "Validates file checksums before removal"
+  ],
+  "answer": 1,
+  "explanation": "rm -v enables verbose mode, printing the name of each file as it is being removed."
+}

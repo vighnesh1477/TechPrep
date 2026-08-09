@@ -1,0 +1,14 @@
+{
+  "id": "placement-1004",
+  "topic": "Computer Networks",
+  "difficulty": "Easy",
+  "question": "Which layer of the OSI model is responsible for routing?",
+  "options": [
+    "Data Link",
+    "Network",
+    "Transport",
+    "Physical"
+  ],
+  "answer": 1,
+  "explanation": "The Network layer (Layer 3) handles logical addressing and routing."
+}

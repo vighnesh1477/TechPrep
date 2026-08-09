@@ -1,0 +1,14 @@
+{
+  "id": "placement-1101",
+  "topic": "Cloud Basics",
+  "difficulty": "Medium",
+  "question": "What is object storage in the cloud (e.g., AWS S3)?",
+  "options": [
+    "Block storage",
+    "Storage that manages data as objects in a flat namespace, ideal for unstructured data",
+    "File system storage",
+    "Relational database storage"
+  ],
+  "answer": 1,
+  "explanation": "Object storage stores data with metadata in a flat structure, highly scalable for files, images, and backups."
+}

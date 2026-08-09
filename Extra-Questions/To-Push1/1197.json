@@ -1,0 +1,14 @@
+{
+  "id": "placement-1197",
+  "topic": "Operating Systems",
+  "difficulty": "Easy",
+  "question": "What is multiprogramming?",
+  "options": [
+    "Running multiple programs sequentially",
+    "Keeping multiple programs in memory so the CPU can execute another while one waits for I/O",
+    "Running multiple CPUs",
+    "Using multiple monitors"
+  ],
+  "answer": 1,
+  "explanation": "Multiprogramming maximizes CPU utilization by overlapping CPU and I/O operations of different jobs."
+}

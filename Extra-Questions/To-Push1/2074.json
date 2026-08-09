@@ -1,0 +1,14 @@
+{
+  "id": "placement-2074",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "Pie chart: A=120 deg, B=90 deg, C=150 deg. Ratio A:B:C?",
+  "options": [
+    "4:3:5",
+    "3:4:5",
+    "5:4:3",
+    "4:5:6"
+  ],
+  "answer": 0,
+  "explanation": "120:90:150 = 12:9:15 = 4:3:5."
+}

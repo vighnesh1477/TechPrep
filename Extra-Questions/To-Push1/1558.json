@@ -1,0 +1,14 @@
+{
+  "id": "placement-1558",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Medium",
+  "question": "How many output lines does a 4-input Multiplexer have?",
+  "options": [
+    "4",
+    "2",
+    "1",
+    "16"
+  ],
+  "answer": 2,
+  "explanation": "A multiplexer (MUX) is a 'many-to-one' switch. It takes multiple input lines and routes exactly one of them to a single output line based on select lines."
+}

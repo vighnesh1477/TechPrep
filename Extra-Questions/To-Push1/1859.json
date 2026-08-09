@@ -1,0 +1,14 @@
+{
+  "id": "placement-1859",
+  "topic": "Complexity",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of finding the sum of all elements in a 2D array of size n x n?",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(n^3)",
+    "O(1)"
+  ],
+  "answer": 1,
+  "explanation": "You must visit every element in the n x n matrix exactly once. There are n^2 elements, resulting in O(n^2) time complexity."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1588",
+  "topic": "Data Representation",
+  "difficulty": "Medium",
+  "question": "What is the hexadecimal equivalent of the binary number 10101111?",
+  "options": [
+    "AF",
+    "BF",
+    "A1",
+    "FA"
+  ],
+  "answer": 0,
+  "explanation": "Group the binary digits into sets of 4 from the right: 1010 and 1111. 1010 = A (10) and 1111 = F (15). Therefore, the hex value is AF."
+}

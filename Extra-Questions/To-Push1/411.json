@@ -1,0 +1,14 @@
+{
+  "id": "placement-411",
+  "topic": "Git Config",
+  "difficulty": "Easy",
+  "question": "Which command unsets a configuration value?",
+  "options": [
+    "git config --unset core.editor",
+    "git config --remove core.editor",
+    "git config --delete core.editor",
+    "git config --clear core.editor"
+  ],
+  "answer": 0,
+  "explanation": "git config --unset <key> removes the specified configuration variable from the config file, reverting to a lower-priority config or the default value."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-921",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is an adjacency list?",
+  "options": [
+    "A matrix representing graphs",
+    "An array of linked lists for graph nodes",
+    "A tree structure",
+    "A sorted list of edges"
+  ],
+  "answer": 1,
+  "explanation": "An adjacency list stores a list (or array) of vertices, each pointing to a list of its neighbors."
+}

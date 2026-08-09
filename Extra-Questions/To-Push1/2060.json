@@ -1,0 +1,14 @@
+{
+  "id": "placement-2060",
+  "topic": "Algebra",
+  "difficulty": "Hard",
+  "question": "How many terms of AP 9, 17, 25... must be taken to give a sum of 636?",
+  "options": [
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "answer": 2,
+  "explanation": "n/2 * [2(9) + (n-1)8] = 636 => n[18 + 8n - 8] = 1272 => 8n^2 + 10n - 1272 = 0 => 4n^2 + 5n - 636 = 0. n=12."
+}

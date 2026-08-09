@@ -1,0 +1,14 @@
+{
+  "id": "placement-1171",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of inserting into a balanced BST?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N log N)"
+  ],
+  "answer": 2,
+  "explanation": "Balanced BSTs (like AVL or Red-Black trees) guarantee a height of O(log N), making insertions O(log N)."
+}

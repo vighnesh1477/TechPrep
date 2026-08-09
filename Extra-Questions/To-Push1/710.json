@@ -1,0 +1,14 @@
+{
+  "id": "placement-710",
+  "topic": "Jobs",
+  "difficulty": "Easy",
+  "question": "How do you list all jobs in the current shell?",
+  "options": [
+    "jobs",
+    "ps",
+    "listjobs",
+    "showjobs"
+  ],
+  "answer": 0,
+  "explanation": "jobs lists all active jobs (stopped and background) in the current shell session, showing their job number, status, and command."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1634",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What happens if you divide an integer by zero in Python?",
+  "options": [
+    "It returns infinity",
+    "It returns 0",
+    "It raises a ZeroDivisionError",
+    "It returns NaN"
+  ],
+  "answer": 2,
+  "explanation": "In Python, dividing an integer or float by zero explicitly raises a `ZeroDivisionError` exception rather than returning infinity or NaN (unlike some other languages)."
+}

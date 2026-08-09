@@ -1,0 +1,14 @@
+{
+  "id": "placement-320",
+  "topic": "Working Tree",
+  "difficulty": "Easy",
+  "question": "Which command shows the difference between the working tree and the latest commit?",
+  "options": [
+    "git diff HEAD",
+    "git diff --staged",
+    "git status",
+    "git log --diff"
+  ],
+  "answer": 0,
+  "explanation": "git diff HEAD shows all differences between your working tree and the latest commit, including both staged and unstaged changes."
+}

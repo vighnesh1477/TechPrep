@@ -1,0 +1,14 @@
+{
+  "id": "placement-1890",
+  "topic": "Percentages",
+  "difficulty": "Hard",
+  "question": "A 20% price reduction lets a person buy 5 more items for Rs 100. Original price?",
+  "options": [
+    "Rs 4",
+    "Rs 5",
+    "Rs 6",
+    "Rs 8"
+  ],
+  "answer": 1,
+  "explanation": "100/(0.8P) - 100/P = 5 => 125/P - 100/P = 5 => 25/P = 5 => P=5."
+}

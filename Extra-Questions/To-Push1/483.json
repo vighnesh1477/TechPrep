@@ -1,0 +1,14 @@
+{
+  "id": "placement-483",
+  "topic": "Upstream",
+  "difficulty": "Medium",
+  "question": "What does 'git push --set-upstream origin feature' establish?",
+  "options": [
+    "A new remote named origin",
+    "A tracking relationship between the local feature branch and origin/feature",
+    "A new upstream branch on origin",
+    "A fork relationship"
+  ],
+  "answer": 1,
+  "explanation": "--set-upstream (or -u) establishes a tracking relationship so that future git pull and git push commands on this branch know which remote branch to use."
+}

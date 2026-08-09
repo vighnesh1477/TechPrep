@@ -1,0 +1,14 @@
+{
+  "id": "placement-1665",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "Which loop is best suited when the number of iterations is known beforehand?",
+  "options": [
+    "while loop",
+    "do-while loop",
+    "for loop",
+    "if-else"
+  ],
+  "answer": 2,
+  "explanation": "The `for` loop is ideal when the number of iterations is known in advance because the initialization, condition, and increment are all grouped in the loop header."
+}

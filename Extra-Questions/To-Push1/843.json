@@ -1,0 +1,14 @@
+{
+  "id": "placement-843",
+  "topic": "xargs",
+  "difficulty": "Medium",
+  "question": "How do you handle filenames with spaces using xargs?",
+  "options": [
+    "xargs -s",
+    "xargs -0 (with find -print0)",
+    "xargs --spaces",
+    "xargs -e"
+  ],
+  "answer": 1,
+  "explanation": "Using find -print0 (null-delimited output) with xargs -0 (null-delimited input) safely handles filenames containing spaces, newlines, and special characters."
+}

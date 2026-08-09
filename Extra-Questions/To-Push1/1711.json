@@ -1,0 +1,14 @@
+{
+  "id": "placement-1711",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What is the output?\n`int x = 0;`\n`int main() {`\n`  int x = 5;`\n`  {`\n`    int x = 10;`\n`    printf(\"%d\", x);`\n`  }`\n`  return 0;`\n`}`",
+  "options": [
+    "0",
+    "5",
+    "10",
+    "Compilation Error"
+  ],
+  "answer": 2,
+  "explanation": "The innermost block has its own local variable `x` initialized to 10. This inner `x` shadows both the main's local `x` (5) and the global `x` (0)."
+}

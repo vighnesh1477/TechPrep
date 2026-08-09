@@ -1,0 +1,14 @@
+{
+  "id": "placement-1415",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Hard",
+  "question": "You have an Employees table and a Departments table. You want a list of ALL departments, even if they have no employees. Which join do you use?",
+  "options": [
+    "INNER JOIN Employees ON Departments.id = Employees.dept_id",
+    "LEFT JOIN Departments ON Employees.dept_id = Departments.id",
+    "RIGHT JOIN Departments ON Employees.dept_id = Departments.id",
+    "FULL JOIN Employees ON Departments.id = Employees.dept_id"
+  ],
+  "answer": 2,
+  "explanation": "To keep all records from the Departments table (the 'right' table in this specific FROM/JOIN structure), a RIGHT JOIN is needed so that departments without employees still appear with NULLs for employee data."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1952",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "2 pipes A and B fill in 20 and 30 mins. Both opened, after how long B closed if total time 15 mins?",
+  "options": [
+    "5 mins",
+    "7.5 mins",
+    "10 mins",
+    "12 mins"
+  ],
+  "answer": 1,
+  "explanation": "A works 15 mins => 15/20 = 3/4. B does 1/4. B's time = 1/4 * 30 = 7.5 mins."
+}

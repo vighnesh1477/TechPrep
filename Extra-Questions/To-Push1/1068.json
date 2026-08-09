@@ -1,0 +1,14 @@
+{
+  "id": "placement-1068",
+  "topic": "Linux",
+  "difficulty": "Medium",
+  "question": "Which command searches for a specific pattern in files?",
+  "options": [
+    "find",
+    "grep",
+    "search",
+    "locate"
+  ],
+  "answer": 1,
+  "explanation": "grep searches for patterns within text using regular expressions."
+}

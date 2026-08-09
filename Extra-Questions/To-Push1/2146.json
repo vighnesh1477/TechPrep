@@ -1,0 +1,14 @@
+{
+  "id": "placement-2146",
+  "topic": "Direction Sense",
+  "difficulty": "Medium",
+  "question": "A man walks 10m North, 6m East, 10m South. Distance from start?",
+  "options": [
+    "6m",
+    "10m",
+    "16m",
+    "26m"
+  ],
+  "answer": 0,
+  "explanation": "North and South cancel out. He is 6m East from start."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1060",
+  "topic": "Git",
+  "difficulty": "Hard",
+  "question": "How do you find a commit that deleted a specific file?",
+  "options": [
+    "git search",
+    "git log --all --full-history -- <file_path>",
+    "git undo",
+    "git blame"
+  ],
+  "answer": 1,
+  "explanation": "This log command searches the entire history for any commits involving the specified file path."
+}

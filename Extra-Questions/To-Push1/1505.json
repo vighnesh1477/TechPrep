@@ -1,0 +1,14 @@
+{
+  "id": "placement-1505",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Hard",
+  "question": "What is the 'Cone of Uncertainty' in software engineering?",
+  "options": [
+    "A testing metric",
+    "A concept stating that estimates (e.g., effort, cost) are most uncertain at the start of a project and become more certain as the project progresses",
+    "A shape of a database schema",
+    "A type of network topology"
+  ],
+  "answer": 1,
+  "explanation": "The Cone of Uncertainty illustrates that estimation uncertainty is highest at the beginning of a project and decreases as more information is gathered and decisions are made."
+}

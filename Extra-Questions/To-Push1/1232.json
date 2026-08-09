@@ -1,0 +1,14 @@
+{
+  "id": "placement-1232",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "What is a shell?",
+  "options": [
+    "The physical computer case",
+    "A command-line interpreter that provides an interface to the OS",
+    "The kernel",
+    "A file system"
+  ],
+  "answer": 1,
+  "explanation": "A shell (like bash or zsh) takes user commands, interprets them, and tells the OS to execute them."
+}

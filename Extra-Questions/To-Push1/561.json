@@ -1,0 +1,14 @@
+{
+  "id": "placement-561",
+  "topic": "cd",
+  "difficulty": "Easy",
+  "question": "Which command changes to the root directory?",
+  "options": [
+    "cd ~",
+    "cd /root",
+    "cd /",
+    "cd root"
+  ],
+  "answer": 2,
+  "explanation": "cd / changes to the root directory (/), which is the top of the file system hierarchy. cd /root goes to root user's home directory."
+}

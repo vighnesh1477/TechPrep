@@ -1,0 +1,14 @@
+{
+  "id": "placement-2041",
+  "topic": "Permutation and Combination",
+  "difficulty": "Hard",
+  "question": "In how many ways can 6 people be divided into 3 pairs?",
+  "options": [
+    "15",
+    "90",
+    "45",
+    "30"
+  ],
+  "answer": 0,
+  "explanation": "6!/(2!^3 * 3!) = 720/(8*6) = 15."
+}

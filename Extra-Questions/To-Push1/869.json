@@ -1,0 +1,14 @@
+{
+  "id": "placement-869",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "What does the `virtual` keyword enable?",
+  "options": [
+    "Data hiding",
+    "Runtime polymorphism",
+    "Compile-time polymorphism",
+    "Memory management"
+  ],
+  "answer": 1,
+  "explanation": "virtual functions allow derived classes to override base class methods, enabling dynamic dispatch."
+}

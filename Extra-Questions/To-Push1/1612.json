@@ -1,0 +1,14 @@
+{
+  "id": "placement-1612",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the result of `5 << 2` in binary operations (assuming 32-bit integers)?",
+  "options": [
+    "20",
+    "10",
+    "25",
+    "12"
+  ],
+  "answer": 0,
+  "explanation": "The left shift operator `<<` shifts bits to the left by the specified number of positions. Shifting 5 (binary 101) left by 2 results in 10100, which is 20 in decimal."
+}

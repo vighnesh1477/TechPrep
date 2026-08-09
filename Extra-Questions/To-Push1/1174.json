@@ -1,0 +1,14 @@
+{
+  "id": "placement-1174",
+  "topic": "Algorithms",
+  "difficulty": "Medium",
+  "question": "What is a greedy algorithm's main drawback?",
+  "options": [
+    "It is too slow",
+    "It does not always produce the globally optimal solution",
+    "It uses too much memory",
+    "It cannot be coded"
+  ],
+  "answer": 1,
+  "explanation": "Making locally optimal choices can lead to a suboptimal global solution (e.g., in the 0/1 Knapsack problem)."
+}

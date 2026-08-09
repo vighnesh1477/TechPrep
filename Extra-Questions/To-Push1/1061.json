@@ -1,0 +1,14 @@
+{
+  "id": "placement-1061",
+  "topic": "Git",
+  "difficulty": "Hard",
+  "question": "What does `git cherry-pick <commit-hash>` do?",
+  "options": [
+    "Deletes a commit",
+    "Applies the changes introduced by a specific commit to the current branch",
+    "Moves a commit to another branch",
+    "Creates a merge conflict"
+  ],
+  "answer": 1,
+  "explanation": "Cherry-pick takes a commit from one branch and applies it as a new commit on the current branch."
+}

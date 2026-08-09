@@ -1,0 +1,14 @@
+{
+  "id": "placement-1404",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is a Subquery?",
+  "options": [
+    "A query inside a trigger",
+    "A query nested inside another query",
+    "A query that returns no results",
+    "A query that updates multiple tables"
+  ],
+  "answer": 1,
+  "explanation": "A subquery is a query that is embedded inside a WHERE, HAVING, or SELECT clause of another SQL query (the outer query). It is also called an inner query or inner select."
+}

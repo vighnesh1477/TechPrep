@@ -1,0 +1,14 @@
+{
+  "id": "placement-630",
+  "topic": "locate",
+  "difficulty": "Easy",
+  "question": "What is the main advantage of locate over find?",
+  "options": [
+    "locate can search file contents",
+    "locate is faster because it uses a pre-built database",
+    "locate has more search options",
+    "locate can search network drives"
+  ],
+  "answer": 1,
+  "explanation": "locate is much faster than find because it searches a pre-built database rather than traversing the file system in real-time."
+}

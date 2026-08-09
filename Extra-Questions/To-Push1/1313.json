@@ -1,0 +1,14 @@
+{
+  "id": "placement-1313",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is a Deque?",
+  "options": [
+    "A queue that only allows insertion",
+    "A double-ended queue allowing insertion and deletion at both front and rear",
+    "A stack",
+    "A linked list"
+  ],
+  "answer": 1,
+  "explanation": "Deque (Double-Ended Queue) combines the properties of a queue and a stack, operating on both ends."
+}

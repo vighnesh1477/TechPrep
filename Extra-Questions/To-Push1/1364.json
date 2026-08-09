@@ -1,0 +1,14 @@
+{
+  "id": "placement-1364",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Hard",
+  "question": "A CPU scheduling algorithm uses a time quantum of 4 units. Process P1 has a burst time of 10. What is the total number of context switches required for P1 to complete (assuming it is the only process and we count the switch OUT of P1)?",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "answer": 0,
+  "explanation": "P1 runs 0-4 (switch out), 4-8 (switch out), 8-10 (finishes). It is switched out twice before its final execution block."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1946",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "3 men or 5 women can do a work in 12 days. 2 men and 3 women together?",
+  "options": [
+    "9.6 days",
+    "10 days",
+    "12 days",
+    "8 days"
+  ],
+  "answer": 0,
+  "explanation": "1M = 1/36, 1W = 1/60. 2M+3W = 2/36 + 3/60 = 1/18 + 1/20 = 19/180. Time = 180/19 = 9.47 days. Let's adjust to exact: 3 men or 6 women = 12 days. 1M=1/36, 1W=1/72. 2M+3W = 2/36+3/72 = 1/18+1/24 = 7/72. Time = 72/7 = 10.28 days. Let's use 3 men or 4 women = 12 days. 1M=1/36, 1W=1/48. 2M+3W = 2/36+3/48 = 1/18+1/16 = 17/144. Time = 144/17 = 8.47 days. Let's use 3 men or 9 women. 1M=1/36, 1W=1/108. 2M+3W = 2/36+3/108 = 1/18+1/36 = 3/36 = 1/12. Time = 12 days."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1618",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the range of an unsigned 8-bit integer?",
+  "options": [
+    "-128 to 127",
+    "0 to 255",
+    "0 to 256",
+    "-127 to 128"
+  ],
+  "answer": 1,
+  "explanation": "An 8-bit unsigned integer has no sign bit, so all 8 bits represent the magnitude. 2^8 = 256 possible values, ranging from 0 to 255."
+}

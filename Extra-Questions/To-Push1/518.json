@@ -1,0 +1,14 @@
+{
+  "id": "placement-518",
+  "topic": "SSH Keys",
+  "difficulty": "Medium",
+  "question": "Which command generates a new SSH key pair?",
+  "options": [
+    "ssh-keygen",
+    "ssh-create",
+    "git ssh-key",
+    "keygen --ssh"
+  ],
+  "answer": 0,
+  "explanation": "ssh-keygen generates a new SSH key pair (private and public keys) that can be used for authenticating with Git remotes over SSH."
+}

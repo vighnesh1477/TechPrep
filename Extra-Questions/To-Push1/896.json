@@ -1,0 +1,14 @@
+{
+  "id": "placement-896",
+  "topic": "Python",
+  "difficulty": "Easy",
+  "question": "Which data type is immutable in Python?",
+  "options": [
+    "List",
+    "Dictionary",
+    "Set",
+    "Tuple"
+  ],
+  "answer": 3,
+  "explanation": "Tuples cannot be changed after creation, unlike lists, dicts, and sets."
+}

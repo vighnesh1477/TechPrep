@@ -1,0 +1,14 @@
+{
+  "id": "placement-1245",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "What is the time complexity to find the successor of a node in a BST (with parent pointers) if the right child is NULL?",
+  "options": [
+    "O(1)",
+    "O(log N)",
+    "O(N)",
+    "O(N log N)"
+  ],
+  "answer": 0,
+  "explanation": "If no right child, the successor is the nearest ancestor for which the node is in the left subtree, found by following parent pointers."
+}

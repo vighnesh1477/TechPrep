@@ -1,0 +1,14 @@
+{
+  "id": "placement-2204",
+  "topic": "Puzzles",
+  "difficulty": "Medium",
+  "question": "If 1st day of month is Monday, what is the 15th day?",
+  "options": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "answer": 1,
+  "explanation": "14 days is exactly 2 weeks. 15th day is Monday."
+}

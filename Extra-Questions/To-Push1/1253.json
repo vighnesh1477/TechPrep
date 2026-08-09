@@ -1,0 +1,14 @@
+{
+  "id": "placement-1253",
+  "topic": "Git",
+  "difficulty": "Hard",
+  "question": "What does `git reflog` show?",
+  "options": [
+    "Remote branches",
+    "A log of where the HEAD and branches have been, including resets and rebases",
+    "File changes",
+    "Merge conflicts"
+  ],
+  "answer": 1,
+  "explanation": "Reflog records almost every change to HEAD, allowing recovery of lost commits even after resets."
+}

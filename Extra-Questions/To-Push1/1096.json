@@ -1,0 +1,14 @@
+{
+  "id": "placement-1096",
+  "topic": "Cloud Basics",
+  "difficulty": "Easy",
+  "question": "What does PaaS provide to developers?",
+  "options": [
+    "Hardware only",
+    "A platform including OS, middleware, and runtime environments to build apps",
+    "Finished software",
+    "Database only"
+  ],
+  "answer": 1,
+  "explanation": "PaaS (Platform as a Service) abstracts the underlying infrastructure, giving developers a ready-to-use platform."
+}

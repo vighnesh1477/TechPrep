@@ -1,0 +1,14 @@
+{
+  "id": "placement-366",
+  "topic": "Git Installation",
+  "difficulty": "Easy",
+  "question": "On macOS, which package manager can be used to install Git?",
+  "options": [
+    "apt-get",
+    "yum",
+    "Homebrew",
+    "pacman"
+  ],
+  "answer": 2,
+  "explanation": "Homebrew is the most popular package manager for macOS, and you can install Git using the command 'brew install git'."
+}

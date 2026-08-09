@@ -1,0 +1,14 @@
+{
+  "id": "placement-1045",
+  "topic": "Software Engineering",
+  "difficulty": "Hard",
+  "question": "In the Spiral model, what is done in each loop?",
+  "options": [
+    "Only coding",
+    "Only testing",
+    "Planning, Risk Analysis, Engineering, Evaluation",
+    "Requirements gathering only"
+  ],
+  "answer": 2,
+  "explanation": "Each spiral iteration goes through these four phases to manage risks iteratively."
+}

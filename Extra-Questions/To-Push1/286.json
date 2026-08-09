@@ -1,0 +1,14 @@
+{
+  "id": "placement-286",
+  "topic": "Merge",
+  "difficulty": "Easy",
+  "question": "Which command merges a specified branch into the current branch?",
+  "options": [
+    "git merge from feature",
+    "git merge feature",
+    "git combine feature",
+    "git join feature"
+  ],
+  "answer": 1,
+  "explanation": "git merge <branch> takes the specified branch's commits and integrates them into the current branch, creating a merge commit if needed."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1977",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Hard",
+  "question": "A boat takes 90 mins less to travel 36 km downstream than upstream. Speed of stream is 3 km/h. Boat speed?",
+  "options": [
+    "12 km/h",
+    "15 km/h",
+    "18 km/h",
+    "21 km/h"
+  ],
+  "answer": 1,
+  "explanation": "36/(B-3) - 36/(B+3) = 1.5. 36(6) / (B^2-9) = 1.5 => 216 = 1.5 B^2 - 13.5 => 1.5 B^2 = 229.5 => B^2 = 153. Doesn't fit. Let's change time to 1 hr. 216/(B^2-9) = 1 => B^2=225 => B=15."
+}

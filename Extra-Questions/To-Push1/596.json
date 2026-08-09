@@ -1,0 +1,14 @@
+{
+  "id": "placement-596",
+  "topic": "cat",
+  "difficulty": "Easy",
+  "question": "What does cat -s do?",
+  "options": [
+    "Shows file size",
+    "Squeezes blank lines, replacing multiple blank lines with one",
+    "Sorts the output",
+    "Shows special characters"
+  ],
+  "answer": 1,
+  "explanation": "cat -s (squeeze-blank) suppresses repeated empty output lines, replacing multiple consecutive blank lines with a single blank line."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1640",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "In C++, what is the difference between `++x` and `x++` when used in a standalone statement?",
+  "options": [
+    "`++x` is faster",
+    "`x++` is faster",
+    "There is no difference in effect or performance",
+    "`++x` adds 2"
+  ],
+  "answer": 2,
+  "explanation": "When used as an independent statement (e.g., on its own line), both increment `x` by 1. Modern compilers optimize them to be identical in performance."
+}

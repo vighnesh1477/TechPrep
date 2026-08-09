@@ -1,0 +1,14 @@
+{
+  "id": "placement-1735",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int a[] = {1, 2, 3};`\n`int b[] = {1, 2, 3};`\n`if (a == b) printf(\"Same\"); else printf(\"Different\");`",
+  "options": [
+    "Same",
+    "Different",
+    "Compilation Error",
+    "Runtime Error"
+  ],
+  "answer": 1,
+  "explanation": "In C, `a` and `b` are arrays that decay into pointers to their first elements when used in an expression. `a == b` compares their memory addresses, which are different."
+}

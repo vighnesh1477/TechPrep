@@ -1,0 +1,14 @@
+{
+  "id": "placement-2133",
+  "topic": "Blood Relations",
+  "difficulty": "Easy",
+  "question": "A is B's brother. C is B's mother. D is C's father. How is A related to D?",
+  "options": [
+    "Grandson",
+    "Son",
+    "Uncle",
+    "Grandfather"
+  ],
+  "answer": 0,
+  "explanation": "D is grandfather of B. A is B's brother, so A is D's grandson."
+}

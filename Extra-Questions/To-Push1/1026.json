@@ -1,0 +1,14 @@
+{
+  "id": "placement-1026",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is an interface?",
+  "options": [
+    "A class with constructors",
+    "A fully abstract class containing only method signatures (and default methods in Java 8+)",
+    "A concrete method",
+    "A type of variable"
+  ],
+  "answer": 1,
+  "explanation": "Interfaces define a contract without implementation details (traditionally)."
+}

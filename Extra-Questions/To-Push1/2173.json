@@ -1,0 +1,14 @@
+{
+  "id": "placement-2173",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Easy",
+  "question": "Statement: 'Use our product for fair skin.' Assumption: People want fair skin.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 0,
+  "explanation": "The ad appeals to the desire for fair skin, assuming it exists."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1046",
+  "topic": "Software Engineering",
+  "difficulty": "Hard",
+  "question": "What is Regression Testing?",
+  "options": [
+    "Testing a new feature",
+    "Re-running tests to ensure that new code changes have not broken existing functionality",
+    "Testing performance",
+    "Testing security"
+  ],
+  "answer": 1,
+  "explanation": "Regression testing catches bugs introduced by changes to the existing codebase."
+}

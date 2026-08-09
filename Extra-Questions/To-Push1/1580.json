@@ -1,0 +1,14 @@
+{
+  "id": "placement-1580",
+  "topic": "Data Representation",
+  "difficulty": "Easy",
+  "question": "What is the binary representation of the decimal number 0?",
+  "options": [
+    "00000001",
+    "11111111",
+    "00000000",
+    "10000000"
+  ],
+  "answer": 2,
+  "explanation": "Zero is represented by all bits set to 0. This is true for both unsigned binary and two's complement representations."
+}

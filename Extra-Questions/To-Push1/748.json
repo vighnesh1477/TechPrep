@@ -1,0 +1,14 @@
+{
+  "id": "placement-748",
+  "topic": "Disk Management",
+  "difficulty": "Easy",
+  "question": "What does 'df -h' show?",
+  "options": [
+    "Directory file sizes",
+    "Disk space usage in human-readable format",
+    "Hidden disk partitions",
+    "Disk format information"
+  ],
+  "answer": 1,
+  "explanation": "df -h displays disk space usage of file systems in human-readable format (KB, MB, GB) instead of 1K blocks."
+}

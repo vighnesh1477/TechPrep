@@ -1,0 +1,14 @@
+{
+  "id": "placement-2193",
+  "topic": "Puzzles",
+  "difficulty": "Easy",
+  "question": "A is taller than B. C is shorter than B. Who is the shortest?",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "A > B > C. C is shortest."
+}

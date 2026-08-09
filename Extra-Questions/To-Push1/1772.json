@@ -1,0 +1,14 @@
+{
+  "id": "placement-1772",
+  "topic": "Pointers and Memory",
+  "difficulty": "Easy",
+  "question": "What is a void pointer?",
+  "options": [
+    "A pointer that points to nothing",
+    "A pointer that can point to any data type but cannot be directly dereferenced",
+    "A pointer that is always NULL",
+    "A pointer that has been deleted"
+  ],
+  "answer": 1,
+  "explanation": "A `void*` pointer is a generic pointer that can hold the address of any data type. It must be cast to an appropriate type before dereferencing."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1731",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "question": "How are 2D arrays stored in memory in C/C++?",
+  "options": [
+    "Randomly",
+    "In a tree structure",
+    "Row-major order",
+    "Column-major order"
+  ],
+  "answer": 2,
+  "explanation": "C and C++ use row-major order for storing multidimensional arrays, meaning elements of the first row are stored sequentially, followed by the second row, and so on."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-629",
+  "topic": "locate",
+  "difficulty": "Easy",
+  "question": "Which command updates the locate database?",
+  "options": [
+    "locate --update",
+    "updatedb",
+    "locate -r",
+    "rebuild-locate"
+  ],
+  "answer": 1,
+  "explanation": "updatedb rebuilds the database used by locate. It is typically run daily by cron, but can be run manually as root."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2069",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "Pie chart: A=30%, B=20%, C=50%. Total=500. Value of C?",
+  "options": [
+    "100",
+    "150",
+    "200",
+    "250"
+  ],
+  "answer": 3,
+  "explanation": "50% of 500 = 250."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1544",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the 'Yacc' tool used for?",
+  "options": [
+    "Lexical analysis",
+    "Syntax analysis (generating a parser)",
+    "Code optimization",
+    "Code generation"
+  ],
+  "answer": 1,
+  "explanation": "Yacc (Yet Another Compiler-Compiler) is a tool that generates a parser (syntax analyzer) for a given grammar. It works in tandem with Lex, which generates the lexer."
+}

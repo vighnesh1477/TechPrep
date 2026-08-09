@@ -1,0 +1,14 @@
+{
+  "id": "placement-453",
+  "topic": "Merge Conflicts",
+  "difficulty": "Medium",
+  "question": "What does git diff --check do during conflict resolution?",
+  "options": [
+    "Checks if all conflicts are resolved",
+    "Detects leftover whitespace errors and conflict markers",
+    "Checks the diff for syntax errors",
+    "Verifies the merge commit message"
+  ],
+  "answer": 1,
+  "explanation": "git diff --check detects whitespace errors and leftover conflict markers, helping you catch unresolved conflicts before committing."
+}

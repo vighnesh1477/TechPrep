@@ -1,0 +1,14 @@
+{
+  "id": "placement-1196",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "How do you write a recursive CTE (Common Table Expression)?",
+  "options": [
+    "Using LOOP",
+    "With a base case and a recursive member joined by UNION ALL",
+    "Using RECURSIVE SELECT",
+    "Using WHILE"
+  ],
+  "answer": 1,
+  "explanation": "A recursive CTE consists of an anchor member, a recursive member, and UNION ALL between them."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2037",
+  "topic": "Permutation and Combination",
+  "difficulty": "Medium",
+  "question": "How many words can be formed from DELHI starting with D?",
+  "options": [
+    "24",
+    "120",
+    "20",
+    "4"
+  ],
+  "answer": 0,
+  "explanation": "D is fixed. Remaining 4 letters can be arranged in 4! = 24 ways."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-617",
+  "topic": "tail",
+  "difficulty": "Easy",
+  "question": "What does tail -n +5 file.txt display?",
+  "options": [
+    "The last 5 lines",
+    "Lines starting from line 5 to the end",
+    "Only line 5",
+    "5 lines from the middle"
+  ],
+  "answer": 1,
+  "explanation": "tail -n +5 outputs starting from line 5 to the end of the file. The + sign means 'starting from this line number.'"
+}

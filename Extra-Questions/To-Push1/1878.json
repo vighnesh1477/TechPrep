@@ -1,0 +1,14 @@
+{
+  "id": "placement-1878",
+  "topic": "Percentages",
+  "difficulty": "Easy",
+  "question": "What is 40% of 250?",
+  "options": [
+    "50",
+    "75",
+    "100",
+    "125"
+  ],
+  "answer": 2,
+  "explanation": "0.40 * 250 = 100."
+}

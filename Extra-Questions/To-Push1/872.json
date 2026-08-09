@@ -1,0 +1,14 @@
+{
+  "id": "placement-872",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "When is a destructor called?",
+  "options": [
+    "When object is created",
+    "When object goes out of scope",
+    "When class is defined",
+    "When main() starts"
+  ],
+  "answer": 1,
+  "explanation": "Destructors are invoked automatically when an object's lifetime ends."
+}

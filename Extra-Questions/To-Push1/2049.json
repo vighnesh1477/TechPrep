@@ -1,0 +1,14 @@
+{
+  "id": "placement-2049",
+  "topic": "Algebra",
+  "difficulty": "Medium",
+  "question": "Solve: 2x + 3y = 12, 4x + 6y = 24.",
+  "options": [
+    "No solution",
+    "Unique solution",
+    "Infinite solutions",
+    "x=0,y=4"
+  ],
+  "answer": 2,
+  "explanation": "Equations are dependent (second is 2x first). Infinite solutions."
+}

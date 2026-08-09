@@ -1,0 +1,14 @@
+{
+  "id": "placement-1567",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Hard",
+  "question": "What is the 'Don't Care' condition in a K-Map?",
+  "options": [
+    "A condition where the output is always 0",
+    "An input combination that will never occur or whose output value does not matter, which can be grouped as either 0 or 1 to aid simplification",
+    "A mistake in the truth table",
+    "A condition where the output is 1"
+  ],
+  "answer": 1,
+  "explanation": "Don't cares (marked as 'X') represent invalid input combinations. When grouping 1s on a K-Map, you can treat an 'X' as a 1 if it helps make a larger group, simplifying the expression."
+}

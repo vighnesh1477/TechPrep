@@ -1,0 +1,14 @@
+{
+  "id": "placement-1503",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "What is a 'Minimum Viable Product' (MVP)?",
+  "options": [
+    "A product with zero features",
+    "A version of a product with just enough features to be usable by early customers, who can then provide feedback for future development",
+    "The final version of the product",
+    "A product that is cheap to build"
+  ],
+  "answer": 1,
+  "explanation": "An MVP is a strategy used for fast and quantitative market testing. It aims to test a business idea with minimal resources to gather validated learning about customers."
+}

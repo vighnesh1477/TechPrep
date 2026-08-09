@@ -1,0 +1,14 @@
+{
+  "id": "placement-640",
+  "topic": "whereis",
+  "difficulty": "Easy",
+  "question": "What is the key difference between whereis and which?",
+  "options": [
+    "They are identical",
+    "whereis searches standard directories for binary, source, and man pages; which searches PATH for executables",
+    "which is faster than whereis",
+    "whereis requires root privileges"
+  ],
+  "answer": 1,
+  "explanation": "whereis searches a fixed set of standard directories for binaries, sources, and man pages. which searches the user's PATH for the executable that would run."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1944",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "A can do in 10 days, B in 12 days. They work alternately starting with A. Time?",
+  "options": [
+    "10 days",
+    "10.5 days",
+    "11 days",
+    "11.5 days"
+  ],
+  "answer": 2,
+  "explanation": "2 days work = 1/10 + 1/12 = 11/60. 10 days = 55/60. 11th day A does 1/10=6/60. Total 61/60. Done in 11 days."
+}

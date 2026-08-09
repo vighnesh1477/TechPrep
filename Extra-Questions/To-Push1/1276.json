@@ -1,0 +1,14 @@
+{
+  "id": "placement-1276",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "What does the `explicit` keyword prevent on a constructor taking one argument?",
+  "options": [
+    "Inheritance",
+    "Implicit type conversion (e.g., passing an int when an object is expected)",
+    "Polymorphism",
+    "Recursion"
+  ],
+  "answer": 1,
+  "explanation": "explicit disables compiler-assisted implicit conversions, requiring explicit construction or casting."
+}

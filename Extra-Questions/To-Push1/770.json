@@ -1,0 +1,14 @@
+{
+  "id": "placement-770",
+  "topic": "fdisk",
+  "difficulty": "Easy",
+  "question": "What command inside fdisk creates a new partition?",
+  "options": [
+    "c",
+    "n",
+    "a",
+    "p"
+  ],
+  "answer": 1,
+  "explanation": "Inside fdisk's interactive mode, 'n' creates a new partition, 'p' prints the partition table, 'd' deletes a partition, and 'w' writes changes."
+}

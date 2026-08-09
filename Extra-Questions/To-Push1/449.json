@@ -1,0 +1,14 @@
+{
+  "id": "placement-449",
+  "topic": "Git Diff",
+  "difficulty": "Easy",
+  "question": "What does git diff commit1 commit2 -- file.txt show?",
+  "options": [
+    "Differences in file.txt between the two commits",
+    "All differences between the two commits",
+    "Only the staging area differences",
+    "The full content of file.txt"
+  ],
+  "answer": 0,
+  "explanation": "Specifying a file path at the end limits the diff output to changes in that specific file between the two commits."
+}

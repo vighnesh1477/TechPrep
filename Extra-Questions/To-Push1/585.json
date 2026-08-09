@@ -1,0 +1,14 @@
+{
+  "id": "placement-585",
+  "topic": "rmdir",
+  "difficulty": "Easy",
+  "question": "What is the main difference between rmdir and rm -r?",
+  "options": [
+    "There is no difference",
+    "rmdir only removes empty directories, rm -r removes directories with contents",
+    "rm -r is safer than rmdir",
+    "rmdir is faster than rm -r"
+  ],
+  "answer": 1,
+  "explanation": "rmdir can only remove empty directories and is safer. rm -r recursively removes directories along with all their contents."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1559",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Medium",
+  "question": "What is the difference between a D Flip-Flop and a JK Flip-Flop?",
+  "options": [
+    "They are identical",
+    "A D flip-flop has a single data input; a JK flip-flop has two inputs (J and K) that can toggle the state",
+    "A JK flip-flop cannot store data",
+    "A D flip-flop does not use a clock"
+  ],
+  "answer": 1,
+  "explanation": "The D (Data) flip-flop captures the value of the D input at the clock edge. The JK flip-flop has J and K inputs; when both are 1, it toggles its state, offering more flexibility."
+}

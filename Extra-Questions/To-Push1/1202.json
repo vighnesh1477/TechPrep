@@ -1,0 +1,14 @@
+{
+  "id": "placement-1202",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is the difference between a monitor and a semaphore?",
+  "options": [
+    "No difference",
+    "A monitor is a high-level synchronization construct with shared data and procedures; a semaphore is a low-level counter",
+    "A semaphore is higher-level",
+    "Monitors are only in Linux"
+  ],
+  "answer": 1,
+  "explanation": "Monitors encapsulate shared data and synchronization logic, making them easier to use correctly than raw semaphores."
+}

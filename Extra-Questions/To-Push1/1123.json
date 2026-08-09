@@ -1,0 +1,14 @@
+{
+  "id": "placement-1123",
+  "topic": "C Programming",
+  "difficulty": "Easy",
+  "question": "Which header file is required for `malloc`?",
+  "options": [
+    "<stdio.h>",
+    "<string.h>",
+    "<stdlib.h>",
+    "<math.h>"
+  ],
+  "answer": 2,
+  "explanation": "malloc is declared in the standard library header <stdlib.h>."
+}

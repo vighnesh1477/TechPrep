@@ -1,0 +1,14 @@
+{
+  "id": "placement-2178",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Medium",
+  "question": "Statement: 'If you are intelligent, join our institute.' Assumption: Joining the institute makes you intelligent.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 2,
+  "explanation": "The statement says intelligent people should join. It does not assume joining makes you intelligent."
+}

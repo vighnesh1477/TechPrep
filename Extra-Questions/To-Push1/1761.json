@@ -1,0 +1,14 @@
+{
+  "id": "placement-1761",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What is the result of `\"Hello\".substring(1, 3)` in Java?",
+  "options": [
+    "Hel",
+    "el",
+    "ell",
+    "llo"
+  ],
+  "answer": 1,
+  "explanation": "The `substring(beginIndex, endIndex)` method returns a string from `beginIndex` to `endIndex - 1`. Here, it returns characters at indices 1 and 2, which is \"el\"."
+}

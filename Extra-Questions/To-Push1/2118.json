@@ -1,0 +1,14 @@
+{
+  "id": "placement-2118",
+  "topic": "Coding-Decoding",
+  "difficulty": "Medium",
+  "question": "If FRIEND is coded as HUMJTK, how is CANDLE coded?",
+  "options": [
+    "EDRIRL",
+    "DCPEMF",
+    "ESJFME",
+    "FYOJKC"
+  ],
+  "answer": 0,
+  "explanation": "F+2=H, R+3=U, I+4=M, E+5=J, N+6=T, D+7=K. C+2=E, A+3=D, N+4=R, D+5=I, L+6=R, E+7=L."
+}

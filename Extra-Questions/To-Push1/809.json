@@ -1,0 +1,14 @@
+{
+  "id": "placement-809",
+  "topic": "awk",
+  "difficulty": "Medium",
+  "question": "What does 'awk 'NR==5' file' do?",
+  "options": [
+    "Prints lines 1-5",
+    "Prints only line 5",
+    "Skips the first 5 lines",
+    "Prints every 5th line"
+  ],
+  "answer": 1,
+  "explanation": "NR is the Number of Records (line number). NR==5 is true only for line 5, so the default action (print the line) is applied only to that line."
+}

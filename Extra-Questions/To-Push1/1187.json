@@ -1,0 +1,14 @@
+{
+  "id": "placement-1187",
+  "topic": "DBMS",
+  "difficulty": "Hard",
+  "question": "What is WAL (Write-Ahead Logging)?",
+  "options": [
+    "Writing to a backup server",
+    "Logging changes before they are written to the database to ensure crash recovery",
+    "Writing queries to a file",
+    "Deleting old logs"
+  ],
+  "answer": 1,
+  "explanation": "WAL ensures atomicity and durability by writing changes to a log before modifying the actual database pages."
+}

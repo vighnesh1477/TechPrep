@@ -1,0 +1,14 @@
+{
+  "id": "placement-1145",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What is the purpose of the `instanceof` operator?",
+  "options": [
+    "Creating objects",
+    "Checking if an object is an instance of a specific class or interface",
+    "Casting objects",
+    "Comparing references"
+  ],
+  "answer": 1,
+  "explanation": "instanceof returns true if the object is an instance of the specified type."
+}

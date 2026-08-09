@@ -1,0 +1,14 @@
+{
+  "id": "placement-1067",
+  "topic": "Linux",
+  "difficulty": "Medium",
+  "question": "What does `chmod 755 file.sh` do?",
+  "options": [
+    "Gives no permissions",
+    "Gives owner full permissions, and read/execute to group and others",
+    "Gives everyone full permissions",
+    "Deletes the file"
+  ],
+  "answer": 1,
+  "explanation": "7 (rwx) for owner, 5 (r-x) for group, 5 (r-x) for others."
+}

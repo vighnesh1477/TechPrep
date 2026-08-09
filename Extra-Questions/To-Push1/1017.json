@@ -1,0 +1,14 @@
+{
+  "id": "placement-1017",
+  "topic": "OOP",
+  "difficulty": "Easy",
+  "question": "Which OOP concept hides internal state and requires all interaction via methods?",
+  "options": [
+    "Inheritance",
+    "Polymorphism",
+    "Encapsulation",
+    "Abstraction"
+  ],
+  "answer": 2,
+  "explanation": "Encapsulation bundles data and restricts direct access to it, preventing unauthorized interference."
+}

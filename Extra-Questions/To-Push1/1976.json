@@ -1,0 +1,14 @@
+{
+  "id": "placement-1976",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Hard",
+  "question": "A walks from P to Q at 3 km/h, returns at 4 km/h. Total time 7 hrs. Distance PQ?",
+  "options": [
+    "9 km",
+    "10 km",
+    "12 km",
+    "15 km"
+  ],
+  "answer": 2,
+  "explanation": "D/3 + D/4 = 7 => 7D/12 = 7 => D=12 km."
+}

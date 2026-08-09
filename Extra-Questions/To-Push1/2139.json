@@ -1,0 +1,14 @@
+{
+  "id": "placement-2139",
+  "topic": "Blood Relations",
+  "difficulty": "Medium",
+  "question": "Ram is the son of Shyam. Shyam is the brother of Ravi. Ravi is the son of Mohan. How is Ram related to Mohan?",
+  "options": [
+    "Son",
+    "Grandson",
+    "Nephew",
+    "Cousin"
+  ],
+  "answer": 1,
+  "explanation": "Mohan -> Ravi & Shyam -> Ram. Ram is Mohan's grandson."
+}

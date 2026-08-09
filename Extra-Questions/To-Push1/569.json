@@ -1,0 +1,14 @@
+{
+  "id": "placement-569",
+  "topic": "mv",
+  "difficulty": "Easy",
+  "question": "Which flag with mv prompts before overwriting?",
+  "options": [
+    "mv -p",
+    "mv -i",
+    "mv -n",
+    "mv -w"
+  ],
+  "answer": 1,
+  "explanation": "mv -i prompts the user for confirmation before overwriting an existing file. mv -n prevents overwriting entirely."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1522",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the output of the Code Generation phase?",
+  "options": [
+    "Source code",
+    "Tokens",
+    "Target machine code or assembly code",
+    "Optimized parse tree"
+  ],
+  "answer": 2,
+  "explanation": "The code generator takes the intermediate representation (IR) of the source code and translates it into the target machine's native code or assembly language."
+}

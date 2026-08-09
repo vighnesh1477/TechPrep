@@ -1,0 +1,14 @@
+{
+  "id": "placement-1321",
+  "topic": "Git",
+  "difficulty": "Medium",
+  "question": "What does `git blame` do?",
+  "options": [
+    "Insults the programmer",
+    "Shows who last modified each line of a file and when",
+    "Deletes a file's history",
+    "Merges branches"
+  ],
+  "answer": 1,
+  "explanation": "git blame annotates each line with the commit hash, author, and timestamp of its last modification."
+}

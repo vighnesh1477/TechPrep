@@ -1,0 +1,14 @@
+{
+  "id": "placement-1834",
+  "topic": "Complexity",
+  "difficulty": "Easy",
+  "question": "What is the Big-O of accessing an element in an array by its index?",
+  "options": [
+    "O(n)",
+    "O(log n)",
+    "O(n^2)",
+    "O(1)"
+  ],
+  "answer": 3,
+  "explanation": "Array access via index is a constant time operation O(1) because the memory address is calculated directly using base_address + (index * element_size)."
+}

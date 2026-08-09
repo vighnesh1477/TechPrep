@@ -1,0 +1,14 @@
+{
+  "id": "placement-519",
+  "topic": "SSH Keys",
+  "difficulty": "Medium",
+  "question": "Which SSH key file should never be shared?",
+  "options": [
+    "The public key (.pub file)",
+    "The private key (id_rsa, id_ed25519, etc.)",
+    "The known_hosts file",
+    "The SSH config file"
+  ],
+  "answer": 1,
+  "explanation": "The private key must never be shared as it is used to prove your identity. Only the public key (.pub) should be added to Git platforms."
+}

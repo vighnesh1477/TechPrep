@@ -1,0 +1,14 @@
+{
+  "id": "placement-1496",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "What is the role of a Scrum Master?",
+  "options": [
+    "To manage the project budget",
+    "To write the code",
+    "To facilitate the Scrum process, remove impediments, and ensure the team follows Agile practices",
+    "To define the product vision"
+  ],
+  "answer": 2,
+  "explanation": "The Scrum Master is a servant-leader for the team. They help the team understand and enact Scrum, remove blockers, and ensure Scrum events take place and are positive."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-512",
+  "topic": "Pull Requests",
+  "difficulty": "Medium",
+  "question": "What is a pull request?",
+  "options": [
+    "A command to pull from a remote",
+    "A request to merge changes from one branch into another, typically with code review",
+    "A request to download the repository",
+    "A Git command built into Git CLI"
+  ],
+  "answer": 1,
+  "explanation": "A pull request is a platform feature (GitHub, GitLab, etc.) that proposes merging changes from a source branch into a target branch, facilitating code review and discussion."
+}

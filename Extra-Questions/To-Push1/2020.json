@@ -1,0 +1,14 @@
+{
+  "id": "placement-2020",
+  "topic": "Probability",
+  "difficulty": "Medium",
+  "question": "A bag has 5 red, 4 blue. Two drawn without replacement. Both red?",
+  "options": [
+    "5/18",
+    "4/18",
+    "10/18",
+    "2/18"
+  ],
+  "answer": 0,
+  "explanation": "P = (5/9) * (4/8) = 20/72 = 5/18."
+}

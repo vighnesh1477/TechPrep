@@ -1,0 +1,14 @@
+{
+  "id": "placement-2169",
+  "topic": "Statements and Conclusions",
+  "difficulty": "Medium",
+  "question": "Statement: Water boils at 100 degrees C at sea level. Conclusion: At sea level, boiling water is at 100 degrees C.",
+  "options": [
+    "Follows",
+    "Does not follow",
+    "Partially follows",
+    "Contradiction"
+  ],
+  "answer": 0,
+  "explanation": "This is a direct restatement of the premise."
+}

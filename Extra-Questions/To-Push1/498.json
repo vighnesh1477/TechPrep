@@ -1,0 +1,14 @@
+{
+  "id": "placement-498",
+  "topic": "Ignore (.gitignore)",
+  "difficulty": "Medium",
+  "question": "What is the global gitignore file location?",
+  "options": [
+    "~/.gitignore",
+    "~/.config/git/ignore",
+    "It depends on core.excludesFile configuration",
+    "/etc/gitignore"
+  ],
+  "answer": 2,
+  "explanation": "The global gitignore file path is determined by the core.excludesFile configuration, which defaults to ~/.config/git/ignore on many systems."
+}

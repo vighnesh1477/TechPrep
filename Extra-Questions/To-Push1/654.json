@@ -1,0 +1,14 @@
+{
+  "id": "placement-654",
+  "topic": "chown",
+  "difficulty": "Easy",
+  "question": "How do you change both the owner and group of a file?",
+  "options": [
+    "chown user:group file",
+    "chown user,group file",
+    "chown user-group file",
+    "chown user;group file"
+  ],
+  "answer": 0,
+  "explanation": "chown user:group file changes both the owner to 'user' and the group to 'group'. The colon separates user and group."
+}

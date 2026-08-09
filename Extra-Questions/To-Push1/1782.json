@@ -1,0 +1,14 @@
+{
+  "id": "placement-1782",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What is the difference between `malloc` and `calloc`?",
+  "options": [
+    "`malloc` initializes memory to 0; `calloc` does not",
+    "`calloc` allocates memory for an array and initializes it to 0; `malloc` leaves memory uninitialized",
+    "`malloc` takes two arguments; `calloc` takes one",
+    "There is no difference"
+  ],
+  "answer": 1,
+  "explanation": "`calloc(num, size)` allocates memory for an array of `num` elements, each of `size` bytes, and initializes all bits to 0. `malloc(size)` allocates uninitialized memory."
+}

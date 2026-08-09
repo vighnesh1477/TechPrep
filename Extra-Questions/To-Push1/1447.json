@@ -1,0 +1,14 @@
+{
+  "id": "placement-1447",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the main advantage of IPv6 over IPv4?",
+  "options": [
+    "It is faster",
+    "It uses 32-bit addresses",
+    "It provides a vastly larger address space (128-bit) and built-in security (IPsec)",
+    "It does not require MAC addresses"
+  ],
+  "answer": 2,
+  "explanation": "IPv6 uses 128-bit addressing, solving the IPv4 address exhaustion problem (2^128 addresses). It also natively supports IPsec for security and simplified header handling."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2001",
+  "topic": "Mixtures and Alligation",
+  "difficulty": "Hard",
+  "question": "A container has 80L milk. 8L removed and replaced with water. Process repeated 2 more times. Final milk?",
+  "options": [
+    "58.32L",
+    "60.00L",
+    "62.50L",
+    "64.00L"
+  ],
+  "answer": 0,
+  "explanation": "Milk = 80 * (1 - 8/80)^3 = 80 * (0.9)^3 = 80 * 0.729 = 58.32L."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1473",
+  "topic": "Computer Architecture",
+  "difficulty": "Medium",
+  "question": "Which of the following is an example of non-volatile storage?",
+  "options": [
+    "L1 Cache",
+    "Registers",
+    "RAM",
+    "HDD (Hard Disk Drive)"
+  ],
+  "answer": 3,
+  "explanation": "Non-volatile storage retains data even when power is turned off. HDDs, SSDs, and ROM are non-volatile. Cache, registers, and RAM are volatile."
+}

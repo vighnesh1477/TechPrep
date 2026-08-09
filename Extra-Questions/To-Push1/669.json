@@ -1,0 +1,14 @@
+{
+  "id": "placement-669",
+  "topic": "Hard Links",
+  "difficulty": "Easy",
+  "question": "How do you create a hard link?",
+  "options": [
+    "ln -s source link",
+    "ln source link",
+    "link -h source link",
+    "hardlink source link"
+  ],
+  "answer": 1,
+  "explanation": "ln source link creates a hard link. The -s flag creates a symbolic (soft) link instead."
+}

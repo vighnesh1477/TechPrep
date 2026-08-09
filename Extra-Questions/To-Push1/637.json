@@ -1,0 +1,14 @@
+{
+  "id": "placement-637",
+  "topic": "which",
+  "difficulty": "Easy",
+  "question": "Which flag makes which show all matching executables in PATH?",
+  "options": [
+    "which -a",
+    "which --all",
+    "Both A and B",
+    "which -l"
+  ],
+  "answer": 2,
+  "explanation": "Both which -a and which --all show all matching executables found in PATH, not just the first one."
+}

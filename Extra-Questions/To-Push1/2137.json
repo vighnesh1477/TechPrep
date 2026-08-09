@@ -1,0 +1,14 @@
+{
+  "id": "placement-2137",
+  "topic": "Blood Relations",
+  "difficulty": "Medium",
+  "question": "If P * Q means P is sister of Q, P + Q means P is mother of Q. What is A * B + C?",
+  "options": [
+    "Aunt",
+    "Mother",
+    "Sister",
+    "Daughter"
+  ],
+  "answer": 0,
+  "explanation": "A is sister of B, B is mother of C. So A is C's aunt."
+}

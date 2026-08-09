@@ -1,0 +1,14 @@
+{
+  "id": "placement-420",
+  "topic": "Git Status",
+  "difficulty": "Easy",
+  "question": "What does 'UU' mean in git status output during a merge?",
+  "options": [
+    "Both sides modified, causing a merge conflict",
+    "Both files are untracked",
+    "Both files are up to date",
+    "Both sides unchanged"
+  ],
+  "answer": 0,
+  "explanation": "'UU' indicates that both sides (ours and theirs) modified the same part of the file, resulting in a merge conflict that needs manual resolution."
+}

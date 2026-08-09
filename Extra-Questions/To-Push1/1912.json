@@ -1,0 +1,14 @@
+{
+  "id": "placement-1912",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Easy",
+  "question": "If x:y = 1:2 and y:z = 3:4, find x:y:z.",
+  "options": [
+    "1:2:4",
+    "3:6:8",
+    "1:6:4",
+    "3:2:4"
+  ],
+  "answer": 1,
+  "explanation": "x:y=3:6, y:z=6:8. x:y:z=3:6:8."
+}

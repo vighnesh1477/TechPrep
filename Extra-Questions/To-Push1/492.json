@@ -1,0 +1,14 @@
+{
+  "id": "placement-492",
+  "topic": "Bisect",
+  "difficulty": "Medium",
+  "question": "What does git bisect start do?",
+  "options": [
+    "Automatically finds the bug",
+    "Begins a bisect session, preparing for marking good and bad commits",
+    "Starts from the first commit",
+    "Starts a new branch for debugging"
+  ],
+  "answer": 1,
+  "explanation": "git bisect start initializes a bisect session, putting Git into a state where you can mark commits as good or bad to narrow down the bug."
+}

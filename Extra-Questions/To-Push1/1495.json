@@ -1,0 +1,14 @@
+{
+  "id": "placement-1495",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "What is the main disadvantage of the Waterfall model?",
+  "options": [
+    "It is too fast",
+    "It is rigid and makes it difficult to accommodate changes once a phase is completed",
+    "It does not require documentation",
+    "It does not have a testing phase"
+  ],
+  "answer": 1,
+  "explanation": "Because Waterfall is linear and sequential, going back to a previous phase to make changes is very difficult and expensive. It assumes requirements are fixed, which is rarely true."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1445",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "You are given an IP address of 192.168.1.130/26. What is the broadcast address of this subnet?",
+  "options": [
+    "192.168.1.127",
+    "192.168.1.128",
+    "192.168.1.191",
+    "192.168.1.255"
+  ],
+  "answer": 2,
+  "explanation": "/26 means the subnet mask is 255.255.255.192. The block size is 64. Subnets are 0, 64, 128, 192. 192.168.1.130 falls in the 128 subnet. Range is 129-190. Broadcast is 191."
+}

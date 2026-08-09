@@ -1,0 +1,14 @@
+{
+  "id": "placement-1910",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Easy",
+  "question": "If 5:3 = x:15, find x.",
+  "options": [
+    "15",
+    "25",
+    "5",
+    "10"
+  ],
+  "answer": 1,
+  "explanation": "5/3 = x/15 => 3x = 75 => x=25."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1222",
+  "topic": "Cloud Basics",
+  "difficulty": "Medium",
+  "question": "What is elasticity in cloud computing?",
+  "options": [
+    "Stretching the network cables",
+    "The ability to scale resources up and down dynamically based on demand",
+    "Bouncing servers",
+    "Flexible pricing"
+  ],
+  "answer": 1,
+  "explanation": "Elasticity allows systems to automatically adapt to workload changes by provisioning and de-provisioning resources."
+}

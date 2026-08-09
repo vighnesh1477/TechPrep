@@ -1,0 +1,14 @@
+{
+  "id": "placement-845",
+  "topic": "Shell Scripting",
+  "difficulty": "Medium",
+  "question": "How do you check if a file exists in a bash script?",
+  "options": [
+    "if [ -e file ]; then",
+    "if exist file; then",
+    "if file exists; then",
+    "if [ -f file ]; then"
+  ],
+  "answer": 0,
+  "explanation": "[ -e file ] checks if the file exists (any type). [ -f file ] specifically checks for a regular file. Both are valid, but -e is more general."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-773",
+  "topic": "Terminal",
+  "difficulty": "Easy",
+  "question": "What does Ctrl+C do in the terminal?",
+  "options": [
+    "Copies selected text",
+    "Sends SIGINT to interrupt the current foreground process",
+    "Closes the terminal",
+    "Clears the screen"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl+C sends SIGINT (interrupt signal) to the foreground process, typically causing it to terminate. This is different from Ctrl+Z which suspends a process."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1478",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "How does Out-of-Order Execution improve CPU performance?",
+  "options": [
+    "By executing instructions in the order they appear in the program",
+    "By executing instructions when their operands are ready, even if they appear later in the program sequence, keeping pipeline stages busy",
+    "By using multiple CPUs",
+    "By ignoring branch instructions"
+  ],
+  "answer": 1,
+  "explanation": "Out-of-Order execution allows the CPU to fill in bubbles (stalls) caused by data dependencies by executing later, independent instructions ahead of earlier ones that are waiting for data."
+}

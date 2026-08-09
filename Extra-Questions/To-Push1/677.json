@@ -1,0 +1,14 @@
+{
+  "id": "placement-677",
+  "topic": "Soft Links",
+  "difficulty": "Easy",
+  "question": "How do you create a symbolic link to a directory?",
+  "options": [
+    "ln -s /path/to/dir link_name",
+    "ln /path/to/dir link_name",
+    "ln -d /path/to/dir link_name",
+    "symlink /path/to/dir link_name"
+  ],
+  "answer": 0,
+  "explanation": "ln -s /path/to/dir link_name creates a symbolic link to a directory. Unlike hard links, symbolic links can point to directories."
+}

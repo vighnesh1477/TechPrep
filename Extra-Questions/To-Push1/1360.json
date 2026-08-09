@@ -1,0 +1,14 @@
+{
+  "id": "placement-1360",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Hard",
+  "question": "In a paging system with a TLB hit rate of 80% and a main memory access time of 100ns, what is the effective memory access time (assume TLB access time is 20ns)?",
+  "options": [
+    "120ns",
+    "140ns",
+    "100ns",
+    "160ns"
+  ],
+  "answer": 1,
+  "explanation": "EMAT = (Hit Ratio * TLB Time + Mem Time) + (Miss Ratio * (TLB Time + 2 * Mem Time)). EMAT = 0.8 * (20 + 100) + 0.2 * (20 + 200) = 96 + 44 = 140ns."
+}

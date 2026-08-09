@@ -1,0 +1,14 @@
+{
+  "id": "placement-1128",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What is the output of `int x = 1; if (x = 0) printf(\"True\"); else printf(\"False\");`?",
+  "options": [
+    "True",
+    "False",
+    "0",
+    "Compilation error"
+  ],
+  "answer": 1,
+  "explanation": "x=0 is an assignment that evaluates to 0 (false), so else executes."
+}

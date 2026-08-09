@@ -1,0 +1,14 @@
+{
+  "id": "placement-1865",
+  "topic": "Number Systems",
+  "difficulty": "Easy",
+  "question": "What is the LCM of 12, 15, and 20?",
+  "options": [
+    "30",
+    "60",
+    "120",
+    "180"
+  ],
+  "answer": 1,
+  "explanation": "LCM(12,15,20) = 2^2 * 3 * 5 = 60."
+}

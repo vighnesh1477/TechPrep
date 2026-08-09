@@ -1,0 +1,14 @@
+{
+  "id": "placement-1539",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the Chomsky Hierarchy classification for Regular Languages (used in Lexical Analysis)?",
+  "options": [
+    "Type 0 (Recursively Enumerable)",
+    "Type 1 (Context-Sensitive)",
+    "Type 2 (Context-Free)",
+    "Type 3 (Regular)"
+  ],
+  "answer": 3,
+  "explanation": "The Chomsky hierarchy classifies languages. Type 3 are Regular Languages, which can be recognized by Finite Automata and described by Regular Expressions. Type 2 (Context-Free) are used in Syntax Analysis."
+}

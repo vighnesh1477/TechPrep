@@ -1,0 +1,14 @@
+{
+  "id": "placement-1744",
+  "topic": "Strings",
+  "difficulty": "Easy",
+  "question": "What is the length of the string `\"Hello\"` in C?",
+  "options": [
+    "6",
+    "5",
+    "4",
+    "7"
+  ],
+  "answer": 1,
+  "explanation": "The `strlen` function counts the number of characters before the null terminator. \"Hello\" has 5 characters. The null terminator is not counted in the length."
+}

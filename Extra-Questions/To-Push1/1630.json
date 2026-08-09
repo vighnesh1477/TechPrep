@@ -1,0 +1,14 @@
+{
+  "id": "placement-1630",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "In Python, which of the following is an immutable data type?",
+  "options": [
+    "List",
+    "Dictionary",
+    "Set",
+    "Tuple"
+  ],
+  "answer": 3,
+  "explanation": "Tuples are immutable sequences in Python, meaning their elements cannot be changed after creation. Lists, dictionaries, and sets are mutable."
+}

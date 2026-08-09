@@ -1,0 +1,14 @@
+{
+  "id": "placement-1730",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "question": "In a 2D array `int mat[3][4]`, how many total elements can it store?",
+  "options": [
+    "7",
+    "12",
+    "3",
+    "4"
+  ],
+  "answer": 1,
+  "explanation": "A 2D array's total capacity is the product of its dimensions. Here, 3 rows multiplied by 4 columns equals 12 elements."
+}

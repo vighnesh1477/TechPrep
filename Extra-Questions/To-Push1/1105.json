@@ -1,0 +1,14 @@
+{
+  "id": "placement-1105",
+  "topic": "Cloud Basics",
+  "difficulty": "Hard",
+  "question": "What is a Content Delivery Network (CDN)?",
+  "options": [
+    "A database",
+    "A geographically distributed network of servers that delivers web content to users based on their location",
+    "A type of VM",
+    "A security group"
+  ],
+  "answer": 1,
+  "explanation": "CDNs cache content at edge servers closer to users, reducing latency and improving load times."
+}

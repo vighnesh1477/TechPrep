@@ -1,0 +1,14 @@
+{
+  "id": "placement-291",
+  "topic": "HEAD",
+  "difficulty": "Easy",
+  "question": "What does HEAD~2 refer to?",
+  "options": [
+    "The second branch in the repository",
+    "The commit two parents before the current commit",
+    "The second file in the staging area",
+    "Two commits ahead of HEAD"
+  ],
+  "answer": 1,
+  "explanation": "HEAD~2 is a shorthand for the commit that is two generations before the current commit, following the first parent of each commit."
+}

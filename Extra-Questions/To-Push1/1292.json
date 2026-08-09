@@ -1,0 +1,14 @@
+{
+  "id": "placement-1292",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What does the `extern` keyword signify?",
+  "options": [
+    "The variable is constant",
+    "The variable is declared in another file and is being referenced",
+    "The variable is static",
+    "The variable is deleted"
+  ],
+  "answer": 1,
+  "explanation": "extern extends the visibility of a C variable or function across multiple source files."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1548",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Easy",
+  "question": "What does a NOT gate do?",
+  "options": [
+    "Adds two inputs",
+    "Inverts the input signal (0 becomes 1, 1 becomes 0)",
+    "Outputs 1 if at least one input is 1",
+    "Stores a bit"
+  ],
+  "answer": 1,
+  "explanation": "A NOT gate (also called an inverter) is a logic gate that implements logical negation. It takes a single input and outputs the opposite value."
+}

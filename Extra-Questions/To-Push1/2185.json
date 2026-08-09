@@ -1,0 +1,14 @@
+{
+  "id": "placement-2185",
+  "topic": "Seating Arrangement",
+  "difficulty": "Easy",
+  "question": "In a row of 10, A is 5th from left. What is his position from right?",
+  "options": [
+    "5th",
+    "6th",
+    "7th",
+    "8th"
+  ],
+  "answer": 1,
+  "explanation": "Position from right = 10 - 5 + 1 = 6th."
+}

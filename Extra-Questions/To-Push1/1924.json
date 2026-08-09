@@ -1,0 +1,14 @@
+{
+  "id": "placement-1924",
+  "topic": "Averages",
+  "difficulty": "Easy",
+  "question": "Average of 15 numbers is 20. Sum of numbers?",
+  "options": [
+    "200",
+    "250",
+    "300",
+    "350"
+  ],
+  "answer": 2,
+  "explanation": "Sum = Average * Count = 20 * 15 = 300."
+}

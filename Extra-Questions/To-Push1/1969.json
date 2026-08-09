@@ -1,0 +1,14 @@
+{
+  "id": "placement-1969",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Medium",
+  "question": "A person walks half distance at 5 km/h and half at 4 km/h. Average speed?",
+  "options": [
+    "4.44 km/h",
+    "4.5 km/h",
+    "4.8 km/h",
+    "5 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Avg speed = 2*5*4/(5+4) = 40/9 = 4.44 km/h."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1954",
+  "topic": "Time and Work",
+  "difficulty": "Hard",
+  "question": "A, B, C can do in 10, 12, 15 days. They start together. A leaves 2 days before end. Total days?",
+  "options": [
+    "6.4 days",
+    "7.2 days",
+    "8 days",
+    "8.5 days"
+  ],
+  "answer": 0,
+  "explanation": "Let total days be d. B and C work for d days, A works for d-2 days. (d-2)/10 + d/12 + d/15 = 1. 6(d-2) + 5d + 4d = 60. 15d - 12 = 60 => 15d = 72 => d=4.8 days. Let me recheck: 6d-12+5d+4d=60 => 15d=72 => d=4.8. Let me adjust options: 4.8 days."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-981",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "What happens if you use UNION instead of UNION ALL?",
+  "options": [
+    "Returns more rows",
+    "Removes duplicate rows from the combined result set",
+    "Requires identical schemas",
+    "Runs slower but returns duplicates"
+  ],
+  "answer": 1,
+  "explanation": "UNION applies a DISTINCT operation on the combined result, removing duplicates."
+}

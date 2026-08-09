@@ -1,0 +1,14 @@
+{
+  "id": "placement-703",
+  "topic": "renice",
+  "difficulty": "Easy",
+  "question": "What does the renice command do?",
+  "options": [
+    "Restarts a process with a new nice value",
+    "Changes the nice value of an already running process",
+    "Resets the nice value to 0",
+    "Removes the nice value from a process"
+  ],
+  "answer": 1,
+  "explanation": "renice alters the scheduling priority (nice value) of one or more running processes. Unlike nice, which is used when starting a process."
+}

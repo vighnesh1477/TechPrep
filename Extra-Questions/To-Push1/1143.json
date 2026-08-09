@@ -1,0 +1,14 @@
+{
+  "id": "placement-1143",
+  "topic": "Java",
+  "difficulty": "Easy",
+  "question": "Which keyword prevents a class from being inherited?",
+  "options": [
+    "static",
+    "final",
+    "abstract",
+    "private"
+  ],
+  "answer": 1,
+  "explanation": "The final keyword on a class declaration prevents it from having subclasses."
+}

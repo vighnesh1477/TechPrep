@@ -1,0 +1,14 @@
+{
+  "id": "placement-2158",
+  "topic": "Syllogisms",
+  "difficulty": "Medium",
+  "question": "No bat is a ball. No ball is a wicket. Conclusion: No bat is a wicket.",
+  "options": [
+    "True",
+    "False",
+    "Probable",
+    "Cannot determine"
+  ],
+  "answer": 1,
+  "explanation": "Both premises are negative. No valid conclusion can be drawn between bat and wicket."
+}

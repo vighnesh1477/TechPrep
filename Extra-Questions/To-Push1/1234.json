@@ -1,0 +1,14 @@
+{
+  "id": "placement-1234",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is the Interface Segregation Principle (ISP)?",
+  "options": [
+    "Clients should not be forced to depend on interfaces they do not use",
+    "Classes should have only one interface",
+    "Interfaces must be private",
+    "Interfaces cannot inherit"
+  ],
+  "answer": 0,
+  "explanation": "ISP states that many small, specific interfaces are better than one large, general-purpose interface."
+}

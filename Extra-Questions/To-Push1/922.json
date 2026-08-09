@@ -1,0 +1,14 @@
+{
+  "id": "placement-922",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is the space complexity of an adjacency matrix for a graph with V vertices?",
+  "options": [
+    "O(V)",
+    "O(E)",
+    "O(V^2)",
+    "O(V+E)"
+  ],
+  "answer": 2,
+  "explanation": "An adjacency matrix is a V x V 2D array, taking O(V^2) space."
+}

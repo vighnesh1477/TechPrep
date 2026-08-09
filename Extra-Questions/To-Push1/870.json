@@ -1,0 +1,14 @@
+{
+  "id": "placement-870",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "Which STL container provides fast insertion and deletion at both ends?",
+  "options": [
+    "vector",
+    "list",
+    "deque",
+    "stack"
+  ],
+  "answer": 2,
+  "explanation": "deque (double-ended queue) allows O(1) insertion/deletion at both front and back."
+}

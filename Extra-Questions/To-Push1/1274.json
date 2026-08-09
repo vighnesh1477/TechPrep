@@ -1,0 +1,14 @@
+{
+  "id": "placement-1274",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What does ALU stand for?",
+  "options": [
+    "Application Logic Unit",
+    "Arithmetic Logic Unit",
+    "Advanced Loading Utility",
+    "Array Lookup Unit"
+  ],
+  "answer": 1,
+  "explanation": "The ALU is the part of the CPU that performs arithmetic and logical operations."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1212",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is an association relationship in UML?",
+  "options": [
+    "A has-a relationship where objects have independent lifecycles",
+    "An is-a relationship",
+    "A part-of relationship",
+    "A dependency"
+  ],
+  "answer": 0,
+  "explanation": "Association defines a relationship between two classes where both can exist independently (e.g., Doctor and Patient)."
+}

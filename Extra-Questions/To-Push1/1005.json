@@ -1,0 +1,14 @@
+{
+  "id": "placement-1005",
+  "topic": "Computer Networks",
+  "difficulty": "Easy",
+  "question": "What is the purpose of a MAC address?",
+  "options": [
+    "Logical addressing",
+    "Identifying a device on a local network",
+    "Routing across the internet",
+    "Encryption"
+  ],
+  "answer": 1,
+  "explanation": "A MAC (Media Access Control) address is a physical address used to identify devices on a local network segment."
+}

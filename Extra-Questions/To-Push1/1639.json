@@ -1,0 +1,14 @@
+{
+  "id": "placement-1639",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the purpose of the `void` keyword in a function declaration?",
+  "options": [
+    "It means the function returns an integer",
+    "It means the function takes no parameters",
+    "It means the function does not return a value",
+    "It means the function is empty"
+  ],
+  "answer": 2,
+  "explanation": "When used as a return type, `void` specifies that the function does not return any value to the caller."
+}

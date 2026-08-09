@@ -1,0 +1,14 @@
+{
+  "id": "placement-579",
+  "topic": "mkdir",
+  "difficulty": "Easy",
+  "question": "What does mkdir -m 755 mydir do?",
+  "options": [
+    "Creates a directory with move permissions",
+    "Creates a directory with 755 permissions",
+    "Creates a directory with maximum size 755",
+    "Modifies an existing directory to 755"
+  ],
+  "answer": 1,
+  "explanation": "mkdir -m 755 sets the permission mode to 755 (rwxr-xr-x) at the time of directory creation."
+}

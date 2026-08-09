@@ -1,0 +1,14 @@
+{
+  "id": "placement-456",
+  "topic": "Rebase",
+  "difficulty": "Medium",
+  "question": "What is the main advantage of rebasing over merging?",
+  "options": [
+    "It is always faster",
+    "It produces a linear, cleaner commit history",
+    "It preserves the original branch structure",
+    "It automatically resolves all conflicts"
+  ],
+  "answer": 1,
+  "explanation": "Rebasing creates a linear project history without merge commits, making it easier to read and follow the progression of changes."
+}

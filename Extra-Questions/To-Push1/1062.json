@@ -1,0 +1,14 @@
+{
+  "id": "placement-1062",
+  "topic": "Linux",
+  "difficulty": "Easy",
+  "question": "Which command lists directory contents?",
+  "options": [
+    "ls",
+    "cd",
+    "pwd",
+    "mkdir"
+  ],
+  "answer": 0,
+  "explanation": "ls (list) displays the files and directories in the current directory."
+}

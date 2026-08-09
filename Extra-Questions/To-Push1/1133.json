@@ -1,0 +1,14 @@
+{
+  "id": "placement-1133",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "What does `std::cout` belong to?",
+  "options": [
+    "<cmath>",
+    "<iostream>",
+    "<string>",
+    "<vector>"
+  ],
+  "answer": 1,
+  "explanation": "cout is defined in the <iostream> standard header."
+}

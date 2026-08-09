@@ -1,0 +1,14 @@
+{
+  "id": "placement-1879",
+  "topic": "Percentages",
+  "difficulty": "Easy",
+  "question": "A is 25% more than B. B is what percent less than A?",
+  "options": [
+    "15%",
+    "20%",
+    "25%",
+    "30%"
+  ],
+  "answer": 1,
+  "explanation": "B = 100, A = 125. Diff = 25. % less = 25/125 = 20%."
+}

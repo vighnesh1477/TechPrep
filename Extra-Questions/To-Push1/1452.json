@@ -1,0 +1,14 @@
+{
+  "id": "placement-1452",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "What happens when a TCP sender receives three duplicate ACKs?",
+  "options": [
+    "It retransmits the entire window",
+    "It performs a Fast Retransmit of the missing segment without waiting for the timer to expire",
+    "It resets the connection",
+    "It switches to UDP"
+  ],
+  "answer": 1,
+  "explanation": "Three duplicate ACKs strongly imply that a packet was lost. TCP performs a 'Fast Retransmit' immediately, bypassing the normal timeout delay to improve throughput."
+}

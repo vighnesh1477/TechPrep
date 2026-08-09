@@ -1,0 +1,14 @@
+{
+  "id": "placement-1596",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the default value of a boolean variable in Java?",
+  "options": [
+    "true",
+    "1",
+    "null",
+    "false"
+  ],
+  "answer": 3,
+  "explanation": "In Java, local variables must be initialized before use, but class/object level boolean variables default to `false`."
+}

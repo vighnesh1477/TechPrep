@@ -1,0 +1,14 @@
+{
+  "id": "placement-941",
+  "topic": "Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of Dijkstra's algorithm using an adjacency list and min-heap?",
+  "options": [
+    "O(V^2)",
+    "O(E log V)",
+    "O(V+E)",
+    "O(V log V)"
+  ],
+  "answer": 1,
+  "explanation": "With a min-heap, extracting the min takes O(log V) for each vertex, and relaxing edges takes O(log V) per edge."
+}

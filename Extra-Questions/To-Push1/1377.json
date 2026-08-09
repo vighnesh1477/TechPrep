@@ -1,0 +1,14 @@
+{
+  "id": "placement-1377",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is a deadlock in the context of database transactions?",
+  "options": [
+    "A query that takes too long to run",
+    "A situation where two or more transactions are waiting for each other to release locks",
+    "A table that cannot be accessed",
+    "A loss of data during a transaction"
+  ],
+  "answer": 1,
+  "explanation": "A database deadlock occurs when two or more processes are mutually blocked because each is holding a lock on a resource that the other process needs."
+}

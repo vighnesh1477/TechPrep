@@ -1,0 +1,14 @@
+{
+  "id": "placement-812",
+  "topic": "sed",
+  "difficulty": "Medium",
+  "question": "How do you delete lines 3 to 5 from a file using sed?",
+  "options": [
+    "sed 'd 3,5' file",
+    "sed '3,5d' file",
+    "sed --delete 3-5 file",
+    "sed 'remove 3:5' file"
+  ],
+  "answer": 1,
+  "explanation": "sed '3,5d' applies the delete command (d) to lines 3 through 5. The address range '3,5' specifies which lines the command applies to."
+}

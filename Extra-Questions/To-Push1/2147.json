@@ -1,0 +1,14 @@
+{
+  "id": "placement-2147",
+  "topic": "Direction Sense",
+  "difficulty": "Medium",
+  "question": "A is East of B. C is North of B. D is South of A. Which direction is D relative to C?",
+  "options": [
+    "North-East",
+    "South-East",
+    "South-West",
+    "North-West"
+  ],
+  "answer": 1,
+  "explanation": "D is East and South of C, so South-East."
+}

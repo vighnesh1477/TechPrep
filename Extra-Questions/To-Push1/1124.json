@@ -1,0 +1,14 @@
+{
+  "id": "placement-1124",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What does `static` mean for a local variable inside a function?",
+  "options": [
+    "It is global",
+    "It retains its value between function calls",
+    "It cannot be read",
+    "It is allocated on the heap"
+  ],
+  "answer": 1,
+  "explanation": "A static local variable is initialized once and preserves its state across calls."
+}

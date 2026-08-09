@@ -1,0 +1,14 @@
+{
+  "id": "placement-1070",
+  "topic": "Linux",
+  "difficulty": "Medium",
+  "question": "Which command shows active processes?",
+  "options": [
+    "ls",
+    "ps",
+    "top",
+    "Both ps and top"
+  ],
+  "answer": 3,
+  "explanation": "ps gives a snapshot of current processes, while top provides a dynamic, real-time view. Both show active processes."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-309",
+  "topic": "Upstream",
+  "difficulty": "Easy",
+  "question": "What does 'upstream' typically refer to in Git?",
+  "options": [
+    "A downstream branch",
+    "The original repository from which a fork was created",
+    "The local .git directory",
+    "The most recent commit"
+  ],
+  "answer": 1,
+  "explanation": "Upstream generally refers to the primary or original repository, especially in the context of forks where it points to the source repository."
+}

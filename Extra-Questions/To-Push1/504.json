@@ -1,0 +1,14 @@
+{
+  "id": "placement-504",
+  "topic": "Hooks",
+  "difficulty": "Medium",
+  "question": "Where are Git hooks stored in a repository?",
+  "options": [
+    ".git/hooks/",
+    ".hooks/",
+    ".gitconfig/hooks/",
+    "hooks/ in the repository root"
+  ],
+  "answer": 0,
+  "explanation": "Git hooks are stored as scripts in the .git/hooks/ directory. Sample hooks with .sample extension are provided by default and need to be made executable."
+}

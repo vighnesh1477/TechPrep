@@ -1,0 +1,14 @@
+{
+  "id": "placement-1693",
+  "topic": "Functions",
+  "difficulty": "Easy",
+  "question": "What is the difference between a function declaration and a function definition?",
+  "options": [
+    "They are the same thing",
+    "Declaration specifies the return type, name, and parameters; definition includes the body",
+    "Declaration includes the body; definition does not",
+    "Declaration is used in Python; definition in C"
+  ],
+  "answer": 1,
+  "explanation": "A declaration (prototype) tells the compiler about a function's name, return type, and parameters. The definition provides the actual implementation (body) of the function."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1014",
+  "topic": "Computer Networks",
+  "difficulty": "Hard",
+  "question": "What causes the TCP TIME_WAIT state?",
+  "options": [
+    "Server crash",
+    "Waiting to ensure the remote TCP received the ACK of its FIN",
+    "Slow network",
+    "Firewall blocking"
+  ],
+  "answer": 1,
+  "explanation": "The side that initiates the active close enters TIME_WAIT to handle delayed packets and ensure the final ACK is received."
+}

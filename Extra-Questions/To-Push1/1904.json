@@ -1,0 +1,14 @@
+{
+  "id": "placement-1904",
+  "topic": "Profit and Loss",
+  "difficulty": "Medium",
+  "question": "If a discount of 20% is given, SP is Rs 240. MP?",
+  "options": [
+    "Rs 280",
+    "Rs 300",
+    "Rs 320",
+    "Rs 350"
+  ],
+  "answer": 1,
+  "explanation": "240 = MP * 0.8 => MP = 300."
+}

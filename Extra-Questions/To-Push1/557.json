@@ -1,0 +1,14 @@
+{
+  "id": "placement-557",
+  "topic": "ls",
+  "difficulty": "Easy",
+  "question": "What does ls -R do?",
+  "options": [
+    "Reverses the sort order",
+    "Lists files recursively through subdirectories",
+    "Shows only regular files",
+    "Removes empty directories"
+  ],
+  "answer": 1,
+  "explanation": "ls -R lists directories recursively, showing the contents of all subdirectories in a tree-like manner."
+}

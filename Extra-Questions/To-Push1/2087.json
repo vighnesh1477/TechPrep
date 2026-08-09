@@ -1,0 +1,14 @@
+{
+  "id": "placement-2087",
+  "topic": "Number Series",
+  "difficulty": "Easy",
+  "question": "Find next: 1, 1, 2, 3, 5, ?",
+  "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "answer": 2,
+  "explanation": "Fibonacci series. 2+3=5, 3+5=8."
+}

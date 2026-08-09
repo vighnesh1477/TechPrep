@@ -1,0 +1,14 @@
+{
+  "id": "placement-934",
+  "topic": "Algorithms",
+  "difficulty": "Easy",
+  "question": "What does the Greedy algorithm approach do?",
+  "options": [
+    "Explores all possibilities",
+    "Makes the locally optimal choice at each step",
+    "Divides the problem into subproblems",
+    "Uses randomization"
+  ],
+  "answer": 1,
+  "explanation": "Greedy algorithms make the best immediate choice without considering the global optimum."
+}

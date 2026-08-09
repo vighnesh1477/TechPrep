@@ -1,0 +1,14 @@
+{
+  "id": "placement-1270",
+  "topic": "Git",
+  "difficulty": "Easy",
+  "question": "What does `git init` do?",
+  "options": [
+    "Installs Git",
+    "Initializes a new Git repository in the current directory",
+    "Logs into GitHub",
+    "Downloads a repo"
+  ],
+  "answer": 1,
+  "explanation": "git init creates a new .git subdirectory, turning the current folder into a Git repository."
+}

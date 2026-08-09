@@ -1,0 +1,14 @@
+{
+  "id": "placement-526",
+  "topic": "Merge Conflicts",
+  "difficulty": "Medium",
+  "question": "How do you resolve a merge conflict by keeping only 'ours' changes?",
+  "options": [
+    "git checkout --ours file.txt && git add file.txt",
+    "git resolve --ours file.txt",
+    "git merge --keep-ours file.txt",
+    "git conflict --ours file.txt"
+  ],
+  "answer": 0,
+  "explanation": "git checkout --ours file.txt resolves the conflict by keeping your version, then git add stages the resolved file to complete the merge."
+}

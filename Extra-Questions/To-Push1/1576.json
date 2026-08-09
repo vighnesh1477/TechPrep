@@ -1,0 +1,14 @@
+{
+  "id": "placement-1576",
+  "topic": "Data Representation",
+  "difficulty": "Easy",
+  "question": "How do you find the two's complement of a binary number?",
+  "options": [
+    "Invert all bits",
+    "Invert all bits and add 1",
+    "Add 1 to the original number",
+    "Shift all bits left by 1"
+  ],
+  "answer": 1,
+  "explanation": "The two's complement is found by taking the one's complement (inverting all bits) and then adding 1 to the result."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1868",
+  "topic": "Number Systems",
+  "difficulty": "Medium",
+  "question": "What is the remainder when 3^100 is divided by 7?",
+  "options": [
+    "1",
+    "2",
+    "4",
+    "5"
+  ],
+  "answer": 2,
+  "explanation": "3^6=729 % 7=1. 100%6=4. 3^4=81. 81%7=4."
+}

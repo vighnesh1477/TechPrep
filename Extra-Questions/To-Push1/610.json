@@ -1,0 +1,14 @@
+{
+  "id": "placement-610",
+  "topic": "head",
+  "difficulty": "Easy",
+  "question": "What does head -c 100 file.txt do?",
+  "options": [
+    "Shows first 100 characters",
+    "Shows first 100 columns",
+    "Shows 100 lines in compressed mode",
+    "Shows file header of 100 bytes"
+  ],
+  "answer": 0,
+  "explanation": "head -c 100 outputs the first 100 bytes (characters) of the file rather than counting lines."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1347",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which of the following is NOT a solution to the critical section problem?",
+  "options": [
+    "Peterson's Solution",
+    "TestAndSet instruction",
+    "First-Come, First-Served scheduling",
+    "Mutex locks"
+  ],
+  "answer": 2,
+  "explanation": "FCFS is a CPU scheduling algorithm. Peterson's solution, TestAndSet (hardware instruction), and Mutex locks are mechanisms specifically designed to solve the critical section problem to prevent race conditions."
+}

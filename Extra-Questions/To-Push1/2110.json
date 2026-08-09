@@ -1,0 +1,14 @@
+{
+  "id": "placement-2110",
+  "topic": "Alphabet Series",
+  "difficulty": "Medium",
+  "question": "ZA, YB, XC, WD, ?",
+  "options": [
+    "VE",
+    "VF",
+    "WE",
+    "UE"
+  ],
+  "answer": 0,
+  "explanation": "First letter -1, second letter +1."
+}

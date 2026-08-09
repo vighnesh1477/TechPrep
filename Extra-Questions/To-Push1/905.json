@@ -1,0 +1,14 @@
+{
+  "id": "placement-905",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is a lambda function?",
+  "options": [
+    "A recursive function",
+    "An anonymous function",
+    "A built-in function",
+    "A class method"
+  ],
+  "answer": 1,
+  "explanation": "Lambda defines small anonymous functions using a single expression."
+}

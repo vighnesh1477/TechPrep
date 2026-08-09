@@ -1,0 +1,14 @@
+{
+  "id": "placement-524",
+  "topic": "Troubleshooting",
+  "difficulty": "Medium",
+  "question": "What does 'fatal: not a git repository' error mean?",
+  "options": [
+    "Git is not installed",
+    "You are running a Git command outside of a Git repository directory",
+    "The .git folder is corrupted",
+    "The remote is down"
+  ],
+  "answer": 1,
+  "explanation": "This error occurs when you run a Git command in a directory that is not inside a Git repository (no .git directory in the current path or parent directories)."
+}

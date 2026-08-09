@@ -1,0 +1,14 @@
+{
+  "id": "placement-632",
+  "topic": "locate",
+  "difficulty": "Easy",
+  "question": "How do you limit locate results to a specific number of entries?",
+  "options": [
+    "locate -n 10 pattern",
+    "locate -l 10 pattern",
+    "locate --max 10 pattern",
+    "locate -c 10 pattern"
+  ],
+  "answer": 0,
+  "explanation": "locate -n 10 (or -limit 10) limits the output to 10 matching entries."
+}

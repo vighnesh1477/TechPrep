@@ -1,0 +1,14 @@
+{
+  "id": "placement-2065",
+  "topic": "Data Interpretation",
+  "difficulty": "Easy",
+  "question": "Bar chart has A=40, B=60, C=80. Difference between highest and lowest?",
+  "options": [
+    "20",
+    "30",
+    "40",
+    "50"
+  ],
+  "answer": 2,
+  "explanation": "80 - 40 = 40."
+}

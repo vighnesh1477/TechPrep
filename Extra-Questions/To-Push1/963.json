@@ -1,0 +1,14 @@
+{
+  "id": "placement-963",
+  "topic": "DBMS",
+  "difficulty": "Hard",
+  "question": "What is the difference between a clustered and a non-clustered index?",
+  "options": [
+    "No difference",
+    "Clustered alters physical row order, non-clustered does not",
+    "Clustered is slower",
+    "Non-clustered uses more memory always"
+  ],
+  "answer": 1,
+  "explanation": "A clustered index sorts and stores the data rows physically; a non-clustered index creates a separate structure."
+}

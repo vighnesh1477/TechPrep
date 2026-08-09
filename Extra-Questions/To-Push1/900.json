@@ -1,0 +1,14 @@
+{
+  "id": "placement-900",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is the output of `print(1, 2, 3, sep='-')`?",
+  "options": [
+    "1 2 3",
+    "1-2-3",
+    "[1-2-3]",
+    "Error"
+  ],
+  "answer": 1,
+  "explanation": "The sep argument specifies the string inserted between values."
+}

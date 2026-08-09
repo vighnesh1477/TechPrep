@@ -1,0 +1,14 @@
+{
+  "id": "placement-1681",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What is the value of `a` after execution?\n`a = 0`\n`for i in range(3):`\n`    a = a + 1`\n`    if a == 2: break`",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "answer": 2,
+  "explanation": "i=0: a becomes 1. i=1: a becomes 2. The condition `a == 2` is true, so the `break` statement executes, exiting the loop."
+}

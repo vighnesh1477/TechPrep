@@ -1,0 +1,14 @@
+{
+  "id": "placement-1027",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is the diamond problem in multiple inheritance?",
+  "options": [
+    "Memory fragmentation",
+    "Ambiguity when two base classes have the same method",
+    "Slow compilation",
+    "Missing constructors"
+  ],
+  "answer": 1,
+  "explanation": "If two parent classes inherit from the same grandparent, the child class has two copies of the grandparent's methods, causing ambiguity."
+}

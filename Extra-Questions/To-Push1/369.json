@@ -1,0 +1,14 @@
+{
+  "id": "placement-369",
+  "topic": "Git Config",
+  "difficulty": "Easy",
+  "question": "Where are system-level Git configurations stored?",
+  "options": [
+    "~/.gitconfig",
+    ".git/config",
+    "/etc/gitconfig",
+    "/usr/local/git/config"
+  ],
+  "answer": 2,
+  "explanation": "System-level configurations are stored in /etc/gitconfig (or the path specified by $XDG_CONFIG_HOME/git/config) and apply to all users and repositories on the system."
+}

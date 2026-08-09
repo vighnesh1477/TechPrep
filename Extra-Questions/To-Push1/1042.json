@@ -1,0 +1,14 @@
+{
+  "id": "placement-1042",
+  "topic": "Software Engineering",
+  "difficulty": "Medium",
+  "question": "Which testing type is performed without looking at the internal code?",
+  "options": [
+    "White-box testing",
+    "Black-box testing",
+    "Gray-box testing",
+    "Unit testing"
+  ],
+  "answer": 1,
+  "explanation": "Black-box testing evaluates functionality based on requirements without knowledge of internal structures."
+}

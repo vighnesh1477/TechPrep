@@ -1,0 +1,14 @@
+{
+  "id": "placement-1455",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is the ALU?",
+  "options": [
+    "Automatic Loading Unit",
+    "Arithmetic Logic Unit, which performs mathematical and logical operations",
+    "Application Layer Unit",
+    "Asynchronous Logic Unit"
+  ],
+  "answer": 1,
+  "explanation": "The Arithmetic Logic Unit (ALU) is a fundamental building block of the CPU. It performs arithmetic (add, subtract) and logical (AND, OR, NOT) operations."
+}

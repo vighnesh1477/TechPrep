@@ -1,0 +1,14 @@
+{
+  "id": "placement-775",
+  "topic": "Terminal",
+  "difficulty": "Easy",
+  "question": "What does the clear command do?",
+  "options": [
+    "Clears the clipboard",
+    "Clears the terminal screen",
+    "Clears the command history",
+    "Clears environment variables"
+  ],
+  "answer": 1,
+  "explanation": "clear clears the terminal screen, giving you a clean display. The shortcut Ctrl+L achieves the same result in most terminals."
+}

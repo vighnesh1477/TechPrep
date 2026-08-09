@@ -1,0 +1,14 @@
+{
+  "id": "placement-2047",
+  "topic": "Algebra",
+  "difficulty": "Easy",
+  "question": "Expand (a + b)^2.",
+  "options": [
+    "a^2 + b^2",
+    "a^2 + 2ab + b^2",
+    "a^2 - 2ab + b^2",
+    "a^2 + ab + b^2"
+  ],
+  "answer": 1,
+  "explanation": "Standard algebraic identity."
+}

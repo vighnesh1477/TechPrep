@@ -1,0 +1,14 @@
+{
+  "id": "placement-849",
+  "topic": "Shell Scripting",
+  "difficulty": "Medium",
+  "question": "How do you read user input in a bash script?",
+  "options": [
+    "input var",
+    "read var",
+    "scanf var",
+    "get var"
+  ],
+  "answer": 1,
+  "explanation": "read var reads a line from standard input and assigns it to the variable var. Use 'read -p \"Prompt: \" var' to display a prompt."
+}

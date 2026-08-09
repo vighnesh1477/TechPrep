@@ -1,0 +1,14 @@
+{
+  "id": "placement-995",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "Which scheduling algorithm guarantees a maximum wait time?",
+  "options": [
+    "SJF",
+    "FCFS",
+    "Round Robin",
+    "Priority"
+  ],
+  "answer": 2,
+  "explanation": "Round Robin assigns a fixed time quantum, ensuring no process waits longer than N * quantum."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2101",
+  "topic": "Number Series",
+  "difficulty": "Hard",
+  "question": "Find next: 1, 4, 15, 64, 325, ?",
+  "options": [
+    "1256",
+    "1456",
+    "1956",
+    "2560"
+  ],
+  "answer": 2,
+  "explanation": "1*1+0=1, 1*2+2=4, 4*3+3=15, 15*4+4=64, 64*5+5=325, 325*6+6=1956."
+}

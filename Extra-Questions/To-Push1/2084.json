@@ -1,0 +1,14 @@
+{
+  "id": "placement-2084",
+  "topic": "Number Series",
+  "difficulty": "Easy",
+  "question": "Find the next: 5, 10, 15, 20, ?",
+  "options": [
+    "21",
+    "22",
+    "25",
+    "30"
+  ],
+  "answer": 2,
+  "explanation": "Multiple of 5."
+}

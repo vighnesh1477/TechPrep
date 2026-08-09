@@ -1,0 +1,14 @@
+{
+  "id": "placement-762",
+  "topic": "Shell",
+  "difficulty": "Easy",
+  "question": "What file is sourced for an interactive non-login bash shell?",
+  "options": [
+    "~/.bash_profile",
+    "~/.bashrc",
+    "/etc/profile",
+    "~/.profile"
+  ],
+  "answer": 1,
+  "explanation": "Interactive non-login bash shells source ~/.bashrc. This is why aliases and functions are typically defined in .bashrc, which is sourced from .bash_profile."
+}

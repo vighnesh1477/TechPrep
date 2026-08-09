@@ -1,0 +1,14 @@
+{
+  "id": "placement-1454",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the difference between TCP and UDP header sizes?",
+  "options": [
+    "TCP is 8 bytes, UDP is 20 bytes",
+    "TCP is 20 bytes (minimum), UDP is 8 bytes",
+    "Both are 20 bytes",
+    "Both are 8 bytes"
+  ],
+  "answer": 1,
+  "explanation": "The TCP header has a minimum size of 20 bytes (due to sequencing, acknowledgment, window size, etc.), while the UDP header is much simpler and fixed at 8 bytes."
+}

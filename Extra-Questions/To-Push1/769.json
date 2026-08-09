@@ -1,0 +1,14 @@
+{
+  "id": "placement-769",
+  "topic": "fdisk",
+  "difficulty": "Easy",
+  "question": "How do you list the partition table of /dev/sda using fdisk?",
+  "options": [
+    "fdisk /dev/sda",
+    "fdisk -l /dev/sda",
+    "fdisk --list /dev/sda",
+    "fdisk -s /dev/sda"
+  ],
+  "answer": 1,
+  "explanation": "fdisk -l /dev/sda lists the partition table of /dev/sda without entering interactive mode. Running fdisk -l without a device shows all disks."
+}

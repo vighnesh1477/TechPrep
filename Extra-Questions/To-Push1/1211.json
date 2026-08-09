@@ -1,0 +1,14 @@
+{
+  "id": "placement-1211",
+  "topic": "OOP",
+  "difficulty": "Easy",
+  "question": "What is abstraction?",
+  "options": [
+    "Hiding implementation details and showing only essential features",
+    "Hiding data",
+    "Deleting unused code",
+    "Merging classes"
+  ],
+  "answer": 0,
+  "explanation": "Abstraction reduces complexity by hiding background details and exposing only the necessary interfaces."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1803",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "Which data structure is primarily used by the system to manage recursive function calls?",
+  "options": [
+    "Queue",
+    "Stack",
+    "Heap",
+    "Graph"
+  ],
+  "answer": 1,
+  "explanation": "The system uses a Call Stack to keep track of active subroutines. Each recursive call pushes a new stack frame containing local variables and return addresses."
+}

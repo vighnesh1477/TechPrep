@@ -1,0 +1,14 @@
+{
+  "id": "placement-689",
+  "topic": "htop",
+  "difficulty": "Easy",
+  "question": "How do you kill a process in htop?",
+  "options": [
+    "Press k and enter PID",
+    "Select the process with arrow keys and press F9",
+    "Press Ctrl+K",
+    "Right-click the process"
+  ],
+  "answer": 1,
+  "explanation": "In htop, use arrow keys to select a process, then press F9 (or k) to bring up the kill signal menu where you can choose which signal to send."
+}

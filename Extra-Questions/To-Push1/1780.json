@@ -1,0 +1,14 @@
+{
+  "id": "placement-1780",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What is a double pointer?",
+  "options": [
+    "A pointer that points to two variables at once",
+    "A pointer that stores the address of another pointer",
+    "A pointer that is twice the size of a normal pointer",
+    "A pointer to a double data type"
+  ],
+  "answer": 1,
+  "explanation": "A double pointer (e.g., `int **pp`) is a variable that stores the memory address of another pointer variable."
+}

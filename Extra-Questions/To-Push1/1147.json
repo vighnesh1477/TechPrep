@@ -1,0 +1,14 @@
+{
+  "id": "placement-1147",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What is method hiding in Java?",
+  "options": [
+    "Overriding a static method",
+    "Defining a static method in a subclass with the same signature as a static method in the superclass",
+    "Making a method private",
+    "Deleting a method"
+  ],
+  "answer": 1,
+  "explanation": "Static methods are not polymorphic; defining one with the same name in a subclass hides the superclass method."
+}

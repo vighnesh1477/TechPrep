@@ -1,0 +1,14 @@
+{
+  "id": "placement-2052",
+  "topic": "Algebra",
+  "difficulty": "Medium",
+  "question": "Simplify: (x^3 - 27)/(x - 3).",
+  "options": [
+    "x^2 + 3x + 9",
+    "x^2 - 3x + 9",
+    "x^2 + 9",
+    "x^2 - 9"
+  ],
+  "answer": 0,
+  "explanation": "a^3 - b^3 = (a-b)(a^2+ab+b^2). So (x^3-3^3)/(x-3) = x^2+3x+9."
+}

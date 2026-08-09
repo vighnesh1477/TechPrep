@@ -1,0 +1,14 @@
+{
+  "id": "placement-1777",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "Where is dynamically allocated memory (e.g., from `malloc`) stored?",
+  "options": [
+    "Stack",
+    "Heap",
+    "Register",
+    "Cache"
+  ],
+  "answer": 1,
+  "explanation": "Memory allocated dynamically during runtime using functions like `malloc`, `calloc`, or `new` comes from the heap segment."
+}

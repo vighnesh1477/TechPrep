@@ -1,0 +1,14 @@
+{
+  "id": "placement-1775",
+  "topic": "Pointers and Memory",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int arr[] = {10, 20, 30};`\n`int *p = arr;`\n`p++;`\n`printf(\"%d\", *p);`",
+  "options": [
+    "10",
+    "11",
+    "20",
+    "Error"
+  ],
+  "answer": 2,
+  "explanation": "`p` initially points to `arr[0]` (10). `p++` increments the pointer by one integer size (4 bytes), making it point to `arr[1]`. Dereferencing gives 20."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1409",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the result of `SELECT 10 + NULL`?",
+  "options": [
+    "10",
+    "NULL",
+    "0",
+    "Error"
+  ],
+  "answer": 1,
+  "explanation": "Any arithmetic operation performed on a NULL value results in NULL. This is because NULL represents an unknown value, and adding something to an unknown is still unknown."
+}

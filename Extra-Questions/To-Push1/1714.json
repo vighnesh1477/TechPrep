@@ -1,0 +1,14 @@
+{
+  "id": "placement-1714",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What happens when an array is passed to a function in C?",
+  "options": [
+    "A full copy of the array is passed",
+    "Only the first element is passed",
+    "A pointer to the first element of the array is passed",
+    "The array name is passed as a string"
+  ],
+  "answer": 2,
+  "explanation": "When an array is passed to a function, it decays into a pointer to its first element. The function does not receive the array size by default."
+}

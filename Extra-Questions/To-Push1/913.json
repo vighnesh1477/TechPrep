@@ -1,0 +1,14 @@
+{
+  "id": "placement-913",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "Which data structure is used for BFS (Breadth-First Search)?",
+  "options": [
+    "Stack",
+    "Queue",
+    "Array",
+    "Priority Queue"
+  ],
+  "answer": 1,
+  "explanation": "BFS explores level by level, requiring a FIFO structure (Queue)."
+}

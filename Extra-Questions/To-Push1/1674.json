@@ -1,0 +1,14 @@
+{
+  "id": "placement-1674",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "How many times does the loop execute?\n`int i = 1;`\n`do { i++; } while (i < 1);`",
+  "options": [
+    "0",
+    "1",
+    "Infinite",
+    "2"
+  ],
+  "answer": 1,
+  "explanation": "A `do-while` loop executes its body at least once. It increments `i` to 2, then checks `2 < 1` which is false, terminating the loop."
+}

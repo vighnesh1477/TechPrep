@@ -1,0 +1,14 @@
+{
+  "id": "placement-665",
+  "topic": "umask",
+  "difficulty": "Easy",
+  "question": "How do you set the umask to 077?",
+  "options": [
+    "umask 077",
+    "set umask 077",
+    "umask --set 077",
+    "export UMASK=077"
+  ],
+  "answer": 0,
+  "explanation": "umask 077 sets the umask value. This would result in new files having 600 (rw-------) and directories having 700 (rwx------) permissions."
+}

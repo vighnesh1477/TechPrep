@@ -1,0 +1,14 @@
+{
+  "id": "placement-1717",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What is the output of this C code?\n`void foo() { printf(\"2 \"); }`\n`void foo(int a) { printf(\"1 \"); }`\n`int main() { foo(5); return 0; }`",
+  "options": [
+    "2",
+    "1",
+    "2 1",
+    "Compilation Error"
+  ],
+  "answer": 3,
+  "explanation": "C does not support function overloading. Having two functions with the same name `foo` in the same scope, even with different parameters, results in a compilation error."
+}

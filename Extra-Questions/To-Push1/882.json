@@ -1,0 +1,14 @@
+{
+  "id": "placement-882",
+  "topic": "Java",
+  "difficulty": "Easy",
+  "question": "What is the default value of a boolean variable in Java?",
+  "options": [
+    "true",
+    "false",
+    "null",
+    "0"
+  ],
+  "answer": 1,
+  "explanation": "Instance and class boolean variables default to false."
+}

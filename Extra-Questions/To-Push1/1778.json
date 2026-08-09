@@ -1,0 +1,14 @@
+{
+  "id": "placement-1778",
+  "topic": "Pointers and Memory",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int *p = (int *)malloc(sizeof(int));`\n`*p = 10;`\n`free(p);`\n`printf(\"%d\", *p);`",
+  "options": [
+    "10",
+    "0",
+    "Garbage value",
+    "Undefined Behavior"
+  ],
+  "answer": 3,
+  "explanation": "After `free(p)`, the memory is deallocated. Accessing `*p` is a classic dangling pointer scenario, resulting in Undefined Behavior (it might print 10, 0, or crash)."
+}

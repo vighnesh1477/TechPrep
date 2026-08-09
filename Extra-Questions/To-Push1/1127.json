@@ -1,0 +1,14 @@
+{
+  "id": "placement-1127",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What does `typedef` do?",
+  "options": [
+    "Defines a variable",
+    "Creates a new name for an existing data type",
+    "Allocates memory",
+    "Frees memory"
+  ],
+  "answer": 1,
+  "explanation": "typedef provides an alias for a data type, improving code readability."
+}

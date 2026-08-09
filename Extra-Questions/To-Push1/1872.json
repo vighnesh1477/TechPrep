@@ -1,0 +1,14 @@
+{
+  "id": "placement-1872",
+  "topic": "Number Systems",
+  "difficulty": "Medium",
+  "question": "Find the remainder when 2^256 is divided by 17.",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "16"
+  ],
+  "answer": 1,
+  "explanation": "Fermat's: 2^(17-1)%17=1. 256%16=0. Remainder is 1."
+}

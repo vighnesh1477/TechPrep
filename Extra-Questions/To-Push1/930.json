@@ -1,0 +1,14 @@
+{
+  "id": "placement-930",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "What is a self-balancing BST?",
+  "options": [
+    "A tree that stays perfectly balanced",
+    "A tree that automatically adjusts to keep height O(log N)",
+    "A tree with only left children",
+    "A tree stored in an array"
+  ],
+  "answer": 1,
+  "explanation": "Self-balancing BSTs (like AVL, Red-Black) perform rotations during insert/delete to maintain O(log N) height."
+}

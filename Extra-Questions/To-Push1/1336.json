@@ -1,0 +1,14 @@
+{
+  "id": "placement-1336",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is paging in operating systems?",
+  "options": [
+    "Sending messages between processes",
+    "A memory management scheme that eliminates the need for contiguous memory allocation",
+    "Swapping entire processes to disk",
+    "A type of scheduling algorithm"
+  ],
+  "answer": 1,
+  "explanation": "Paging is a memory management scheme that allows the physical address space of a process to be non-contiguous. It divides memory into fixed-size blocks called pages."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-648",
+  "topic": "chmod",
+  "difficulty": "Easy",
+  "question": "How do you remove write permission for others using symbolic mode?",
+  "options": [
+    "chmod -w others file",
+    "chmod o-w file",
+    "chmod -o+w file",
+    "chmod remove-w file"
+  ],
+  "answer": 1,
+  "explanation": "chmod o-w removes write permission for others. The syntax is [ugoa][+-=][rwxXst], where 'o' stands for others, '-' means remove, 'w' means write."
+}

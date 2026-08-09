@@ -1,0 +1,14 @@
+{
+  "id": "placement-2182",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Hard",
+  "question": "Statement: 'The new phone has a better battery.' Assumption: The old phone's battery was bad.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 2,
+  "explanation": "'Better' is relative. It could just be an improvement over an already good battery."
+}

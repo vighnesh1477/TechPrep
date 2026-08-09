@@ -1,0 +1,14 @@
+{
+  "id": "placement-1435",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which OSI layer is responsible for error detection and framing?",
+  "options": [
+    "Physical Layer",
+    "Data Link Layer",
+    "Network Layer",
+    "Transport Layer"
+  ],
+  "answer": 1,
+  "explanation": "The Data Link Layer (Layer 2) is responsible for node-to-node data transfer, framing (encapsulating packets into frames), and error detection (using techniques like CRC)."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2143",
+  "topic": "Direction Sense",
+  "difficulty": "Easy",
+  "question": "A man walks 5 km North, then 5 km East. Distance from start?",
+  "options": [
+    "5 km",
+    "5√2 km",
+    "10 km",
+    "10√2 km"
+  ],
+  "answer": 1,
+  "explanation": "Using Pythagoras: √(5^2 + 5^2) = 5√2 km."
+}

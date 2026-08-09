@@ -1,0 +1,14 @@
+{
+  "id": "placement-980",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "Which SQL statement is used to grant specific privileges to a user?",
+  "options": [
+    "ALLOW",
+    "PERMIT",
+    "GRANT",
+    "GIVE"
+  ],
+  "answer": 2,
+  "explanation": "GRANT is used to give specific access rights to database users."
+}

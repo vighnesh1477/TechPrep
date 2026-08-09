@@ -1,0 +1,14 @@
+{
+  "id": "placement-2206",
+  "topic": "Puzzles",
+  "difficulty": "Medium",
+  "question": "How many times do hands of a clock coincide in 12 hours?",
+  "options": [
+    "10",
+    "11",
+    "12",
+    "24"
+  ],
+  "answer": 1,
+  "explanation": "They coincide 11 times in every 12 hours."
+}

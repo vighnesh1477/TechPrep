@@ -1,0 +1,14 @@
+{
+  "id": "placement-1557",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Medium",
+  "question": "What is the function of a Decoder?",
+  "options": [
+    "To convert multiple inputs into a single output",
+    "To convert binary information from n input lines to a maximum of 2^n unique output lines",
+    "To store binary data",
+    "To amplify digital signals"
+  ],
+  "answer": 1,
+  "explanation": "A decoder takes a binary input and activates one of its output lines based on that input. For example, a 2-to-4 decoder has 2 inputs and 4 outputs."
+}

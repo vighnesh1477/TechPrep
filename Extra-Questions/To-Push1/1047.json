@@ -1,0 +1,14 @@
+{
+  "id": "placement-1047",
+  "topic": "Git",
+  "difficulty": "Easy",
+  "question": "What does `git clone` do?",
+  "options": [
+    "Deletes a repository",
+    "Creates a local copy of a remote repository",
+    "Stages files",
+    "Commits files"
+  ],
+  "answer": 1,
+  "explanation": "git clone copies a remote repository to your local machine."
+}

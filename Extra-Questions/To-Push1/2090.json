@@ -1,0 +1,14 @@
+{
+  "id": "placement-2090",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find next: 1, 4, 27, 256, ?",
+  "options": [
+    "625",
+    "1024",
+    "3125",
+    "4096"
+  ],
+  "answer": 2,
+  "explanation": "1^1, 2^2, 3^3, 4^4, 5^5 = 3125."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1673",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "Which Python keyword is used to handle exceptions but does nothing?",
+  "options": [
+    "skip",
+    "null",
+    "pass",
+    "ignore"
+  ],
+  "answer": 2,
+  "explanation": "`pass` is a null operation in Python. When syntactically a statement is required but no code needs to execute, `pass` is used as a placeholder."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1111",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is a bus in computer architecture?",
+  "options": [
+    "A vehicle",
+    "A communication system that transfers data between components",
+    "A type of memory",
+    "A CPU core"
+  ],
+  "answer": 1,
+  "explanation": "A bus is a set of parallel wires (data, address, control) that moves data between CPU, memory, and peripherals."
+}

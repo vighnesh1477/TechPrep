@@ -1,0 +1,14 @@
+{
+  "id": "placement-1179",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What is memoization in dynamic programming?",
+  "options": [
+    "Forgetting data",
+    "Storing results of expensive function calls and returning the cached result when the same inputs occur",
+    "Deleting memory",
+    "Sorting data"
+  ],
+  "answer": 1,
+  "explanation": "Memoization is a top-down DP technique that caches subproblem results to avoid redundant calculations."
+}

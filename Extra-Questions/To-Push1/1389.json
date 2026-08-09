@@ -1,0 +1,14 @@
+{
+  "id": "placement-1389",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Hard",
+  "question": "Which isolation level prevents Phantom Reads?",
+  "options": [
+    "Read Committed",
+    "Repeatable Read",
+    "Serializable",
+    "Read Uncommitted"
+  ],
+  "answer": 2,
+  "explanation": "Serializable is the highest isolation level. It ensures that concurrent transactions execute as if they were executed sequentially, completely preventing phantom reads, non-repeatable reads, and dirty reads."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1611",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "Evaluate the expression: `(5 > 3) && (2 < 1) || (4 == 4)`",
+  "options": [
+    "true",
+    "false",
+    "Compilation Error",
+    "Runtime Error"
+  ],
+  "answer": 0,
+  "explanation": "Logical AND `&&` has higher precedence than OR `||`. `(5>3)&&(2<1)` is `true && false` = `false`. Then `false || (4==4)` evaluates to `false || true` = `true`."
+}

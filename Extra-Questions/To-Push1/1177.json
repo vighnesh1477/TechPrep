@@ -1,0 +1,14 @@
+{
+  "id": "placement-1177",
+  "topic": "Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of Binary Search on a sorted array of N elements?",
+  "options": [
+    "O(N)",
+    "O(log N)",
+    "O(N log N)",
+    "O(1)"
+  ],
+  "answer": 1,
+  "explanation": "Binary search halves the search space with each step, taking log base 2 of N steps."
+}

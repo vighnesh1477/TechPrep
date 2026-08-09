@@ -1,0 +1,14 @@
+{
+  "id": "placement-656",
+  "topic": "chown",
+  "difficulty": "Easy",
+  "question": "Can a regular user change the owner of a file they own?",
+  "options": [
+    "Yes, using chown",
+    "No, only root can change the owner",
+    "Yes, but only to another user in the same group",
+    "Yes, with the --allow flag"
+  ],
+  "answer": 1,
+  "explanation": "Only root (or a process with CAP_CHOWN capability) can change the owner of a file. A regular user can change the group if they own the file and are a member of the new group."
+}

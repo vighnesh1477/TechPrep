@@ -1,0 +1,14 @@
+{
+  "id": "placement-477",
+  "topic": "Pull",
+  "difficulty": "Medium",
+  "question": "What does git pull --rebase --autostash do?",
+  "options": [
+    "Pulls with rebase and deletes uncommitted changes",
+    "Stashes uncommitted changes before pulling, rebases, then applies the stash",
+    "Pulls and creates a stash after rebase",
+    "Automatically stashes after detecting conflicts"
+  ],
+  "answer": 1,
+  "explanation": "--autostash temporarily stashes uncommitted changes before the pull/rebase operation and applies them back after it completes successfully."
+}

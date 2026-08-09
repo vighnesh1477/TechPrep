@@ -1,0 +1,14 @@
+{
+  "id": "placement-912",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "What is the time complexity to access an element by index in an array?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N^2)"
+  ],
+  "answer": 0,
+  "explanation": "Arrays provide constant time access using index arithmetic."
+}

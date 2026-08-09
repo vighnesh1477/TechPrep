@@ -1,0 +1,14 @@
+{
+  "id": "placement-1981",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Easy",
+  "question": "Principal is Rs 500, Rate 4%, Time 3 years. Amount (SI)?",
+  "options": [
+    "Rs 540",
+    "Rs 560",
+    "Rs 580",
+    "Rs 600"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 500 + (500*4*3/100) = 500 + 60 = 560."
+}

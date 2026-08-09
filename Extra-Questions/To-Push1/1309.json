@@ -1,0 +1,14 @@
+{
+  "id": "placement-1309",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What does `#pragma once` do?",
+  "options": [
+    "Includes a file twice",
+    "Specifies that the current file will be included only once in a single compilation",
+    "Defines a macro",
+    "Compiles the code"
+  ],
+  "answer": 1,
+  "explanation": "It is a non-standard but widely supported preprocessor directive used to prevent multiple inclusions of header files."
+}

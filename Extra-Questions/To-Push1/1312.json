@@ -1,0 +1,14 @@
+{
+  "id": "placement-1312",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is the output of `print([1, 2, 3] * 2)`?",
+  "options": [
+    "[2, 4, 6]",
+    "[1, 2, 3, 1, 2, 3]",
+    "Error",
+    "6"
+  ],
+  "answer": 1,
+  "explanation": "Multiplying a list by an integer repeats the elements of the list that many times."
+}

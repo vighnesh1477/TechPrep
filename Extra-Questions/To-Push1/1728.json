@@ -1,0 +1,14 @@
+{
+  "id": "placement-1728",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "question": "What does `sizeof(arr)/sizeof(arr[0])` calculate in C?",
+  "options": [
+    "The last element of the array",
+    "The total size of the array in bytes",
+    "The number of elements in the array",
+    "The memory address of the array"
+  ],
+  "answer": 2,
+  "explanation": "`sizeof(arr)` gives the total bytes occupied by the array. `sizeof(arr[0])` gives the bytes for one element. Dividing them yields the total number of elements."
+}

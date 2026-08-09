@@ -1,0 +1,14 @@
+{
+  "id": "placement-924",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "What is the time complexity to insert a node at the head of a doubly linked list?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N log N)"
+  ],
+  "answer": 0,
+  "explanation": "Inserting at the head only requires updating a few pointers, taking constant time."
+}

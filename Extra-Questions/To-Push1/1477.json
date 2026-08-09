@@ -1,0 +1,14 @@
+{
+  "id": "placement-1477",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "What is the primary advantage of a Set-Associative Cache over a Direct-Mapped Cache?",
+  "options": [
+    "It requires less hardware",
+    "It reduces conflict misses by allowing a block to map to a small set of cache lines rather than just one",
+    "It is faster to search",
+    "It uses less power"
+  ],
+  "answer": 1,
+  "explanation": "In Direct Mapping, two frequently used blocks mapping to the same line cause constant evictions (thrashing). Set-Associative mapping allows a block to go to one of a few lines, reducing this conflict."
+}

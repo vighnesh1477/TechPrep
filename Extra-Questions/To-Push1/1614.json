@@ -1,0 +1,14 @@
+{
+  "id": "placement-1614",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the value of `x` after execution: `int x = 10; x = x++ + ++x;` in Java?",
+  "options": [
+    "21",
+    "22",
+    "20",
+    "Undefined behavior"
+  ],
+  "answer": 1,
+  "explanation": "In Java, this is strictly evaluated left-to-right. `x++` evaluates to 10, then x becomes 11. `++x` makes x 12 and evaluates to 12. 10 + 12 = 22. (Note: This is undefined behavior in C/C++)."
+}

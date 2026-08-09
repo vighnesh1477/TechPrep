@@ -1,0 +1,14 @@
+{
+  "id": "placement-2009",
+  "topic": "Ages",
+  "difficulty": "Medium",
+  "question": "Father's age is 3 times son's. 10 years later, it will be 2 times. Son's age?",
+  "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+  ],
+  "answer": 1,
+  "explanation": "F=3S. F+10=2(S+10) => 3S+10=2S+20 => S=10."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-881",
+  "topic": "C++",
+  "difficulty": "Hard",
+  "question": "What is the Rule of Three?",
+  "options": [
+    "3 parameters max per function",
+    "If you define one of destructor/copy ctor/copy assign, define all three",
+    "A class can have max 3 methods",
+    "3 levels of inheritance allowed"
+  ],
+  "answer": 1,
+  "explanation": "If a class manages memory, it usually needs all three to manage resources correctly."
+}

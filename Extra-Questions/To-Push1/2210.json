@@ -1,0 +1,14 @@
+{
+  "id": "placement-2210",
+  "topic": "Puzzles",
+  "difficulty": "Hard",
+  "question": "A weighs less than B. C weighs more than D. B weighs less than D. Who is heaviest?",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": 2,
+  "explanation": "C > D > B > A. C is heaviest."
+}

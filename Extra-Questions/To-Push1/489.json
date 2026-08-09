@@ -1,0 +1,14 @@
+{
+  "id": "placement-489",
+  "topic": "Interactive Rebase",
+  "difficulty": "Medium",
+  "question": "Which command starts an interactive rebase for the last 3 commits?",
+  "options": [
+    "git rebase -i HEAD~3",
+    "git rebase --interactive HEAD~3",
+    "Both A and B",
+    "git interactive-rebase 3"
+  ],
+  "answer": 2,
+  "explanation": "Both -i and --interactive start an interactive rebase. HEAD~3 specifies the last 3 commits to be included in the rebase operation."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1497",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "Which testing is performed by the end-users or clients to validate the software against requirements?",
+  "options": [
+    "System Testing",
+    "Integration Testing",
+    "Acceptance Testing",
+    "Unit Testing"
+  ],
+  "answer": 2,
+  "explanation": "Acceptance Testing (often User Acceptance Testing or UAT) is the final phase of testing where the software is validated against business requirements by the customer or end-user."
+}

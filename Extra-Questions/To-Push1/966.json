@@ -1,0 +1,14 @@
+{
+  "id": "placement-966",
+  "topic": "DBMS",
+  "difficulty": "Hard",
+  "question": "Which SQL isolation level prevents phantom reads?",
+  "options": [
+    "Read Uncommitted",
+    "Read Committed",
+    "Repeatable Read",
+    "Serializable"
+  ],
+  "answer": 3,
+  "explanation": "Serializable isolation level runs transactions as if they were sequential, preventing all concurrency anomalies including phantoms."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-494",
+  "topic": "Blame",
+  "difficulty": "Medium",
+  "question": "What does git blame -L 10,20 file.txt show?",
+  "options": [
+    "Blame for lines 1 through 20",
+    "Blame for lines 10 through 20 only",
+    "Blame starting from commit 10 to 20",
+    "Blame for the 10th to 20th commits"
+  ],
+  "answer": 1,
+  "explanation": "The -L flag specifies a line range, so -L 10,20 shows blame information only for lines 10 through 20 of the file."
+}

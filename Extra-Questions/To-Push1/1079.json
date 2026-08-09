@@ -1,0 +1,14 @@
+{
+  "id": "placement-1079",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Easy",
+  "question": "What is the difference between authentication and authorization?",
+  "options": [
+    "They are the same",
+    "Authentication verifies identity; authorization grants access rights",
+    "Authorization verifies identity; authentication grants rights",
+    "Authentication is for networks only"
+  ],
+  "answer": 1,
+  "explanation": "Authentication asks 'Who are you?', while Authorization asks 'What are you allowed to do?'."
+}

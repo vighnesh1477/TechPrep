@@ -1,0 +1,14 @@
+{
+  "id": "placement-1738",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "question": "Which operation is most efficient on an array?",
+  "options": [
+    "Inserting an element at the beginning",
+    "Deleting an element from the middle",
+    "Accessing an element by its index",
+    "Searching for an element"
+  ],
+  "answer": 2,
+  "explanation": "Arrays provide O(1) constant time access to elements via their index because they offer direct, calculated memory addressing."
+}

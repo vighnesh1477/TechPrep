@@ -1,0 +1,14 @@
+{
+  "id": "placement-1861",
+  "topic": "Control Flow",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int x = 0;\nfor (int i = 0; i < 5; i++) {\n    for (int j = i; j < 5; j++) {\n        x++;\n    }\n}\nprintf(\"%d\", x);`",
+  "options": [
+    "15",
+    "25",
+    "10",
+    "20"
+  ],
+  "answer": 0,
+  "explanation": "Inner loop runs 5, 4, 3, 2, 1 times. Sum = 15. x becomes 15."
+}

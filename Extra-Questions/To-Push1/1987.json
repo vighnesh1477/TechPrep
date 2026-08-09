@@ -1,0 +1,14 @@
+{
+  "id": "placement-1987",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Medium",
+  "question": "SI on a sum is 1/4 of principal. Time is same as rate. Rate?",
+  "options": [
+    "5%",
+    "10%",
+    "15%",
+    "20%"
+  ],
+  "answer": 0,
+  "explanation": "P/4 = P*R*R/100 => R^2 = 25 => R=5%."
+}

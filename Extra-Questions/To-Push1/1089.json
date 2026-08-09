@@ -1,0 +1,14 @@
+{
+  "id": "placement-1089",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Hard",
+  "question": "Why shouldn't you store passwords in plain text?",
+  "options": [
+    "Takes too much space",
+    "If the database is compromised, all user passwords are immediately exposed",
+    "It is illegal everywhere",
+    "Hashing is always faster"
+  ],
+  "answer": 1,
+  "explanation": "Plain text storage provides zero security; breached databases instantly reveal all credentials."
+}

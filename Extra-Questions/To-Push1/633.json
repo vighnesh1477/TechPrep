@@ -1,0 +1,14 @@
+{
+  "id": "placement-633",
+  "topic": "which",
+  "difficulty": "Easy",
+  "question": "What does the which command show?",
+  "options": [
+    "All locations of a command",
+    "The location of the executable that would be run",
+    "The source code of a command",
+    "The manual page location"
+  ],
+  "answer": 1,
+  "explanation": "which shows the full path of the command that would be executed based on the current PATH environment variable."
+}

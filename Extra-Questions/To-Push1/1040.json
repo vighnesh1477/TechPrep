@@ -1,0 +1,14 @@
+{
+  "id": "placement-1040",
+  "topic": "Software Engineering",
+  "difficulty": "Medium",
+  "question": "What is Continuous Integration (CI)?",
+  "options": [
+    "Integrating code once a year",
+    "Frequently merging developer code changes into a shared repository and running automated builds/tests",
+    "Continuous deployment",
+    "Manual testing"
+  ],
+  "answer": 1,
+  "explanation": "CI involves automating the integration of code changes to detect problems early."
+}

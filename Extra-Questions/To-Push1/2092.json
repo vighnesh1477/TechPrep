@@ -1,0 +1,14 @@
+{
+  "id": "placement-2092",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find missing: 2, 5, 10, 17, ?, 37",
+  "options": [
+    "24",
+    "26",
+    "28",
+    "30"
+  ],
+  "answer": 1,
+  "explanation": "Differences are 3, 5, 7, 9, 11. 17+9=26."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1844",
+  "topic": "Control Flow",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int i=0;`\n`for(; i<=5; ) {`\n`  i++;`\n`  if(i==3) continue;`\n`  if(i==5) break;`\n`  printf(\"%d\", i);`\n`}`",
+  "options": [
+    "124",
+    "12",
+    "1245",
+    "1234"
+  ],
+  "answer": 0,
+  "explanation": "i=1: prints 1. i=2: prints 2. i=3: continue. i=4: prints 4. i=5: break. Output is 124."
+}

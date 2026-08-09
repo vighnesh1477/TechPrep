@@ -1,0 +1,14 @@
+{
+  "id": "placement-1807",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is indirect recursion?",
+  "options": [
+    "A function calling itself",
+    "Function A calls Function B, which in turn calls Function A",
+    "A function that never returns",
+    "A recursive function with no parameters"
+  ],
+  "answer": 1,
+  "explanation": "Indirect recursion occurs when a function calls another function, and that function calls the original function, creating a cycle of calls."
+}

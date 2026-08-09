@@ -1,0 +1,14 @@
+{
+  "id": "placement-2038",
+  "topic": "Permutation and Combination",
+  "difficulty": "Medium",
+  "question": "Find 50C49.",
+  "options": [
+    "25",
+    "50",
+    "1",
+    "100"
+  ],
+  "answer": 1,
+  "explanation": "nC(n-1) = n. So 50C49 = 50."
+}

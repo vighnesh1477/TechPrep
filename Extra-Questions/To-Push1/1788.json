@@ -1,0 +1,14 @@
+{
+  "id": "placement-1788",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "Where are global and static variables stored?",
+  "options": [
+    "Stack",
+    "Heap",
+    "Data Segment (BSS or Initialized Data)",
+    "Code Segment"
+  ],
+  "answer": 2,
+  "explanation": "Global variables and static variables are stored in the Data Segment. Initialized ones go to the Initialized Data section, and uninitialized ones go to the BSS (Block Started by Symbol) section."
+}

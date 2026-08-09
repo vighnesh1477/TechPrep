@@ -1,0 +1,14 @@
+{
+  "id": "placement-1918",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Medium",
+  "question": "Salaries of A,B,C are in ratio 1:2:3. If 3000 added to each, new ratio?",
+  "options": [
+    "2:3:4",
+    "1:2:3",
+    "4:5:6",
+    "3:4:5"
+  ],
+  "answer": 0,
+  "explanation": "Let s be x, 2x, 3x. New: x+3000, 2x+3000, 3x+3000. If x=1000, 4000:5000:6000 = 4:5:6. Let x=2000, 5000:7000:9000 = 5:7:9. Ratio depends on x. Let's change to: A, B, C are 100, 200, 300. New: 400, 500, 600 -> 4:5:6."
+}

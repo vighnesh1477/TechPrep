@@ -1,0 +1,14 @@
+{
+  "id": "placement-2066",
+  "topic": "Data Interpretation",
+  "difficulty": "Easy",
+  "question": "A line graph shows values 10, 20, 30, 40. What is the average?",
+  "options": [
+    "20",
+    "25",
+    "30",
+    "35"
+  ],
+  "answer": 1,
+  "explanation": "(10+20+30+40)/4 = 100/4 = 25."
+}

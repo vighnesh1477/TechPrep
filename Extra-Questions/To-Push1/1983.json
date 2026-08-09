@@ -1,0 +1,14 @@
+{
+  "id": "placement-1983",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Medium",
+  "question": "A sum becomes Rs 1200 in 2 years and Rs 1500 in 4 years at SI. Principal?",
+  "options": [
+    "Rs 800",
+    "Rs 900",
+    "Rs 1000",
+    "Rs 1100"
+  ],
+  "answer": 1,
+  "explanation": "Interest for 2 years = 1500 - 1200 = 300. For 1 year = 150. Principal = 1200 - 300 = 900."
+}

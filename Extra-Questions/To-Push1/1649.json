@@ -1,0 +1,14 @@
+{
+  "id": "placement-1649",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "In a `switch` statement in C++, what data types are allowed for the expression?",
+  "options": [
+    "float or double",
+    "String",
+    "int, char, or enum",
+    "Any object type"
+  ],
+  "answer": 2,
+  "explanation": "The expression in a C++ switch statement must be of an integral type (like `int`, `char`) or an enumerated type (`enum`). Strings and floating-points are not allowed."
+}

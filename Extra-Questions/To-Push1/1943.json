@@ -1,0 +1,14 @@
+{
+  "id": "placement-1943",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "A and B together do work in 12 days. B alone in 20 days. A alone?",
+  "options": [
+    "25 days",
+    "30 days",
+    "35 days",
+    "40 days"
+  ],
+  "answer": 1,
+  "explanation": "A's 1 day = 1/12 - 1/20 = (5-3)/60 = 2/60 = 1/30. A takes 30 days."
+}

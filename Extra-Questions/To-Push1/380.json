@@ -1,0 +1,14 @@
+{
+  "id": "placement-380",
+  "topic": "Git Status",
+  "difficulty": "Easy",
+  "question": "What does 'D ' mean in git status --short output?",
+  "options": [
+    "A directory was created",
+    "A file was deleted and the deletion is staged",
+    "A file was detached",
+    "A diff was detected"
+  ],
+  "answer": 1,
+  "explanation": "'D ' in the short format means the file deletion has been staged (first character is D), but there are no additional unstaged changes (second character is space)."
+}

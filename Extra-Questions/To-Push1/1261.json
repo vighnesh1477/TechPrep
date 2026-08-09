@@ -1,0 +1,14 @@
+{
+  "id": "placement-1261",
+  "topic": "Python",
+  "difficulty": "Easy",
+  "question": "How do you declare a single-line string in Python?",
+  "options": [
+    "Using single or double quotes",
+    "Using parentheses",
+    "Using curly braces",
+    "Using square brackets"
+  ],
+  "answer": 0,
+  "explanation": "Python allows strings to be enclosed in either single (' ') or double (\" \") quotes."
+}

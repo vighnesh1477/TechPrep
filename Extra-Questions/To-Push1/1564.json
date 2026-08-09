@@ -1,0 +1,14 @@
+{
+  "id": "placement-1564",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Medium",
+  "question": "In a K-Map, cells are arranged such that only one variable changes between adjacent cells. What is this property called?",
+  "options": [
+    "Boolean property",
+    "Gray Code sequence",
+    "Binary sequence",
+    "Sequential property"
+  ],
+  "answer": 1,
+  "explanation": "K-Maps use Gray code ordering, where adjacent cells differ by only one bit. This ensures that logical adjacencies (where variables can be simplified) match physical adjacencies on the map."
+}

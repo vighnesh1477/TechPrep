@@ -1,0 +1,14 @@
+{
+  "id": "placement-1414",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Medium",
+  "question": "What does the CASE statement do in SQL?",
+  "options": [
+    "Changes the table structure",
+    "Provides if-then-else logic in SQL queries",
+    "Creates a new database case",
+    "Handles errors in queries"
+  ],
+  "answer": 1,
+  "explanation": "The CASE statement goes through conditions and returns a value when the first condition is met. It works like if-then-else logic in programming languages."
+}

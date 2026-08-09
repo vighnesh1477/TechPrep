@@ -1,0 +1,14 @@
+{
+  "id": "placement-1194",
+  "topic": "SQL",
+  "difficulty": "Medium",
+  "question": "What does the BETWEEN operator do?",
+  "options": [
+    "Checks if a value is NULL",
+    "Selects values within a given inclusive range",
+    "Checks equality",
+    "Joins two tables"
+  ],
+  "answer": 1,
+  "explanation": "BETWEEN selects values that are greater than or equal to the start value and less than or equal to the end value."
+}

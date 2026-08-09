@@ -1,0 +1,14 @@
+{
+  "id": "placement-307",
+  "topic": "Fork",
+  "difficulty": "Easy",
+  "question": "What is a fork in the context of platforms like GitHub?",
+  "options": [
+    "A Git branch on the same repository",
+    "A personal copy of someone else's repository on your account",
+    "A merge of two repositories",
+    "A tag on a remote repository"
+  ],
+  "answer": 1,
+  "explanation": "A fork creates a personal copy of another user's repository under your own account, allowing you to make changes without affecting the original project."
+}

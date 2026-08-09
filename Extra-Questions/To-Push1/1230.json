@@ -1,0 +1,14 @@
+{
+  "id": "placement-1230",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What is a dirty read?",
+  "options": [
+    "Reading corrupted files",
+    "Reading uncommitted data from another transaction",
+    "Reading deleted data",
+    "Reading from a dirty disk"
+  ],
+  "answer": 1,
+  "explanation": "A dirty read occurs when a transaction reads data written by an uncommitted transaction, which might still be rolled back."
+}

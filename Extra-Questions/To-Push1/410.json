@@ -1,0 +1,14 @@
+{
+  "id": "placement-410",
+  "topic": "Repository Initialization",
+  "difficulty": "Easy",
+  "question": "What is the default branch name set by git init if not configured otherwise?",
+  "options": [
+    "It depends on the Git version and configuration",
+    "Always 'master'",
+    "Always 'main'",
+    "Always 'develop'"
+  ],
+  "answer": 0,
+  "explanation": "The default branch name depends on the init.defaultBranch configuration. Git 2.28+ can be configured to use 'main', while older versions default to 'master'."
+}

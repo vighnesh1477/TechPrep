@@ -1,0 +1,14 @@
+{
+  "id": "placement-1084",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Medium",
+  "question": "What is hashing used for in cybersecurity?",
+  "options": [
+    "Encryption",
+    "Verifying data integrity and securely storing passwords",
+    "Compression",
+    "Routing data"
+  ],
+  "answer": 1,
+  "explanation": "Hashing creates a fixed-size string from data, used to verify integrity (e.g., file hashes) or securely store passwords."
+}

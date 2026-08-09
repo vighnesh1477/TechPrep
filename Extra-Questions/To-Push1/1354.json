@@ -1,0 +1,14 @@
+{
+  "id": "placement-1354",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "What happens when a child process terminates before the parent has called wait()?",
+  "options": [
+    "The child is immediately deleted from memory",
+    "The child becomes a zombie process",
+    "The child becomes an orphan process",
+    "The parent is terminated"
+  ],
+  "answer": 1,
+  "explanation": "A zombie process is a process that has completed execution but still has an entry in the process table. This occurs because the parent hasn't yet called wait() to read its exit status."
+}

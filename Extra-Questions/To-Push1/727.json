@@ -1,0 +1,14 @@
+{
+  "id": "placement-727",
+  "topic": "Environment Variables",
+  "difficulty": "Easy",
+  "question": "What file is commonly used to set environment variables for all users on login?",
+  "options": [
+    "~/.bashrc",
+    "/etc/profile",
+    "/etc/environment",
+    "~/.profile"
+  ],
+  "answer": 2,
+  "explanation": "/etc/environment is specifically designed for system-wide environment variable settings. /etc/profile is for login shell initialization and can also set variables."
+}

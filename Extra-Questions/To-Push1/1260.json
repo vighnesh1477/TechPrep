@@ -1,0 +1,14 @@
+{
+  "id": "placement-1260",
+  "topic": "Java",
+  "difficulty": "Easy",
+  "question": "What is the default value of an object reference in Java?",
+  "options": [
+    "0",
+    "false",
+    "null",
+    "\"\""
+  ],
+  "answer": 2,
+  "explanation": "Object references default to null if not explicitly initialized."
+}

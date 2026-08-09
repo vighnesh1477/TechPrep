@@ -1,0 +1,14 @@
+{
+  "id": "placement-2040",
+  "topic": "Permutation and Combination",
+  "difficulty": "Hard",
+  "question": "Number of diagonals in a regular polygon of 10 sides?",
+  "options": [
+    "35",
+    "40",
+    "45",
+    "30"
+  ],
+  "answer": 0,
+  "explanation": "n(n-3)/2 = 10*7/2 = 35."
+}

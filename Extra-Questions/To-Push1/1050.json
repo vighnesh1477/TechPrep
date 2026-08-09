@@ -1,0 +1,14 @@
+{
+  "id": "placement-1050",
+  "topic": "Git",
+  "difficulty": "Easy",
+  "question": "Which command uploads local commits to a remote repository?",
+  "options": [
+    "git pull",
+    "git commit",
+    "git push",
+    "git merge"
+  ],
+  "answer": 2,
+  "explanation": "git push transfers local branch commits to the remote repository."
+}

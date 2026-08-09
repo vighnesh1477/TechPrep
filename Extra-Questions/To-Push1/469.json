@@ -1,0 +1,14 @@
+{
+  "id": "placement-469",
+  "topic": "Stash",
+  "difficulty": "Medium",
+  "question": "What does git stash do?",
+  "options": [
+    "Permanently deletes uncommitted changes",
+    "Temporarily saves uncommitted changes and reverts the working tree to the last commit",
+    "Commits all changes with a special message",
+    "Moves changes to a different branch"
+  ],
+  "answer": 1,
+  "explanation": "git stash saves your uncommitted changes (both staged and unstaged) to a stack and restores the working tree to match the last commit."
+}

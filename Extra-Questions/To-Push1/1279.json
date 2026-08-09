@@ -1,0 +1,14 @@
+{
+  "id": "placement-1279",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is a circular queue?",
+  "options": [
+    "A queue that loops forever",
+    "A queue where the last position connects back to the first to reuse empty spaces",
+    "A stack",
+    "A linked list"
+  ],
+  "answer": 1,
+  "explanation": "Circular queues solve the space-wasting problem of linear queues by connecting the rear to the front."
+}

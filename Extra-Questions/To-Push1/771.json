@@ -1,0 +1,14 @@
+{
+  "id": "placement-771",
+  "topic": "fdisk",
+  "difficulty": "Easy",
+  "question": "What must you do after creating partitions with fdisk for them to be usable?",
+  "options": [
+    "Just reboot",
+    "Format them with a file system (mkfs) and then mount them",
+    "Nothing, they are immediately usable",
+    "Run fdisk --apply"
+  ],
+  "answer": 1,
+  "explanation": "After creating partitions, you must create a file system with mkfs (e.g., mkfs.ext4), and then mount them before they can store files."
+}

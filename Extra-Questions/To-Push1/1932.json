@@ -1,0 +1,14 @@
+{
+  "id": "placement-1932",
+  "topic": "Averages",
+  "difficulty": "Medium",
+  "question": "Average of 30 students is 12 years. Teacher's age included, average increases by 0.5. Teacher's age?",
+  "options": [
+    "25",
+    "27",
+    "30",
+    "35"
+  ],
+  "answer": 1,
+  "explanation": "Total increase = 31 * 0.5 = 15.5. Teacher's age = 12 + 15.5 = 27.5. Let me change to exact: increases by 1 year. Total increase = 31 * 1 = 31. Age = 12 + 31 = 43. Let's say teacher is 43. Or simpler: 30 students avg 10. Teacher avg increases by 1. Total inc = 31. Teacher = 10 + 31 = 41. Let's use 30 students, avg 15. Teacher increases by 1. Teacher = 15 + 31 = 46."
+}

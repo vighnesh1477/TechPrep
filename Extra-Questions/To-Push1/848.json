@@ -1,0 +1,14 @@
+{
+  "id": "placement-848",
+  "topic": "Shell Scripting",
+  "difficulty": "Medium",
+  "question": "What does '$?' represent in bash?",
+  "options": [
+    "The process ID of the script",
+    "The exit status of the last executed command",
+    "The current working directory",
+    "The number of background jobs"
+  ],
+  "answer": 1,
+  "explanation": "$? returns the exit status of the most recently executed command. 0 indicates success, non-zero indicates failure or an error code."
+}

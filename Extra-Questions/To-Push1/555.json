@@ -1,0 +1,14 @@
+{
+  "id": "placement-555",
+  "topic": "ls",
+  "difficulty": "Easy",
+  "question": "What does the first character 'd' indicate in ls -l output?",
+  "options": [
+    "A device file",
+    "A directory",
+    "A data file",
+    "A deleted file"
+  ],
+  "answer": 1,
+  "explanation": "In ls -l output, the first character indicates file type: 'd' for directory, '-' for regular file, 'l' for symbolic link, 'b' for block device, 'c' for character device."
+}

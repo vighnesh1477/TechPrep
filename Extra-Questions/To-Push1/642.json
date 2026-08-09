@@ -1,0 +1,14 @@
+{
+  "id": "placement-642",
+  "topic": "whereis",
+  "difficulty": "Easy",
+  "question": "What does whereis -B /custom/bin ls do?",
+  "options": [
+    "Blocks the search for ls",
+    "Searches for the binary of ls only in /custom/bin",
+    "Backs up the ls binary to /custom/bin",
+    "Shows binaries before the man page"
+  ],
+  "answer": 1,
+  "explanation": "whereis -B /custom/bin limits the binary search to the specified directory /custom/bin instead of the default binary paths."
+}

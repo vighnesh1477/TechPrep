@@ -1,0 +1,14 @@
+{
+  "id": "placement-2107",
+  "topic": "Alphabet Series",
+  "difficulty": "Medium",
+  "question": "AB, BC, CD, DE, ?",
+  "options": [
+    "DF",
+    "EF",
+    "EG",
+    "FG"
+  ],
+  "answer": 1,
+  "explanation": "Last letter of previous is first of next."
+}

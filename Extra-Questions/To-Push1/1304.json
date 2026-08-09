@@ -1,0 +1,14 @@
+{
+  "id": "placement-1304",
+  "topic": "Git",
+  "difficulty": "Hard",
+  "question": "What does `git fsck` do?",
+  "options": [
+    "Speeds up Git",
+    "Verifies the connectivity and validity of the objects in the Git database",
+    "Deletes branches",
+    "Fixes merge conflicts"
+  ],
+  "answer": 1,
+  "explanation": "git fsck (file system check) scans the repository for corrupted or missing objects."
+}

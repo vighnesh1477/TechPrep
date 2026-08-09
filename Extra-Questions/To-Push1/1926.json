@@ -1,0 +1,14 @@
+{
+  "id": "placement-1926",
+  "topic": "Averages",
+  "difficulty": "Easy",
+  "question": "If a boy scores 80, 90, 85 in 3 subjects, his average is?",
+  "options": [
+    "80",
+    "85",
+    "90",
+    "95"
+  ],
+  "answer": 1,
+  "explanation": "(80+90+85)/3 = 255/3 = 85."
+}

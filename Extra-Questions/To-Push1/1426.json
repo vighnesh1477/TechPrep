@@ -1,0 +1,14 @@
+{
+  "id": "placement-1426",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which protocol is used to securely transfer web pages?",
+  "options": [
+    "HTTP",
+    "FTP",
+    "HTTPS",
+    "SMTP"
+  ],
+  "answer": 2,
+  "explanation": "HTTPS (Hypertext Transfer Protocol Secure) is HTTP encrypted with TLS/SSL. It is used for secure communication over a computer network, widely used on the internet."
+}

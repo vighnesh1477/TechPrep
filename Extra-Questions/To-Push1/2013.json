@@ -1,0 +1,14 @@
+{
+  "id": "placement-2013",
+  "topic": "Probability",
+  "difficulty": "Easy",
+  "question": "A coin is tossed. Probability of head?",
+  "options": [
+    "0",
+    "0.25",
+    "0.5",
+    "1"
+  ],
+  "answer": 2,
+  "explanation": "Total outcomes=2, Heads=1. P=1/2."
+}

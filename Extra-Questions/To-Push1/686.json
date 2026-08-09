@@ -1,0 +1,14 @@
+{
+  "id": "placement-686",
+  "topic": "top",
+  "difficulty": "Easy",
+  "question": "What does pressing 'k' in top allow you to do?",
+  "options": [
+    "Kill a process by entering its PID",
+    "Keep a process on top",
+    "Know the details of a process",
+    "Kernel information display"
+  ],
+  "answer": 0,
+  "explanation": "Pressing 'k' in top prompts you to enter a PID to kill. After entering the PID, it asks for the signal (default is SIGTERM, 15)."
+}

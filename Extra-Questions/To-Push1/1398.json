@@ -1,0 +1,14 @@
+{
+  "id": "placement-1398",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the correct syntax to find all employees whose salary is greater than 50,000?",
+  "options": [
+    "SELECT * FROM employees HAVING salary > 50000",
+    "SELECT * FROM employees WHERE salary > 50000",
+    "SELECT * FROM employees GROUP BY salary > 50000",
+    "SELECT * FROM employees FIND salary > 50000"
+  ],
+  "answer": 1,
+  "explanation": "The WHERE clause is used to filter records before any grouping is done. It is used to extract only those records that fulfill a specified condition."
+}

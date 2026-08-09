@@ -1,0 +1,14 @@
+{
+  "id": "placement-1110",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is the binary representation of the decimal number 5?",
+  "options": [
+    "101",
+    "110",
+    "100",
+    "111"
+  ],
+  "answer": 0,
+  "explanation": "5 in decimal is 4 + 1, which is 101 in binary."
+}

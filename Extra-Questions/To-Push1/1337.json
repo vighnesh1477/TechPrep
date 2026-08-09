@@ -1,0 +1,14 @@
+{
+  "id": "placement-1337",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is virtual memory?",
+  "options": [
+    "Memory on a remote server",
+    "A memory management technique that creates the illusion of a large, contiguous memory using RAM and disk space",
+    "The ROM of a computer",
+    "Memory used exclusively by the kernel"
+  ],
+  "answer": 1,
+  "explanation": "Virtual memory uses both hardware and software to allow a computer to compensate for physical memory shortages by temporarily transferring data from RAM to disk space."
+}

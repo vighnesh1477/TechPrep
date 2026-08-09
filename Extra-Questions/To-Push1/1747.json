@@ -1,0 +1,14 @@
+{
+  "id": "placement-1747",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What does `strcmp(\"apple\", \"banana\")` return in C?",
+  "options": [
+    "A positive value",
+    "0",
+    "A negative value",
+    "1"
+  ],
+  "answer": 2,
+  "explanation": "`strcmp` compares strings lexicographically (ASCII values). 'a' and 'b' differ at index 0. Since 'a' (97) is less than 'b' (98), it returns a negative value."
+}

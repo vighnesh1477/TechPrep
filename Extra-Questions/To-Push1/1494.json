@@ -1,0 +1,14 @@
+{
+  "id": "placement-1494",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "What is a 'Bug'?",
+  "options": [
+    "A feature in the software",
+    "An error, flaw, or unintended behavior in a computer program that causes it to produce incorrect or unexpected results",
+    "A type of virus",
+    "A missing requirement"
+  ],
+  "answer": 1,
+  "explanation": "A bug is a flaw in a software system that causes it to behave in an unintended or incorrect way. Debugging is the process of finding and fixing bugs."
+}

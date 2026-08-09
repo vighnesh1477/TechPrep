@@ -1,0 +1,14 @@
+{
+  "id": "placement-1186",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What is 2NF?",
+  "options": [
+    "No partial dependencies on a composite primary key",
+    "No transitive dependencies",
+    "Atomic values only",
+    "No multi-valued dependencies"
+  ],
+  "answer": 0,
+  "explanation": "Second Normal Form requires 1NF and that non-key attributes are fully dependent on the entire primary key."
+}

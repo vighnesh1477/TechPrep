@@ -1,0 +1,14 @@
+{
+  "id": "placement-1811",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "Can every recursive function be converted into an iterative one?",
+  "options": [
+    "No, only tail-recursive functions",
+    "Yes, recursion can always be simulated using explicit stacks or loops",
+    "No, some problems inherently require recursion",
+    "Yes, but only in high-level languages"
+  ],
+  "answer": 1,
+  "explanation": "Any recursive algorithm can be converted to an iterative one by explicitly managing a stack data structure to simulate the system's call stack."
+}

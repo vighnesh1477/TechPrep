@@ -1,0 +1,14 @@
+{
+  "id": "placement-1561",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Medium",
+  "question": "What is the Boolean expression for an XOR gate with inputs A and B?",
+  "options": [
+    "A + B",
+    "A · B",
+    "A'B + AB'",
+    "AB' + A'B'"
+  ],
+  "answer": 2,
+  "explanation": "XOR (Exclusive OR) is true when A is true and B is false, OR when B is true and A is false. The expression is A'B + AB' (or AB' + A'B', they are the same)."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1297",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of Radix Sort?",
+  "options": [
+    "O(N log N)",
+    "O(N * K) where K is the max number of digits",
+    "O(N^2)",
+    "O(log N)"
+  ],
+  "answer": 1,
+  "explanation": "Radix Sort processes each digit of the numbers, taking O(N) per digit, for a total of O(N * K)."
+}

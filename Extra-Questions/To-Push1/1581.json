@@ -1,0 +1,14 @@
+{
+  "id": "placement-1581",
+  "topic": "Data Representation",
+  "difficulty": "Easy",
+  "question": "What is Unicode?",
+  "options": [
+    "A type of computer virus",
+    "A universal character encoding standard that supports almost all languages and scripts in the world",
+    "A programming language",
+    "A type of image format"
+  ],
+  "answer": 1,
+  "explanation": "Unicode is an international character encoding standard that provides a unique number for every character, regardless of platform, program, or language, supporting over 140,000 characters."
+}

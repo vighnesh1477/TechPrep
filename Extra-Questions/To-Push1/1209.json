@@ -1,0 +1,14 @@
+{
+  "id": "placement-1209",
+  "topic": "Computer Networks",
+  "difficulty": "Hard",
+  "question": "What is the Sliding Window protocol used for?",
+  "options": [
+    "Physical layer transmission",
+    "Flow control and error control in data link / transport layers",
+    "Routing packets",
+    "DNS resolution"
+  ],
+  "answer": 1,
+  "explanation": "It allows the sender to transmit multiple frames before needing an acknowledgment, improving throughput."
+}

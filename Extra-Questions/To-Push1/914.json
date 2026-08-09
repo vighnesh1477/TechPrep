@@ -1,0 +1,14 @@
+{
+  "id": "placement-914",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "What is a complete binary tree?",
+  "options": [
+    "All nodes have two children",
+    "All levels are fully filled except possibly the last",
+    "Tree with zero nodes",
+    "Tree with only left children"
+  ],
+  "answer": 1,
+  "explanation": "A complete binary tree is filled from left to right, with all levels full except possibly the last."
+}

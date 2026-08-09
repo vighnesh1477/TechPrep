@@ -1,0 +1,14 @@
+{
+  "id": "placement-728",
+  "topic": "Networking",
+  "difficulty": "Easy",
+  "question": "What does the ping command test?",
+  "options": [
+    "DNS resolution",
+    "Network connectivity between two hosts using ICMP echo requests",
+    "Bandwidth speed",
+    "Port availability"
+  ],
+  "answer": 1,
+  "explanation": "ping sends ICMP echo request packets to a host and waits for ICMP echo replies. It tests basic network connectivity and measures round-trip time."
+}

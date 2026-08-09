@@ -1,0 +1,14 @@
+{
+  "id": "placement-883",
+  "topic": "Java",
+  "difficulty": "Easy",
+  "question": "Which keyword is used to inherit a class in Java?",
+  "options": [
+    "inherits",
+    "implements",
+    "extends",
+    "super"
+  ],
+  "answer": 2,
+  "explanation": "extends is used for class inheritance in Java."
+}

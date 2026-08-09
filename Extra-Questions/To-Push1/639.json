@@ -1,0 +1,14 @@
+{
+  "id": "placement-639",
+  "topic": "whereis",
+  "difficulty": "Easy",
+  "question": "How do you limit whereis to only find the binary?",
+  "options": [
+    "whereis -b command",
+    "whereis --bin command",
+    "Both A and B",
+    "whereis -e command"
+  ],
+  "answer": 2,
+  "explanation": "Both whereis -b and whereis --bin limit the search to only binary files."
+}

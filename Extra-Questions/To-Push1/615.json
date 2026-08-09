@@ -1,0 +1,14 @@
+{
+  "id": "placement-615",
+  "topic": "tail",
+  "difficulty": "Easy",
+  "question": "How do you display the last 50 lines of a file?",
+  "options": [
+    "tail -50 file",
+    "tail -n 50 file",
+    "Both A and B",
+    "tail --last 50 file"
+  ],
+  "answer": 2,
+  "explanation": "Both tail -50 file and tail -n 50 file display the last 50 lines. The numeric shorthand is equivalent to -n."
+}

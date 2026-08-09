@@ -1,0 +1,14 @@
+{
+  "id": "placement-429",
+  "topic": "Remote Repository",
+  "difficulty": "Easy",
+  "question": "Can a repository have multiple remotes?",
+  "options": [
+    "No, only one remote is allowed",
+    "Yes, a repository can have any number of remotes",
+    "Maximum of two remotes",
+    "Only if they use different protocols"
+  ],
+  "answer": 1,
+  "explanation": "A Git repository can have any number of remotes, each with a unique name, allowing interaction with multiple servers or repositories."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1461",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "Which of the following represents the correct memory hierarchy from fastest to slowest?",
+  "options": [
+    "RAM -> Cache -> Hard Drive -> Registers",
+    "Registers -> Cache -> RAM -> Hard Drive",
+    "Hard Drive -> RAM -> Cache -> Registers",
+    "Cache -> Registers -> RAM -> Hard Drive"
+  ],
+  "answer": 1,
+  "explanation": "Registers are the fastest, followed by L1/L2/L3 Cache, then main memory (RAM), and finally secondary storage (Hard Drive/SSD), which is the slowest."
+}

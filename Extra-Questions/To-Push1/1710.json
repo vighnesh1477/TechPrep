@@ -1,0 +1,14 @@
+{
+  "id": "placement-1710",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What is the output of this Python code?\n`def func(a, b):`\n`    return a, b`\n`res = func(1, 2)`\n`print(type(res))`",
+  "options": [
+    "<class 'int'>",
+    "<class 'list'>",
+    "<class 'tuple'>",
+    "<class 'dict'>"
+  ],
+  "answer": 2,
+  "explanation": "In Python, returning multiple comma-separated values automatically packs them into a tuple. The variable `res` receives the tuple `(1, 2)`."
+}

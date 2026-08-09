@@ -1,0 +1,14 @@
+{
+  "id": "placement-1436",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the purpose of the ARP protocol?",
+  "options": [
+    "To find the IP address of a known MAC address",
+    "To find the MAC address associated with a known IP address",
+    "To route packets across the internet",
+    "To resolve domain names"
+  ],
+  "answer": 1,
+  "explanation": "Address Resolution Protocol (ARP) is used to map an IP address to a physical (MAC) address on a local network. It asks 'Who has IP X? Tell Y'."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1600",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the result of `10 % 3`?",
+  "options": [
+    "3.33",
+    "3",
+    "1",
+    "0"
+  ],
+  "answer": 2,
+  "explanation": "The `%` (modulo) operator returns the remainder of a division. 10 divided by 3 is 3 with a remainder of 1."
+}

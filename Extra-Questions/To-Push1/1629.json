@@ -1,0 +1,14 @@
+{
+  "id": "placement-1629",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which of the following is a relational operator?",
+  "options": [
+    "&&",
+    "||",
+    "<=",
+    "!"
+  ],
+  "answer": 2,
+  "explanation": "`<=` (less than or equal to) is a relational operator used to compare two values. `&&`, `||`, and `!` are logical operators."
+}

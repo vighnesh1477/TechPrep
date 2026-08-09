@@ -1,0 +1,14 @@
+{
+  "id": "placement-1501",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "What does CI/CD stand for?",
+  "options": [
+    "Code Integration/Code Deployment",
+    "Continuous Integration/Continuous Delivery (or Deployment)",
+    "Centralized Integration/Continuous Debugging",
+    "Code Inspection/Code Documentation"
+  ],
+  "answer": 1,
+  "explanation": "CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of application development (Continuous Integration and Continuous Delivery/Deployment)."
+}

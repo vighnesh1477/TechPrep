@@ -1,0 +1,14 @@
+{
+  "id": "placement-1720",
+  "topic": "Functions",
+  "difficulty": "Easy",
+  "question": "What keyword is used to define a function in Python?",
+  "options": [
+    "function",
+    "func",
+    "def",
+    "define"
+  ],
+  "answer": 2,
+  "explanation": "In Python, the `def` keyword is used to define a function, followed by the function name and a parenthesized list of parameters."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1678",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "What keyword replaces `else if` in Python?",
+  "options": [
+    "elseif",
+    "elif",
+    "else if",
+    "ei"
+  ],
+  "answer": 1,
+  "explanation": "In Python, the `elif` keyword is used to chain conditional statements, serving the same purpose as `else if` in C, C++, and Java."
+}

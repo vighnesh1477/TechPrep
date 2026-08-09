@@ -1,0 +1,14 @@
+{
+  "id": "placement-2103",
+  "topic": "Alphabet Series",
+  "difficulty": "Easy",
+  "question": "AB, CD, EF, GH, ?",
+  "options": [
+    "IJ",
+    "IK",
+    "KL",
+    "LM"
+  ],
+  "answer": 0,
+  "explanation": "Consecutive pairs of letters."
+}

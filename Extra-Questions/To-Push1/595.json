@@ -1,0 +1,14 @@
+{
+  "id": "placement-595",
+  "topic": "cat",
+  "difficulty": "Easy",
+  "question": "What does cat file1 file2 > file3 do?",
+  "options": [
+    "Displays file1 and file2 content",
+    "Concatenates file1 and file2 into file3",
+    "Compares file1 and file2",
+    "Copies file1 to file3"
+  ],
+  "answer": 1,
+  "explanation": "This concatenates the contents of file1 and file2 and redirects the combined output into file3."
+}

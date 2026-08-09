@@ -1,0 +1,14 @@
+{
+  "id": "placement-894",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "What is the parent class of all classes in Java?",
+  "options": [
+    "Object",
+    "Class",
+    "Super",
+    "Main"
+  ],
+  "answer": 0,
+  "explanation": "java.lang.Object is the root of the class hierarchy."
+}

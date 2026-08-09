@@ -1,0 +1,14 @@
+{
+  "id": "placement-1488",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "What is a 'Sprint' in Scrum?",
+  "options": [
+    "A type of bug",
+    "A fixed time period (usually 2-4 weeks) during which specific work must be completed and made ready for review",
+    "A race to finish the project",
+    "A daily meeting"
+  ],
+  "answer": 1,
+  "explanation": "A Sprint is a time-boxed iteration in Scrum. The team agrees to complete a set of features (from the product backlog) by the end of the sprint."
+}

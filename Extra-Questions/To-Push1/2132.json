@@ -1,0 +1,14 @@
+{
+  "id": "placement-2132",
+  "topic": "Coding-Decoding",
+  "difficulty": "Hard",
+  "question": "In a code language, '743' means 'mux zil kip', '265' means 'zo bip yop'. If 'zil' means 'apple', what is code for 'apple'?",
+  "options": [
+    "Cannot be determined",
+    "4",
+    "3",
+    "7"
+  ],
+  "answer": 0,
+  "explanation": "We know 'zil' means 'apple', but we don't know which digit in '743' corresponds to 'zil'. Cannot be determined."
+}

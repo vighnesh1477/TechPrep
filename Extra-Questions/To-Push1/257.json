@@ -1,0 +1,14 @@
+{
+  "id": "placement-257",
+  "topic": "Repository Initialization",
+  "difficulty": "Easy",
+  "question": "What hidden directory is created when you run git init?",
+  "options": [
+    ".gitconfig",
+    ".git",
+    ".gitrepo",
+    ".gitdata"
+  ],
+  "answer": 1,
+  "explanation": "git init creates a .git directory that stores all version control metadata, including objects, refs, and configuration files."
+}

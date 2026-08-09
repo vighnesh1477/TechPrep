@@ -1,0 +1,14 @@
+{
+  "id": "placement-2183",
+  "topic": "Seating Arrangement",
+  "difficulty": "Easy",
+  "question": "5 people sit in a row. A is in the middle. Who is 2nd from the left if B is immediate left of A?",
+  "options": [
+    "C",
+    "D",
+    "E",
+    "B"
+  ],
+  "answer": 3,
+  "explanation": "Positions: _, B, A, _, _. B is 2nd from left."
+}

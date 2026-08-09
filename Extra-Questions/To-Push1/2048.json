@@ -1,0 +1,14 @@
+{
+  "id": "placement-2048",
+  "topic": "Algebra",
+  "difficulty": "Medium",
+  "question": "If x + 1/x = 5, find x^2 + 1/x^2.",
+  "options": [
+    "23",
+    "25",
+    "27",
+    "29"
+  ],
+  "answer": 0,
+  "explanation": "(x + 1/x)^2 = x^2 + 2 + 1/x^2 => 25 = x^2 + 1/x^2 + 2 => x^2 + 1/x^2 = 23."
+}

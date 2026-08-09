@@ -1,0 +1,14 @@
+{
+  "id": "placement-664",
+  "topic": "umask",
+  "difficulty": "Easy",
+  "question": "If umask is 022, what are the default permissions for a new file?",
+  "options": [
+    "644",
+    "755",
+    "622",
+    "744"
+  ],
+  "answer": 0,
+  "explanation": "Default file permissions are 666. With umask 022: 666 - 022 = 644 (rw-r--r--). For directories: 777 - 022 = 755 (rwxr-xr-x)."
+}

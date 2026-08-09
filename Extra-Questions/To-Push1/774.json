@@ -1,0 +1,14 @@
+{
+  "id": "placement-774",
+  "topic": "Terminal",
+  "difficulty": "Easy",
+  "question": "What does Ctrl+D do in the terminal?",
+  "options": [
+    "Deletes the current line",
+    "Sends EOF (End of File) to signal end of input",
+    "Disconnects from the network",
+    "Dumps the terminal buffer"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl+D sends EOF (End of File) character. When used at an empty prompt, it logs out of the shell. In other contexts, it signals end of input."
+}

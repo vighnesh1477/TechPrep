@@ -1,0 +1,14 @@
+{
+  "id": "placement-1748",
+  "topic": "Strings",
+  "difficulty": "Easy",
+  "question": "Which function is used to find the length of a string in C?",
+  "options": [
+    "strlength()",
+    "len()",
+    "strlen()",
+    "string_len()"
+  ],
+  "answer": 2,
+  "explanation": "The standard library function `strlen()` from `<string.h>` is used to calculate the length of a string in C."
+}

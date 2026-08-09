@@ -1,0 +1,14 @@
+{
+  "id": "placement-2151",
+  "topic": "Direction Sense",
+  "difficulty": "Hard",
+  "question": "A walks 10m South, turns left, walks 20m, turns left, walks 10m. Which direction is he facing?",
+  "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+  ],
+  "answer": 0,
+  "explanation": "South -> Left(East) -> Left(North) -> Left(West). Final direction North."
+}

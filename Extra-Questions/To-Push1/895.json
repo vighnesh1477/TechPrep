@@ -1,0 +1,14 @@
+{
+  "id": "placement-895",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "Which memory area stores object instances in JVM?",
+  "options": [
+    "Stack",
+    "Heap",
+    "Method area",
+    "Native method stack"
+  ],
+  "answer": 1,
+  "explanation": "The heap is where all objects and their instance variables are allocated."
+}

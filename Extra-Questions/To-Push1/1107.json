@@ -1,0 +1,14 @@
+{
+  "id": "placement-1107",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What does CPU stand for?",
+  "options": [
+    "Central Processing Unit",
+    "Computer Personal Unit",
+    "Central Program Utility",
+    "Core Processing Unit"
+  ],
+  "answer": 0,
+  "explanation": "CPU stands for Central Processing Unit, the primary component executing instructions."
+}

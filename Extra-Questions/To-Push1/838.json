@@ -1,0 +1,14 @@
+{
+  "id": "placement-838",
+  "topic": "xargs",
+  "difficulty": "Medium",
+  "question": "What does xargs do?",
+  "options": [
+    "Parses XML arguments",
+    "Reads items from stdin and converts them into arguments for a command",
+    "Creates aliases for commands",
+    "Manages execution arguments"
+  ],
+  "answer": 1,
+  "explanation": "xargs reads items from standard input (separated by spaces, newlines, etc.) and executes a command with those items as arguments, handling argument list length limits."
+}

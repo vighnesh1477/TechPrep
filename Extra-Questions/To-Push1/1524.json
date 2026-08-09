@@ -1,0 +1,14 @@
+{
+  "id": "placement-1524",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which phase of the compiler is responsible for improving the intermediate code to make it run faster or use less memory?",
+  "options": [
+    "Lexical Analysis",
+    "Semantic Analysis",
+    "Code Optimization",
+    "Syntax Analysis"
+  ],
+  "answer": 2,
+  "explanation": "The Code Optimization phase transforms the intermediate code into an optimized version that performs the same function but is more efficient (faster execution, less memory)."
+}

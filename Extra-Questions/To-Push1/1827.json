@@ -1,0 +1,14 @@
+{
+  "id": "placement-1827",
+  "topic": "Basic Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the space complexity of Iterative Binary Search?",
+  "options": [
+    "O(n)",
+    "O(log n)",
+    "O(1)",
+    "O(n^2)"
+  ],
+  "answer": 2,
+  "explanation": "Iterative binary search uses a few variables (like `low`, `high`, `mid`) to track the search space, requiring a constant amount of extra space, O(1)."
+}

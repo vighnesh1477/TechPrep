@@ -1,0 +1,14 @@
+{
+  "id": "placement-1797",
+  "topic": "Recursion",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of the naive recursive Fibonacci sequence `fib(n) = fib(n-1) + fib(n-2)`?",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(2^n)",
+    "O(log n)"
+  ],
+  "answer": 2,
+  "explanation": "The recursion tree branches into two calls at each step. The number of nodes in the tree is approximately 2^n, leading to an exponential O(2^n) time complexity."
+}

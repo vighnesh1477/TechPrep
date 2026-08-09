@@ -1,0 +1,14 @@
+{
+  "id": "placement-2161",
+  "topic": "Syllogisms",
+  "difficulty": "Hard",
+  "question": "Some A are B. Some B are C. Some C are D. Conclusion: Some A are D.",
+  "options": [
+    "True",
+    "False",
+    "Probable",
+    "Cannot determine"
+  ],
+  "answer": 1,
+  "explanation": "All premises are particular affirmative. No valid conclusion can be drawn."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-495",
+  "topic": "Reflog",
+  "difficulty": "Medium",
+  "question": "What does git reflog show?",
+  "options": [
+    "Only commit messages",
+    "A log of where HEAD and branch references have pointed over time",
+    "Remote repository access logs",
+    "File modification logs"
+  ],
+  "answer": 1,
+  "explanation": "git reflog shows a chronological list of all movements of HEAD and branch references, including those from reset, rebase, checkout, and other operations."
+}

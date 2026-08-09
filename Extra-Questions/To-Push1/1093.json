@@ -1,0 +1,14 @@
+{
+  "id": "placement-1093",
+  "topic": "Cloud Basics",
+  "difficulty": "Easy",
+  "question": "Which cloud model provides software applications over the internet (e.g., Gmail)?",
+  "options": [
+    "IaaS",
+    "PaaS",
+    "SaaS",
+    "DaaS"
+  ],
+  "answer": 2,
+  "explanation": "SaaS (Software as a Service) delivers fully functional applications to end users via a browser."
+}

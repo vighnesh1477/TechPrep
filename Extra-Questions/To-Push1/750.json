@@ -1,0 +1,14 @@
+{
+  "id": "placement-750",
+  "topic": "df",
+  "difficulty": "Easy",
+  "question": "What does the 'Available' column in df output represent?",
+  "options": [
+    "Total disk capacity",
+    "Used disk space",
+    "Disk space available for non-root users",
+    "Free disk space"
+  ],
+  "answer": 2,
+  "explanation": "The 'Available' column shows space available for non-root users. It may be less than the actual free space because some space is reserved for root (typically 5%)."
+}

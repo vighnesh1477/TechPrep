@@ -1,0 +1,14 @@
+{
+  "id": "placement-1182",
+  "topic": "DBMS",
+  "difficulty": "Easy",
+  "question": "What is a relation in a relational database?",
+  "options": [
+    "A connection string",
+    "A table",
+    "A foreign key",
+    "A query"
+  ],
+  "answer": 1,
+  "explanation": "In relational database theory, a relation is represented as a table."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1402",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Easy",
+  "question": "What does the UNION operator do?",
+  "options": [
+    "Combines columns from two tables",
+    "Combines the result-set of two or more SELECT statements (removes duplicates)",
+    "Joins two tables horizontally",
+    "Returns the intersection of two result sets"
+  ],
+  "answer": 1,
+  "explanation": "The UNION operator is used to combine the result sets of two or more SELECT statements. It removes duplicate records between the various SELECT statements by default."
+}

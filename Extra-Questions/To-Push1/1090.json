@@ -1,0 +1,14 @@
+{
+  "id": "placement-1090",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Hard",
+  "question": "What is salting a password?",
+  "options": [
+    "Encrypting it",
+    "Adding random data before hashing to defend against dictionary/rainbow table attacks",
+    "Deleting it",
+    "Storing it in a different table"
+  ],
+  "answer": 1,
+  "explanation": "A salt ensures that identical passwords produce different hashes, rendering precomputed tables useless."
+}

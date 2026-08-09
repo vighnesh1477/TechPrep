@@ -1,0 +1,14 @@
+{
+  "id": "placement-1199",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "Which page replacement algorithm is theoretically optimal but impossible to implement?",
+  "options": [
+    "LRU",
+    "FIFO",
+    "Optimal (OPT)",
+    "Clock"
+  ],
+  "answer": 2,
+  "explanation": "OPT replaces the page that will not be used for the longest period in the future, requiring future knowledge."
+}

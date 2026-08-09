@@ -1,0 +1,14 @@
+{
+  "id": "placement-1856",
+  "topic": "Pointers and Memory",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int x = 5;\nint *p = &x;\nint **q = &p;\n**q = 10;\nprintf(\"%d\", x);`",
+  "options": [
+    "5",
+    "10",
+    "Address of x",
+    "Error"
+  ],
+  "answer": 1,
+  "explanation": "`**q` dereferences twice to reach `x`. Assigning 10 to `**q` changes the value of `x` from 5 to 10."
+}

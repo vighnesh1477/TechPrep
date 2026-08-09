@@ -1,0 +1,14 @@
+{
+  "id": "placement-722",
+  "topic": "Groups",
+  "difficulty": "Easy",
+  "question": "What does the /etc/group file contain?",
+  "options": [
+    "User passwords",
+    "Group name, password field, GID, and member list",
+    "Only group names",
+    "Group permissions"
+  ],
+  "answer": 1,
+  "explanation": "/etc/group has four fields: group name, password (usually 'x' meaning in /etc/gshadow), GID, and comma-separated list of group members."
+}

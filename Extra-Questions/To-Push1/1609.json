@@ -1,0 +1,14 @@
+{
+  "id": "placement-1609",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the value of `x` after `int x = 5 + 2 * 3;` in Java?",
+  "options": [
+    "21",
+    "11",
+    "15",
+    "10"
+  ],
+  "answer": 1,
+  "explanation": "Due to operator precedence, multiplication (`*`) is performed before addition (`+`). Thus, it evaluates to 5 + (2 * 3) = 5 + 6 = 11."
+}

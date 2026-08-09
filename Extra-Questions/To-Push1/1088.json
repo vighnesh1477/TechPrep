@@ -1,0 +1,14 @@
+{
+  "id": "placement-1088",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Hard",
+  "question": "What is a Man-in-the-Middle (MITM) attack?",
+  "options": [
+    "Physically stealing a server",
+    "Intercepting and potentially altering communication between two parties without their knowledge",
+    "A type of virus",
+    "Brute forcing a password"
+  ],
+  "answer": 1,
+  "explanation": "MITM secretly relays and possibly alters communication between two parties who believe they are directly communicating."
+}

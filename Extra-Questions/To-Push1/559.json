@@ -1,0 +1,14 @@
+{
+  "id": "placement-559",
+  "topic": "cd",
+  "difficulty": "Easy",
+  "question": "What does 'cd -' do?",
+  "options": [
+    "Deletes the current directory",
+    "Goes back to the previous directory",
+    "Creates a new directory",
+    "Shows directory size"
+  ],
+  "answer": 1,
+  "explanation": "cd - switches to the previous working directory, essentially toggling between the last two directories visited."
+}

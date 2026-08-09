@@ -1,0 +1,14 @@
+{
+  "id": "placement-399",
+  "topic": "Push",
+  "difficulty": "Easy",
+  "question": "What does git push --delete origin feature do?",
+  "options": [
+    "Deletes the local branch",
+    "Deletes the remote branch 'feature' on origin",
+    "Deletes the origin remote",
+    "Deletes all branches on origin"
+  ],
+  "answer": 1,
+  "explanation": "git push --delete origin feature deletes the branch named 'feature' from the remote repository 'origin'."
+}

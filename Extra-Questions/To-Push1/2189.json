@@ -1,0 +1,14 @@
+{
+  "id": "placement-2189",
+  "topic": "Seating Arrangement",
+  "difficulty": "Medium",
+  "question": "A, B, C, D sit at 4 corners of a square. A faces South. B faces East. Who is opposite A?",
+  "options": [
+    "B",
+    "C",
+    "D",
+    "None"
+  ],
+  "answer": 1,
+  "explanation": "Square: A(S), D(W), C(N), B(E). C is opposite A."
+}

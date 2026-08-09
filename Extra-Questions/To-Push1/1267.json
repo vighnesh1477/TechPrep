@@ -1,0 +1,14 @@
+{
+  "id": "placement-1267",
+  "topic": "Computer Networks",
+  "difficulty": "Easy",
+  "question": "What is an IP address?",
+  "options": [
+    "A physical address on a NIC",
+    "A logical address used to identify devices on a network",
+    "A domain name",
+    "A port number"
+  ],
+  "answer": 1,
+  "explanation": "IP addresses are logical identifiers assigned to devices participating in a computer network."
+}

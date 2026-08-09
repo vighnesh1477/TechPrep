@@ -1,0 +1,14 @@
+{
+  "id": "placement-999",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is copy-on-write (CoW)?",
+  "options": [
+    "Copying files on edit",
+    "Delaying copying memory pages until a write operation is attempted",
+    "Writing to disk simultaneously",
+    "A backup algorithm"
+  ],
+  "answer": 1,
+  "explanation": "CoW allows parent and child processes to share pages until one tries to modify it, then the page is copied."
+}

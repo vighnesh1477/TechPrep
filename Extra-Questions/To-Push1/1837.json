@@ -1,0 +1,14 @@
+{
+  "id": "placement-1837",
+  "topic": "Complexity",
+  "difficulty": "Easy",
+  "question": "Which of the following complexities grows the fastest as n increases?",
+  "options": [
+    "O(n)",
+    "O(n log n)",
+    "O(n^2)",
+    "O(2^n)"
+  ],
+  "answer": 3,
+  "explanation": "Exponential time O(2^n) grows significantly faster than polynomial times like O(n) or O(n^2). It becomes computationally infeasible very quickly as n increases."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-609",
+  "topic": "head",
+  "difficulty": "Easy",
+  "question": "How do you display the first 20 lines of a file?",
+  "options": [
+    "head -20 file",
+    "head -n 20 file",
+    "Both A and B",
+    "head --first 20 file"
+  ],
+  "answer": 2,
+  "explanation": "Both head -20 file and head -n 20 file display the first 20 lines. The -n option is the standard form, but the numeric shorthand is widely supported."
+}

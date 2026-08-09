@@ -1,0 +1,14 @@
+{
+  "id": "placement-1372",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Easy",
+  "question": "What does the 'I' in ACID properties stand for?",
+  "options": [
+    "Integration",
+    "Integrity",
+    "Isolation",
+    "Iteration"
+  ],
+  "answer": 2,
+  "explanation": "Isolation ensures that concurrently executing transactions do not affect each other, leaving the database in the same state as if they were executed sequentially."
+}

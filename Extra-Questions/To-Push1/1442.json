@@ -1,0 +1,14 @@
+{
+  "id": "placement-1442",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the purpose of ICMP?",
+  "options": [
+    "To transfer web pages",
+    "To send error messages and operational information (e.g., ping)",
+    "To assign IP addresses",
+    "To encrypt data"
+  ],
+  "answer": 1,
+  "explanation": "Internet Control Message Protocol (ICMP) is used by network devices to send error messages and operational information. The `ping` utility uses ICMP Echo Request and Reply messages."
+}

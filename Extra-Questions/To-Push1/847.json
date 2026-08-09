@@ -1,0 +1,14 @@
+{
+  "id": "placement-847",
+  "topic": "Shell Scripting",
+  "difficulty": "Medium",
+  "question": "What is the difference between $* and $@ in bash?",
+  "options": [
+    "There is no difference",
+    "$* expands to all arguments as a single word; $@ expands to separate words preserving argument boundaries",
+    "$* is for functions, $@ is for scripts",
+    "$@ includes $0, $* does not"
+  ],
+  "answer": 1,
+  "explanation": "\"$*\" expands to \"$1 $2 $3...\" (single string), while \"$@\" expands to \"$1\" \"$2\" \"$3\"... (separate strings), preserving the original argument boundaries."
+}

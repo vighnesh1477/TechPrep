@@ -1,0 +1,14 @@
+{
+  "id": "placement-465",
+  "topic": "Revert",
+  "difficulty": "Medium",
+  "question": "What does git revert --no-commit do?",
+  "options": [
+    "Reverts without creating any record",
+    "Applies the revert changes to the staging area without committing",
+    "Deletes the commit being reverted",
+    "Reverts the last commit silently"
+  ],
+  "answer": 1,
+  "explanation": "git revert --no-commit applies the inverse changes to the staging area but does not create a commit, allowing you to combine multiple reverts into one commit."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1487",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "What is Agile methodology?",
+  "options": [
+    "A strict, plan-driven approach",
+    "An iterative approach that promotes flexible responses to change and continuous delivery of working software",
+    "A testing methodology",
+    "A database design methodology"
+  ],
+  "answer": 1,
+  "explanation": "Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches, adapting to changing requirements."
+}

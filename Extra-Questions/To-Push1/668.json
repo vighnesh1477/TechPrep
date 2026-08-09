@@ -1,0 +1,14 @@
+{
+  "id": "placement-668",
+  "topic": "Hard Links",
+  "difficulty": "Easy",
+  "question": "What is true about hard links?",
+  "options": [
+    "They can cross file systems",
+    "They point to the same inode as the original file",
+    "They break if the original file is deleted",
+    "They are different from the original file"
+  ],
+  "answer": 1,
+  "explanation": "Hard links share the same inode as the original file. They cannot cross file systems, and the data is only deleted when all hard links are removed."
+}

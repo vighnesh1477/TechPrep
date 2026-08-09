@@ -1,0 +1,14 @@
+{
+  "id": "placement-1546",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Easy",
+  "question": "What is the decimal equivalent of the hexadecimal number 'A'?",
+  "options": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "answer": 1,
+  "explanation": "In hexadecimal, the digits 0-9 represent values 0-9, and letters A-F represent values 10-15. Therefore, 'A' is 10."
+}

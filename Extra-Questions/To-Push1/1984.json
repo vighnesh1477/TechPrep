@@ -1,0 +1,14 @@
+{
+  "id": "placement-1984",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Medium",
+  "question": "Rs 5000 at 10% CI compounded half yearly for 1 year. Amount?",
+  "options": [
+    "Rs 5500",
+    "Rs 5512.5",
+    "Rs 5600",
+    "Rs 5250"
+  ],
+  "answer": 1,
+  "explanation": "R=5%, n=2. A = 5000 * 1.05^2 = 5000 * 1.1025 = 5512.5."
+}

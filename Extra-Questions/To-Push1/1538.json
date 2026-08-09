@@ -1,0 +1,14 @@
+{
+  "id": "placement-1538",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is 'Peephole Optimization'?",
+  "options": [
+    "Looking at the whole program to optimize",
+    "A locally applied optimization that looks at a small sliding window (peephole) of instructions to replace them with faster equivalents",
+    "Optimizing code by looking at the screen",
+    "Removing unused memory blocks"
+  ],
+  "answer": 1,
+  "explanation": "Peephole optimization examines a few adjacent instructions (the peephole) and replaces them with a single, more efficient instruction or removes redundant instructions (e.g., `MOV A, B; MOV B, A`)."
+}

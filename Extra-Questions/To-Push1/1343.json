@@ -1,0 +1,14 @@
+{
+  "id": "placement-1343",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which deadlock condition states that a resource can be held by only one process at a time?",
+  "options": [
+    "Hold and Wait",
+    "Circular Wait",
+    "Mutual Exclusion",
+    "No Preemption"
+  ],
+  "answer": 2,
+  "explanation": "Mutual exclusion means that at least one resource must be held in a non-shareable mode; only one process can use the resource at a time."
+}

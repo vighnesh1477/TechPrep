@@ -1,0 +1,14 @@
+{
+  "id": "placement-706",
+  "topic": "renice",
+  "difficulty": "Easy",
+  "question": "What does 'renice -n -10 -p 1234' require?",
+  "options": [
+    "No special privileges",
+    "Root privileges since it decreases the nice value",
+    "The process must be owned by the current user",
+    "The process must be in a stopped state"
+  ],
+  "answer": 1,
+  "explanation": "Decreasing the nice value (increasing priority) requires root privileges, as a negative nice value gives the process higher scheduling priority."
+}

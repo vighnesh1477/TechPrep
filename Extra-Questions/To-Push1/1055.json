@@ -1,0 +1,14 @@
+{
+  "id": "placement-1055",
+  "topic": "Git",
+  "difficulty": "Medium",
+  "question": "What is a pull request?",
+  "options": [
+    "Pulling code from remote",
+    "A request to merge a branch into another, usually triggering a code review",
+    "Pushing to main",
+    "Reverting a commit"
+  ],
+  "answer": 1,
+  "explanation": "Pull requests propose changes and ask for review before merging into a protected branch."
+}

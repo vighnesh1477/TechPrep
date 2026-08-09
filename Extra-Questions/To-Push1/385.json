@@ -1,0 +1,14 @@
+{
+  "id": "placement-385",
+  "topic": "Branch Switching",
+  "difficulty": "Easy",
+  "question": "What does git switch --discard-changes feature do?",
+  "options": [
+    "Switches and keeps changes",
+    "Switches and discards all uncommitted changes",
+    "Switches and stashes changes",
+    "Switches and commits changes"
+  ],
+  "answer": 1,
+  "explanation": "git switch --discard-changes forces the switch to the specified branch, discarding any uncommitted changes in the working tree and staging area."
+}

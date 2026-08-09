@@ -1,0 +1,14 @@
+{
+  "id": "placement-2080",
+  "topic": "Data Interpretation",
+  "difficulty": "Hard",
+  "question": "Line graph shows increase of 20% in 2019, 25% in 2020 from base 400 in 2018. Value in 2020?",
+  "options": [
+    "500",
+    "550",
+    "600",
+    "650"
+  ],
+  "answer": 2,
+  "explanation": "2019 = 400 * 1.2 = 480. 2020 = 480 * 1.25 = 600."
+}

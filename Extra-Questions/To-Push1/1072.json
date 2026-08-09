@@ -1,0 +1,14 @@
+{
+  "id": "placement-1072",
+  "topic": "Linux",
+  "difficulty": "Medium",
+  "question": "How do you find files by name in Linux?",
+  "options": [
+    "grep",
+    "find / -name 'filename'",
+    "ls -r",
+    "search filename"
+  ],
+  "answer": 1,
+  "explanation": "The find command recursively searches directories for files matching criteria like name."
+}

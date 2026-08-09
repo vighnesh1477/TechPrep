@@ -1,0 +1,14 @@
+{
+  "id": "placement-808",
+  "topic": "awk",
+  "difficulty": "Medium",
+  "question": "How do you print the last field of each line in awk?",
+  "options": [
+    "awk '{print $last}' file",
+    "awk '{print $NF}' file",
+    "awk '{print $-1}' file",
+    "awk '{print $END}' file"
+  ],
+  "answer": 1,
+  "explanation": "NF is a built-in variable representing the Number of Fields in the current line. $NF refers to the last field, regardless of how many fields there are."
+}

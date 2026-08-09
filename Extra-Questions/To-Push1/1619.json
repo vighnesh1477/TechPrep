@@ -1,0 +1,14 @@
+{
+  "id": "placement-1619",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which data type is used to store a single character in C++?",
+  "options": [
+    "string",
+    "char",
+    "text",
+    "byte"
+  ],
+  "answer": 1,
+  "explanation": "The `char` data type is specifically designed to store a single character, typically occupying 1 byte of memory."
+}

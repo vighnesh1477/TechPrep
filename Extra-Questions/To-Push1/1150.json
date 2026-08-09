@@ -1,0 +1,14 @@
+{
+  "id": "placement-1150",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "What does the `synchronized` keyword do?",
+  "options": [
+    "Speeds up code",
+    "Provides mutual exclusion, allowing only one thread to execute the block/method at a time",
+    "Pauses a thread",
+    "Creates a new thread"
+  ],
+  "answer": 1,
+  "explanation": "synchronized is used for thread safety by locking an object so only one thread can access the critical section."
+}

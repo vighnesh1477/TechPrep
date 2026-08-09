@@ -1,0 +1,14 @@
+{
+  "id": "placement-2021",
+  "topic": "Probability",
+  "difficulty": "Medium",
+  "question": "P(A)=0.6, P(B)=0.4. A and B are independent. P(A and B)?",
+  "options": [
+    "0.24",
+    "1.0",
+    "0.20",
+    "0.40"
+  ],
+  "answer": 0,
+  "explanation": "P(A and B) = P(A)*P(B) = 0.6*0.4 = 0.24."
+}

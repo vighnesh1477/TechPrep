@@ -1,0 +1,14 @@
+{
+  "id": "placement-1458",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is a Register in CPU architecture?",
+  "options": [
+    "A type of secondary storage",
+    "A small, extremely fast memory location inside the CPU used to hold data and instructions currently being processed",
+    "A part of the RAM",
+    "A hardware device connected via USB"
+  ],
+  "answer": 1,
+  "explanation": "Registers are the fastest and smallest memory in a computer, located directly inside the CPU. They hold the specific data and instructions that the ALU is currently processing."
+}

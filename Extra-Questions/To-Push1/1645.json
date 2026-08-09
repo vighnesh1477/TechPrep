@@ -1,0 +1,14 @@
+{
+  "id": "placement-1645",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "In a `switch` statement, what happens if you forget to include a `break` statement?",
+  "options": [
+    "The program crashes",
+    "Only the matching case is executed",
+    "Fall-through occurs, executing subsequent cases until a break or end is reached",
+    "The default case is executed"
+  ],
+  "answer": 2,
+  "explanation": "Without a `break`, control \"falls through\" to the next case, executing its code as well, regardless of whether its condition matches. This is known as fall-through."
+}

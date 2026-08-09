@@ -1,0 +1,14 @@
+{
+  "id": "placement-1489",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "What is Unit Testing?",
+  "options": [
+    "Testing the entire application at once",
+    "Testing individual components or modules of a software separately",
+    "Testing the hardware",
+    "Testing by the end-user"
+  ],
+  "answer": 1,
+  "explanation": "Unit testing involves testing individual units or components of a software application in isolation (e.g., a single function or class) to ensure they work correctly."
+}

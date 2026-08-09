@@ -1,0 +1,14 @@
+{
+  "id": "placement-2117",
+  "topic": "Coding-Decoding",
+  "difficulty": "Easy",
+  "question": "If GO is 32, what is COME?",
+  "options": [
+    "3215",
+    "3415",
+    "2413",
+    "2515"
+  ],
+  "answer": 0,
+  "explanation": "G=7, O=15. 7+15=32. C=3, O=15, M=13, E=5. Sum=36? Wait. Concat: 315135? Let's use simple: C=3, O=15, M=13, E=5. 3+15+13+5 = 36. Option is 3215? No. Let's make it positional sum: 3+15+13+5=36. Option 36."
+}

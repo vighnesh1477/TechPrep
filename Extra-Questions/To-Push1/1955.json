@@ -1,0 +1,14 @@
+{
+  "id": "placement-1955",
+  "topic": "Time and Work",
+  "difficulty": "Hard",
+  "question": "A and B together earn Rs 600. A can do in 10 days, B in 15 days. A's share?",
+  "options": [
+    "Rs 300",
+    "Rs 360",
+    "Rs 250",
+    "Rs 400"
+  ],
+  "answer": 1,
+  "explanation": "Ratio of earnings = 1/10 : 1/15 = 3:2. A's share = 3/5 * 600 = 360."
+}

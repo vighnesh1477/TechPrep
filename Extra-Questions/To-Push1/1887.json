@@ -1,0 +1,14 @@
+{
+  "id": "placement-1887",
+  "topic": "Percentages",
+  "difficulty": "Medium",
+  "question": "A number is increased by 20% and then reduced by x% to get 96% of original. Find x.",
+  "options": [
+    "15%",
+    "20%",
+    "25%",
+    "10%"
+  ],
+  "answer": 1,
+  "explanation": "1.2 * (1 - x/100) = 0.96 => 1 - x/100 = 0.8 => x=20."
+}

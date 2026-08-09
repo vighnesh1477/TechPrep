@@ -1,0 +1,14 @@
+{
+  "id": "placement-1146",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What is a marker interface?",
+  "options": [
+    "An interface with one method",
+    "An interface with no methods, used to signal a capability to the JVM (e.g., Serializable)",
+    "An abstract class",
+    "A deprecated interface"
+  ],
+  "answer": 1,
+  "explanation": "Marker interfaces contain no methods but tell the JVM to treat the class specially."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-488",
+  "topic": "Squash",
+  "difficulty": "Medium",
+  "question": "What is the difference between squash merge and rebase squash?",
+  "options": [
+    "There is no difference",
+    "Squash merge stages changes on the target branch; rebase squash rewrites history on the feature branch",
+    "Rebase squash is faster",
+    "Squash merge preserves branch history"
+  ],
+  "answer": 1,
+  "explanation": "Squash merge combines changes into the staging area without modifying the feature branch, while rebase squash rewrites the feature branch's commits into one."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-688",
+  "topic": "htop",
+  "difficulty": "Easy",
+  "question": "What advantage does htop have over top?",
+  "options": [
+    "htop uses less memory",
+    "htop provides a more interactive interface with mouse support and color",
+    "htop shows fewer processes",
+    "htop is always pre-installed"
+  ],
+  "answer": 1,
+  "explanation": "htop offers a more user-friendly, interactive interface with mouse support, colors, horizontal/vertical scrolling, and easier process management compared to top."
+}

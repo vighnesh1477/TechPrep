@@ -1,0 +1,14 @@
+{
+  "id": "placement-705",
+  "topic": "renice",
+  "difficulty": "Easy",
+  "question": "How do you change the nice value of all processes owned by user 'john'?",
+  "options": [
+    "renice 5 john",
+    "renice -u john 5",
+    "renice 5 -u john",
+    "renice --user john 5"
+  ],
+  "answer": 2,
+  "explanation": "renice 5 -u john changes the nice value of all processes owned by user 'john' to 5."
+}

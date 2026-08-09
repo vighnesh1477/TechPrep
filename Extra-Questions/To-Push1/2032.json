@@ -1,0 +1,14 @@
+{
+  "id": "placement-2032",
+  "topic": "Permutation and Combination",
+  "difficulty": "Easy",
+  "question": "Number of permutations of LETTER?",
+  "options": [
+    "120",
+    "240",
+    "720",
+    "60"
+  ],
+  "answer": 2,
+  "explanation": "6 distinct letters. 6! = 720."
+}

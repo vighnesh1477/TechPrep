@@ -1,0 +1,14 @@
+{
+  "id": "placement-613",
+  "topic": "tail",
+  "difficulty": "Easy",
+  "question": "By default, how many lines does tail display?",
+  "options": [
+    "5 lines",
+    "10 lines",
+    "15 lines",
+    "Last line only"
+  ],
+  "answer": 1,
+  "explanation": "tail displays the last 10 lines of a file by default. Use -n to specify a different number."
+}

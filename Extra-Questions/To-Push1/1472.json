@@ -1,0 +1,14 @@
+{
+  "id": "placement-1472",
+  "topic": "Computer Architecture",
+  "difficulty": "Medium",
+  "question": "What is DMA (Direct Memory Access)?",
+  "options": [
+    "A type of RAM",
+    "A feature that allows hardware subsystems to access main system memory independently of the CPU",
+    "A network protocol",
+    "A programming language"
+  ],
+  "answer": 1,
+  "explanation": "DMA allows certain hardware subsystems (like disk drives, graphics cards) to read/write system memory directly, bypassing the CPU. This frees up the CPU for other tasks and speeds up data transfer."
+}

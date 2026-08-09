@@ -1,0 +1,14 @@
+{
+  "id": "placement-2155",
+  "topic": "Syllogisms",
+  "difficulty": "Easy",
+  "question": "No pen is a pencil. All pencils are erasers. Conclusion: Some erasers are not pens.",
+  "options": [
+    "True",
+    "False",
+    "Probable",
+    "Cannot determine"
+  ],
+  "answer": 0,
+  "explanation": "EAO-3 or similar. Since all pencils are erasers and no pen is pencil, some erasers (the pencils) are not pens."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-602",
+  "topic": "less",
+  "difficulty": "Easy",
+  "question": "Which flag opens less with case-insensitive search by default?",
+  "options": [
+    "less -c",
+    "less -i",
+    "less -I",
+    "less -s"
+  ],
+  "answer": 1,
+  "explanation": "less -i enables case-insensitive search by default. Searches will match both uppercase and lowercase letters."
+}

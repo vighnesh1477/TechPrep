@@ -1,0 +1,14 @@
+{
+  "id": "placement-832",
+  "topic": "uniq",
+  "difficulty": "Medium",
+  "question": "How do you do a case-insensitive comparison with uniq?",
+  "options": [
+    "uniq -i",
+    "uniq --ignore-case",
+    "Both A and B",
+    "uniq -c"
+  ],
+  "answer": 2,
+  "explanation": "Both uniq -i and uniq --ignore-case perform case-insensitive comparison, treating 'Hello' and 'hello' as duplicates."
+}

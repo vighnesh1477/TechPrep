@@ -1,0 +1,14 @@
+{
+  "id": "placement-280",
+  "topic": "Branches",
+  "difficulty": "Easy",
+  "question": "Which command lists all local branches?",
+  "options": [
+    "git branches",
+    "git branch",
+    "git show-branches",
+    "git list-branches"
+  ],
+  "answer": 1,
+  "explanation": "git branch without any flags lists all local branches in the repository, marking the current branch with an asterisk."
+}

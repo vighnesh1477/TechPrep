@@ -1,0 +1,14 @@
+{
+  "id": "placement-2134",
+  "topic": "Blood Relations",
+  "difficulty": "Easy",
+  "question": "Pointing to a man, a woman said, 'His mother is my mother's daughter'. How is the woman related to the man?",
+  "options": [
+    "Mother",
+    "Sister",
+    "Aunt",
+    "Grandmother"
+  ],
+  "answer": 0,
+  "explanation": "Woman's mother's daughter is the woman herself. So the man's mother is the woman. She is his mother."
+}

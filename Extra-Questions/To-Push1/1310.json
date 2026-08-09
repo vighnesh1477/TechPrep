@@ -1,0 +1,14 @@
+{
+  "id": "placement-1310",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "What is the difference between `std::map` and `std::unordered_map`?",
+  "options": [
+    "No difference",
+    "map is implemented as a BST (ordered), unordered_map is a hash table (unordered)",
+    "unordered_map is ordered",
+    "map uses more memory usually"
+  ],
+  "answer": 1,
+  "explanation": "map keeps keys sorted (O(log N) ops), while unordered_map provides average O(1) ops without ordering."
+}

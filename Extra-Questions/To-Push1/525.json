@@ -1,0 +1,14 @@
+{
+  "id": "placement-525",
+  "topic": "Troubleshooting",
+  "difficulty": "Medium",
+  "question": "How do you fix a detached HEAD state while keeping your changes?",
+  "options": [
+    "Run git attach",
+    "Create a branch with git branch <name> or git switch -c <name> to save your work",
+    "Run git reset --hard",
+    "Delete the .git folder"
+  ],
+  "answer": 1,
+  "explanation": "Creating a new branch from the detached HEAD state preserves any commits you made, giving them a permanent reference point."
+}

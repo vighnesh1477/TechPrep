@@ -1,0 +1,14 @@
+{
+  "id": "placement-644",
+  "topic": "File Permissions",
+  "difficulty": "Easy",
+  "question": "What octal permission represents rwxr-xr-x?",
+  "options": [
+    "755",
+    "775",
+    "655",
+    "765"
+  ],
+  "answer": 0,
+  "explanation": "rwx=7 (4+2+1), r-x=5 (4+0+1), r-x=5 (4+0+1), giving 755. This is common for directories and executable files."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1080",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Easy",
+  "question": "What is malware?",
+  "options": [
+    "Hardware failure",
+    "Malicious software designed to harm a system",
+    "A secure protocol",
+    "A backup system"
+  ],
+  "answer": 1,
+  "explanation": "Malware (malicious software) includes viruses, worms, trojans, and ransomware."
+}

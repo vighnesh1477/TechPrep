@@ -1,0 +1,14 @@
+{
+  "id": "placement-725",
+  "topic": "Environment Variables",
+  "difficulty": "Easy",
+  "question": "What does the PATH variable contain?",
+  "options": [
+    "The current directory path",
+    "A colon-separated list of directories searched for executables",
+    "The path to the kernel",
+    "The path to the home directory"
+  ],
+  "answer": 1,
+  "explanation": "PATH contains a colon-separated list of directories that the shell searches when you type a command. For example: /usr/local/bin:/usr/bin:/bin"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1626",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the value of `x` after `int x = 5; int y = x--;`?",
+  "options": [
+    "x = 5, y = 5",
+    "x = 4, y = 5",
+    "x = 4, y = 4",
+    "x = 5, y = 4"
+  ],
+  "answer": 1,
+  "explanation": "The post-decrement operator (`x--`) returns the current value of `x` (5) to `y`, and then decrements `x` to 4."
+}

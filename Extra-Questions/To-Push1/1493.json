@@ -1,0 +1,14 @@
+{
+  "id": "placement-1493",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "Who is responsible for writing user stories in an Agile team?",
+  "options": [
+    "The Developers",
+    "The Product Owner",
+    "The Scrum Master",
+    "The Project Manager"
+  ],
+  "answer": 1,
+  "explanation": "The Product Owner is responsible for defining and prioritizing the Product Backlog, which includes writing clear and concise User Stories from the user's perspective."
+}

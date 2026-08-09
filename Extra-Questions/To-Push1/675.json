@@ -1,0 +1,14 @@
+{
+  "id": "placement-675",
+  "topic": "Soft Links",
+  "difficulty": "Easy",
+  "question": "Can symbolic links cross file systems?",
+  "options": [
+    "No, they are limited to the same file system",
+    "Yes, because they store a path string, not an inode",
+    "Yes, but only between similar file system types",
+    "Only if created by root"
+  ],
+  "answer": 1,
+  "explanation": "Symbolic links store a path string to the target, not an inode number, so they can point to files on any file system, including network mounts."
+}

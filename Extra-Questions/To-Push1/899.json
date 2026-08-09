@@ -1,0 +1,14 @@
+{
+  "id": "placement-899",
+  "topic": "Python",
+  "difficulty": "Easy",
+  "question": "What does `len(\"hello\")` return?",
+  "options": [
+    "4",
+    "5",
+    "6",
+    "Error"
+  ],
+  "answer": 1,
+  "explanation": "len() returns the number of characters in the string, which is 5."
+}

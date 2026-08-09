@@ -1,0 +1,14 @@
+{
+  "id": "placement-863",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What does the `volatile` keyword prevent?",
+  "options": [
+    "Variable modification",
+    "Compiler optimization",
+    "Memory allocation",
+    "Type casting"
+  ],
+  "answer": 1,
+  "explanation": "volatile tells the compiler not to optimize away reads/writes to the variable."
+}

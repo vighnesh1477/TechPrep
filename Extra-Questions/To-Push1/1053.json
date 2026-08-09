@@ -1,0 +1,14 @@
+{
+  "id": "placement-1053",
+  "topic": "Git",
+  "difficulty": "Medium",
+  "question": "What does `git stash` do?",
+  "options": [
+    "Deletes uncommitted changes",
+    "Temporarily shelves uncommitted changes",
+    "Reverts to the last commit",
+    "Creates a new branch"
+  ],
+  "answer": 1,
+  "explanation": "git stash saves modified and staged changes away, returning the working directory to a clean state."
+}

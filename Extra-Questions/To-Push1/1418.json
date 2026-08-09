@@ -1,0 +1,14 @@
+{
+  "id": "placement-1418",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Hard",
+  "question": "In the context of SQL transactions, what does ROLLBACK do?",
+  "options": [
+    "Saves the changes made in the transaction",
+    "Undoes all changes made in the current transaction and restores the database to its previous state",
+    "Deletes the transaction log",
+    "Restarts the database server"
+  ],
+  "answer": 1,
+  "explanation": "ROLLBACK is a transactional control command used to undo transactions that have not yet been saved to the database. It reverts the database to the state before the BEGIN TRANSACTION."
+}

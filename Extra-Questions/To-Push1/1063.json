@@ -1,0 +1,14 @@
+{
+  "id": "placement-1063",
+  "topic": "Linux",
+  "difficulty": "Easy",
+  "question": "What does `cd ..` do?",
+  "options": [
+    "Moves to root",
+    "Moves up one directory level",
+    "Creates a directory",
+    "Shows current path"
+  ],
+  "answer": 1,
+  "explanation": ".. represents the parent directory, so cd .. navigates up one level."
+}

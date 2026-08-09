@@ -1,0 +1,14 @@
+{
+  "id": "placement-1126",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What is a dangling pointer?",
+  "options": [
+    "A NULL pointer",
+    "A pointer pointing to memory that has been freed",
+    "A pointer to a static variable",
+    "A pointer to an array"
+  ],
+  "answer": 1,
+  "explanation": "Accessing a dangling pointer leads to undefined behavior because the memory may be reallocated."
+}

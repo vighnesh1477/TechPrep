@@ -1,0 +1,14 @@
+{
+  "id": "placement-835",
+  "topic": "wc",
+  "difficulty": "Medium",
+  "question": "What does 'wc' without options display?",
+  "options": [
+    "Only line count",
+    "Line count, word count, and byte count",
+    "Only word count",
+    "File size only"
+  ],
+  "answer": 1,
+  "explanation": "wc without options displays three numbers: line count, word count, and byte count, in that order."
+}

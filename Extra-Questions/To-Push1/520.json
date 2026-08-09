@@ -1,0 +1,14 @@
+{
+  "id": "placement-520",
+  "topic": "Personal Access Tokens",
+  "difficulty": "Medium",
+  "question": "Why have Git platforms moved from passwords to Personal Access Tokens (PATs)?",
+  "options": [
+    "PATs are easier to remember",
+    "PATs provide scoped access, can be rotated, and are more secure than passwords",
+    "Passwords are no longer supported by Git",
+    "PATs are faster to authenticate"
+  ],
+  "answer": 1,
+  "explanation": "PATs offer fine-grained permissions (scoped access), can be revoked without changing passwords, have expiration times, and provide an audit trail."
+}

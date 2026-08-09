@@ -1,0 +1,14 @@
+{
+  "id": "placement-948",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What does the Master Theorem solve?",
+  "options": [
+    "Linear equations",
+    "Recurrence relations of the form T(n) = aT(n/b) + f(n)",
+    "Graph coloring",
+    "Network flow"
+  ],
+  "answer": 1,
+  "explanation": "The Master Theorem provides asymptotic bounds for divide-and-conquer recurrences."
+}

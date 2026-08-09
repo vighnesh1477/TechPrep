@@ -1,0 +1,14 @@
+{
+  "id": "placement-372",
+  "topic": "Staging Area",
+  "difficulty": "Easy",
+  "question": "What does git add -A do?",
+  "options": [
+    "Adds only ASCII files",
+    "Stages all changes including new, modified, and deleted files",
+    "Adds all remote branches",
+    "Adds all aliases"
+  ],
+  "answer": 1,
+  "explanation": "git add -A (or --all) stages all changes across the entire repository: new files, modifications, and deletions, regardless of the current directory."
+}

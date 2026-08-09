@@ -1,0 +1,14 @@
+{
+  "id": "placement-732",
+  "topic": "ping",
+  "difficulty": "Easy",
+  "question": "What does ping -s 1024 host do?",
+  "options": [
+    "Sends 1024 pings",
+    "Sets the packet size to 1024 bytes",
+    "Sets the speed to 1024 kbps",
+    "Sends pings for 1024 seconds"
+  ],
+  "answer": 1,
+  "explanation": "ping -s 1024 sets the data portion of the ICMP packet to 1024 bytes. The total packet size will be 1024 + 8 (ICMP header) + 20 (IP header) = 1052 bytes."
+}

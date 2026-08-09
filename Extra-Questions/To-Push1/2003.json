@@ -1,0 +1,14 @@
+{
+  "id": "placement-2003",
+  "topic": "Ages",
+  "difficulty": "Easy",
+  "question": "A is 20 years old, B is 30. Difference of ages?",
+  "options": [
+    "5 years",
+    "10 years",
+    "15 years",
+    "20 years"
+  ],
+  "answer": 1,
+  "explanation": "30 - 20 = 10 years."
+}

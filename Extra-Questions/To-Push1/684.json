@@ -1,0 +1,14 @@
+{
+  "id": "placement-684",
+  "topic": "top",
+  "difficulty": "Easy",
+  "question": "How do you sort processes by memory usage in top?",
+  "options": [
+    "Press m",
+    "Press M",
+    "Press mem",
+    "Press s"
+  ],
+  "answer": 1,
+  "explanation": "Pressing 'M' (uppercase) in top sorts processes by memory usage (MEM%). Lowercase 'm' toggles memory display mode."
+}

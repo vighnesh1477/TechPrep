@@ -1,0 +1,14 @@
+{
+  "id": "placement-2157",
+  "topic": "Syllogisms",
+  "difficulty": "Medium",
+  "question": "Some A are B. All B are C. Conclusion: All A are C.",
+  "options": [
+    "True",
+    "False",
+    "Probable",
+    "Cannot determine"
+  ],
+  "answer": 1,
+  "explanation": "Only 'Some A are C' follows. 'All A are C' is false."
+}

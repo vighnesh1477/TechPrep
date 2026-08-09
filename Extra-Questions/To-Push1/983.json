@@ -1,0 +1,14 @@
+{
+  "id": "placement-983",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "What does the EXISTS operator do?",
+  "options": [
+    "Checks if a table exists",
+    "Returns TRUE if a subquery returns at least one row",
+    "Checks for NULL values",
+    "Checks for primary keys"
+  ],
+  "answer": 1,
+  "explanation": "EXISTS evaluates to true if the correlated subquery returns any rows, stopping further execution."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1206",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is CIDR?",
+  "options": [
+    "A type of cable",
+    "Classless Inter-Domain Routing, a method for allocating IP addresses and routing",
+    "A routing protocol",
+    "An encryption standard"
+  ],
+  "answer": 1,
+  "explanation": "CIDR replaced the classful network addressing (A, B, C) to improve IP address allocation."
+}

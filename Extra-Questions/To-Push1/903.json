@@ -1,0 +1,14 @@
+{
+  "id": "placement-903",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is the output of `bool(0)`?",
+  "options": [
+    "True",
+    "False",
+    "0",
+    "None"
+  ],
+  "answer": 1,
+  "explanation": "0 is a falsy value in Python, so bool(0) is False."
+}

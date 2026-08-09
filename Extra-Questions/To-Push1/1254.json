@@ -1,0 +1,14 @@
+{
+  "id": "placement-1254",
+  "topic": "Linux",
+  "difficulty": "Hard",
+  "question": "What does `strace` do?",
+  "options": [
+    "Compiles code",
+    "Traces system calls and signals made by a process",
+    "Manages storage",
+    "Traces network routes"
+  ],
+  "answer": 1,
+  "explanation": "strace is a diagnostic tool that intercepts and records system calls made by a process, useful for debugging."
+}

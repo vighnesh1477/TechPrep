@@ -1,0 +1,14 @@
+{
+  "id": "placement-1332",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "How many necessary conditions must hold simultaneously for a deadlock to occur?",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "answer": 2,
+  "explanation": "The four necessary conditions for deadlock are: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait."
+}

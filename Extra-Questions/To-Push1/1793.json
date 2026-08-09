@@ -1,0 +1,14 @@
+{
+  "id": "placement-1793",
+  "topic": "Recursion",
+  "difficulty": "Easy",
+  "question": "What is a base case in a recursive function?",
+  "options": [
+    "The first call to the function",
+    "A condition that stops the recursion from continuing infinitely",
+    "The recursive call itself",
+    "The variable that stores the result"
+  ],
+  "answer": 1,
+  "explanation": "The base case is a condition that returns a value without making a recursive call. It is essential to prevent infinite recursion and stack overflow."
+}

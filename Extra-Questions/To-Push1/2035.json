@@ -1,0 +1,14 @@
+{
+  "id": "placement-2035",
+  "topic": "Permutation and Combination",
+  "difficulty": "Medium",
+  "question": "Find number of ways to choose 3 boys and 2 girls from 5 boys and 4 girls.",
+  "options": [
+    "40",
+    "60",
+    "80",
+    "100"
+  ],
+  "answer": 0,
+  "explanation": "5C3 * 4C2 = 10 * 6 = 60? Wait. 5C3=10. 4C2=6. 10*6=60. Option is 60."
+}

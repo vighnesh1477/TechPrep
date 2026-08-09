@@ -1,0 +1,14 @@
+{
+  "id": "placement-326",
+  "topic": "Git Log",
+  "difficulty": "Easy",
+  "question": "Which git log flag shows commits from all branches?",
+  "options": [
+    "--all",
+    "--everywhere",
+    "--branches",
+    "--global"
+  ],
+  "answer": 0,
+  "explanation": "git log --all displays commits from all branches and refs, not just the current branch, giving a complete view of repository history."
+}

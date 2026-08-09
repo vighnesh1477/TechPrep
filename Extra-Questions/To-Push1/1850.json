@@ -1,0 +1,14 @@
+{
+  "id": "placement-1850",
+  "topic": "Complexity",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of this code?\n`int count = 0;\nfor(int i = n; i > 0; i /= 2) {\n  for(int j = 0; j < i; j++) {\n    count++;\n  }\n}`",
+  "options": [
+    "O(n)",
+    "O(n log n)",
+    "O(n^2)",
+    "O(n)"
+  ],
+  "answer": 0,
+  "explanation": "Outer loop runs log n times. Inner loop runs n, n/2, n/4... times. This is a geometric series: n + n/2 + n/4 + ... ≈ 2n. The time complexity is O(n)."
+}

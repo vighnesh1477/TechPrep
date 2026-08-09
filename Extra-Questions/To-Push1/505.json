@@ -1,0 +1,14 @@
+{
+  "id": "placement-505",
+  "topic": "Hooks",
+  "difficulty": "Medium",
+  "question": "Which hook runs before every commit?",
+  "options": [
+    "pre-commit",
+    "post-commit",
+    "commit-msg",
+    "prepare-commit-msg"
+  ],
+  "answer": 0,
+  "explanation": "The pre-commit hook runs before the commit is created, often used for linting, formatting checks, and running tests to ensure code quality."
+}

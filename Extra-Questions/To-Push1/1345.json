@@ -1,0 +1,14 @@
+{
+  "id": "placement-1345",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "In the Banker's Algorithm, what is a 'safe state'?",
+  "options": [
+    "A state where no deadlocks have ever occurred",
+    "A state where there exists a safe sequence where all processes can finish executing",
+    "A state where all resources are currently free",
+    "A state where the system is running at maximum CPU utilization"
+  ],
+  "answer": 1,
+  "explanation": "A state is safe if the system can allocate resources to each process in some order and still avoid a deadlock. This order is called a safe sequence."
+}

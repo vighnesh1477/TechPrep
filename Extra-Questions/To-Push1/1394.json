@@ -1,0 +1,14 @@
+{
+  "id": "placement-1394",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Hard",
+  "question": "If a relation is in BCNF, which of the following must be TRUE?",
+  "options": [
+    "It is guaranteed to be free of all anomalies",
+    "It may not preserve all functional dependencies",
+    "It has no candidate keys",
+    "It is also in 4NF"
+  ],
+  "answer": 1,
+  "explanation": "While BCNF removes all redundancy based on functional dependencies, achieving it may require sacrificing dependency preservation (some FDs might not be checkable on individual decomposed tables)."
+}

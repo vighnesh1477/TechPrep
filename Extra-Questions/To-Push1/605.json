@@ -1,0 +1,14 @@
+{
+  "id": "placement-605",
+  "topic": "more",
+  "difficulty": "Easy",
+  "question": "Which flag with more clears the screen before displaying?",
+  "options": [
+    "more -c",
+    "more -C",
+    "more -clear",
+    "more -f"
+  ],
+  "answer": 0,
+  "explanation": "more -c clears the screen before displaying each page, providing a cleaner viewing experience."
+}

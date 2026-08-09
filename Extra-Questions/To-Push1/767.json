@@ -1,0 +1,14 @@
+{
+  "id": "placement-767",
+  "topic": "Logs",
+  "difficulty": "Easy",
+  "question": "What does 'journalctl -u nginx' show?",
+  "options": [
+    "Logs by user nginx",
+    "Logs for the nginx systemd unit/service",
+    "Logs about network connections",
+    "Logs from the nginx user group"
+  ],
+  "answer": 1,
+  "explanation": "journalctl -u nginx filters logs to show only entries for the nginx systemd unit (service), making it easy to debug specific services."
+}

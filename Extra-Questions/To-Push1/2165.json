@@ -1,0 +1,14 @@
+{
+  "id": "placement-2165",
+  "topic": "Statements and Conclusions",
+  "difficulty": "Easy",
+  "question": "Statement: All metals conduct electricity. Conclusion: Copper conducts electricity.",
+  "options": [
+    "Follows",
+    "Does not follow",
+    "Partially follows",
+    "Cannot say"
+  ],
+  "answer": 3,
+  "explanation": "Statement says all metals conduct, but doesn't state copper is a metal (though true in reality, it's not in the statement)."
+}

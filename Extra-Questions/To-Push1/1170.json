@@ -1,0 +1,14 @@
+{
+  "id": "placement-1170",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "Which data structure is used to implement a LRU Cache?",
+  "options": [
+    "Array only",
+    "Hash Map + Doubly Linked List",
+    "Stack",
+    "Queue"
+  ],
+  "answer": 1,
+  "explanation": "The HashMap provides O(1) lookups, and the Doubly Linked List maintains the order of usage for O(1) updates."
+}

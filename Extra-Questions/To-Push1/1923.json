@@ -1,0 +1,14 @@
+{
+  "id": "placement-1923",
+  "topic": "Averages",
+  "difficulty": "Easy",
+  "question": "Average of 10, 20, 30, 40, 50?",
+  "options": [
+    "25",
+    "30",
+    "35",
+    "40"
+  ],
+  "answer": 1,
+  "explanation": "Sum=150. Average=150/5=30."
+}

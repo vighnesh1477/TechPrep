@@ -1,0 +1,14 @@
+{
+  "id": "placement-1074",
+  "topic": "Linux",
+  "difficulty": "Hard",
+  "question": "What does `nohup` do?",
+  "options": [
+    "Stops a process",
+    "Runs a command immune to hangups, continuing after the user logs out",
+    "Increases process priority",
+    "Decreases process priority"
+  ],
+  "answer": 1,
+  "explanation": "nohup (no hangup) ensures a command keeps running after the shell exits, often used with &."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-533",
+  "topic": "Stash",
+  "difficulty": "Medium",
+  "question": "How do you list all stashed changes?",
+  "options": [
+    "git stash list",
+    "git stash show",
+    "git stash --list",
+    "git list-stashes"
+  ],
+  "answer": 0,
+  "explanation": "git stash list displays all entries in the stash stack, showing the stash index, branch name, and description message for each entry."
+}

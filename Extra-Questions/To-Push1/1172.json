@@ -1,0 +1,14 @@
+{
+  "id": "placement-1172",
+  "topic": "Algorithms",
+  "difficulty": "Easy",
+  "question": "Which sorting algorithm is considered the fastest in practice for general purpose?",
+  "options": [
+    "Bubble Sort",
+    "Quick Sort",
+    "Selection Sort",
+    "Insertion Sort"
+  ],
+  "answer": 1,
+  "explanation": "Quick Sort has excellent cache performance and constant factors, making it very fast in practice despite O(N^2) worst-case."
+}

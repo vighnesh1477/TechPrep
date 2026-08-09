@@ -1,0 +1,14 @@
+{
+  "id": "placement-1526",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which data structure is most commonly used by a parser to recognize syntax?",
+  "options": [
+    "Queue",
+    "Stack",
+    "Graph",
+    "Hash Table"
+  ],
+  "answer": 1,
+  "explanation": "Parsers use a stack to keep track of the derivation process (push-down automata). As tokens are read, they are pushed onto the stack, and reductions occur when the top of the stack matches a grammar rule."
+}

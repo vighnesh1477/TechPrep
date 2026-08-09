@@ -1,0 +1,14 @@
+{
+  "id": "placement-1550",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Easy",
+  "question": "Which Boolean algebra law states that A + 1 = 1?",
+  "options": [
+    "Commutative Law",
+    "Identity Law",
+    "Null Law (or Annulment Law)",
+    "Idempotent Law"
+  ],
+  "answer": 2,
+  "explanation": "The Null Law (or Annulment Law) states that any variable ORed with 1 is 1 (A + 1 = 1), and any variable ANDed with 0 is 0 (A · 0 = 0)."
+}

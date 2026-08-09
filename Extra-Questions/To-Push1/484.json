@@ -1,0 +1,14 @@
+{
+  "id": "placement-484",
+  "topic": "Upstream",
+  "difficulty": "Medium",
+  "question": "What does 'git branch --set-upstream-to=origin/main' do?",
+  "options": [
+    "Creates a new branch tracking origin/main",
+    "Sets the current branch to track origin/main",
+    "Pushes the current branch to origin/main",
+    "Renames the current branch to main"
+  ],
+  "answer": 1,
+  "explanation": "git branch --set-upstream-to sets the current branch's upstream tracking reference, so git status shows ahead/behind info and git pull/push work without arguments."
+}

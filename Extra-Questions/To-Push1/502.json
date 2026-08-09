@@ -1,0 +1,14 @@
+{
+  "id": "placement-502",
+  "topic": "Git LFS",
+  "difficulty": "Medium",
+  "question": "What does Git LFS stand for?",
+  "options": [
+    "Git Large File System",
+    "Git Long File Support",
+    "Git Local File Storage",
+    "Git Logical File System"
+  ],
+  "answer": 0,
+  "explanation": "Git LFS stands for Git Large File System, an extension that replaces large files with pointer files while storing the actual content on a server."
+}

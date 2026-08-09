@@ -1,0 +1,14 @@
+{
+  "id": "placement-540",
+  "topic": "Linux Basics",
+  "difficulty": "Easy",
+  "question": "What is the default shell in most Linux distributions?",
+  "options": [
+    "sh",
+    "csh",
+    "bash",
+    "zsh"
+  ],
+  "answer": 2,
+  "explanation": "Bash (Bourne Again Shell) is the default shell in most Linux distributions including Ubuntu, CentOS, and Debian."
+}

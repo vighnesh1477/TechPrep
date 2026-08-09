@@ -1,0 +1,14 @@
+{
+  "id": "placement-1978",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Easy",
+  "question": "SI on Rs 1000 at 5% for 2 years?",
+  "options": [
+    "Rs 50",
+    "Rs 100",
+    "Rs 150",
+    "Rs 200"
+  ],
+  "answer": 1,
+  "explanation": "SI = 1000 * 5 * 2 / 100 = 100."
+}

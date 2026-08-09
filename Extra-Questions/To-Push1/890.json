@@ -1,0 +1,14 @@
+{
+  "id": "placement-890",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "Which block executes regardless of whether an exception occurs?",
+  "options": [
+    "try",
+    "catch",
+    "throw",
+    "finally"
+  ],
+  "answer": 3,
+  "explanation": "The finally block always executes after try-catch, used for cleanup."
+}

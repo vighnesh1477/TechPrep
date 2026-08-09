@@ -1,0 +1,14 @@
+{
+  "id": "placement-2075",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "Sales: Q1=100, Q2=150, Q3=100, Q4=200. Which quarter has highest sales?",
+  "options": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "answer": 3,
+  "explanation": "200 is the highest."
+}

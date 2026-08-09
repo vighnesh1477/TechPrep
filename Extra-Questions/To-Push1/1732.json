@@ -1,0 +1,14 @@
+{
+  "id": "placement-1732",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "question": "What is the output of this Python code?\n`arr = [1, 2, 3, 4, 5]`\n`print(arr[1:4])`",
+  "options": [
+    "[1, 2, 3, 4]",
+    "[2, 3, 4]",
+    "[2, 3, 4, 5]",
+    "[1, 2, 3]"
+  ],
+  "answer": 1,
+  "explanation": "Python slicing `arr[start:stop]` includes the `start` index but excludes the `stop` index. So `arr[1:4]` includes elements at indices 1, 2, and 3."
+}

@@ -143,7 +143,7 @@ function About() {
 
           <div className="about-help-cta">
             <a
-              href="https://github.com/vighnesh"
+              href="https://github.com/vighnesh1477/TechPrep"
               target="_blank"
               rel="noopener noreferrer"
               className="about-help-btn"

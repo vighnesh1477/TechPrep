@@ -1,0 +1,14 @@
+{
+  "id": "placement-1350",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "In page replacement algorithms, what does the LRU algorithm stand for?",
+  "options": [
+    "Least Recently Used",
+    "Last Ran Unit",
+    "Largest Remaining Unused",
+    "Least Resource Utilized"
+  ],
+  "answer": 0,
+  "explanation": "LRU replaces the page that has not been used for the longest period of time. It is based on the principle of temporal locality."
+}

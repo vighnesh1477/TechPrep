@@ -1,0 +1,14 @@
+{
+  "id": "placement-1335",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is a race condition?",
+  "options": [
+    "A competition between two CPUs",
+    "When the output of a process depends on the timing of other processes' execution",
+    "When a process runs faster than expected",
+    "When two processes try to access the CPU at the exact same nanosecond"
+  ],
+  "answer": 1,
+  "explanation": "A race condition occurs when the system's behavior depends on the sequence or timing of uncontrollable events, leading to unpredictable results if the execution order changes."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2174",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Easy",
+  "question": "Statement: 'Buy pure honey, free delivery.' Assumption: People like free delivery.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 0,
+  "explanation": "Offering free delivery assumes it acts as an incentive."
+}

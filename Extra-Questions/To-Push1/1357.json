@@ -1,0 +1,14 @@
+{
+  "id": "placement-1357",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the primary advantage of multithreading over multiprocessing?",
+  "options": [
+    "Threads are more secure",
+    "Threads share memory, making context switching faster and communication easier",
+    "Threads do not require synchronization",
+    "Threads are independent of the parent process"
+  ],
+  "answer": 1,
+  "explanation": "Since threads share the same address space, creating them and switching between them requires less overhead than processes. Inter-thread communication is also faster than inter-process communication."
+}

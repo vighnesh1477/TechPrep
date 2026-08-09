@@ -1,0 +1,14 @@
+{
+  "id": "placement-862",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What is the output of `int i=5; printf(\"%d %d\", i++, i++);`?",
+  "options": [
+    "5 6",
+    "6 7",
+    "7 6",
+    "Undefined behavior"
+  ],
+  "answer": 3,
+  "explanation": "Modifying a variable more than once between sequence points is undefined behavior."
+}

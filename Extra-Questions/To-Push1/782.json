@@ -1,0 +1,14 @@
+{
+  "id": "placement-782",
+  "topic": "Linux Architecture",
+  "difficulty": "Medium",
+  "question": "What is user space in Linux?",
+  "options": [
+    "The home directory of users",
+    "The memory area where user applications and services run, separate from kernel space",
+    "The disk space allocated to users",
+    "A virtual machine environment"
+  ],
+  "answer": 1,
+  "explanation": "User space is the memory and execution environment where normal applications run, isolated from kernel space. User processes cannot directly access kernel memory or hardware."
+}

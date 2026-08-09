@@ -1,0 +1,14 @@
+{
+  "id": "placement-2127",
+  "topic": "Coding-Decoding",
+  "difficulty": "Hard",
+  "question": "If 'meer kee laal' is 'red blood cells', 'kee phool sundar' is 'beautiful red flower', 'laal baarish' is 'red rain'. Code for 'cells'?",
+  "options": [
+    "meer",
+    "kee",
+    "laal",
+    "baarish"
+  ],
+  "answer": 0,
+  "explanation": "'red' is 'laal'. 'red blood cells' has 'meer', 'kee', 'laal'. 'beautiful red flower' has 'kee', 'phool', 'sundar'. Common is 'kee' and 'laal'. 'blood cells' must be 'meer'. So 'cells' is 'meer'."
+}

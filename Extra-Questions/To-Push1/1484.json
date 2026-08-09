@@ -1,0 +1,14 @@
+{
+  "id": "placement-1484",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "What is the 'Von Neumann Bottleneck'?",
+  "options": [
+    "The slow speed of the CPU",
+    "The limitation in throughput caused by the shared bus between the CPU and memory",
+    "The lack of cache memory",
+    "The inability to execute instructions out of order"
+  ],
+  "answer": 1,
+  "explanation": "Since instructions and data share the same bus in Von Neumann architecture, the CPU cannot read an instruction and read/write data simultaneously, creating a bottleneck that limits performance."
+}

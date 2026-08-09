@@ -1,0 +1,14 @@
+{
+  "id": "placement-1821",
+  "topic": "Basic Algorithms",
+  "difficulty": "Medium",
+  "question": "How many swaps are performed by Selection Sort in the worst case for an array of size n?",
+  "options": [
+    "O(n^2)",
+    "O(n)",
+    "O(n log n)",
+    "O(1)"
+  ],
+  "answer": 1,
+  "explanation": "Selection Sort makes exactly one swap per pass (placing the minimum element in its correct position), resulting in exactly n-1 swaps, which is O(n)."
+}

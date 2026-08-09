@@ -1,0 +1,14 @@
+{
+  "id": "placement-696",
+  "topic": "kill",
+  "difficulty": "Easy",
+  "question": "What does kill -1 PID send?",
+  "options": [
+    "SIGKILL",
+    "SIGHUP",
+    "SIGSTOP",
+    "SIGUSR1"
+  ],
+  "answer": 1,
+  "explanation": "kill -1 sends SIGHUP (signal hangup). This is commonly used to tell a daemon to re-read its configuration file without restarting."
+}

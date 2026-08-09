@@ -1,0 +1,14 @@
+{
+  "id": "placement-1094",
+  "topic": "Cloud Basics",
+  "difficulty": "Easy",
+  "question": "What is a virtual machine?",
+  "options": [
+    "A physical computer",
+    "A software-based emulation of a physical computer",
+    "A container",
+    "A cloud region"
+  ],
+  "answer": 1,
+  "explanation": "A VM runs its own OS and apps on virtualized hardware provided by the hypervisor."
+}

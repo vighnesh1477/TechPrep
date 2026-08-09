@@ -1,0 +1,14 @@
+{
+  "id": "placement-1156",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is a decorator in Python?",
+  "options": [
+    "A design pattern for UI",
+    "A function that wraps another function to extend its behavior without modifying it",
+    "A type of loop",
+    "A class constructor"
+  ],
+  "answer": 1,
+  "explanation": "Decorators use the @ syntax to modify a function or method's behavior dynamically."
+}

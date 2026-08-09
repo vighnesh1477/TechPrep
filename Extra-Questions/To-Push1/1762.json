@@ -1,0 +1,14 @@
+{
+  "id": "placement-1762",
+  "topic": "Strings",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`char *p = \"Hello\";`\n`p[0] = 'M';`\n`printf(\"%s\", p);`",
+  "options": [
+    "Mello",
+    "Hello",
+    "Compilation Error",
+    "Segmentation Fault (Undefined Behavior)"
+  ],
+  "answer": 3,
+  "explanation": "`p` points to a string literal, which is typically stored in read-only memory. Attempting to modify it leads to Undefined Behavior, commonly a segmentation fault."
+}

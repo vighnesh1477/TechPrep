@@ -1,0 +1,14 @@
+{
+  "id": "placement-1255",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Hard",
+  "question": "What is a rainbow table attack?",
+  "options": [
+    "Guessing random passwords",
+    "Using a precomputed table of hash values for common passwords to crack hashes quickly",
+    "A type of DDoS",
+    "A phishing technique"
+  ],
+  "answer": 1,
+  "explanation": "Rainbow tables trade time for space, allowing attackers to crack hashed passwords almost instantly if the hash exists in the table."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-693",
+  "topic": "kill",
+  "difficulty": "Easy",
+  "question": "What is the default signal sent by the kill command?",
+  "options": [
+    "SIGKILL (9)",
+    "SIGTERM (15)",
+    "SIGHUP (1)",
+    "SIGINT (2)"
+  ],
+  "answer": 1,
+  "explanation": "The default signal is SIGTERM (15), which politely asks the process to terminate. The process can catch this signal and perform cleanup before exiting."
+}

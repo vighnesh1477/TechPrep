@@ -1,0 +1,14 @@
+{
+  "id": "placement-1743",
+  "topic": "Strings",
+  "difficulty": "Easy",
+  "question": "How are strings represented internally in C?",
+  "options": [
+    "As a String object",
+    "As an array of characters terminated by a null character ('\\0')",
+    "As a list of integers",
+    "As a single character variable"
+  ],
+  "answer": 1,
+  "explanation": "In C, strings are stored as null-terminated character arrays. The sequence of characters is followed by a special null character `\\0` to mark the end of the string."
+}

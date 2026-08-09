@@ -1,0 +1,14 @@
+{
+  "id": "placement-711",
+  "topic": "Jobs",
+  "difficulty": "Easy",
+  "question": "How do you bring job number 2 to the foreground?",
+  "options": [
+    "fg 2",
+    "foreground 2",
+    "bring 2",
+    "front 2"
+  ],
+  "answer": 0,
+  "explanation": "fg 2 brings job number 2 to the foreground. Without a job number, fg operates on the current job."
+}

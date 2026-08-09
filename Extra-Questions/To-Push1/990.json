@@ -1,0 +1,14 @@
+{
+  "id": "placement-990",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "What is virtual memory?",
+  "options": [
+    "A type of RAM",
+    "A memory management technique using secondary storage as RAM extension",
+    "A hardware device",
+    "A CPU cache"
+  ],
+  "answer": 1,
+  "explanation": "Virtual memory uses disk space to extend available RAM, allowing execution of larger processes."
+}

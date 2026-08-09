@@ -1,0 +1,14 @@
+{
+  "id": "placement-1742",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "question": "What is the value of `*(arr + 4)` if `int arr[3][3] = {0};`?",
+  "options": [
+    "0",
+    "Garbage value",
+    "Out of bounds error",
+    "Address of arr[0][1]"
+  ],
+  "answer": 0,
+  "explanation": "`arr` decays to a pointer to `arr[0]`. `arr + 4` points to `arr[1][1]` (since row 0 has 3 elements, index 4 is the second element of row 1). It is initialized to 0."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2152",
+  "topic": "Direction Sense",
+  "difficulty": "Hard",
+  "question": "A is 5m East of B. C is 5m North of B. D is 5m South of A. E is 5m West of D. Where is E relative to C?",
+  "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+  ],
+  "answer": 1,
+  "explanation": "E is at B. B is South of C. So E is South of C."
+}

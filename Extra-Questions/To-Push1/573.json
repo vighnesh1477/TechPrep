@@ -1,0 +1,14 @@
+{
+  "id": "placement-573",
+  "topic": "rm",
+  "difficulty": "Easy",
+  "question": "Which command recursively removes a directory and its contents?",
+  "options": [
+    "rm -r dir",
+    "rm dir",
+    "rm -f dir",
+    "rm -d dir"
+  ],
+  "answer": 0,
+  "explanation": "rm -r (or -R) recursively removes a directory and all its contents including files and subdirectories."
+}

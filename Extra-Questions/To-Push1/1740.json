@@ -1,0 +1,14 @@
+{
+  "id": "placement-1740",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "question": "What is the output of this Java code?\n`int[] arr = new int[3];`\n`System.out.print(arr[0]);`",
+  "options": [
+    "0",
+    "null",
+    "Garbage value",
+    "Compilation Error"
+  ],
+  "answer": 0,
+  "explanation": "In Java, numeric arrays are automatically initialized to 0 (for integers) when created using `new`. Thus, `arr[0]` prints 0."
+}

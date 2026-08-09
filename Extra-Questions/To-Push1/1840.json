@@ -1,0 +1,14 @@
+{
+  "id": "placement-1840",
+  "topic": "Complexity",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of this code?\n`for(i=0; i<n; i++)`\n`  for(j=0; j<i; j++)`\n`    printf(\"*\");`",
+  "options": [
+    "O(n)",
+    "O(n log n)",
+    "O(n^2)",
+    "O(n^3)"
+  ],
+  "answer": 2,
+  "explanation": "The inner loop runs 1 time, then 2 times, then 3 times, up to n-1 times. The sum of the series 1+2+...+(n-1) is n(n-1)/2, which is O(n^2)."
+}

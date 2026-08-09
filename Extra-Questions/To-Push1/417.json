@@ -1,0 +1,14 @@
+{
+  "id": "placement-417",
+  "topic": "Git Log",
+  "difficulty": "Easy",
+  "question": "Which flag reverses the order of git log output?",
+  "options": [
+    "--reverse",
+    "--backwards",
+    "--oldest-first",
+    "--ascending"
+  ],
+  "answer": 0,
+  "explanation": "git log --reverse shows commits in chronological order from oldest to newest, reversing the default newest-first ordering."
+}

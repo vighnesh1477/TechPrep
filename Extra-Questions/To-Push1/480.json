@@ -1,0 +1,14 @@
+{
+  "id": "placement-480",
+  "topic": "Push",
+  "difficulty": "Medium",
+  "question": "What does git push --dry-run do?",
+  "options": [
+    "Pushes without creating a commit",
+    "Shows what would be pushed without actually sending anything",
+    "Pushes to a temporary remote",
+    "Pushes only small files"
+  ],
+  "answer": 1,
+  "explanation": "git push --dry-run performs all the checks and displays what would be pushed, but does not actually send any data to the remote."
+}

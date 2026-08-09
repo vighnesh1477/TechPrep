@@ -1,0 +1,14 @@
+{
+  "id": "placement-889",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What is String in Java?",
+  "options": [
+    "A primitive type",
+    "A character array",
+    "An immutable object",
+    "A mutable object"
+  ],
+  "answer": 2,
+  "explanation": "Strings are immutable objects in Java; their state cannot be changed after creation."
+}

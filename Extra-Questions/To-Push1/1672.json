@@ -1,0 +1,14 @@
+{
+  "id": "placement-1672",
+  "topic": "Control Flow",
+  "difficulty": "Hard",
+  "question": "What does this C code print?\n`int i = 0;`\n`while (i < 5) {`\n`    i++;`\n`    if (i == 3) continue;`\n`    if (i == 4) break;`\n`    printf(\"%d \", i);`\n`}`",
+  "options": [
+    "1 2 3 4",
+    "1 2",
+    "1 2 4",
+    "1"
+  ],
+  "answer": 1,
+  "explanation": "i=1: prints 1. i=2: prints 2. i=3: continue skips print. i=4: break terminates loop. So output is \"1 2 \"."
+}

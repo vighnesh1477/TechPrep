@@ -1,0 +1,14 @@
+{
+  "id": "placement-500",
+  "topic": "Submodules",
+  "difficulty": "Medium",
+  "question": "What does git submodule update --init --recursive do?",
+  "options": [
+    "Updates all submodule references to latest",
+    "Initializes and clones all submodules including nested submodules",
+    "Deletes all submodules",
+    "Updates the .gitmodules file"
+  ],
+  "answer": 1,
+  "explanation": "This command initializes any uninitialized submodules, clones their repositories, and recursively does the same for any nested submodules."
+}

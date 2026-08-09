@@ -1,0 +1,14 @@
+{
+  "id": "placement-1002",
+  "topic": "Computer Networks",
+  "difficulty": "Easy",
+  "question": "Which protocol is used to securely browse the web?",
+  "options": [
+    "HTTP",
+    "FTP",
+    "HTTPS",
+    "SMTP"
+  ],
+  "answer": 2,
+  "explanation": "HTTPS (HTTP Secure) uses TLS/SSL encryption to secure web traffic."
+}

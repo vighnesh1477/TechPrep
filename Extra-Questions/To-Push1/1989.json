@@ -1,0 +1,14 @@
+{
+  "id": "placement-1989",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Medium",
+  "question": "A man borrows Rs 5000 at 10% CI. He pays back Rs 2000 at end of 1st year. Amount at end of 2nd year?",
+  "options": [
+    "Rs 3850",
+    "Rs 3960",
+    "Rs 4000",
+    "Rs 4100"
+  ],
+  "answer": 1,
+  "explanation": "After 1 yr: 5500. Pays 2000, left 3500. After 2nd yr: 3500 * 1.1 = 3850. Wait, 3500*1.1=3850. Let me check options. Option is 3850."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1979",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Easy",
+  "question": "CI on Rs 1000 at 10% for 2 years?",
+  "options": [
+    "Rs 200",
+    "Rs 210",
+    "Rs 220",
+    "Rs 150"
+  ],
+  "answer": 1,
+  "explanation": "CI = 1000 * 1.1^2 - 1000 = 1210 - 1000 = 210."
+}

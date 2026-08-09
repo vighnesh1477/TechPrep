@@ -1,0 +1,14 @@
+{
+  "id": "placement-997",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is a Banker's Algorithm used for?",
+  "options": [
+    "Sorting processes",
+    "Deadlock avoidance",
+    "Memory allocation",
+    "File encryption"
+  ],
+  "answer": 1,
+  "explanation": "Banker's algorithm simulates resource allocation to ensure the system remains in a safe state, avoiding deadlock."
+}

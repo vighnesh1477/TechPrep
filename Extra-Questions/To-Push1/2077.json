@@ -1,0 +1,14 @@
+{
+  "id": "placement-2077",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "Data: 5, 10, 15, 20, 25. What is the median?",
+  "options": [
+    "10",
+    "15",
+    "20",
+    "25"
+  ],
+  "answer": 1,
+  "explanation": "Middle value of 5 items is 3rd item = 15."
+}

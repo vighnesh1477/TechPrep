@@ -1,0 +1,14 @@
+{
+  "id": "placement-1686",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What happens if you put a `return` statement inside a loop?",
+  "options": [
+    "It acts like `continue`",
+    "It immediately exits the current function, terminating the loop as well",
+    "It only exits the loop, not the function",
+    "Syntax error"
+  ],
+  "answer": 1,
+  "explanation": "A `return` statement unconditionally exits the entire function in which it is executed, bypassing any remaining iterations of the loop."
+}

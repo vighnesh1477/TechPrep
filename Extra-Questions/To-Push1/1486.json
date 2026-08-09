@@ -1,0 +1,14 @@
+{
+  "id": "placement-1486",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "Which SDLC model requires completing one phase entirely before starting the next?",
+  "options": [
+    "Agile",
+    "Scrum",
+    "Waterfall",
+    "Spiral"
+  ],
+  "answer": 2,
+  "explanation": "The Waterfall model is a linear, sequential approach where each phase must be completed before the next begins, and there is no overlapping of phases."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1029",
+  "topic": "OOP",
+  "difficulty": "Hard",
+  "question": "What is the Liskov Substitution Principle?",
+  "options": [
+    "Child classes must be substitutable for their parent classes without altering program correctness",
+    "Parents cannot substitute children",
+    "Every class must have a subclass",
+    "Interfaces must be small"
+  ],
+  "answer": 0,
+  "explanation": "LSP ensures that a derived type can replace its base type without breaking the application."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-690",
+  "topic": "htop",
+  "difficulty": "Easy",
+  "question": "What does F5 do in htop?",
+  "options": [
+    "Filters processes",
+    "Toggles between tree and list view",
+    "Shows file descriptors",
+    "Refreshes the display"
+  ],
+  "answer": 1,
+  "explanation": "F5 toggles between the standard list view and a tree view that shows the parent-child process hierarchy."
+}

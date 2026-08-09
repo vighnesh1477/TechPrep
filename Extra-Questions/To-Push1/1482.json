@@ -1,0 +1,14 @@
+{
+  "id": "placement-1482",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "What is the purpose of a TLB (Translation Lookaside Buffer) in the context of virtual memory?",
+  "options": [
+    "To store the page table on disk",
+    "To cache recent virtual-to-physical address translations to speed up address translation",
+    "To manage the hard drive",
+    "To handle DMA requests"
+  ],
+  "answer": 1,
+  "explanation": "The TLB is a hardware cache inside the CPU's memory management unit (MMU). It stores recent page table entries to avoid the slow process of walking the page table in main RAM."
+}

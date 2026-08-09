@@ -1,0 +1,14 @@
+{
+  "id": "placement-1386",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Hard",
+  "question": "Given relation R(A, B, C) with functional dependencies {AB -> C, C -> B}. What is the highest normal form of R?",
+  "options": [
+    "1NF",
+    "2NF",
+    "3NF",
+    "BCNF"
+  ],
+  "answer": 1,
+  "explanation": "Candidate keys are AB and AC. C -> B is a non-trivial FD, but C is not a superkey (violates BCNF). For 3NF: C -> B, B is part of a candidate key, so it's allowed in 3NF. It is in 2NF because there are no partial dependencies (no subset of a candidate key determines C)."
+}

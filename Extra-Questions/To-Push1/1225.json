@@ -1,0 +1,14 @@
+{
+  "id": "placement-1225",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "What does the `override` keyword do?",
+  "options": [
+    "Overloads a function",
+    "Ensures the function actually overrides a virtual function in the base class, causing a compile error if not",
+    "Deletes a base class function",
+    "Creates a static function"
+  ],
+  "answer": 1,
+  "explanation": "override helps catch typos or signature mismatches when intending to override a virtual function."
+}

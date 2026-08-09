@@ -1,0 +1,14 @@
+{
+  "id": "placement-1658",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "How many times does \"Hello\" print?\n`for(int i=0; i<5; i++) {`\n`  for(int j=i; j<5; j++) {`\n`    if(j==3) break;`\n`    printf(\"Hello\");`\n`  }`\n`}`",
+  "options": [
+    "5",
+    "6",
+    "10",
+    "15"
+  ],
+  "answer": 1,
+  "explanation": "i=0: j goes 0,1,2 (3 prints). i=1: j goes 1,2 (2 prints). i=2: j goes 2 (1 print). i=3: j starts at 3, immediately breaks (0 prints). i=4: j starts at 4 > 3 (0 prints). Total = 6."
+}

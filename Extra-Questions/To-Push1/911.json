@@ -1,0 +1,14 @@
+{
+  "id": "placement-911",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "Which data structure uses LIFO (Last In, First Out)?",
+  "options": [
+    "Queue",
+    "Stack",
+    "Array",
+    "Linked List"
+  ],
+  "answer": 1,
+  "explanation": "Stacks add and remove elements from the top (last in, first out)."
+}

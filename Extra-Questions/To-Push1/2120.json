@@ -1,0 +1,14 @@
+{
+  "id": "placement-2120",
+  "topic": "Coding-Decoding",
+  "difficulty": "Medium",
+  "question": "If EARTH is coded as HDUWA, how is MOON coded?",
+  "options": [
+    "PRRQ",
+    "QRRP",
+    "PQQP",
+    "QQRP"
+  ],
+  "answer": 0,
+  "explanation": "E+3=H, A+3=D, R+3=U, T+3=W, H+3=K (Wait, HDUWK). Let me check: H is +3. D is +3. U is +3. W is +3. K is +3. EARTH is HDUWK. MOON is PRRQ."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-887",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What does the `final` keyword mean for a method?",
+  "options": [
+    "Cannot be overloaded",
+    "Cannot be overridden",
+    "Returns null",
+    "Runs last"
+  ],
+  "answer": 1,
+  "explanation": "A final method cannot be overridden by subclasses."
+}

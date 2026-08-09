@@ -1,0 +1,14 @@
+{
+  "id": "placement-2043",
+  "topic": "Algebra",
+  "difficulty": "Easy",
+  "question": "If x + 5 = 10, find x.",
+  "options": [
+    "3",
+    "5",
+    "15",
+    "-5"
+  ],
+  "answer": 1,
+  "explanation": "x = 10 - 5 = 5."
+}

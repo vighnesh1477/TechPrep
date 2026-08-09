@@ -1,0 +1,14 @@
+{
+  "id": "placement-1798",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is a recursion tree?",
+  "options": [
+    "A data structure used to store recursive functions",
+    "A graphical representation of the recursive calls showing how the problem is broken down",
+    "A specific type of binary tree",
+    "The call stack memory layout"
+  ],
+  "answer": 1,
+  "explanation": "A recursion tree is a diagram that visually maps out the sequence of recursive calls, showing the branching of subproblems and helping to analyze time complexity."
+}

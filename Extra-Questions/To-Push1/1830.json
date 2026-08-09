@@ -1,0 +1,14 @@
+{
+  "id": "placement-1830",
+  "topic": "Basic Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the advantage of Bubble Sort over other O(n^2) algorithms?",
+  "options": [
+    "It is always the fastest",
+    "It can detect if the array is already sorted in a single pass",
+    "It requires the least amount of memory",
+    "It is a stable sort by default"
+  ],
+  "answer": 1,
+  "explanation": "An optimized Bubble Sort uses a boolean flag. If a complete pass occurs without any swaps, the algorithm knows the array is sorted and terminates early."
+}

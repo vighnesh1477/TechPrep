@@ -1,0 +1,14 @@
+{
+  "id": "placement-1949",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "20 men do work in 20 days. How many days for 10 men?",
+  "options": [
+    "30 days",
+    "40 days",
+    "50 days",
+    "60 days"
+  ],
+  "answer": 1,
+  "explanation": "M1D1 = M2D2 => 20*20 = 10*D2 => D2 = 40."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-590",
+  "topic": "touch",
+  "difficulty": "Easy",
+  "question": "What does touch -t 202401011200.00 file.txt do?",
+  "options": [
+    "Truncates the file to 1200 bytes",
+    "Sets the file's timestamp to January 1, 2024, 12:00:00",
+    "Tags the file with ID 202401011200",
+    "Tests the file for 12 seconds"
+  ],
+  "answer": 1,
+  "explanation": "touch -t sets the timestamp using the format [[CC]YY]MMDDhhmm[.ss]. This sets the file's time to Jan 1, 2024 at 12:00:00."
+}

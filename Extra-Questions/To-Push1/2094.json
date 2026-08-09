@@ -1,0 +1,14 @@
+{
+  "id": "placement-2094",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find next: 100, 50, 25, 12.5, ?",
+  "options": [
+    "6.25",
+    "6.5",
+    "7",
+    "7.5"
+  ],
+  "answer": 0,
+  "explanation": "Dividing by 2."
+}

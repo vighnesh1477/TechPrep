@@ -1,0 +1,14 @@
+{
+  "id": "placement-661",
+  "topic": "chgrp",
+  "difficulty": "Easy",
+  "question": "What does chgrp --reference=ref_file target_file do?",
+  "options": [
+    "Creates a reference link",
+    "Changes target_file's group to match ref_file's group",
+    "Compares group ownership of both files",
+    "Removes the group from target_file"
+  ],
+  "answer": 1,
+  "explanation": "The --reference option copies the group ownership from the reference file and applies it to the target file."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-961",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What is a Candidate Key?",
+  "options": [
+    "A foreign key",
+    "A minimal set of attributes that uniquely identifies a tuple",
+    "The primary key",
+    "Any random attribute"
+  ],
+  "answer": 1,
+  "explanation": "A candidate key is a super key with no proper subset that is also a super key (minimal)."
+}

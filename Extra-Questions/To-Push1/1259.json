@@ -1,0 +1,14 @@
+{
+  "id": "placement-1259",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "Which stream is used for file input in C++?",
+  "options": [
+    "cout",
+    "cin",
+    "ifstream",
+    "ofstream"
+  ],
+  "answer": 2,
+  "explanation": "ifstream (input file stream) is used to read data from files."
+}

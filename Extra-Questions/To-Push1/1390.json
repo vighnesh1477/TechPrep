@@ -1,0 +1,14 @@
+{
+  "id": "placement-1390",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Hard",
+  "question": "Given relation R(A, B, C, D, E) with FDs {AB -> C, C -> D, D -> E}. How many tables will be generated in the lossless-join, dependency-preserving 3NF decomposition?",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "answer": 1,
+  "explanation": "Minimal cover: AB->C, C->D, D->E. Decomposition: R1(AB, C), R2(C, D), R3(D, E). All are in 3NF. It preserves dependencies and is lossless because R1 join R2 join R3 on C and D respectively brings back the original relation."
+}

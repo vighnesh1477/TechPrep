@@ -1,0 +1,14 @@
+{
+  "id": "placement-412",
+  "topic": "Working Tree",
+  "difficulty": "Easy",
+  "question": "Which command shows a concise summary of the working tree state?",
+  "options": [
+    "git status -s",
+    "git state",
+    "git info",
+    "git summary"
+  ],
+  "answer": 0,
+  "explanation": "git status -s provides a short, concise summary of the working tree and staging area status using two-character status codes."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2091",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find next: 5, 11, 23, 47, ?",
+  "options": [
+    "80",
+    "90",
+    "95",
+    "100"
+  ],
+  "answer": 2,
+  "explanation": "5*2+1=11, 11*2+1=23, 23*2+1=47, 47*2+1=95."
+}

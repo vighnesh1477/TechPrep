@@ -1,0 +1,14 @@
+{
+  "id": "placement-740",
+  "topic": "apt",
+  "difficulty": "Easy",
+  "question": "What does 'apt install nginx' do?",
+  "options": [
+    "Downloads but does not install nginx",
+    "Installs nginx and its dependencies",
+    "Checks if nginx is installed",
+    "Adds the nginx repository"
+  ],
+  "answer": 1,
+  "explanation": "apt install nginx downloads and installs the nginx package along with any required dependencies from the configured repositories."
+}

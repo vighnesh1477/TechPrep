@@ -1,0 +1,14 @@
+{
+  "id": "placement-2031",
+  "topic": "Permutation and Combination",
+  "difficulty": "Easy",
+  "question": "Find 10C3.",
+  "options": [
+    "120",
+    "100",
+    "80",
+    "60"
+  ],
+  "answer": 0,
+  "explanation": "10!/(3!7!) = (10*9*8)/(3*2*1) = 120."
+}

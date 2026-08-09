@@ -1,0 +1,14 @@
+{
+  "id": "placement-888",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "Which collection class allows duplicate elements and maintains insertion order?",
+  "options": [
+    "HashSet",
+    "ArrayList",
+    "TreeSet",
+    "HashMap"
+  ],
+  "answer": 1,
+  "explanation": "ArrayList allows duplicates and preserves the order in which elements were added."
+}

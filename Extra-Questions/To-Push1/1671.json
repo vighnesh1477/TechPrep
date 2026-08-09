@@ -1,0 +1,14 @@
+{
+  "id": "placement-1671",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What is the final value of `count`?\n`count = 0`\n`for i in range(2, 10, 3):`\n`    count += 1`",
+  "options": [
+    "2",
+    "3",
+    "8",
+    "4"
+  ],
+  "answer": 1,
+  "explanation": "`range(2, 10, 3)` generates the sequence 2, 5, 8. The loop iterates 3 times, so `count` becomes 3."
+}

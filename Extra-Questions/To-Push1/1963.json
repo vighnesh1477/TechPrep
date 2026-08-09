@@ -1,0 +1,14 @@
+{
+  "id": "placement-1963",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Medium",
+  "question": "A walks at 5 km/h, B at 6 km/h. Distance between them 22 km. When do they meet?",
+  "options": [
+    "1 hr",
+    "2 hrs",
+    "3 hrs",
+    "4 hrs"
+  ],
+  "answer": 1,
+  "explanation": "Relative speed = 11 km/h. Time = 22/11 = 2 hrs."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-988",
+  "topic": "Operating Systems",
+  "difficulty": "Easy",
+  "question": "What is a deadlock?",
+  "options": [
+    "High CPU usage",
+    "A state where processes are blocked waiting for each other",
+    "A crashed hard drive",
+    "A memory leak"
+  ],
+  "answer": 1,
+  "explanation": "Deadlock is a situation where a set of processes are blocked because each is holding a resource needed by another."
+}

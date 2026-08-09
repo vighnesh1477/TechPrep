@@ -1,0 +1,14 @@
+{
+  "id": "placement-985",
+  "topic": "Operating Systems",
+  "difficulty": "Easy",
+  "question": "What is a process?",
+  "options": [
+    "A running thread",
+    "A program in execution",
+    "A memory address",
+    "A CPU register"
+  ],
+  "answer": 1,
+  "explanation": "A process is an instance of a program currently being executed."
+}

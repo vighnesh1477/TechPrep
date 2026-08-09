@@ -1,0 +1,14 @@
+{
+  "id": "placement-1849",
+  "topic": "Recursion",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int f(int n) { if(n==0||n==1) return n; return f(n-1) + f(n-2); }`\n`int main() { printf(\"%d\", f(6)); return 0; }`",
+  "options": [
+    "8",
+    "13",
+    "5",
+    "21"
+  ],
+  "answer": 0,
+  "explanation": "This calculates the 6th Fibonacci number (0, 1, 1, 2, 3, 5, 8). f(6) = 8."
+}

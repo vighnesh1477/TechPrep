@@ -1,0 +1,14 @@
+{
+  "id": "placement-2062",
+  "topic": "Algebra",
+  "difficulty": "Hard",
+  "question": "Find the remainder when x^3 + 2x^2 - 3x + 4 is divided by x - 1.",
+  "options": [
+    "2",
+    "4",
+    "0",
+    "1"
+  ],
+  "answer": 1,
+  "explanation": "By Remainder Theorem, f(1) = 1 + 2 - 3 + 4 = 4."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-667",
+  "topic": "umask",
+  "difficulty": "Easy",
+  "question": "If umask is 0027, what permissions do new directories get?",
+  "options": [
+    "750",
+    "755",
+    "727",
+    "700"
+  ],
+  "answer": 0,
+  "explanation": "Directory default: 777 - 027 = 750 (rwxr-x---). Owner gets full access, group gets read+execute, others get no permissions."
+}

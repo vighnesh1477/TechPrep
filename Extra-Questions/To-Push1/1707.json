@@ -1,0 +1,14 @@
+{
+  "id": "placement-1707",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What are default arguments?",
+  "options": [
+    "Arguments passed to the main function",
+    "Values that parameters take on if no argument is provided during the function call",
+    "The first argument in a function definition",
+    "Arguments that are always 0"
+  ],
+  "answer": 1,
+  "explanation": "Default arguments allow you to assign a default value to a parameter, so the function can be called with fewer arguments than defined."
+}

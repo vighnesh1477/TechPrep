@@ -1,0 +1,14 @@
+{
+  "id": "placement-1200",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "What is a mutex?",
+  "options": [
+    "A type of memory",
+    "A mutual exclusion object that allows only one thread to access a resource at a time",
+    "A process scheduler",
+    "A file system"
+  ],
+  "answer": 1,
+  "explanation": "A mutex (mutual exclusion) is a locking mechanism used to synchronize access to a shared resource."
+}

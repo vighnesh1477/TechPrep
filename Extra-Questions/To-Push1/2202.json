@@ -1,0 +1,14 @@
+{
+  "id": "placement-2202",
+  "topic": "Puzzles",
+  "difficulty": "Medium",
+  "question": "If Fruit = Mango, Mango = Tree, Tree = Wood. What do we get from a Fruit?",
+  "options": [
+    "Mango",
+    "Tree",
+    "Wood",
+    "None"
+  ],
+  "answer": 2,
+  "explanation": "Fruit is Mango. Mango is Tree. Tree is Wood. So Fruit gives Wood."
+}

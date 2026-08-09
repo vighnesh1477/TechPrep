@@ -1,0 +1,14 @@
+{
+  "id": "placement-1287",
+  "topic": "Git",
+  "difficulty": "Medium",
+  "question": "What does `git diff` show?",
+  "options": [
+    "Deleted files",
+    "Differences between the working directory and the index (staged files)",
+    "Remote changes",
+    "Commit history"
+  ],
+  "answer": 1,
+  "explanation": "git diff displays the line-by-line changes of tracked files that have not yet been staged."
+}

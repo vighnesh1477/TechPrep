@@ -1,0 +1,14 @@
+{
+  "id": "placement-620",
+  "topic": "grep",
+  "difficulty": "Easy",
+  "question": "What does grep -v do?",
+  "options": [
+    "Shows verbose output",
+    "Inverts the match, showing non-matching lines",
+    "Shows the version of grep",
+    "Validates the pattern"
+  ],
+  "answer": 1,
+  "explanation": "grep -v inverts the matching, displaying only lines that do NOT match the pattern. It is useful for filtering out unwanted lines."
+}

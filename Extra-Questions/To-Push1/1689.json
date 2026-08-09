@@ -1,0 +1,14 @@
+{
+  "id": "placement-1689",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What is the output of this C++ code?\n`for(int i=0; i<3; i++) {`\n`  static int x = 0;`\n`  x++;`\n`  cout << x << \" \";`\n`}`",
+  "options": [
+    "1 1 1",
+    "1 2 3",
+    "0 1 2",
+    "Compilation Error"
+  ],
+  "answer": 1,
+  "explanation": "The `static` keyword ensures `x` is initialized only once and retains its value between loop iterations. It increments from 1 to 3 across the three iterations."
+}

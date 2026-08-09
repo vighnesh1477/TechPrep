@@ -1,0 +1,14 @@
+{
+  "id": "placement-694",
+  "topic": "kill",
+  "difficulty": "Easy",
+  "question": "What signal cannot be caught or ignored by a process?",
+  "options": [
+    "SIGTERM (15)",
+    "SIGHUP (1)",
+    "SIGKILL (9)",
+    "SIGINT (2)"
+  ],
+  "answer": 2,
+  "explanation": "SIGKILL (9) immediately terminates the process without allowing it to perform any cleanup. It cannot be caught, blocked, or ignored by the process."
+}

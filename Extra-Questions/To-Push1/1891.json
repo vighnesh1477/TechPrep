@@ -1,0 +1,14 @@
+{
+  "id": "placement-1891",
+  "topic": "Percentages",
+  "difficulty": "Hard",
+  "question": "Class has 40% girls. 20% boys and 10% girls failed. Total passed %?",
+  "options": [
+    "80%",
+    "84%",
+    "86%",
+    "82%"
+  ],
+  "answer": 1,
+  "explanation": "G=40, B=60. Failed=0.2(60)+0.1(40)=12+4=16. Passed=84%."
+}

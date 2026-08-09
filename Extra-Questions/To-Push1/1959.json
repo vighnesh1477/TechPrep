@@ -1,0 +1,14 @@
+{
+  "id": "placement-1959",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Easy",
+  "question": "A covers 100m in 10s. Speed in m/s?",
+  "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 100/10 = 10 m/s."
+}

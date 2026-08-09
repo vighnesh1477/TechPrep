@@ -1,0 +1,14 @@
+{
+  "id": "placement-737",
+  "topic": "ip",
+  "difficulty": "Easy",
+  "question": "What does 'ip route show' display?",
+  "options": [
+    "DNS routing",
+    "The kernel routing table",
+    "Interface routes only",
+    "Application routes"
+  ],
+  "answer": 1,
+  "explanation": "ip route show displays the kernel's routing table, including default gateway, network routes, and their associated interfaces and metrics."
+}

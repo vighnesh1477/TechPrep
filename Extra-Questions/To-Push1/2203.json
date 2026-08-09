@@ -1,0 +1,14 @@
+{
+  "id": "placement-2203",
+  "topic": "Puzzles",
+  "difficulty": "Medium",
+  "question": "A, B, C play a game. A scores more than B. B scores less than C. Who scored the highest?",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "Cannot say"
+  ],
+  "answer": 3,
+  "explanation": "A > B, C > B. We don't know relationship between A and C."
+}

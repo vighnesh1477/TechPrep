@@ -1,0 +1,14 @@
+{
+  "id": "placement-955",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What is the main purpose of normalization?",
+  "options": [
+    "Speeding up reads",
+    "Reducing data redundancy and dependency",
+    "Increasing storage size",
+    "Encrypting data"
+  ],
+  "answer": 1,
+  "explanation": "Normalization organizes data to minimize redundancy and avoid data anomalies."
+}

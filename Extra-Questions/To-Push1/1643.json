@@ -1,0 +1,14 @@
+{
+  "id": "placement-1643",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "Which control structure is used to execute a block of code only if a condition is true?",
+  "options": [
+    "while loop",
+    "if statement",
+    "for loop",
+    "switch statement"
+  ],
+  "answer": 1,
+  "explanation": "The `if` statement evaluates a condition and executes the subsequent block of code only if the condition evaluates to true."
+}

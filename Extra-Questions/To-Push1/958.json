@@ -1,0 +1,14 @@
+{
+  "id": "placement-958",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What does the 'I' in ACID stand for?",
+  "options": [
+    "Integrity",
+    "Isolation",
+    "Iteration",
+    "Integration"
+  ],
+  "answer": 1,
+  "explanation": "Isolation ensures concurrently executing transactions do not interfere with each other."
+}

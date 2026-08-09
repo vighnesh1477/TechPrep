@@ -1,0 +1,14 @@
+{
+  "id": "placement-2089",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find next: 3, 9, 27, 81, ?",
+  "options": [
+    "162",
+    "243",
+    "324",
+    "729"
+  ],
+  "answer": 1,
+  "explanation": "Geometric progression with ratio 3."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-758",
+  "topic": "Shell",
+  "difficulty": "Easy",
+  "question": "What is a shell in Linux?",
+  "options": [
+    "The kernel",
+    "A command-line interpreter that provides an interface to the OS",
+    "A file system type",
+    "A network protocol"
+  ],
+  "answer": 1,
+  "explanation": "A shell is a command-line interpreter that provides a user interface to the operating system. It reads commands, interprets them, and tells the OS what to do."
+}

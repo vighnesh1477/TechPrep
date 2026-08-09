@@ -1,0 +1,14 @@
+{
+  "id": "placement-1446",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the maximum number of valid host IPs in a /27 subnet?",
+  "options": [
+    "30",
+    "31",
+    "32",
+    "29"
+  ],
+  "answer": 0,
+  "explanation": "A /27 subnet has 32 total IPs (2^(32-27)). Subtracting 2 for the network address and broadcast address leaves 30 valid host addresses."
+}

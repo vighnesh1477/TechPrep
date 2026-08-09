@@ -1,0 +1,14 @@
+{
+  "id": "placement-1853",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What is the output of this Python code?\n`def foo(x, y=[]):\n    y.append(x)\n    return y\nprint(foo(1))\nprint(foo(2))`",
+  "options": [
+    "[1]\\n[2]",
+    "[1]\\n[1, 2]",
+    "Error",
+    "[1]\\n[]"
+  ],
+  "answer": 1,
+  "explanation": "Using a mutable default argument (like a list) is a common Python trap. The list is created once when the function is defined, so subsequent calls append to the same list."
+}

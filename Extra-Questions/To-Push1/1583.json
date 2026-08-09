@@ -1,0 +1,14 @@
+{
+  "id": "placement-1583",
+  "topic": "Data Representation",
+  "difficulty": "Easy",
+  "question": "What is the decimal value of the binary number 1001?",
+  "options": [
+    "9",
+    "8",
+    "10",
+    "3"
+  ],
+  "answer": 0,
+  "explanation": "Reading from right to left (least significant bit): 1*(2^0) + 0*(2^1) + 0*(2^2) + 1*(2^3) = 1 + 0 + 0 + 8 = 9."
+}

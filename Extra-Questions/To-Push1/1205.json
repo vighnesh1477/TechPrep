@@ -1,0 +1,14 @@
+{
+  "id": "placement-1205",
+  "topic": "Computer Networks",
+  "difficulty": "Easy",
+  "question": "Which protocol is used for secure remote login?",
+  "options": [
+    "Telnet",
+    "FTP",
+    "SSH",
+    "HTTP"
+  ],
+  "answer": 2,
+  "explanation": "SSH (Secure Shell) provides encrypted remote login and command execution."
+}

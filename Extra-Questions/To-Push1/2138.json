@@ -1,0 +1,14 @@
+{
+  "id": "placement-2138",
+  "topic": "Blood Relations",
+  "difficulty": "Medium",
+  "question": "Introducing a girl, Vikas said, 'Her mother is the only daughter of my mother-in-law'. How is Vikas related to the girl?",
+  "options": [
+    "Uncle",
+    "Father",
+    "Brother",
+    "Husband"
+  ],
+  "answer": 1,
+  "explanation": "Vikas's mother-in-law's only daughter is Vikas's wife. The girl's mother is Vikas's wife. So Vikas is the father."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1745",
+  "topic": "Strings",
+  "difficulty": "Easy",
+  "question": "Are strings in Java mutable?",
+  "options": [
+    "Yes",
+    "No, they are immutable",
+    "Only if declared as `var`",
+    "Only when using string buffers"
+  ],
+  "answer": 1,
+  "explanation": "In Java, `String` objects are immutable. Once a String is created, its value cannot be changed. Any modification creates a new String object."
+}

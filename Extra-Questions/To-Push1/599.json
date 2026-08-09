@@ -1,0 +1,14 @@
+{
+  "id": "placement-599",
+  "topic": "less",
+  "difficulty": "Easy",
+  "question": "What is the advantage of less over more?",
+  "options": [
+    "less is faster",
+    "less allows backward navigation",
+    "less uses less memory",
+    "less is always installed by default"
+  ],
+  "answer": 1,
+  "explanation": "less allows both forward and backward navigation through the file, while more only allows forward movement."
+}

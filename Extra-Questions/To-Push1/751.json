@@ -1,0 +1,14 @@
+{
+  "id": "placement-751",
+  "topic": "du",
+  "difficulty": "Easy",
+  "question": "What does the du command do?",
+  "options": [
+    "Shows disk partitions",
+    "Estimates file and directory space usage",
+    "Duplicates files",
+    "Dumps disk data"
+  ],
+  "answer": 1,
+  "explanation": "du (disk usage) estimates and displays the disk space used by files and directories, summarizing the total size of each directory."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-933",
+  "topic": "Algorithms",
+  "difficulty": "Easy",
+  "question": "Which algorithm finds the shortest path in an unweighted graph?",
+  "options": [
+    "Dijkstra's",
+    "BFS",
+    "DFS",
+    "Bellman-Ford"
+  ],
+  "answer": 1,
+  "explanation": "BFS explores uniformly in all directions, finding the shortest path in unweighted graphs."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1284",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is the purpose of the MAC address in a frame?",
+  "options": [
+    "Routing across the internet",
+    "Identifying the source and destination on a local network segment",
+    "Encryption",
+    "Compression"
+  ],
+  "answer": 1,
+  "explanation": "MAC addresses are used by the Data Link layer to deliver frames directly to the correct device on a LAN."
+}

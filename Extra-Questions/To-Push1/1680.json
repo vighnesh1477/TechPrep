@@ -1,0 +1,14 @@
+{
+  "id": "placement-1680",
+  "topic": "Control Flow",
+  "difficulty": "Hard",
+  "question": "What does this C code print?\n`int i=0;`\n`for(; i<3; i++);`\n`{`\n`    int i=10;`\n`    printf(\"%d \", i);`\n`}`",
+  "options": [
+    "0 1 2",
+    "10",
+    "10 10 10",
+    "Compilation Error"
+  ],
+  "answer": 1,
+  "explanation": "The for loop terminates immediately due to the semicolon. The following block is a separate scope where a new local variable `i` is declared and initialized to 10, which is printed once."
+}

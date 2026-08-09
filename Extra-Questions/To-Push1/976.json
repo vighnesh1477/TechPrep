@@ -1,0 +1,14 @@
+{
+  "id": "placement-976",
+  "topic": "SQL",
+  "difficulty": "Medium",
+  "question": "Which operator is used for pattern matching in SQL?",
+  "options": [
+    "=",
+    "LIKE",
+    "MATCH",
+    "BETWEEN"
+  ],
+  "answer": 1,
+  "explanation": "LIKE is used with wildcards (% and _) for pattern matching."
+}

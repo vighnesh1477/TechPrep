@@ -1,0 +1,14 @@
+{
+  "id": "placement-622",
+  "topic": "grep",
+  "difficulty": "Easy",
+  "question": "What does grep -c do?",
+  "options": [
+    "Shows the content of matched lines",
+    "Shows only the count of matching lines",
+    "Makes grep case-sensitive",
+    "Shows column numbers"
+  ],
+  "answer": 1,
+  "explanation": "grep -c only outputs the count of lines that match the pattern, without showing the actual matching lines."
+}

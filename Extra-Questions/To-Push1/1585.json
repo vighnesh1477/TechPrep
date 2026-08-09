@@ -1,0 +1,14 @@
+{
+  "id": "placement-1585",
+  "topic": "Data Representation",
+  "difficulty": "Medium",
+  "question": "What is the two's complement of the 8-bit binary number 01011010?",
+  "options": [
+    "10100101",
+    "10100110",
+    "10100100",
+    "11010010"
+  ],
+  "answer": 1,
+  "explanation": "Step 1: Invert bits -> 10100101. Step 2: Add 1 -> 10100101 + 1 = 10100110."
+}

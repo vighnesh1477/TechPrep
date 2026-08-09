@@ -1,0 +1,14 @@
+{
+  "id": "placement-1919",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Medium",
+  "question": "Two numbers are in 3:5 ratio. If 9 is subtracted from each, ratio becomes 12:23. Smaller number?",
+  "options": [
+    "27",
+    "45",
+    "33",
+    "36"
+  ],
+  "answer": 2,
+  "explanation": "(3x-9)/(5x-9) = 12/23 => 69x-207 = 60x-108 => 9x=99 => x=11. Smaller=33."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2108",
+  "topic": "Alphabet Series",
+  "difficulty": "Medium",
+  "question": "AA, BB, CC, DD, ?",
+  "options": [
+    "EE",
+    "EF",
+    "FF",
+    "GG"
+  ],
+  "answer": 0,
+  "explanation": "Double letters in alphabetical order."
+}

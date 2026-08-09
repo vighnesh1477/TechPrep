@@ -1,0 +1,14 @@
+{
+  "id": "placement-1771",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What is a dangling pointer?",
+  "options": [
+    "A pointer that is NULL",
+    "A pointer that points to a memory location that has been freed or deleted",
+    "A pointer to a void type",
+    "A pointer that points to an array"
+  ],
+  "answer": 1,
+  "explanation": "A dangling pointer arises when a pointer still references a memory location that has been deallocated (freed). Accessing it leads to undefined behavior."
+}

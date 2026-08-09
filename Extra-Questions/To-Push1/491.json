@@ -1,0 +1,14 @@
+{
+  "id": "placement-491",
+  "topic": "Bisect",
+  "difficulty": "Medium",
+  "question": "What is git bisect used for?",
+  "options": [
+    "Splitting a repository into two",
+    "Binary search through commit history to find the commit that introduced a bug",
+    "Comparing two branches",
+    "Dividing a large file into smaller parts"
+  ],
+  "answer": 1,
+  "explanation": "git bisect performs a binary search through the commit history, using good and bad markers to efficiently find the commit that introduced a bug."
+}

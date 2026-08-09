@@ -1,0 +1,14 @@
+{
+  "id": "placement-975",
+  "topic": "SQL",
+  "difficulty": "Medium",
+  "question": "How are NULL values treated in a GROUP BY clause?",
+  "options": [
+    "Ignored",
+    "Treated as a separate group",
+    "Cause an error",
+    "Replaced with 0"
+  ],
+  "answer": 1,
+  "explanation": "All NULL values are grouped together into a single group."
+}

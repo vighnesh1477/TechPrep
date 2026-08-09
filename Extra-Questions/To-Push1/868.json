@@ -1,0 +1,14 @@
+{
+  "id": "placement-868",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "Which constructor is called when an object is created and initialized with another object of the same class?",
+  "options": [
+    "Default",
+    "Parameterized",
+    "Copy",
+    "Destructor"
+  ],
+  "answer": 2,
+  "explanation": "The copy constructor initializes an object using another object of the same class."
+}

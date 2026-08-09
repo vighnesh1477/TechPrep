@@ -1,0 +1,14 @@
+{
+  "id": "placement-1300",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is the difference between paging and segmentation?",
+  "options": [
+    "They are the same",
+    "Paging divides memory into fixed-size blocks; segmentation divides it into variable-sized logical blocks",
+    "Segmentation uses fixed sizes",
+    "Paging is slower"
+  ],
+  "answer": 1,
+  "explanation": "Segmentation is based on the programmer's view (methods, arrays), while paging is an OS-level fixed-size scheme to eliminate external fragmentation."
+}

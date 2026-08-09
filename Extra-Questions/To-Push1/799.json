@@ -1,0 +1,14 @@
+{
+  "id": "placement-799",
+  "topic": "GRUB",
+  "difficulty": "Medium",
+  "question": "What is GRUB2 rescue mode?",
+  "options": [
+    "A mode to rescue deleted files",
+    "A minimal GRUB shell that loads when GRUB cannot find its configuration",
+    "A system recovery mode",
+    "A network boot mode"
+  ],
+  "answer": 1,
+  "explanation": "GRUB rescue mode is a minimal shell that loads when GRUB cannot find its normal configuration file. It provides basic commands to manually locate and boot the kernel."
+}

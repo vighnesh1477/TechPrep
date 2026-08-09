@@ -1,0 +1,14 @@
+{
+  "id": "placement-802",
+  "topic": "GRUB",
+  "difficulty": "Medium",
+  "question": "What does 'GRUB_CMDLINE_LINUX_DEFAULT' in /etc/default/grub control?",
+  "options": [
+    "GRUB menu appearance",
+    "Kernel command-line parameters for normal boot",
+    "GRUB timeout settings",
+    "GRUB password settings"
+  ],
+  "answer": 1,
+  "explanation": "GRUB_CMDLINE_LINUX_DEFAULT specifies kernel parameters passed during normal boot. For example, adding 'quiet splash' suppresses verbose boot messages."
+}

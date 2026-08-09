@@ -1,0 +1,14 @@
+{
+  "id": "placement-1786",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What does `realloc` do?",
+  "options": [
+    "Frees memory and allocates it again",
+    "Resizes a previously allocated memory block",
+    "Allocates memory and initializes it to 0",
+    "Checks for memory leaks"
+  ],
+  "answer": 1,
+  "explanation": "`realloc` changes the size of the memory block pointed to by a pointer, potentially moving the block to a new location if there isn't enough contiguous space."
+}

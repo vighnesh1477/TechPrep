@@ -1,0 +1,14 @@
+{
+  "id": "placement-1921",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Hard",
+  "question": "A mixture has water:milk = 1:2. 20% mixture removed and replaced with water. New ratio?",
+  "options": [
+    "7:8",
+    "8:7",
+    "3:4",
+    "1:1"
+  ],
+  "answer": 0,
+  "explanation": "Milk=2/3. 20% removed. Milk left=0.8*(2/3)=16/30. Water=1/3. Water left=0.8*(1/3)=8/30. Added water=20/30. Total water=28/30. Ratio=28:16=7:8."
+}

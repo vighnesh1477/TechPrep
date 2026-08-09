@@ -1,0 +1,14 @@
+{
+  "id": "placement-1702",
+  "topic": "Functions",
+  "difficulty": "Medium",
+  "question": "What is the output of this Python code?\n`def modify(lst):`\n`    lst.append(4)`\n`my_list = [1, 2, 3]`\n`modify(my_list)`\n`print(len(my_list))`",
+  "options": [
+    "3",
+    "4",
+    "Error",
+    "None"
+  ],
+  "answer": 1,
+  "explanation": "In Python, lists are passed by object reference. The `modify` function receives a reference to the original list and mutates it by appending 4, making its length 4."
+}

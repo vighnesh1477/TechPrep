@@ -1,0 +1,14 @@
+{
+  "id": "placement-638",
+  "topic": "whereis",
+  "difficulty": "Easy",
+  "question": "What does whereis search for by default?",
+  "options": [
+    "Only the binary",
+    "Binary, source, and manual page files",
+    "Only the manual page",
+    "Only the source code"
+  ],
+  "answer": 1,
+  "explanation": "whereis locates the binary, source, and manual page files for a command. It searches in standard Linux directories, not the full PATH."
+}

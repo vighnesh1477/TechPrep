@@ -1,0 +1,14 @@
+{
+  "id": "placement-2194",
+  "topic": "Puzzles",
+  "difficulty": "Easy",
+  "question": "Monday + 2 days = ?",
+  "options": [
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "answer": 0,
+  "explanation": "Monday -> Tuesday -> Wednesday."
+}

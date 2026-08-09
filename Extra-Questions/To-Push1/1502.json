@@ -1,0 +1,14 @@
+{
+  "id": "placement-1502",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "In the context of code quality, what is 'Code Review'?",
+  "options": [
+    "Reading code written by others for learning",
+    "The process of systematically examining source code by peers to find mistakes and improve quality",
+    "Running automated testing tools",
+    "Compiling the code"
+  ],
+  "answer": 1,
+  "explanation": "Code review is a phase in the software development process where developers review each other's code to identify bugs, ensure coding standards are met, and share knowledge."
+}

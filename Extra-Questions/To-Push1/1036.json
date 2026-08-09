@@ -1,0 +1,14 @@
+{
+  "id": "placement-1036",
+  "topic": "Software Engineering",
+  "difficulty": "Easy",
+  "question": "What is a unit test?",
+  "options": [
+    "Testing the whole application",
+    "Testing individual components or functions in isolation",
+    "Testing user interfaces",
+    "Testing network speed"
+  ],
+  "answer": 1,
+  "explanation": "Unit testing focuses on verifying the correctness of isolated units of code, usually functions or methods."
+}

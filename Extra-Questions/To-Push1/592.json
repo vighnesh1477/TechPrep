@@ -1,0 +1,14 @@
+{
+  "id": "placement-592",
+  "topic": "touch",
+  "difficulty": "Easy",
+  "question": "How do you set a file's timestamp to match another file's timestamp using touch?",
+  "options": [
+    "touch -r ref_file target_file",
+    "touch -s ref_file target_file",
+    "touch --same ref_file target_file",
+    "touch -m ref_file target_file"
+  ],
+  "answer": 0,
+  "explanation": "touch -r (reference) uses the timestamp of the reference file (ref_file) as the timestamp for the target file."
+}

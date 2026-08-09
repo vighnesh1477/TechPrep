@@ -1,0 +1,14 @@
+{
+  "id": "placement-949",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "Which algorithm is used to find strongly connected components in a directed graph?",
+  "options": [
+    "Dijkstra's",
+    "Kosaraju's",
+    "Prim's",
+    "Kruskal's"
+  ],
+  "answer": 1,
+  "explanation": "Kosaraju's algorithm uses two DFS passes to find strongly connected components."
+}

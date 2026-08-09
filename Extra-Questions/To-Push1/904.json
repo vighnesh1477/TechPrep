@@ -1,0 +1,14 @@
+{
+  "id": "placement-904",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "How do you handle exceptions in Python?",
+  "options": [
+    "try-catch",
+    "try-except",
+    "try-handle",
+    "catch-except"
+  ],
+  "answer": 1,
+  "explanation": "Python uses the try-except block for exception handling."
+}

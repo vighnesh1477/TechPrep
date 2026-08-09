@@ -1,0 +1,14 @@
+{
+  "id": "placement-998",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "In paging, what resolves a virtual address to a physical address?",
+  "options": [
+    "Compiler",
+    "TLB (Translation Lookaside Buffer) / Page Table",
+    "CPU Register",
+    "Disk Controller"
+  ],
+  "answer": 1,
+  "explanation": "The page table (often cached in the TLB) maps virtual page numbers to physical frame numbers."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1603",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which operator has the highest precedence in C/C++/Java?",
+  "options": [
+    "Addition (+)",
+    "Multiplication (*)",
+    "Postfix Increment (++)",
+    "Logical AND (&&)"
+  ],
+  "answer": 2,
+  "explanation": "Postfix increment/decrement operators generally have higher precedence than multiplicative operators (`*`, `/`, `%`) and additive operators (`+`, `-`)."
+}

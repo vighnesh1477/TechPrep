@@ -1,0 +1,14 @@
+{
+  "id": "placement-2096",
+  "topic": "Number Series",
+  "difficulty": "Medium",
+  "question": "Find next: 0, 2, 6, 12, 20, ?",
+  "options": [
+    "28",
+    "30",
+    "32",
+    "36"
+  ],
+  "answer": 1,
+  "explanation": "Differences: 2, 4, 6, 8, 10. 20+10=30."
+}

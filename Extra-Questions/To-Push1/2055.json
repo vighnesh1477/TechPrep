@@ -1,0 +1,14 @@
+{
+  "id": "placement-2055",
+  "topic": "Algebra",
+  "difficulty": "Medium",
+  "question": "Sum of first 20 natural numbers?",
+  "options": [
+    "200",
+    "210",
+    "220",
+    "230"
+  ],
+  "answer": 1,
+  "explanation": "n(n+1)/2 = 20*21/2 = 210."
+}

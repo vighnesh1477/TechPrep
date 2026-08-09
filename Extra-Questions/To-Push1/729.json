@@ -1,0 +1,14 @@
+{
+  "id": "placement-729",
+  "topic": "ping",
+  "difficulty": "Easy",
+  "question": "How do you limit ping to send exactly 4 packets?",
+  "options": [
+    "ping -n 4 host",
+    "ping -c 4 host",
+    "ping --count 4 host",
+    "ping -l 4 host"
+  ],
+  "answer": 1,
+  "explanation": "ping -c 4 sends exactly 4 ICMP echo requests and then stops. Without -c, ping runs continuously until interrupted with Ctrl+C."
+}

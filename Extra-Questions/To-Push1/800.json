@@ -1,0 +1,14 @@
+{
+  "id": "placement-800",
+  "topic": "GRUB",
+  "difficulty": "Medium",
+  "question": "How do you reset a forgotten root password using GRUB?",
+  "options": [
+    "Edit the GRUB entry to add 'init=/bin/bash' to the kernel line, boot, and then change the password",
+    "Reinstall GRUB from a USB",
+    "Boot into Windows and reset it",
+    "Remove the GRUB password"
+  ],
+  "answer": 0,
+  "explanation": "By editing the GRUB boot entry to add 'init=/bin/bash' or 'rd.break', you can get a root shell without password, then remount the root filesystem and change the password."
+}

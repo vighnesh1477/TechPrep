@@ -1,0 +1,14 @@
+{
+  "id": "placement-1540",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is a 'Reducer' (or reducing operator) in the context of Three-Address Code?",
+  "options": [
+    "An operator that deletes code",
+    "An operator that reduces the size of an expression",
+    "An operator that results in a single value from an array (e.g., array sum)",
+    "An operator used only in assembly"
+  ],
+  "answer": 2,
+  "explanation": "In IR, a reducer takes an array and an identity element and combines the elements to produce a single result (e.g., reducing an array to its sum)."
+}

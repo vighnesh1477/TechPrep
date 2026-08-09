@@ -1,0 +1,14 @@
+{
+  "id": "placement-1097",
+  "topic": "Cloud Basics",
+  "difficulty": "Medium",
+  "question": "What is an Availability Zone in cloud computing?",
+  "options": [
+    "A country",
+    "An isolated location within a region designed to protect against local failures",
+    "A pricing tier",
+    "A type of virtual machine"
+  ],
+  "answer": 1,
+  "explanation": "AZs are distinct data centers within a cloud region, providing redundancy and fault tolerance."
+}

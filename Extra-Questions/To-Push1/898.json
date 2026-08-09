@@ -1,0 +1,14 @@
+{
+  "id": "placement-898",
+  "topic": "Python",
+  "difficulty": "Easy",
+  "question": "Which keyword is used to define a function in Python?",
+  "options": [
+    "func",
+    "function",
+    "def",
+    "define"
+  ],
+  "answer": 2,
+  "explanation": "def is the keyword used to declare a function."
+}

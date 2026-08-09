@@ -1,0 +1,14 @@
+{
+  "id": "placement-1183",
+  "topic": "DBMS",
+  "difficulty": "Easy",
+  "question": "Which SQL command removes all rows from a table without logging individual row deletions?",
+  "options": [
+    "DELETE",
+    "DROP",
+    "TRUNCATE",
+    "REMOVE"
+  ],
+  "answer": 2,
+  "explanation": "TRUNCATE TABLE is faster than DELETE as it deallocates data pages instead of logging row deletes."
+}

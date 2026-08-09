@@ -1,0 +1,14 @@
+{
+  "id": "placement-1756",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What is the output of `print(\"Hello\" * 3)` in Python?",
+  "options": [
+    "HelloHelloHello",
+    "Hello3",
+    "Error",
+    "Hello Hello Hello"
+  ],
+  "answer": 0,
+  "explanation": "In Python, multiplying a string by an integer `n` concatenates the string `n` times without any separators."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-645",
+  "topic": "File Permissions",
+  "difficulty": "Easy",
+  "question": "Which command changes file permissions?",
+  "options": [
+    "chperm",
+    "chmod",
+    "setperm",
+    "fileperm"
+  ],
+  "answer": 1,
+  "explanation": "chmod (change mode) is used to change the file permission bits (read, write, execute) for owner, group, and others."
+}

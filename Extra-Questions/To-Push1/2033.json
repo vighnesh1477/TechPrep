@@ -1,0 +1,14 @@
+{
+  "id": "placement-2033",
+  "topic": "Permutation and Combination",
+  "difficulty": "Medium",
+  "question": "How many 3-digit numbers can be formed from 1,2,3,4,5 without repetition?",
+  "options": [
+    "60",
+    "125",
+    "20",
+    "10"
+  ],
+  "answer": 0,
+  "explanation": "5P3 = 5*4*3 = 60."
+}

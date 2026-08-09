@@ -1,0 +1,14 @@
+{
+  "id": "placement-1077",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Easy",
+  "question": "What does the CIA triad in cybersecurity stand for?",
+  "options": [
+    "Central Intelligence Agency",
+    "Confidentiality, Integrity, Availability",
+    "Cryptographic Internet Access",
+    "Common Internet Architecture"
+  ],
+  "answer": 1,
+  "explanation": "The CIA triad is the core model for information security: Confidentiality, Integrity, and Availability."
+}

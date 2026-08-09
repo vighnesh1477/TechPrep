@@ -1,0 +1,14 @@
+{
+  "id": "placement-347",
+  "topic": "Origin",
+  "difficulty": "Easy",
+  "question": "How do you change the URL of the origin remote?",
+  "options": [
+    "git remote set-url origin https://new-url.com/repo.git",
+    "git remote change origin https://new-url.com/repo.git",
+    "git origin set-url https://new-url.com/repo.git",
+    "git config remote.origin.url https://new-url.com/repo.git"
+  ],
+  "answer": 0,
+  "explanation": "git remote set-url updates the URL of an existing remote, which is useful when a repository has been moved or you need to switch between SSH and HTTPS."
+}

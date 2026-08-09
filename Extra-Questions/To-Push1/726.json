@@ -1,0 +1,14 @@
+{
+  "id": "placement-726",
+  "topic": "Environment Variables",
+  "difficulty": "Easy",
+  "question": "How do you display the value of a specific environment variable HOME?",
+  "options": [
+    "echo $HOME",
+    "printenv HOME",
+    "Both A and B",
+    "show HOME"
+  ],
+  "answer": 2,
+  "explanation": "Both echo $HOME and printenv HOME display the value of the HOME variable. echo uses shell variable expansion, while printenv is a standalone command."
+}

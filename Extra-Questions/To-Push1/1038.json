@@ -1,0 +1,14 @@
+{
+  "id": "placement-1038",
+  "topic": "Software Engineering",
+  "difficulty": "Medium",
+  "question": "What is technical debt?",
+  "options": [
+    "The cost of servers",
+    "The implied cost of future reworking caused by choosing an easy solution now",
+    "Financial debt of the company",
+    "Lack of technical skills"
+  ],
+  "answer": 1,
+  "explanation": "Technical debt is the extra development work needed later because of shortcuts taken in the present."
+}

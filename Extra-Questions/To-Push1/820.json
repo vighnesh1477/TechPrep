@@ -1,0 +1,14 @@
+{
+  "id": "placement-820",
+  "topic": "cut",
+  "difficulty": "Medium",
+  "question": "What does 'cut -d' ' ' -f2,4 file' extract?",
+  "options": [
+    "Fields 2 through 4",
+    "Only fields 2 and 4 using space as delimiter",
+    "Fields 2 and 4 using tab as delimiter",
+    "All fields except 2 and 4"
+  ],
+  "answer": 1,
+  "explanation": "-d' ' sets the delimiter to a space, and -f2,4 extracts only the 2nd and 4th fields. To get a range, use -f2-4."
+}

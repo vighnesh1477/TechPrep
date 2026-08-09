@@ -1,0 +1,14 @@
+{
+  "id": "placement-507",
+  "topic": "Workflow",
+  "difficulty": "Medium",
+  "question": "What is a Git workflow?",
+  "options": [
+    "A programming language for Git",
+    "A set of conventions and practices for using Git in a team",
+    "A Git plugin",
+    "A type of merge strategy"
+  ],
+  "answer": 1,
+  "explanation": "A Git workflow is a recommended or prescribed set of rules and practices for how team members use Git branches, commits, and merges."
+}

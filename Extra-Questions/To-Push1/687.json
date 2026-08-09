@@ -1,0 +1,14 @@
+{
+  "id": "placement-687",
+  "topic": "top",
+  "difficulty": "Easy",
+  "question": "What does the load average line in top represent?",
+  "options": [
+    "CPU temperature averages",
+    "System load averages over 1, 5, and 15 minutes",
+    "Memory load averages",
+    "Disk I/O averages"
+  ],
+  "answer": 1,
+  "explanation": "Load average shows the average system load over the last 1, 5, and 15 minutes. A value equal to the number of CPU cores means the system is fully utilized."
+}

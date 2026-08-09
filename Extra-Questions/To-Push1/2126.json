@@ -1,0 +1,14 @@
+{
+  "id": "placement-2126",
+  "topic": "Coding-Decoding",
+  "difficulty": "Medium",
+  "question": "In a code, 'pil ta zo' means 'very good boy', 'tok ta pit' means 'boy is good'. Code for 'good'?",
+  "options": [
+    "pil",
+    "ta",
+    "zo",
+    "tok"
+  ],
+  "answer": 1,
+  "explanation": "'good boy' is common, 'ta' is common."
+}

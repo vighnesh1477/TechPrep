@@ -1,0 +1,14 @@
+{
+  "id": "placement-1768",
+  "topic": "Pointers and Memory",
+  "difficulty": "Easy",
+  "question": "What does the `&` operator return when applied to a variable?",
+  "options": [
+    "The value of the variable",
+    "The data type of the variable",
+    "The memory address of the variable",
+    "The size of the variable"
+  ],
+  "answer": 2,
+  "explanation": "The address-of operator `&` yields the memory address where a variable is stored in the computer's memory."
+}

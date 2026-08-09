@@ -1,0 +1,14 @@
+{
+  "id": "placement-517",
+  "topic": "Authentication",
+  "difficulty": "Medium",
+  "question": "What are the two primary methods for authenticating with Git remotes?",
+  "options": [
+    "FTP and SMTP",
+    "SSH keys and HTTPS with personal access tokens",
+    "Telnet and RDP",
+    "API keys and cookies"
+  ],
+  "answer": 1,
+  "explanation": "SSH keys and HTTPS with personal access tokens are the two primary authentication methods, with password-based authentication being deprecated by most platforms."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1395",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which SQL keyword is used to filter results based on an aggregate function?",
+  "options": [
+    "WHERE",
+    "GROUP BY",
+    "HAVING",
+    "ORDER BY"
+  ],
+  "answer": 2,
+  "explanation": "The HAVING clause was added to SQL because the WHERE keyword cannot be used with aggregate functions (like SUM(), COUNT()). HAVING filters records after they have been grouped."
+}

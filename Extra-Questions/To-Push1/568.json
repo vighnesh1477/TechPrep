@@ -1,0 +1,14 @@
+{
+  "id": "placement-568",
+  "topic": "mv",
+  "difficulty": "Easy",
+  "question": "What does the mv command do when moving a file within the same file system?",
+  "options": [
+    "Copies then deletes the original",
+    "Updates the directory entry without moving data",
+    "Creates a hard link and removes the original",
+    "Compresses and transfers the file"
+  ],
+  "answer": 1,
+  "explanation": "Within the same file system, mv simply updates the directory entry (inode pointer) without actually moving data on disk, making it nearly instantaneous."
+}

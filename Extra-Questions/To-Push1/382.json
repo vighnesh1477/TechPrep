@@ -1,0 +1,14 @@
+{
+  "id": "placement-382",
+  "topic": "Branches",
+  "difficulty": "Easy",
+  "question": "Which command renames the current branch?",
+  "options": [
+    "git branch --rename new-name",
+    "git branch -m new-name",
+    "git rename-branch new-name",
+    "Both A and B"
+  ],
+  "answer": 3,
+  "explanation": "Both git branch --rename and git branch -m rename the current branch to the specified new name."
+}

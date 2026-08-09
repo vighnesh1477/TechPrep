@@ -1,0 +1,14 @@
+{
+  "id": "placement-1000",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is the time quantum in Round Robin scheduling?",
+  "options": [
+    "The priority of a process",
+    "The maximum time a process can run before being preempted",
+    "The total execution time",
+    "The context switch time"
+  ],
+  "answer": 1,
+  "explanation": "Time quantum defines the slice of time each process gets before the scheduler preempts it."
+}

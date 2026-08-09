@@ -1,0 +1,14 @@
+{
+  "id": "placement-354",
+  "topic": "Push",
+  "difficulty": "Easy",
+  "question": "What does git push --force-with-lease do compared to --force?",
+  "options": [
+    "They are exactly the same",
+    "It checks that the remote hasn't been updated by someone else before forcing",
+    "It forces a lease on the remote repository",
+    "It pushes only leased files"
+  ],
+  "answer": 1,
+  "explanation": "git push --force-with-lease is safer than --force because it first checks that no one else has pushed new commits to the remote branch before overwriting."
+}

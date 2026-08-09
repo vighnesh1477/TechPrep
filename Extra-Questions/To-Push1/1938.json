@@ -1,0 +1,14 @@
+{
+  "id": "placement-1938",
+  "topic": "Time and Work",
+  "difficulty": "Easy",
+  "question": "A can do a work in 10 days. B can do it in 15 days. Together in?",
+  "options": [
+    "5 days",
+    "6 days",
+    "8 days",
+    "12 days"
+  ],
+  "answer": 1,
+  "explanation": "1/10 + 1/15 = 5/30 = 1/6. Together 6 days."
+}

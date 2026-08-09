@@ -1,0 +1,14 @@
+{
+  "id": "placement-1195",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "What is a window function?",
+  "options": [
+    "A function that opens a new tab",
+    "Performs a calculation across a set of table rows related to the current row, without collapsing the result set",
+    "A function that closes a connection",
+    "A function for creating views"
+  ],
+  "answer": 1,
+  "explanation": "Window functions use OVER() to compute values like running totals without grouping rows together."
+}

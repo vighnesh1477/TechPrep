@@ -1,0 +1,14 @@
+{
+  "id": "placement-791",
+  "topic": "Boot Process",
+  "difficulty": "Medium",
+  "question": "What is the correct order of the Linux boot process?",
+  "options": [
+    "Kernel -> BIOS -> GRUB -> Init -> Login",
+    "BIOS -> GRUB -> Kernel -> Initramfs -> Init/Systemd -> Login",
+    "GRUB -> BIOS -> Kernel -> Login",
+    "BIOS -> Kernel -> GRUB -> Init -> Login"
+  ],
+  "answer": 1,
+  "explanation": "The correct sequence is: BIOS/UEFI POST -> Boot loader (GRUB) -> Kernel loads with initramfs -> Init/Systemd starts services -> Login prompt."
+}

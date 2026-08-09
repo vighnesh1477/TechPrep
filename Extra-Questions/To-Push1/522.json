@@ -1,0 +1,14 @@
+{
+  "id": "placement-522",
+  "topic": "Best Practices",
+  "difficulty": "Medium",
+  "question": "What is the recommended approach for making large changes?",
+  "options": [
+    "Make all changes in a single commit",
+    "Break changes into small, logical, self-contained commits",
+    "Use only stash to save changes",
+    "Create one branch per file changed"
+  ],
+  "answer": 1,
+  "explanation": "Small, logical commits are easier to review, revert if needed, and understand in the history. Each commit should represent a single logical change."
+}

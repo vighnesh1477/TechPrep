@@ -1,0 +1,14 @@
+{
+  "id": "placement-931",
+  "topic": "Algorithms",
+  "difficulty": "Easy",
+  "question": "Which sorting algorithm has a best-case time complexity of O(N)?",
+  "options": [
+    "Merge Sort",
+    "Quick Sort",
+    "Bubble Sort",
+    "Insertion Sort"
+  ],
+  "answer": 3,
+  "explanation": "Insertion Sort is O(N) when the array is already sorted."
+}

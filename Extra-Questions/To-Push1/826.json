@@ -1,0 +1,14 @@
+{
+  "id": "placement-826",
+  "topic": "sort",
+  "difficulty": "Medium",
+  "question": "What does 'sort -u file' do?",
+  "options": [
+    "Sorts in Unicode mode",
+    "Sorts and removes duplicate lines",
+    "Uncompresses the file before sorting",
+    "Shows only unique characters"
+  ],
+  "answer": 1,
+  "explanation": "sort -u (unique) sorts the file and removes duplicate lines, keeping only one instance of each unique line."
+}

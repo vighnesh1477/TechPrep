@@ -1,0 +1,14 @@
+{
+  "id": "placement-657",
+  "topic": "chown",
+  "difficulty": "Easy",
+  "question": "What does chown :developers file.txt do?",
+  "options": [
+    "Removes the owner",
+    "Changes only the group to 'developers'",
+    "Changes the owner to 'developers'",
+    "Adds the file to developers group"
+  ],
+  "answer": 1,
+  "explanation": "When only a group is specified (preceded by a colon with no user), chown changes only the group ownership of the file."
+}

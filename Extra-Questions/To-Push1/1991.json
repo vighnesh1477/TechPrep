@@ -1,0 +1,14 @@
+{
+  "id": "placement-1991",
+  "topic": "Simple and Compound Interest",
+  "difficulty": "Hard",
+  "question": "Rs 10000 is invested partly at 8% SI and rest at 10% SI. Total interest Rs 920 in 1 year. Sum at 8%?",
+  "options": [
+    "Rs 3000",
+    "Rs 4000",
+    "Rs 5000",
+    "Rs 6000"
+  ],
+  "answer": 1,
+  "explanation": "0.08x + 0.1(10000-x) = 920 => -0.02x + 1000 = 920 => 0.02x = 80 => x = 4000."
+}

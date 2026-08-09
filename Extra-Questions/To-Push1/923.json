@@ -1,0 +1,14 @@
+{
+  "id": "placement-923",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "Which traversal visits the root node first?",
+  "options": [
+    "Inorder",
+    "Postorder",
+    "Preorder",
+    "Level order"
+  ],
+  "answer": 2,
+  "explanation": "Preorder traversal visits Root, then Left, then Right."
+}

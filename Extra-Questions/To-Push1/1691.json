@@ -1,0 +1,14 @@
+{
+  "id": "placement-1691",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "In a `for` loop in C, can the initialization expression be omitted?",
+  "options": [
+    "No, it is strictly required",
+    "Yes, but the semicolon must remain",
+    "Yes, and the semicolon can also be removed",
+    "Only if the variable is global"
+  ],
+  "answer": 1,
+  "explanation": "Any of the three expressions in a `for` loop (initialization, condition, increment) can be omitted, but the two semicolons separating them must always be present."
+}

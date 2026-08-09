@@ -1,0 +1,14 @@
+{
+  "id": "placement-944",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of the Floyd-Warshall algorithm?",
+  "options": [
+    "O(V^2)",
+    "O(V^3)",
+    "O(E log V)",
+    "O(VE)"
+  ],
+  "answer": 1,
+  "explanation": "Floyd-Warshall uses three nested loops over vertices, resulting in O(V^3) time."
+}

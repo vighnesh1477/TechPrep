@@ -1,0 +1,14 @@
+{
+  "id": "placement-1492",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "What is Regression Testing?",
+  "options": [
+    "Testing a new feature for the first time",
+    "Re-running functional and non-functional tests to ensure that previously developed and tested software still performs correctly after a change",
+    "Testing the software on older hardware",
+    "Testing the speed of the software"
+  ],
+  "answer": 1,
+  "explanation": "Regression testing is performed to confirm that a recent program change or code addition has not adversely affected existing features. It catches unintended side effects."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-513",
+  "topic": "Pull Requests",
+  "difficulty": "Medium",
+  "question": "Can you create a pull request from the same repository?",
+  "options": [
+    "No, pull requests only work across forks",
+    "Yes, you can create a PR between branches in the same repository",
+    "Only if you have admin access",
+    "Only for the main branch"
+  ],
+  "answer": 1,
+  "explanation": "Pull requests can be created between any two branches in the same repository, which is common in the Feature Branch Workflow."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-424",
+  "topic": "Merge",
+  "difficulty": "Easy",
+  "question": "Can you merge a branch into itself?",
+  "options": [
+    "Yes, it creates a self-referential commit",
+    "No, Git reports 'Already up to date'",
+    "Yes, it duplicates all commits",
+    "No, Git deletes the branch"
+  ],
+  "answer": 1,
+  "explanation": "Merging a branch into itself results in Git reporting 'Already up to date' since the branch tip is the same as the merge target."
+}

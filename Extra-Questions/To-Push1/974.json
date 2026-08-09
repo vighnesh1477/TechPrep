@@ -1,0 +1,14 @@
+{
+  "id": "placement-974",
+  "topic": "SQL",
+  "difficulty": "Medium",
+  "question": "What does a subquery in the FROM clause create?",
+  "options": [
+    "A view",
+    "A derived table",
+    "A temporary table",
+    "An index"
+  ],
+  "answer": 1,
+  "explanation": "A subquery in the FROM clause acts as an inline view or derived table for the outer query."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1166",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is the difference between a stack and a queue?",
+  "options": [
+    "No difference",
+    "Stack is LIFO, Queue is FIFO",
+    "Stack is FIFO, Queue is LIFO",
+    "Queue allows insertion at both ends"
+  ],
+  "answer": 1,
+  "explanation": "Stacks process elements Last-In-First-Out, while queues process First-In-First-Out."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1974",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Hard",
+  "question": "Two trains start A and B 300 km apart. One at 30, other at 20 km/h. Bird flies at 50 km/h back and forth. Distance flown?",
+  "options": [
+    "300 km",
+    "400 km",
+    "500 km",
+    "600 km"
+  ],
+  "answer": 0,
+  "explanation": "Trains meet in 300/50 = 6 hrs. Bird flies for 6 hrs at 50 km/h = 300 km."
+}

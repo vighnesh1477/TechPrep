@@ -1,0 +1,14 @@
+{
+  "id": "placement-322",
+  "topic": "Staging Area",
+  "difficulty": "Easy",
+  "question": "What does git add -p do?",
+  "options": [
+    "Adds all files with .p extension",
+    "Lets you interactively choose which hunks of changes to stage",
+    "Adds files in parallel",
+    "Adds only Python files"
+  ],
+  "answer": 1,
+  "explanation": "git add -p (patch mode) lets you review each change hunk and decide whether to include it in the staging area, giving fine-grained control over commits."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-476",
+  "topic": "Fetch",
+  "difficulty": "Medium",
+  "question": "What does git fetch origin feature:feature do?",
+  "options": [
+    "Fetches and merges the feature branch",
+    "Fetches the feature branch from origin and stores it in a local branch named feature",
+    "Deletes the local feature branch",
+    "Renames the remote branch"
+  ],
+  "answer": 1,
+  "explanation": "The refspec origin feature:feature fetches the remote 'feature' branch and stores it in the local 'feature' branch, creating or updating it."
+}

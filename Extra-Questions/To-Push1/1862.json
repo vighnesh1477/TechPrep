@@ -1,0 +1,14 @@
+{
+  "id": "placement-1862",
+  "topic": "Functions",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`void func(int a, int b, int *c) { *c = a - b; }`\n`int main() {\n  int res = 0;\n  func(10, 5, &res);\n  printf(\"%d\", res);\n  return 0;\n}`",
+  "options": [
+    "0",
+    "10",
+    "5",
+    "Error"
+  ],
+  "answer": 2,
+  "explanation": "The function calculates 10 - 5 and stores the result (5) in the memory address pointed to by `c`, which is the address of `res`."
+}

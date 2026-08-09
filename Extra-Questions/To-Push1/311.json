@@ -1,0 +1,14 @@
+{
+  "id": "placement-311",
+  "topic": "Detached HEAD",
+  "difficulty": "Easy",
+  "question": "How do you exit a detached HEAD state?",
+  "options": [
+    "Delete the .git folder",
+    "Switch to any branch using git switch or git checkout",
+    "Run git detach --off",
+    "Restart the computer"
+  ],
+  "answer": 1,
+  "explanation": "You can exit a detached HEAD state by switching to any branch using git switch <branch> or git checkout <branch>, which reattaches HEAD to a branch."
+}

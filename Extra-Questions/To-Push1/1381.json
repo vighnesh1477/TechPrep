@@ -1,0 +1,14 @@
+{
+  "id": "placement-1381",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is 3NF (Third Normal Form)?",
+  "options": [
+    "No partial dependencies",
+    "No transitive dependencies for non-prime attributes",
+    "Every determinant is a candidate key",
+    "All attributes are atomic"
+  ],
+  "answer": 1,
+  "explanation": "3NF requires 2NF and removes transitive dependencies. This means no non-prime attribute should depend on another non-prime attribute (if A->B and B->C, then C must not be non-prime if A is the key)."
+}

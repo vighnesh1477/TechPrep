@@ -1,0 +1,14 @@
+{
+  "id": "placement-496",
+  "topic": "Reflog",
+  "difficulty": "Medium",
+  "question": "How long are reflog entries kept by default?",
+  "options": [
+    "24 hours",
+    "30 days",
+    "90 days",
+    "Forever"
+  ],
+  "answer": 2,
+  "explanation": "By default, reflog entries for non-current branches are kept for 90 days, while entries for the current branch are kept for 30 days (configurable via gc.reflogExpire)."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1490",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Easy",
+  "question": "Which testing phase is performed after integrating different modules together?",
+  "options": [
+    "Unit Testing",
+    "Integration Testing",
+    "System Testing",
+    "Acceptance Testing"
+  ],
+  "answer": 1,
+  "explanation": "Integration testing focuses on verifying the interactions and data flow between different units or modules that have been combined to form a larger subsystem."
+}

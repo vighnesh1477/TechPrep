@@ -1,0 +1,14 @@
+{
+  "id": "placement-1410",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Medium",
+  "question": "How do you select all employees whose names start with 'A' and end with 'n'?",
+  "options": [
+    "SELECT * FROM employees WHERE name LIKE 'A%n'",
+    "SELECT * FROM employees WHERE name LIKE '_A_n'",
+    "SELECT * FROM employees WHERE name BETWEEN 'A' AND 'n'",
+    "SELECT * FROM employees WHERE name = 'A*n'"
+  ],
+  "answer": 0,
+  "explanation": "The % wildcard matches zero or more characters. 'A%n' matches any string starting with 'A', followed by any number of characters, and ending with 'n'."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-527",
+  "topic": "Rebase",
+  "difficulty": "Medium",
+  "question": "What happens during a rebase conflict?",
+  "options": [
+    "Git automatically skips the conflicting commit",
+    "The rebase pauses, and you must resolve the conflict and run git rebase --continue",
+    "Git automatically resolves using 'ours'",
+    "The rebase is automatically aborted"
+  ],
+  "answer": 1,
+  "explanation": "When a conflict occurs during rebase, Git pauses the process, marks the conflicts, and waits for you to resolve them and run git rebase --continue."
+}

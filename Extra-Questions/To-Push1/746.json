@@ -1,0 +1,14 @@
+{
+  "id": "placement-746",
+  "topic": "dpkg",
+  "difficulty": "Easy",
+  "question": "What does 'dpkg -l' do?",
+  "options": [
+    "Loads a deb package",
+    "Lists all installed packages",
+    "Locks a package",
+    "Logs package activity"
+  ],
+  "answer": 1,
+  "explanation": "dpkg -l lists all installed packages in a table format showing package name, version, architecture, and status (ii = installed)."
+}

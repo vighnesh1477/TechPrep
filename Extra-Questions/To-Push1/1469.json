@@ -1,0 +1,14 @@
+{
+  "id": "placement-1469",
+  "topic": "Computer Architecture",
+  "difficulty": "Medium",
+  "question": "What is a hazard in the context of pipelining?",
+  "options": [
+    "A physical danger to the computer",
+    "A situation that prevents the next instruction in the pipeline from executing in its designated clock cycle",
+    "A type of computer virus",
+    "An error in the operating system"
+  ],
+  "answer": 1,
+  "explanation": "Pipeline hazards are situations where the next instruction cannot execute in the proper clock cycle. They are classified as Structural (resource conflicts), Data (data dependencies), or Control (branching)."
+}

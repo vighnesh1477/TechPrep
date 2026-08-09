@@ -1,0 +1,14 @@
+{
+  "id": "placement-503",
+  "topic": "Git LFS",
+  "difficulty": "Medium",
+  "question": "What does git lfs track '*.psd' do?",
+  "options": [
+    "Deletes all PSD files",
+    "Configures LFS to manage all PSD files, storing them on the LFS server",
+    "Compresses all PSD files",
+    "Moves PSD files to a separate branch"
+  ],
+  "answer": 1,
+  "explanation": "git lfs track configures Git LFS to intercept matching files and store them on the LFS server, replacing them with lightweight pointer files in the repository."
+}

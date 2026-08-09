@@ -1,0 +1,14 @@
+{
+  "id": "placement-1217",
+  "topic": "Git",
+  "difficulty": "Medium",
+  "question": "What does `git bisect` do?",
+  "options": [
+    "Split a repository",
+    "Uses binary search to find the commit that introduced a bug",
+    "Merge two branches",
+    "Delete commits"
+  ],
+  "answer": 1,
+  "explanation": "git bisect helps pinpoint the exact commit that caused a bug by repeatedly halving the search range."
+}

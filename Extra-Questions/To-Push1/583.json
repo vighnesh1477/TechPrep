@@ -1,0 +1,14 @@
+{
+  "id": "placement-583",
+  "topic": "rmdir",
+  "difficulty": "Easy",
+  "question": "What condition must be met for rmdir to remove a directory?",
+  "options": [
+    "The directory must be empty",
+    "The user must be root",
+    "The directory must not be a subdirectory",
+    "The directory must be writable"
+  ],
+  "answer": 0,
+  "explanation": "rmdir only removes empty directories. If the directory contains any files or subdirectories, rmdir will fail with an error."
+}

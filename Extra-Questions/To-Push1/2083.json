@@ -1,0 +1,14 @@
+{
+  "id": "placement-2083",
+  "topic": "Number Series",
+  "difficulty": "Easy",
+  "question": "Find the next: 2, 4, 6, 8, ?",
+  "options": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "answer": 1,
+  "explanation": "Arithmetic progression with difference 2."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1208",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is a loopback address?",
+  "options": [
+    "127.0.0.1",
+    "192.168.1.1",
+    "0.0.0.0",
+    "255.255.255.255"
+  ],
+  "answer": 0,
+  "explanation": "127.0.0.1 is the loopback address, used to route traffic back to the same machine."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1233",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is DHCP?",
+  "options": [
+    "A routing protocol",
+    "Dynamic Host Configuration Protocol, which automatically assigns IP addresses to devices",
+    "A security protocol",
+    "A web server"
+  ],
+  "answer": 1,
+  "explanation": "DHCP dynamically distributes network configuration parameters, such as IP addresses, to devices on a network."
+}

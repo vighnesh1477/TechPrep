@@ -1,0 +1,14 @@
+{
+  "id": "placement-1848",
+  "topic": "Pointers and Memory",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int arr[] = {1, 2, 3};`\n`printf(\"%d\", -arr[1]);`",
+  "options": [
+    "-2",
+    "2",
+    "Compilation Error",
+    "65534"
+  ],
+  "answer": 0,
+  "explanation": "The unary minus operator can be applied to integer variables. `arr[1]` is 2, and `-2` is printed."
+}

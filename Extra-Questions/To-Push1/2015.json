@@ -1,0 +1,14 @@
+{
+  "id": "placement-2015",
+  "topic": "Probability",
+  "difficulty": "Easy",
+  "question": "A bag has 3 red, 2 blue balls. Probability of red?",
+  "options": [
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5"
+  ],
+  "answer": 2,
+  "explanation": "Total=5, Red=3. P=3/5."
+}

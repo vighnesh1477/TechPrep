@@ -1,0 +1,14 @@
+{
+  "id": "placement-2019",
+  "topic": "Probability",
+  "difficulty": "Medium",
+  "question": "A card drawn from deck. Probability of king or heart?",
+  "options": [
+    "13/52",
+    "16/52",
+    "17/52",
+    "4/52"
+  ],
+  "answer": 1,
+  "explanation": "Kings=4, Hearts=13. King of hearts counted twice. Total=4+13-1=16. P=16/52."
+}

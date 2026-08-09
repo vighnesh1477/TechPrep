@@ -1,0 +1,14 @@
+{
+  "id": "placement-2179",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Medium",
+  "question": "Statement: 'Apply for the job before 10th Dec.' Assumption: Applications will be accepted after 10th Dec.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 2,
+  "explanation": "A deadline implies applications are NOT accepted after it."
+}

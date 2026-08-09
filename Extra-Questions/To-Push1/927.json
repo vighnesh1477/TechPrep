@@ -1,0 +1,14 @@
+{
+  "id": "placement-927",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "Which data structure is best for implementing a priority queue?",
+  "options": [
+    "Array",
+    "Linked List",
+    "Heap",
+    "Stack"
+  ],
+  "answer": 2,
+  "explanation": "Heaps allow O(1) access to the max/min and O(log N) insertion/deletion."
+}

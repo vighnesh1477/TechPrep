@@ -1,0 +1,14 @@
+{
+  "id": "placement-1405",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the difference between WHERE and HAVING clauses?",
+  "options": [
+    "WHERE filters rows before grouping; HAVING filters groups after aggregation",
+    "WHERE filters groups; HAVING filters rows",
+    "They are completely interchangeable",
+    "WHERE can use aggregate functions; HAVING cannot"
+  ],
+  "answer": 0,
+  "explanation": "WHERE is used to filter individual rows before GROUP BY is applied. HAVING is used to filter the groups created by GROUP BY based on aggregate function results."
+}

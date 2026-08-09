@@ -1,0 +1,14 @@
+{
+  "id": "placement-1826",
+  "topic": "Basic Algorithms",
+  "difficulty": "Medium",
+  "question": "Is Binary Search stable?",
+  "options": [
+    "Yes, always",
+    "No, because it does not deal with multiple identical elements in a way that preserves order",
+    "It depends on the implementation",
+    "Stability does not apply to search algorithms"
+  ],
+  "answer": 3,
+  "explanation": "Stability is a property of sorting algorithms, referring to preserving the relative order of equal elements. The concept of stability does not apply to search algorithms."
+}

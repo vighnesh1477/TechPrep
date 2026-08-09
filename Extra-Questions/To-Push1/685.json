@@ -1,0 +1,14 @@
+{
+  "id": "placement-685",
+  "topic": "top",
+  "difficulty": "Easy",
+  "question": "How do you quit the top command?",
+  "options": [
+    "Press q",
+    "Press Escape",
+    "Press Ctrl+C",
+    "Press x"
+  ],
+  "answer": 0,
+  "explanation": "Pressing 'q' quits the top command and returns to the shell prompt."
+}

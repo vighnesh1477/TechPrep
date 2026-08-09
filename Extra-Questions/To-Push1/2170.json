@@ -1,0 +1,14 @@
+{
+  "id": "placement-2170",
+  "topic": "Statements and Conclusions",
+  "difficulty": "Medium",
+  "question": "Statement: Most software engineers know Python. Conclusion: Some people who know Python are software engineers.",
+  "options": [
+    "Follows",
+    "Does not follow",
+    "Partially follows",
+    "Contradiction"
+  ],
+  "answer": 0,
+  "explanation": "'Most A are B' implies 'Some B are A'."
+}

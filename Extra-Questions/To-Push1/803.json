@@ -1,0 +1,14 @@
+{
+  "id": "placement-803",
+  "topic": "awk",
+  "difficulty": "Medium",
+  "question": "What does 'awk '{print $1}' file.txt' do?",
+  "options": [
+    "Prints the first line of the file",
+    "Prints the first field of each line",
+    "Prints the first character of each line",
+    "Prints lines starting with '1'"
+  ],
+  "answer": 1,
+  "explanation": "awk splits each line into fields (by default on whitespace). $1 refers to the first field, $2 the second, etc. $0 is the entire line."
+}

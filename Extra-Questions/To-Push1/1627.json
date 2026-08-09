@@ -1,0 +1,14 @@
+{
+  "id": "placement-1627",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the result of `int('1010', 2)` in Python?",
+  "options": [
+    "1010",
+    "10",
+    "5",
+    "2"
+  ],
+  "answer": 1,
+  "explanation": "The `int(string, base)` function converts a string representation of a number in a given base to a decimal integer. Binary '1010' equals 10 in decimal."
+}

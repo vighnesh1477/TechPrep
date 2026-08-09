@@ -1,0 +1,14 @@
+{
+  "id": "placement-279",
+  "topic": "Branches",
+  "difficulty": "Easy",
+  "question": "What is a branch in Git?",
+  "options": [
+    "A copy of the entire repository",
+    "A lightweight movable pointer to a commit",
+    "A separate folder in the filesystem",
+    "A backup of the working tree"
+  ],
+  "answer": 1,
+  "explanation": "In Git, a branch is simply a lightweight pointer to a commit, making branch creation and switching extremely fast operations."
+}

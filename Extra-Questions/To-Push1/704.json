@@ -1,0 +1,14 @@
+{
+  "id": "placement-704",
+  "topic": "renice",
+  "difficulty": "Easy",
+  "question": "How do you change the nice value of PID 1234 to 5?",
+  "options": [
+    "renice 5 1234",
+    "renice -n 5 -p 1234",
+    "Both A and B",
+    "renice --set 5 1234"
+  ],
+  "answer": 2,
+  "explanation": "Both 'renice 5 1234' and 'renice -n 5 -p 1234' set the nice value of process 1234 to 5."
+}

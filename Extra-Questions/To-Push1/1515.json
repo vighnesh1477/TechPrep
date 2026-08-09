@@ -1,0 +1,14 @@
+{
+  "id": "placement-1515",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is a Compiler?",
+  "options": [
+    "A program that executes code line by line",
+    "A program that translates high-level source code into low-level machine code in one go",
+    "A program that links libraries",
+    "A program that debugs code"
+  ],
+  "answer": 1,
+  "explanation": "A compiler is a special program that processes statements written in a particular programming language and turns them into machine language or 'code' that a computer's processor uses."
+}

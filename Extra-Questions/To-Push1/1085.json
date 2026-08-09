@@ -1,0 +1,14 @@
+{
+  "id": "placement-1085",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Medium",
+  "question": "What is the difference between symmetric and asymmetric encryption?",
+  "options": [
+    "No difference",
+    "Symmetric uses one key; asymmetric uses a public/private key pair",
+    "Asymmetric is faster",
+    "Symmetric is less secure"
+  ],
+  "answer": 1,
+  "explanation": "Symmetric encryption uses a shared secret key; asymmetric uses mathematically linked public and private keys."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2190",
+  "topic": "Seating Arrangement",
+  "difficulty": "Medium",
+  "question": "In a row, P is 10th from left, Q is 9th from right. They interchange, P is 15th from left. How many people?",
+  "options": [
+    "23",
+    "24",
+    "25",
+    "26"
+  ],
+  "answer": 0,
+  "explanation": "Q's original position from left = Total - 9 + 1 = T - 8. P is now at 15th. So Q was at 15th. T - 8 = 15 => T = 23."
+}

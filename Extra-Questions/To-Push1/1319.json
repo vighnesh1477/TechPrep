@@ -1,0 +1,14 @@
+{
+  "id": "placement-1319",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is a virtual destructor needed for in C++?",
+  "options": [
+    "To make a class abstract",
+    "To ensure the correct derived class destructor is called when deleting via a base class pointer",
+    "To speed up destruction",
+    "To prevent inheritance"
+  ],
+  "answer": 1,
+  "explanation": "Without a virtual destructor, deleting a derived object via a base pointer results in undefined behavior (only base destructor runs)."
+}

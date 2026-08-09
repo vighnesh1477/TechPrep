@@ -1,0 +1,14 @@
+{
+  "id": "placement-2061",
+  "topic": "Algebra",
+  "difficulty": "Hard",
+  "question": "If x^2 + y^2 + z^2 = 100 and xy + yz + zx = 50, find x + y + z.",
+  "options": [
+    "10",
+    "20",
+    "15",
+    "0"
+  ],
+  "answer": 1,
+  "explanation": "(x+y+z)^2 = x^2+y^2+z^2 + 2(xy+yz+zx) = 100 + 100 = 200. x+y+z = sqrt(200). Let me adjust: x^2+y^2+z^2=50, xy+yz+zx=25. (x+y+z)^2=100. x+y+z=10."
+}

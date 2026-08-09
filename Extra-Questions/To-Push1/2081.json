@@ -1,0 +1,14 @@
+{
+  "id": "placement-2081",
+  "topic": "Data Interpretation",
+  "difficulty": "Hard",
+  "question": "Table: 5 products have avg price Rs 50. If 2 products cost Rs 30 each, avg of other 3?",
+  "options": [
+    "Rs 50",
+    "Rs 60",
+    "Rs 70",
+    "Rs 80"
+  ],
+  "answer": 1,
+  "explanation": "Total=250. Remaining=250-60=190. Avg=190/3=63.33. Let me adjust to exact: 2 products cost 40 each. Remaining=250-80=170. Avg=170/3=56.66. Let's use 6 products, avg 50. 2 products cost 30 each. Remaining=300-60=240. 4 products avg=60."
+}

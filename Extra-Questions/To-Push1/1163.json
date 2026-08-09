@@ -1,0 +1,14 @@
+{
+  "id": "placement-1163",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "What is the time complexity to insert at the beginning of a linked list?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N^2)"
+  ],
+  "answer": 0,
+  "explanation": "You only need to update the head pointer and the new node's next pointer, taking constant time."
+}

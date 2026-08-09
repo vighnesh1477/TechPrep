@@ -1,0 +1,14 @@
+{
+  "id": "placement-818",
+  "topic": "cut",
+  "difficulty": "Medium",
+  "question": "How do you extract the first field from a colon-delimited file?",
+  "options": [
+    "cut -f1 -d: file",
+    "cut -d: -f1 file",
+    "Both A and B",
+    "cut --field1 --delim=: file"
+  ],
+  "answer": 2,
+  "explanation": "Both 'cut -f1 -d: file' and 'cut -d: -f1 file' extract the first field. -d specifies the delimiter and -f specifies the field number."
+}

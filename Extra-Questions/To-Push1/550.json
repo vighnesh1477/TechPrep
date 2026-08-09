@@ -1,0 +1,14 @@
+{
+  "id": "placement-550",
+  "topic": "pwd",
+  "difficulty": "Easy",
+  "question": "Which option with pwd avoids following symlinks?",
+  "options": [
+    "pwd -a",
+    "pwd -L",
+    "pwd -P",
+    "pwd -s"
+  ],
+  "answer": 2,
+  "explanation": "pwd -P displays the physical directory without following symbolic links. The default behavior (-L) follows symlinks."
+}

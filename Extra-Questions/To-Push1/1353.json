@@ -1,0 +1,14 @@
+{
+  "id": "placement-1353",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which system call is used to create a new process in Unix/Linux?",
+  "options": [
+    "create()",
+    "fork()",
+    "init()",
+    "spawn()"
+  ],
+  "answer": 1,
+  "explanation": "The fork() system call creates a new process by duplicating the calling process (the parent). The new process is the child process."
+}

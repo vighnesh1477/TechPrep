@@ -1,0 +1,14 @@
+{
+  "id": "placement-544",
+  "topic": "Linux Basics",
+  "difficulty": "Easy",
+  "question": "What is the root directory represented by in Linux?",
+  "options": [
+    "C:\\",
+    "/",
+    "~",
+    "."
+  ],
+  "answer": 1,
+  "explanation": "The root directory is represented by a forward slash (/) in Linux. It is the top-level directory in the file system hierarchy."
+}

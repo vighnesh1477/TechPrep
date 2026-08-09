@@ -1,0 +1,14 @@
+{
+  "id": "placement-2112",
+  "topic": "Alphabet Series",
+  "difficulty": "Hard",
+  "question": "ABE, BCF, CDG, ?",
+  "options": [
+    "DEH",
+    "DFI",
+    "DEH",
+    "EFH"
+  ],
+  "answer": 0,
+  "explanation": "First: +1, Second: +1, Third: +1."
+}

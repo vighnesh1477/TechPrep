@@ -1,0 +1,14 @@
+{
+  "id": "placement-1203",
+  "topic": "Operating Systems",
+  "difficulty": "Hard",
+  "question": "What is an inverted page table?",
+  "options": [
+    "A table sorted backwards",
+    "A single table entry per physical frame, mapping frame to process and virtual page, saving space",
+    "A table for the hard drive",
+    "An encrypted page table"
+  ],
+  "answer": 1,
+  "explanation": "Inverted page tables reduce memory overhead by indexing by physical address instead of virtual address, common in 64-bit systems."
+}

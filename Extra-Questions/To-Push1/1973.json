@@ -1,0 +1,14 @@
+{
+  "id": "placement-1973",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Hard",
+  "question": "A person walks at 4/5 of usual speed, is 10 mins late. Usual time?",
+  "options": [
+    "30 mins",
+    "40 mins",
+    "50 mins",
+    "60 mins"
+  ],
+  "answer": 1,
+  "explanation": "Speed ratio 4:5, Time ratio 5:4. 1 unit = 10 mins. Usual time = 4 units = 40 mins."
+}

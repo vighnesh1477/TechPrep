@@ -1,0 +1,14 @@
+{
+  "id": "placement-1857",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is the output?\n`def f(n):\n    if n == 0: return\n    print(n, end=\" \")\n    f(n-1)\n    print(n, end=\" \")\nf(3)`",
+  "options": [
+    "3 2 1 1 2 3",
+    "1 2 3 3 2 1",
+    "3 2 1",
+    "3 2 1 0 1 2 3"
+  ],
+  "answer": 0,
+  "explanation": "Prints during the calling phase (3, 2, 1) and then during the returning phase (1, 2, 3). The output is 3 2 1 1 2 3."
+}

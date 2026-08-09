@@ -1,0 +1,14 @@
+{
+  "id": "placement-1298",
+  "topic": "DBMS",
+  "difficulty": "Hard",
+  "question": "What is a multivalued dependency?",
+  "options": [
+    "A foreign key referencing multiple tables",
+    "A condition where two attributes in a table independently depend on a third attribute, violating 4NF",
+    "A primary key with multiple values",
+    "A trigger that fires multiple times"
+  ],
+  "answer": 1,
+  "explanation": "4NF eliminates multivalued dependencies, which occur when an entity has multiple independent multi-valued attributes."
+}

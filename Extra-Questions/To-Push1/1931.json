@@ -1,0 +1,14 @@
+{
+  "id": "placement-1931",
+  "topic": "Averages",
+  "difficulty": "Medium",
+  "question": "A batsman averages 50 in 10 innings. How many runs to score in 11th to average 55?",
+  "options": [
+    "100",
+    "105",
+    "110",
+    "115"
+  ],
+  "answer": 1,
+  "explanation": "Required sum = 11 * 55 = 605. Current sum = 10 * 50 = 500. Runs needed = 105."
+}

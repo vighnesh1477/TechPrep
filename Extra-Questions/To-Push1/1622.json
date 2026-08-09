@@ -1,0 +1,14 @@
+{
+  "id": "placement-1622",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the output of `print(2 ** 3 ** 2)` in Python?",
+  "options": [
+    "64",
+    "512",
+    "36",
+    "128"
+  ],
+  "answer": 1,
+  "explanation": "In Python, the exponentiation operator `**` is right-associative. It evaluates as `2 ** (3 ** 2)` = `2 ** 9` = 512."
+}

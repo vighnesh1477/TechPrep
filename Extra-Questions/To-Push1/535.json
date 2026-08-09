@@ -1,0 +1,14 @@
+{
+  "id": "placement-535",
+  "topic": "Stash",
+  "difficulty": "Medium",
+  "question": "How do you apply a specific stash entry by its index?",
+  "options": [
+    "git stash apply 0",
+    "git stash apply stash@{0}",
+    "Both A and B",
+    "git stash apply --index 0"
+  ],
+  "answer": 2,
+  "explanation": "Both git stash apply 0 (shorthand) and git stash apply stash@{0} (explicit) apply the first stash entry. The stash@{n} syntax is the full reflog-style reference."
+}

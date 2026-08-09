@@ -1,0 +1,14 @@
+{
+  "id": "placement-1375",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is a Functional Dependency (FD) in DBMS?",
+  "options": [
+    "A relationship between two different databases",
+    "A constraint where the value of one attribute uniquely determines the value of another attribute",
+    "A dependency on a specific database software",
+    "A function written in SQL"
+  ],
+  "answer": 1,
+  "explanation": "A functional dependency, denoted as X -> Y, means that for any two tuples, if they agree on attribute X, they must also agree on attribute Y."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2067",
+  "topic": "Data Interpretation",
+  "difficulty": "Easy",
+  "question": "In a table, 50 students passed out of 200. Pass percentage?",
+  "options": [
+    "20%",
+    "25%",
+    "30%",
+    "40%"
+  ],
+  "answer": 1,
+  "explanation": "50/200 * 100 = 25%."
+}

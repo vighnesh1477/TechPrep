@@ -1,0 +1,14 @@
+{
+  "id": "placement-1286",
+  "topic": "Software Engineering",
+  "difficulty": "Medium",
+  "question": "What is a user story in Agile?",
+  "options": [
+    "A manual",
+    "A short, simple description of a feature told from the perspective of the user",
+    "A bug report",
+    "A database query"
+  ],
+  "answer": 1,
+  "explanation": "User stories follow the format: 'As a [type of user], I want [some action] so that [some benefit].'"
+}

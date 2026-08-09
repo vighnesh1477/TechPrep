@@ -1,0 +1,14 @@
+{
+  "id": "placement-606",
+  "topic": "more",
+  "difficulty": "Easy",
+  "question": "What does more +10 file.txt do?",
+  "options": [
+    "Shows 10 lines at a time",
+    "Starts displaying from line 10",
+    "Shows the first 10 lines only",
+    "Adds 10 blank lines before display"
+  ],
+  "answer": 1,
+  "explanation": "more +10 starts displaying the file from line 10, skipping the first 9 lines."
+}

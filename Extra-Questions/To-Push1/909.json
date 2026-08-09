@@ -1,0 +1,14 @@
+{
+  "id": "placement-909",
+  "topic": "Python",
+  "difficulty": "Hard",
+  "question": "What happens when you modify a dictionary while iterating over it?",
+  "options": [
+    "Works fine",
+    "RuntimeError: dictionary changed size",
+    "Logical error",
+    "KeyError"
+  ],
+  "answer": 1,
+  "explanation": "Iterating over a dict while adding/deleting items raises a RuntimeError."
+}

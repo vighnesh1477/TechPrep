@@ -1,0 +1,14 @@
+{
+  "id": "placement-1451",
+  "topic": "Computer Networks Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the purpose of the sliding window protocol in TCP?",
+  "options": [
+    "To encrypt data",
+    "To control the rate of data transmission between sender and receiver, providing flow control and reliability",
+    "To resolve IP addresses",
+    "To manage routing tables"
+  ],
+  "answer": 1,
+  "explanation": "The sliding window protocol allows the sender to transmit multiple packets before waiting for an acknowledgment. It manages flow control (preventing overwhelming the receiver) and efficiency."
+}

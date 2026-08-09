@@ -1,0 +1,14 @@
+{
+  "id": "placement-1511",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Hard",
+  "question": "In Agile, what is 'Story Points' used for?",
+  "options": [
+    "To measure the exact time a task will take",
+    "As a relative measure of the effort required to complete a user story, considering complexity, risk, and effort",
+    "To count the number of bugs fixed",
+    "To calculate developer salaries"
+  ],
+  "answer": 1,
+  "explanation": "Story points are a unit of measure for expressing an estimate of the overall effort required to fully implement a product backlog item. They are relative, not absolute (e.g., hours)."
+}

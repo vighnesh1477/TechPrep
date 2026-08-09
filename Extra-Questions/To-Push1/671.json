@@ -1,0 +1,14 @@
+{
+  "id": "placement-671",
+  "topic": "Hard Links",
+  "difficulty": "Easy",
+  "question": "What happens to the data when you delete the original file but a hard link exists?",
+  "options": [
+    "The data is immediately deleted",
+    "The data remains accessible through the hard link",
+    "The data becomes corrupted",
+    "The hard link becomes a symbolic link"
+  ],
+  "answer": 1,
+  "explanation": "Since hard links point to the same inode, deleting the original file only removes one directory entry. The data persists as long as at least one hard link exists."
+}

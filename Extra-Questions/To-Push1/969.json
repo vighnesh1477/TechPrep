@@ -1,0 +1,14 @@
+{
+  "id": "placement-969",
+  "topic": "SQL",
+  "difficulty": "Easy",
+  "question": "Which join returns all rows from both tables, matching where possible?",
+  "options": [
+    "INNER JOIN",
+    "LEFT JOIN",
+    "RIGHT JOIN",
+    "FULL OUTER JOIN"
+  ],
+  "answer": 3,
+  "explanation": "FULL OUTER JOIN combines LEFT and RIGHT joins, returning all rows from both sides."
+}

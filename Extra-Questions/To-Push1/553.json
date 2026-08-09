@@ -1,0 +1,14 @@
+{
+  "id": "placement-553",
+  "topic": "ls",
+  "difficulty": "Easy",
+  "question": "What does ls -l display?",
+  "options": [
+    "Only file names",
+    "Long listing format with permissions, owner, size, and modification time",
+    "Only directories",
+    "Files in a single column"
+  ],
+  "answer": 1,
+  "explanation": "ls -l uses long listing format showing file type, permissions, number of hard links, owner, group, size, and modification timestamp."
+}

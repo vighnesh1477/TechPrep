@@ -1,0 +1,14 @@
+{
+  "id": "placement-1049",
+  "topic": "Git",
+  "difficulty": "Easy",
+  "question": "What is a branch in Git?",
+  "options": [
+    "A separate repository",
+    "An independent line of development",
+    "A deleted file",
+    "A tag"
+  ],
+  "answer": 1,
+  "explanation": "Branches allow you to diverge from the main line of development and work independently."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-865",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What happens if you free a pointer twice?",
+  "options": [
+    "Nothing",
+    "The memory is zeroed out",
+    "Double free error/Undefined behavior",
+    "Pointer becomes NULL"
+  ],
+  "answer": 2,
+  "explanation": "Calling free() on an already freed pointer causes undefined behavior, often a crash."
+}

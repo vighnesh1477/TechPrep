@@ -1,0 +1,14 @@
+{
+  "id": "placement-576",
+  "topic": "rm",
+  "difficulty": "Easy",
+  "question": "Which option makes rm prompt before every removal?",
+  "options": [
+    "rm -p",
+    "rm -i",
+    "rm -a",
+    "rm -v"
+  ],
+  "answer": 1,
+  "explanation": "rm -i prompts for confirmation before removing each file. This is a safety measure often set as an alias in interactive shells."
+}

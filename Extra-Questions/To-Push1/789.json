@@ -1,0 +1,14 @@
+{
+  "id": "placement-789",
+  "topic": "Boot Process",
+  "difficulty": "Medium",
+  "question": "What is the role of GRUB in the Linux boot process?",
+  "options": [
+    "It manages network connections",
+    "It is a boot loader that loads the Linux kernel into memory",
+    "It compiles the kernel",
+    "It manages user logins"
+  ],
+  "answer": 1,
+  "explanation": "GRUB (Grand Unified Boot Loader) is a boot loader that presents a menu, loads the selected kernel and initramfs into memory, and passes control to the kernel."
+}

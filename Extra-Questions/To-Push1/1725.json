@@ -1,0 +1,14 @@
+{
+  "id": "placement-1725",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "question": "What happens if you access an array index that is out of bounds in C?",
+  "options": [
+    "It throws an ArrayIndexOutOfBoundsException",
+    "It returns 0",
+    "It leads to undefined behavior",
+    "It automatically resizes the array"
+  ],
+  "answer": 2,
+  "explanation": "C does not perform bounds checking on arrays. Accessing an out-of-bounds index results in undefined behavior, which might cause a crash or read garbage data."
+}

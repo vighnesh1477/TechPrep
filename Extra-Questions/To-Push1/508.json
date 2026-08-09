@@ -1,0 +1,14 @@
+{
+  "id": "placement-508",
+  "topic": "Git Flow",
+  "difficulty": "Medium",
+  "question": "Which branches are mandatory in the Git Flow model?",
+  "options": [
+    "main and develop",
+    "main, develop, feature, release, and hotfix",
+    "Only main",
+    "main and feature"
+  ],
+  "answer": 0,
+  "explanation": "In Git Flow, main and develop are the two primary long-lived branches. Feature, release, and hotfix branches are created as needed."
+}

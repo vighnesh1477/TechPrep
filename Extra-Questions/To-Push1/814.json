@@ -1,0 +1,14 @@
+{
+  "id": "placement-814",
+  "topic": "sed",
+  "difficulty": "Medium",
+  "question": "How do you substitute 'old' with 'new' only on lines containing 'pattern'?",
+  "options": [
+    "sed '/pattern/s/old/new/' file",
+    "sed 's/old/new/ /pattern/' file",
+    "sed 's/old/new/g && /pattern/' file",
+    "sed 'pattern s/old/new/' file"
+  ],
+  "answer": 0,
+  "explanation": "The address '/pattern/' restricts the substitution command to only lines matching 'pattern'. Lines not matching the pattern are left unchanged."
+}

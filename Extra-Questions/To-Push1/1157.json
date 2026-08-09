@@ -1,0 +1,14 @@
+{
+  "id": "placement-1157",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is the output of `print(list(map(str, [1, 2, 3])))`?",
+  "options": [
+    "[1, 2, 3]",
+    "['1', '2', '3']",
+    "[str, str, str]",
+    "Error"
+  ],
+  "answer": 1,
+  "explanation": "map applies the str function to each integer, converting them to strings in a new list."
+}

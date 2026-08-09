@@ -1,0 +1,14 @@
+{
+  "id": "placement-1960",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Easy",
+  "question": "A train 100m long crosses a pole in 10s. Speed?",
+  "options": [
+    "10 m/s",
+    "15 m/s",
+    "20 m/s",
+    "25 m/s"
+  ],
+  "answer": 0,
+  "explanation": "Speed = Distance/Time = 100/10 = 10 m/s."
+}

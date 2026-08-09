@@ -1,0 +1,14 @@
+{
+  "id": "placement-1285",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "Can you override a private method in Java?",
+  "options": [
+    "Yes",
+    "No, because private methods are not visible to the subclass",
+    "Only if it is static",
+    "Only if it is final"
+  ],
+  "answer": 1,
+  "explanation": "Private methods are not inherited, so technically a subclass can define a new method with the same name, but it is not overriding."
+}

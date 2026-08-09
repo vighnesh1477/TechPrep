@@ -1,0 +1,14 @@
+{
+  "id": "placement-836",
+  "topic": "wc",
+  "difficulty": "Medium",
+  "question": "What does 'wc -c file' show?",
+  "options": [
+    "Character count (same as byte count for ASCII)",
+    "Column count",
+    "Compressed size",
+    "Chunk count"
+  ],
+  "answer": 0,
+  "explanation": "wc -c counts bytes. For ASCII text, this equals the character count. For UTF-8 with multi-byte characters, use 'wc -m' for the true character count."
+}

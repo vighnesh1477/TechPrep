@@ -1,0 +1,14 @@
+{
+  "id": "placement-1500",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Medium",
+  "question": "What is 'Technical Debt'?",
+  "options": [
+    "The cost of buying software licenses",
+    "The implied cost of future reworking required when choosing an easy, limited solution now instead of a better approach",
+    "The salary of the development team",
+    "The money spent on fixing bugs"
+  ],
+  "answer": 1,
+  "explanation": "Technical debt is the concept that when developers take shortcuts or use suboptimal solutions to meet deadlines, they incur 'debt' that will need to be 'paid back' later with extra refactoring work."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1178",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of the Sieve of Eratosthenes to find primes up to N?",
+  "options": [
+    "O(N)",
+    "O(N log log N)",
+    "O(N^2)",
+    "O(N log N)"
+  ],
+  "answer": 1,
+  "explanation": "The Sieve efficiently marks non-primes, resulting in a time complexity of O(N log log N)."
+}

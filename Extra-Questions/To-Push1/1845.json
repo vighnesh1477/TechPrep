@@ -1,0 +1,14 @@
+{
+  "id": "placement-1845",
+  "topic": "Functions",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int x = 10;`\n`int& foo() { return x; }`\n`int main() { foo() = 20; cout << x; return 0; }`",
+  "options": [
+    "10",
+    "20",
+    "Error",
+    "Garbage"
+  ],
+  "answer": 1,
+  "explanation": "`foo()` returns a reference to the global variable `x`. Assigning 20 to this reference directly modifies `x`. Thus, `x` becomes 20."
+}

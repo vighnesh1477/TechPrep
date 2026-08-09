@@ -1,0 +1,14 @@
+{
+  "id": "placement-917",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "What is the advantage of a doubly linked list over a singly linked list?",
+  "options": [
+    "Uses less memory",
+    "Can be traversed backwards",
+    "Faster search",
+    "Less complexity"
+  ],
+  "answer": 1,
+  "explanation": "Doubly linked lists have previous pointers, allowing backward traversal."
+}

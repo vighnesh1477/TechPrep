@@ -1,0 +1,14 @@
+{
+  "id": "placement-2141",
+  "topic": "Blood Relations",
+  "difficulty": "Hard",
+  "question": "If A + B means A is the father of B, A - B means A is the wife of B. What is M - N + P?",
+  "options": [
+    "Mother",
+    "Grandmother",
+    "Sister",
+    "Daughter"
+  ],
+  "answer": 0,
+  "explanation": "M is wife of N, N is father of P. M is the mother of P."
+}

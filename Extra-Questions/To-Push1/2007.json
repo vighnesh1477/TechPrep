@@ -1,0 +1,14 @@
+{
+  "id": "placement-2007",
+  "topic": "Ages",
+  "difficulty": "Medium",
+  "question": "A is 5 years older than B. 5 years ago, A was twice B's age. B's present age?",
+  "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+  ],
+  "answer": 1,
+  "explanation": "A=B+5. A-5 = 2(B-5) => B+5-5 = 2B-10 => B=10."
+}

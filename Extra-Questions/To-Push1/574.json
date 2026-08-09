@@ -1,0 +1,14 @@
+{
+  "id": "placement-574",
+  "topic": "rm",
+  "difficulty": "Easy",
+  "question": "What does rm -f do?",
+  "options": [
+    "Removes only files",
+    "Force removes without prompting, ignores nonexistent files",
+    "Removes files in foreground",
+    "Fast removes by skipping checks"
+  ],
+  "answer": 1,
+  "explanation": "rm -f forces removal without prompting for confirmation and ignores nonexistent files and arguments without reporting errors."
+}

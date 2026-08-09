@@ -1,0 +1,14 @@
+{
+  "id": "placement-1709",
+  "topic": "Functions",
+  "difficulty": "Easy",
+  "question": "Where should a function declaration typically be placed in C?",
+  "options": [
+    "After the main function",
+    "Before the function is called (e.g., at the top of the file or in a header)",
+    "Inside the main function",
+    "It does not matter where it is placed"
+  ],
+  "answer": 1,
+  "explanation": "In C, a function must be declared before it is called. This is typically done by placing prototypes at the top of the file or in a header file."
+}

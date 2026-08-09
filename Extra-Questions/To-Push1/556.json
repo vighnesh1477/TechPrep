@@ -1,0 +1,14 @@
+{
+  "id": "placement-556",
+  "topic": "ls",
+  "difficulty": "Easy",
+  "question": "Which command lists files with human-readable file sizes?",
+  "options": [
+    "ls -h",
+    "ls -H",
+    "ls --human",
+    "ls -m"
+  ],
+  "answer": 0,
+  "explanation": "ls -h displays file sizes in human-readable format (e.g., 1K, 2M, 3G) instead of bytes. It is commonly combined with -l as ls -lh."
+}

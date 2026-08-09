@@ -1,0 +1,14 @@
+{
+  "id": "placement-1624",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "In C++, what is the difference between `float` and `double`?",
+  "options": [
+    "`float` is 8 bytes, `double` is 4 bytes",
+    "`float` has less precision and smaller range than `double`",
+    "`float` stores integers, `double` stores decimals",
+    "There is no difference"
+  ],
+  "answer": 1,
+  "explanation": "`double` typically occupies 8 bytes and has about 15-17 decimal digits of precision, while `float` occupies 4 bytes and has about 6-9 decimal digits of precision."
+}

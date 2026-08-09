@@ -1,0 +1,14 @@
+{
+  "id": "placement-1078",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Easy",
+  "question": "What is phishing?",
+  "options": [
+    "A network attack",
+    "A social engineering attack using fraudulent communications to steal data",
+    "A type of virus",
+    "A firewall rule"
+  ],
+  "answer": 1,
+  "explanation": "Phishing tricks victims into revealing sensitive information by masquerading as a trustworthy entity."
+}

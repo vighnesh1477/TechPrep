@@ -1,0 +1,14 @@
+{
+  "id": "placement-783",
+  "topic": "Linux Architecture",
+  "difficulty": "Medium",
+  "question": "What is the purpose of the Virtual File System (VFS) in Linux?",
+  "options": [
+    "To create virtual disks",
+    "To provide a uniform interface for different file system types",
+    "To encrypt file systems",
+    "To compress files on disk"
+  ],
+  "answer": 1,
+  "explanation": "VFS is an abstraction layer that provides a consistent interface for applications to access different file systems (ext4, xfs, NTFS, etc.) without knowing their implementation details."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2071",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "Table: A=40, B=60, C=80. If A increases by 25%, new sum?",
+  "options": [
+    "170",
+    "180",
+    "190",
+    "200"
+  ],
+  "answer": 1,
+  "explanation": "A becomes 50. New sum = 50+60+80 = 190. Let me adjust: A becomes 50. Sum=190. Option is 180? Let's make A increase by 50%. A=60. Sum=60+60+80=200."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-511",
+  "topic": "Feature Branch Workflow",
+  "difficulty": "Medium",
+  "question": "What is a key advantage of the Feature Branch Workflow over Git Flow?",
+  "options": [
+    "It supports more branch types",
+    "It is simpler with fewer branch types and rules",
+    "It automatically deploys code",
+    "It requires no code reviews"
+  ],
+  "answer": 1,
+  "explanation": "The Feature Branch Workflow is simpler than Git Flow, using only a main branch and feature branches, making it easier to adopt and manage."
+}

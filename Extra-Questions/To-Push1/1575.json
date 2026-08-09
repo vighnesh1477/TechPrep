@@ -1,0 +1,14 @@
+{
+  "id": "placement-1575",
+  "topic": "Data Representation",
+  "difficulty": "Easy",
+  "question": "What is Two's Complement primarily used for?",
+  "options": [
+    "Encrypting data",
+    "Representing signed (positive and negative) integers in binary",
+    "Compressing data",
+    "Error detection"
+  ],
+  "answer": 1,
+  "explanation": "Two's complement is the standard way of representing signed integers in computers. It allows the most significant bit to act as a sign bit and simplifies arithmetic operations."
+}

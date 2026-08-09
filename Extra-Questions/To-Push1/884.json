@@ -1,0 +1,14 @@
+{
+  "id": "placement-884",
+  "topic": "Java",
+  "difficulty": "Easy",
+  "question": "What does JVM stand for?",
+  "options": [
+    "Java Variable Machine",
+    "Java Virtual Machine",
+    "Java Visual Machine",
+    "Java Verified Machine"
+  ],
+  "answer": 1,
+  "explanation": "JVM stands for Java Virtual Machine."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2073",
+  "topic": "Data Interpretation",
+  "difficulty": "Medium",
+  "question": "A table has 5 rows with avg 20. If one row is 30, avg of other 4?",
+  "options": [
+    "16.25",
+    "17.5",
+    "18.75",
+    "20"
+  ],
+  "answer": 1,
+  "explanation": "Total=100. Remaining=70. Avg=70/4=17.5."
+}

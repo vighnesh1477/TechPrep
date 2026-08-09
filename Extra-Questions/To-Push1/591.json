@@ -1,0 +1,14 @@
+{
+  "id": "placement-591",
+  "topic": "touch",
+  "difficulty": "Easy",
+  "question": "What does touch -c do?",
+  "options": [
+    "Creates a compressed file",
+    "Does not create the file if it does not exist",
+    "Copies timestamps from another file",
+    "Clears the file content"
+  ],
+  "answer": 1,
+  "explanation": "touch -c (no-create) does not create a file if it does not exist. It only updates timestamps of existing files."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-282",
+  "topic": "Branch Creation",
+  "difficulty": "Easy",
+  "question": "Which command creates a new branch without switching to it?",
+  "options": [
+    "git new-branch feature",
+    "git branch feature",
+    "git create-branch feature",
+    "git switch --create-only feature"
+  ],
+  "answer": 1,
+  "explanation": "git branch <name> creates a new branch pointing to the current commit but does not switch your working tree to that branch."
+}

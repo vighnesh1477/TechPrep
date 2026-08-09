@@ -1,0 +1,14 @@
+{
+  "id": "placement-567",
+  "topic": "cp",
+  "difficulty": "Easy",
+  "question": "What is the result of 'cp file1.txt file2.txt file3.txt /backup/'?",
+  "options": [
+    "Error, cp can only copy one file at a time",
+    "All three files are copied to /backup/",
+    "Files are concatenated into one in /backup/",
+    "Only file1.txt is copied"
+  ],
+  "answer": 1,
+  "explanation": "cp can copy multiple source files to a destination directory. All three files will be copied into /backup/."
+}

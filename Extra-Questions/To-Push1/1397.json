@@ -1,0 +1,14 @@
+{
+  "id": "placement-1397",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which JOIN returns all records from the left table and the matched records from the right table?",
+  "options": [
+    "INNER JOIN",
+    "RIGHT JOIN",
+    "LEFT JOIN",
+    "FULL JOIN"
+  ],
+  "answer": 2,
+  "explanation": "A LEFT JOIN (or LEFT OUTER JOIN) returns all rows from the left table, and the matched rows from the right table. Unmatched rows from the right table will contain NULLs."
+}

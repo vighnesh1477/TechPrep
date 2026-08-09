@@ -1,0 +1,14 @@
+{
+  "id": "placement-2177",
+  "topic": "Statements and Assumptions",
+  "difficulty": "Medium",
+  "question": "Statement: 'Deposit money by 5 PM today to avoid penalty.' Assumption: People have money to deposit.",
+  "options": [
+    "Implicit",
+    "Explicit",
+    "Not implicit",
+    "Contradictory"
+  ],
+  "answer": 1,
+  "explanation": "It is an instruction to those who already intend to deposit, not an assumption that everyone has money."
+}

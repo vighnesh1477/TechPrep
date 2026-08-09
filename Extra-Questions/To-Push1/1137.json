@@ -1,0 +1,14 @@
+{
+  "id": "placement-1137",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "What is the difference between `==` and `equals()` in Java?",
+  "options": [
+    "No difference",
+    "== compares references, equals() compares content",
+    "== compares content, equals() compares references",
+    "equals() is for primitives"
+  ],
+  "answer": 1,
+  "explanation": "For objects, == checks if they point to the same memory location, while equals() checks logical equality."
+}

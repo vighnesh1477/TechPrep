@@ -1,0 +1,14 @@
+{
+  "id": "placement-1387",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Hard",
+  "question": "In the Two-Phase Locking (2PL) protocol, what causes a deadlock?",
+  "options": [
+    "Releasing all locks immediately",
+    "The growing phase (acquiring locks) followed by the shrinking phase (releasing locks) can lead to circular waits",
+    "Acquiring only shared locks",
+    "2PL inherently prevents deadlocks"
+  ],
+  "answer": 1,
+  "explanation": "Basic 2PL does not prevent deadlocks. Because transactions can hold locks while waiting for others in the growing phase, a circular wait condition can occur. Strict 2PL or timestamps are needed to prevent deadlocks."
+}

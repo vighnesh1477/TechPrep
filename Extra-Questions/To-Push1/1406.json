@@ -1,0 +1,14 @@
+{
+  "id": "placement-1406",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Medium",
+  "question": "What will `SELECT COUNT(*) FROM employees GROUP BY department_id` return?",
+  "options": [
+    "The total number of employees in the company",
+    "A single row with the count of one department",
+    "A list of the number of employees in each department",
+    "An error"
+  ],
+  "answer": 2,
+  "explanation": "GROUP BY groups rows that have the same values into summary rows. This query will return one row per department, showing the count of employees in that specific department."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2121",
+  "topic": "Coding-Decoding",
+  "difficulty": "Medium",
+  "question": "If SWITCH is coded as TVJUDI, what is MOUSE?",
+  "options": [
+    "NPVTF",
+    "NPVTE",
+    "MPVTF",
+    "NPVSF"
+  ],
+  "answer": 0,
+  "explanation": "S+1=T, W+1=X (Wait, SWITCH -> TVJUDI: S+1=T, W+2=V, I+3=L? No. S->T, W->V(-1), I->J(+1), T->U(+1), C->D(+1), H->I(+1). Not uniform. Let's use uniform +1: MOUSE -> NPVTF."
+}

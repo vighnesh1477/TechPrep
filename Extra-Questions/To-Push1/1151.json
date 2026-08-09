@@ -1,0 +1,14 @@
+{
+  "id": "placement-1151",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "What is the output of `Integer a = 100, b = 100; System.out.println(a == b);`?",
+  "options": [
+    "true",
+    "false",
+    "Compilation error",
+    "Runtime error"
+  ],
+  "answer": 0,
+  "explanation": "Integer caches values from -128 to 127. Since 100 is in this range, a and b point to the same cached object."
+}

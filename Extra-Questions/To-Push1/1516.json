@@ -1,0 +1,14 @@
+{
+  "id": "placement-1516",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is an Interpreter?",
+  "options": [
+    "A program that translates the entire code before execution",
+    "A program that translates and executes source code line by line",
+    "A program that compiles code faster",
+    "A program that optimizes code"
+  ],
+  "answer": 1,
+  "explanation": "An interpreter reads and executes code line by line or statement by statement. It does not produce a separate executable file like a compiler."
+}

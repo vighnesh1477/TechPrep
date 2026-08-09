@@ -1,0 +1,14 @@
+{
+  "id": "placement-856",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What happens when you pass an array to a function?",
+  "options": [
+    "A copy of the array is passed",
+    "The base address of the array is passed",
+    "The first element is passed",
+    "A compiler error occurs"
+  ],
+  "answer": 1,
+  "explanation": "Arrays decay to pointers to their first element when passed to functions."
+}

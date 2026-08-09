@@ -1,0 +1,14 @@
+{
+  "id": "placement-1712",
+  "topic": "Functions",
+  "difficulty": "Hard",
+  "question": "What is the output of this C++ code?\n`int& func() { int a = 10; return a; }`\n`int main() { int &ref = func(); cout << ref; return 0; }`",
+  "options": [
+    "10",
+    "0",
+    "Garbage value",
+    "Compilation Error"
+  ],
+  "answer": 2,
+  "explanation": "This returns a reference to a local variable `a` which is destroyed when `func` exits. The reference `ref` becomes dangling, leading to undefined behavior (often a garbage value)."
+}

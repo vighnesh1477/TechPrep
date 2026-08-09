@@ -1,0 +1,14 @@
+{
+  "id": "placement-497",
+  "topic": "Reflog",
+  "difficulty": "Medium",
+  "question": "How can you recover a commit that was lost after git reset --hard?",
+  "options": [
+    "It cannot be recovered",
+    "Find the commit in git reflog and reset to it",
+    "Run git undo",
+    "Restore from the remote only"
+  ],
+  "answer": 1,
+  "explanation": "git reflog records the previous position of the branch before the reset, so you can find the lost commit hash and reset back to it."
+}

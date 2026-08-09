@@ -1,0 +1,14 @@
+{
+  "id": "placement-2187",
+  "topic": "Seating Arrangement",
+  "difficulty": "Medium",
+  "question": "8 people sit around a circle. A is opposite D. B is 2nd left of A. Who is opposite B?",
+  "options": [
+    "C",
+    "E",
+    "F",
+    "G"
+  ],
+  "answer": 1,
+  "explanation": "A is 1, D is 5. B is 2nd left of A (7). Opposite of 7 is 3. 3rd seat is E (assuming A,B,C,D,E,F,G,H)."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-947",
+  "topic": "Algorithms",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of finding the Longest Common Subsequence (LCS) of two strings of length M and N?",
+  "options": [
+    "O(M+N)",
+    "O(M*N)",
+    "O(2^(M+N))",
+    "O(M log N)"
+  ],
+  "answer": 1,
+  "explanation": "Standard DP solution for LCS uses a 2D table of size MxN, taking O(M*N) time."
+}

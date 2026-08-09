@@ -1,0 +1,14 @@
+{
+  "id": "placement-1135",
+  "topic": "C++",
+  "difficulty": "Medium",
+  "question": "What is a template in C++?",
+  "options": [
+    "A HTML file",
+    "A blueprint for creating generic classes or functions",
+    "A macro",
+    "A pointer type"
+  ],
+  "answer": 1,
+  "explanation": "Templates allow writing code that operates on generic types, enabling code reuse."
+}

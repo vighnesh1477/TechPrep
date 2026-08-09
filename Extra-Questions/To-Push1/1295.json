@@ -1,0 +1,14 @@
+{
+  "id": "placement-1295",
+  "topic": "Python",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of `list.pop(0)`?",
+  "options": [
+    "O(1)",
+    "O(N)",
+    "O(log N)",
+    "O(N^2)"
+  ],
+  "answer": 1,
+  "explanation": "Popping from the front of a Python list requires shifting all remaining elements left by one, taking O(N) time."
+}

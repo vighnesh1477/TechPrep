@@ -1,0 +1,14 @@
+{
+  "id": "placement-1800",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is tail recursion?",
+  "options": [
+    "Recursion where the base case is at the end",
+    "Recursion where the recursive call is the very last operation performed in the function",
+    "Recursion that involves a tail pointer",
+    "Recursion that is very slow"
+  ],
+  "answer": 1,
+  "explanation": "In tail recursion, the recursive call is the final action. This allows compilers to optimize it into a loop (tail call optimization), preventing stack overflow."
+}

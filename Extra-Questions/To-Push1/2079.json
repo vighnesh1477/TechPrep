@@ -1,0 +1,14 @@
+{
+  "id": "placement-2079",
+  "topic": "Data Interpretation",
+  "difficulty": "Hard",
+  "question": "A pie chart has A=25%, B=35%. Remaining is C and D in ratio 2:1. Angle of D?",
+  "options": [
+    "24 deg",
+    "36 deg",
+    "48 deg",
+    "60 deg"
+  ],
+  "answer": 1,
+  "explanation": "Remaining = 40%. D = 40/3 % = 40/300 * 360 = 48 deg. Let me recalculate. 40/3 * 3.6 = 48 deg."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-400",
+  "topic": "Clone",
+  "difficulty": "Easy",
+  "question": "What does git clone --mirror do?",
+  "options": [
+    "Creates a regular clone with a mirrored directory structure",
+    "Creates a bare mirror clone that includes all refs including remote-tracking ones",
+    "Clones only the main branch as a mirror",
+    "Creates a read-only clone"
+  ],
+  "answer": 1,
+  "explanation": "git clone --mirror creates a bare repository that mirrors all refs from the source, including remote-tracking branches, suitable for backup purposes."
+}

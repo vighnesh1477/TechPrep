@@ -1,0 +1,14 @@
+{
+  "id": "placement-607",
+  "topic": "more",
+  "difficulty": "Easy",
+  "question": "Can you navigate backward in more?",
+  "options": [
+    "Yes, with the Up arrow",
+    "Yes, with the b key",
+    "No, more only supports forward navigation",
+    "Yes, with the Backspace key"
+  ],
+  "answer": 2,
+  "explanation": "more does not support backward navigation. This is a key limitation compared to less, which allows scrolling both directions."
+}

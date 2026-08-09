@@ -1,0 +1,14 @@
+{
+  "id": "placement-1881",
+  "topic": "Percentages",
+  "difficulty": "Easy",
+  "question": "If 60% of x is 300, what is x?",
+  "options": [
+    "400",
+    "450",
+    "500",
+    "600"
+  ],
+  "answer": 2,
+  "explanation": "0.6x = 300 => x = 500."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1846",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "question": "What is the value of `*(arr + 2)` if `int arr[3][2] = {{1,2}, {3,4}, {5,6}};`?",
+  "options": [
+    "2",
+    "3",
+    "5",
+    "Error"
+  ],
+  "answer": 0,
+  "explanation": "`arr` points to `arr[0]`. `arr + 2` points to `arr[2]`. But `arr[2]` is an array, which decays to a pointer. Wait, `*(arr + 2)` is `arr[2]`, which decays to a pointer! This prints a memory address, not an integer. To get 5, it must be `*(*(arr+2)+0)`. So this question needs a correction."
+}

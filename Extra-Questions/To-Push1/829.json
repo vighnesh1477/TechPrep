@@ -1,0 +1,14 @@
+{
+  "id": "placement-829",
+  "topic": "uniq",
+  "difficulty": "Medium",
+  "question": "What does 'uniq -c' show?",
+  "options": [
+    "Only unique lines",
+    "A count of occurrences prefixed to each line",
+    "Compressed output",
+    "Character-level uniqueness"
+  ],
+  "answer": 1,
+  "explanation": "uniq -c prefixes each line with the number of times it occurs consecutively. This is useful for frequency analysis after sorting."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-2113",
+  "topic": "Coding-Decoding",
+  "difficulty": "Easy",
+  "question": "If CAT is coded as FDW, how is DOG coded?",
+  "options": [
+    "GRJ",
+    "GRI",
+    "HRJ",
+    "HSJ"
+  ],
+  "answer": 0,
+  "explanation": "Each letter shifted by +3."
+}

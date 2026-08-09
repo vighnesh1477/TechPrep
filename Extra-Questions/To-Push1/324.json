@@ -1,0 +1,14 @@
+{
+  "id": "placement-324",
+  "topic": "Commits",
+  "difficulty": "Easy",
+  "question": "Which flag allows creating an empty commit?",
+  "options": [
+    "--empty",
+    "--allow-empty",
+    "--blank",
+    "--no-files"
+  ],
+  "answer": 1,
+  "explanation": "git commit --allow-empty creates a commit with no changes, which can be useful for triggering CI/CD pipelines or documenting workflow steps."
+}

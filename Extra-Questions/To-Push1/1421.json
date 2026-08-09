@@ -1,0 +1,14 @@
+{
+  "id": "placement-1421",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the difference between a clustered and a non-clustered index regarding how they handle data retrieval?",
+  "options": [
+    "Clustered indexes store pointers to data; non-clustered store the actual data",
+    "Clustered indexes dictate the physical sorting of the data pages; non-clustered maintain a separate logical structure pointing to the physical data",
+    "Non-clustered indexes are faster for range queries",
+    "Clustered indexes cannot be created on primary keys"
+  ],
+  "answer": 1,
+  "explanation": "A clustered index sorts and stores the data rows in the table based on their key values (leaf nodes ARE the data). A non-clustered index has a structure separate from the data rows, containing the key and a pointer to the row."
+}

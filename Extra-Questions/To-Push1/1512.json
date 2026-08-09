@@ -1,0 +1,14 @@
+{
+  "id": "placement-1512",
+  "topic": "Software Engineering Basics",
+  "difficulty": "Hard",
+  "question": "What is a 'Smoke Test'?",
+  "options": [
+    "Testing hardware for smoke",
+    "A preliminary test run to check if the basic, critical functionalities of a software build are working before proceeding with deeper testing",
+    "A performance test under heavy load",
+    "A security test"
+  ],
+  "answer": 1,
+  "explanation": "Smoke testing (also called build verification testing) is a non-exhaustive test to ensure that the most crucial functions work. The term comes from hardware testing, where a device literally smokes if it fails."
+}

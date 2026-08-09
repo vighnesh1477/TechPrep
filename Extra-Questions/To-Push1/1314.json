@@ -1,0 +1,14 @@
+{
+  "id": "placement-1314",
+  "topic": "Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of Shell Sort?",
+  "options": [
+    "O(N log N)",
+    "O(N^2)",
+    "Depends on the gap sequence used, generally better than O(N^2)",
+    "O(N)"
+  ],
+  "answer": 2,
+  "explanation": "Shell Sort's performance varies based on the gap sequence (e.g., Shell's original is O(N^2), while Hibbard's is O(N^(3/2)))."
+}

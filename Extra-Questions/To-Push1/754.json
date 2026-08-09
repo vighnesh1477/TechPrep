@@ -1,0 +1,14 @@
+{
+  "id": "placement-754",
+  "topic": "mount",
+  "difficulty": "Easy",
+  "question": "How do you display all currently mounted file systems?",
+  "options": [
+    "mount -l",
+    "mount",
+    "findmnt",
+    "All of the above"
+  ],
+  "answer": 3,
+  "explanation": "All three commands can display mounted file systems. 'mount' without arguments shows all mounts, 'mount -l' adds labels, and 'findmnt' shows them in a tree format."
+}

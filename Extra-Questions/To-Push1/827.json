@@ -1,0 +1,14 @@
+{
+  "id": "placement-827",
+  "topic": "sort",
+  "difficulty": "Medium",
+  "question": "What does 'sort -k2,2n -t' ' ' file' do?",
+  "options": [
+    "Sorts by the second field numerically using space as delimiter",
+    "Sorts fields 2 through 2n",
+    "Sorts by the second and nth fields",
+    "Sorts in non-numeric mode"
+  ],
+  "answer": 0,
+  "explanation": "-k2,2n means sort key starts at field 2, ends at field 2, with numeric sort. -t' ' sets the delimiter to space."
+}

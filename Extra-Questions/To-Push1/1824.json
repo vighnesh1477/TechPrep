@@ -1,0 +1,14 @@
+{
+  "id": "placement-1824",
+  "topic": "Basic Algorithms",
+  "difficulty": "Hard",
+  "question": "What is the output after the first pass of Bubble Sort on `[5, 1, 4, 2, 8]`?",
+  "options": [
+    "[1, 4, 2, 5, 8]",
+    "[1, 5, 4, 2, 8]",
+    "[1, 2, 4, 5, 8]",
+    "[5, 1, 2, 4, 8]"
+  ],
+  "answer": 0,
+  "explanation": "Bubble sort compares adjacent pairs: (5,1)->swap [1,5,4,2,8]; (5,4)->swap [1,4,5,2,8]; (5,2)->swap [1,4,2,5,8]; (5,8)->no swap. Result: [1, 4, 2, 5, 8]."
+}

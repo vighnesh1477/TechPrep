@@ -1,0 +1,14 @@
+{
+  "id": "placement-1598",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "What happens when you assign a floating-point value to an integer variable in C without explicit casting?",
+  "options": [
+    "The compiler throws an error",
+    "The fractional part is truncated",
+    "The value is rounded to the nearest integer",
+    "The floating-point value is stored as-is"
+  ],
+  "answer": 1,
+  "explanation": "In C, implicit conversion from float to int truncates the decimal part. For example, 3.9 becomes 3, not 4."
+}

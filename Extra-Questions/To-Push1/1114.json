@@ -1,0 +1,14 @@
+{
+  "id": "placement-1114",
+  "topic": "Computer Architecture",
+  "difficulty": "Medium",
+  "question": "What is pipelining in CPU architecture?",
+  "options": [
+    "Breaking a program into files",
+    "Overlapping execution of multiple instructions by dividing them into stages",
+    "Running multiple programs at once",
+    "Storing data in a pipeline"
+  ],
+  "answer": 1,
+  "explanation": "Pipelining improves CPU throughput by allowing multiple instructions to be processed simultaneously in different stages."
+}

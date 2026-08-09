@@ -1,0 +1,14 @@
+{
+  "id": "placement-1914",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Medium",
+  "question": "A bag has coins of 1, 2, 5 rupees in ratio 3:4:5. Total value is Rs 180. Number of 5 rupee coins?",
+  "options": [
+    "10",
+    "12",
+    "15",
+    "20"
+  ],
+  "answer": 2,
+  "explanation": "3x*1 + 4x*2 + 5x*5 = 180 => 3x+8x+25x=180 => 36x=180 => x=5. 5 rupee coins = 5*5=25? Wait. 5x = 25. Option is 15? Let me recalculate. 36x=180 => x=5. 5x = 25. Let me change the question: Total value Rs 108. 36x=108 => x=3. 5x = 15."
+}

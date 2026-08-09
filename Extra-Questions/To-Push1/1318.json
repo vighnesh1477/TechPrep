@@ -1,0 +1,14 @@
+{
+  "id": "placement-1318",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is the maximum speed of standard Gigabit Ethernet?",
+  "options": [
+    "100 Mbps",
+    "1 Gbps",
+    "10 Gbps",
+    "100 Gbps"
+  ],
+  "answer": 1,
+  "explanation": "Gigabit Ethernet transmits data at a rate of 1,000,000,000 bits per second (1 Gbps)."
+}

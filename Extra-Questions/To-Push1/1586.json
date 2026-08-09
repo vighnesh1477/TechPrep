@@ -1,0 +1,14 @@
+{
+  "id": "placement-1586",
+  "topic": "Data Representation",
+  "difficulty": "Medium",
+  "question": "What is the advantage of Two's Complement over One's Complement?",
+  "options": [
+    "It requires more bits",
+    "It has a single representation for zero, simplifying arithmetic logic",
+    "It can represent larger positive numbers",
+    "It is easier to convert to hexadecimal"
+  ],
+  "answer": 1,
+  "explanation": "One's complement has two representations for zero (+0 and -0), which complicates logic. Two's complement has only one zero, and addition/subtraction are handled identically."
+}

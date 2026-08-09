@@ -1,0 +1,14 @@
+{
+  "id": "placement-1796",
+  "topic": "Recursion",
+  "difficulty": "Medium",
+  "question": "What is the output of `fact(5)` if `fact(n) = n * fact(n-1)` and `fact(0) = 1`?",
+  "options": [
+    "25",
+    "120",
+    "24",
+    "50"
+  ],
+  "answer": 1,
+  "explanation": "5 * 4 * 3 * 2 * 1 * 1 = 120. The recursive calls build up: fact(1)=1, fact(2)=2, fact(3)=6, fact(4)=24, fact(5)=120."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-957",
+  "topic": "DBMS",
+  "difficulty": "Medium",
+  "question": "What is an index in a database?",
+  "options": [
+    "A constraint",
+    "A data structure that speeds up data retrieval",
+    "A primary key",
+    "A foreign key"
+  ],
+  "answer": 1,
+  "explanation": "Indexes create a secondary data structure (like B-tree) to find rows faster."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1325",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is a process in an operating system?",
+  "options": [
+    "A physical hardware component",
+    "A program in execution",
+    "A type of computer virus",
+    "An operating system kernel module"
+  ],
+  "answer": 1,
+  "explanation": "A process is an instance of a computer program that is being executed. It contains the program code and its current activity."
+}

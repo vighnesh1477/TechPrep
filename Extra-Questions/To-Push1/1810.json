@@ -1,0 +1,14 @@
+{
+  "id": "placement-1810",
+  "topic": "Recursion",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int f(int &x, int y) {`\n`  if(y == 0) return 1;`\n`  return x * f(x, y-1);`\n`}`\n`int main() { int a=2; cout << f(a, 3); return 0; }`",
+  "options": [
+    "6",
+    "8",
+    "9",
+    "2"
+  ],
+  "answer": 1,
+  "explanation": "This calculates `x^y` recursively. `2 * f(2, 2)` -> `2 * 2 * f(2, 1)` -> `2 * 2 * 2 * f(2, 0)` -> `2 * 2 * 2 * 1 = 8`."
+}

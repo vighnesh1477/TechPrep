@@ -1,0 +1,14 @@
+{
+  "id": "placement-1685",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What is the output?\n`x = 15`\n`if x > 20:\n    print(\"Greater\")\n`elif x > 10:\n    print(\"Medium\")\n`elif x > 5:\n    print(\"Small\")\n`else:\n    print(\"Tiny\")`",
+  "options": [
+    "Greater",
+    "Medium",
+    "Small",
+    "Tiny"
+  ],
+  "answer": 1,
+  "explanation": "x=15. `x > 20` is false. `x > 10` is true. Once a true condition is found in an `if-elif` chain, that block executes and the rest are skipped."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1690",
+  "topic": "Control Flow",
+  "difficulty": "Medium",
+  "question": "What is the value of `x` after this Python code?\n`x = 0`\n`for i in range(-2, 3):`\n`    x += i`\n",
+  "options": [
+    "0",
+    "-2",
+    "2",
+    "-1"
+  ],
+  "answer": 0,
+  "explanation": "`range(-2, 3)` generates -2, -1, 0, 1, 2. The sum of these numbers is 0. Therefore, `x` remains 0."
+}

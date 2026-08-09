@@ -1,0 +1,14 @@
+{
+  "id": "placement-1481",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "If a cache has 64 blocks, a main memory of 4096 blocks, and uses Direct Mapping, how many tag bits are required?",
+  "options": [
+    "6 bits",
+    "12 bits",
+    "6 bits (from cache) and 12 bits (from memory) = 6 total tag bits",
+    "6 bits (total block ID) - 6 bits (index) = 0 bits"
+  ],
+  "answer": 2,
+  "explanation": "Main memory needs 12 bits for block address (2^12 = 4096). Cache needs 6 bits for index (2^6 = 64). Tag bits = Total bits - Index bits = 12 - 6 = 6 bits."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1843",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the output of this C code?\n`int a = 10, b = 20, c;\n c = a > b ? a : b;\n printf(\"%d\", c);`",
+  "options": [
+    "10",
+    "20",
+    "0",
+    "Compilation Error"
+  ],
+  "answer": 1,
+  "explanation": "The ternary operator evaluates `a > b` (10 > 20), which is false. Therefore, it assigns the value after the colon (`b`, which is 20) to `c`."
+}

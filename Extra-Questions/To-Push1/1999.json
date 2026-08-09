@@ -1,0 +1,14 @@
+{
+  "id": "placement-1999",
+  "topic": "Mixtures and Alligation",
+  "difficulty": "Medium",
+  "question": "A mixture of 80L has 20% water. How much water added to make 25% water?",
+  "options": [
+    "4L",
+    "5L",
+    "5.33L",
+    "6L"
+  ],
+  "answer": 2,
+  "explanation": "Water=16, Milk=64. 64/(80+x)=0.75 => 80+x = 85.33 => x=5.33L."
+}

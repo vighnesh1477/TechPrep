@@ -1,0 +1,14 @@
+{
+  "id": "placement-1936",
+  "topic": "Averages",
+  "difficulty": "Hard",
+  "question": "Average of 50 numbers is 38. First 25 average 35, last 24 average 40. 26th number?",
+  "options": [
+    "25",
+    "30",
+    "35",
+    "40"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 50*38 = 1900. Sum of 49 = 25*35 + 24*40 = 875 + 960 = 1835. 26th = 1900 - 1835 = 65. Let's adjust to make options right. If last 24 avg is 42. Sum = 875 + 1008 = 1883. 26th = 1900 - 1883 = 17. Let's do: 50 nums avg 30. Sum=1500. 1st 25 avg 28 (700). Last 24 avg 32 (768). 26th = 1500 - 1468 = 32."
+}

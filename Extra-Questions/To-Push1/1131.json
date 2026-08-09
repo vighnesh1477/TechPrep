@@ -1,0 +1,14 @@
+{
+  "id": "placement-1131",
+  "topic": "C Programming",
+  "difficulty": "Hard",
+  "question": "What is the difference between `char *str = \"hello\";` and `char str[] = \"hello\";`?",
+  "options": [
+    "No difference",
+    "The pointer points to a read-only string literal; the array creates a modifiable copy on the stack",
+    "Array is read-only",
+    "Pointer creates a copy"
+  ],
+  "answer": 1,
+  "explanation": "String literals are often stored in read-only memory; modifying via the pointer causes a segfault. The array is mutable."
+}

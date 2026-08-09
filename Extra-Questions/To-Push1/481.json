@@ -1,0 +1,14 @@
+{
+  "id": "placement-481",
+  "topic": "Clone",
+  "difficulty": "Medium",
+  "question": "How do you clone only a single branch from a repository?",
+  "options": [
+    "git clone --single-branch --branch feature https://repo.com/project.git",
+    "git clone --only-branch feature https://repo.com/project.git",
+    "git clone --branch-only feature https://repo.com/project.git",
+    "git clone https://repo.com/project.git --filter=branch:feature"
+  ],
+  "answer": 0,
+  "explanation": "git clone --single-branch --branch <name> clones only the specified branch, reducing the amount of data downloaded significantly."
+}

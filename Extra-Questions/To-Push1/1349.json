@@ -1,0 +1,14 @@
+{
+  "id": "placement-1349",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the role of a Translation Lookaside Buffer (TLB)?",
+  "options": [
+    "It stores the entire page table",
+    "It caches recent virtual-to-physical address translations to speed up paging",
+    "It manages disk I/O operations",
+    "It stores the process control block"
+  ],
+  "answer": 1,
+  "explanation": "The TLB is a hardware cache inside the CPU. It stores parts of the page table to allow faster virtual-to-physical address translation, avoiding a full memory access for the page table."
+}

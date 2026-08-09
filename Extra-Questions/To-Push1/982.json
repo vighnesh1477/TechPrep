@@ -1,0 +1,14 @@
+{
+  "id": "placement-982",
+  "topic": "SQL",
+  "difficulty": "Hard",
+  "question": "How do you delete duplicate rows keeping only one instance?",
+  "options": [
+    "DELETE DISTINCT",
+    "Using ROW_NUMBER() OVER(PARTITION BY ...) and deleting where rn > 1",
+    "DELETE DUPLICATES",
+    "DELETE WHERE count > 1"
+  ],
+  "answer": 1,
+  "explanation": "Window functions can assign row numbers within duplicate groups; deleting >1 keeps exactly one."
+}

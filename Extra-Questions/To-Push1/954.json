@@ -1,0 +1,14 @@
+{
+  "id": "placement-954",
+  "topic": "DBMS",
+  "difficulty": "Easy",
+  "question": "What is a deadlock?",
+  "options": [
+    "A slow query",
+    "A process waiting for resources held by another waiting process",
+    "A database crash",
+    "Loss of data"
+  ],
+  "answer": 1,
+  "explanation": "Deadlock occurs when two or more processes are mutually blocked waiting for each other's resources."
+}

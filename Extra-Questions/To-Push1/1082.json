@@ -1,0 +1,14 @@
+{
+  "id": "placement-1082",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Medium",
+  "question": "What is a SQL Injection attack?",
+  "options": [
+    "Injecting JavaScript into HTML",
+    "Inserting malicious SQL queries into input fields to manipulate the database",
+    "Sending too many SQL requests",
+    "Overloading the SQL server CPU"
+  ],
+  "answer": 1,
+  "explanation": "SQL injection exploits vulnerabilities in user input to execute arbitrary SQL commands on the database."
+}

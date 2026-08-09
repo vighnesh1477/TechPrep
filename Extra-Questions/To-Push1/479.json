@@ -1,0 +1,14 @@
+{
+  "id": "placement-479",
+  "topic": "Push",
+  "difficulty": "Medium",
+  "question": "What does git push origin --all do?",
+  "options": [
+    "Pushes all files including ignored ones",
+    "Pushes all local branches to origin",
+    "Pushes all commits from all branches",
+    "Pushes all tags and branches"
+  ],
+  "answer": 1,
+  "explanation": "git push origin --all pushes all local branches to the specified remote, but does not push tags (use --tags separately for that)."
+}

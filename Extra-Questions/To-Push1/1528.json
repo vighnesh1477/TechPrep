@@ -1,0 +1,14 @@
+{
+  "id": "placement-1528",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is a 'Shift-Reduce' conflict in parsing?",
+  "options": [
+    "A conflict between the compiler and the linker",
+    "When a parser cannot decide whether to shift the next input symbol onto the stack or to reduce a sequence of symbols on the stack using a grammar rule",
+    "A conflict between two different grammars",
+    "An error in the source code"
+  ],
+  "answer": 1,
+  "explanation": "In LR parsing, a shift-reduce conflict occurs when the parser, based on its current state and the next input token, has a valid option to either shift the token or perform a reduction."
+}

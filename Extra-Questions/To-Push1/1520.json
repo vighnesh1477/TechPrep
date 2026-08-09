@@ -1,0 +1,14 @@
+{
+  "id": "placement-1520",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is an Assembler?",
+  "options": [
+    "A program that converts high-level code to machine code",
+    "A program that converts assembly language code into machine code",
+    "A program that links object files",
+    "A program that debugs assembly code"
+  ],
+  "answer": 1,
+  "explanation": "An assembler translates assembly language instructions into machine code (binary). Each assembly instruction typically corresponds to one machine instruction."
+}

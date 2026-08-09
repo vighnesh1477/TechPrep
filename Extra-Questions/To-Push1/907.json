@@ -1,0 +1,14 @@
+{
+  "id": "placement-907",
+  "topic": "Python",
+  "difficulty": "Hard",
+  "question": "What does `*args` do in a function definition?",
+  "options": [
+    "Passes a dictionary",
+    "Passes a list by reference",
+    "Packs positional arguments into a tuple",
+    "Unpacks a list"
+  ],
+  "answer": 2,
+  "explanation": "*args allows passing a variable number of positional arguments, packed into a tuple."
+}

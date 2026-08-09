@@ -1,0 +1,14 @@
+{
+  "id": "placement-490",
+  "topic": "Interactive Rebase",
+  "difficulty": "Medium",
+  "question": "In interactive rebase, what does the 'squash' action do?",
+  "options": [
+    "Deletes the commit",
+    "Combines the commit with the previous one, keeping both messages",
+    "Combines the commit with the previous one, using the earlier message",
+    "Moves the commit to the end"
+  ],
+  "answer": 1,
+  "explanation": "Squash combines a commit with the previous one, concatenating both commit messages so you can edit them into a single message."
+}

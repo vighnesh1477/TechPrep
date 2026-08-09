@@ -1,0 +1,14 @@
+{
+  "id": "placement-1384",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is a CHECK constraint?",
+  "options": [
+    "It checks if a table exists",
+    "It enforces a specific condition that the value in a column must satisfy",
+    "It checks the syntax of a query",
+    "It verifies user permissions"
+  ],
+  "answer": 1,
+  "explanation": "A CHECK constraint enforces domain integrity by limiting the values that can be placed in a column (e.g., `CHECK (age >= 18)`)."
+}

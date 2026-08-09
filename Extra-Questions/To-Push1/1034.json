@@ -1,0 +1,14 @@
+{
+  "id": "placement-1034",
+  "topic": "Software Engineering",
+  "difficulty": "Easy",
+  "question": "In which SDLC phase is the code actually written?",
+  "options": [
+    "Requirements",
+    "Design",
+    "Implementation (Coding)",
+    "Testing"
+  ],
+  "answer": 2,
+  "explanation": "The Implementation phase involves translating designs into actual program code."
+}

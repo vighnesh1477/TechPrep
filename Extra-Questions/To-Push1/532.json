@@ -1,0 +1,14 @@
+{
+  "id": "placement-532",
+  "topic": "Restore",
+  "difficulty": "Medium",
+  "question": "What does git restore --worktree --staged file.txt do?",
+  "options": [
+    "Restores the file from the last commit to both the working tree and staging area",
+    "Only restores the staging area",
+    "Only restores the working tree",
+    "Deletes the file"
+  ],
+  "answer": 0,
+  "explanation": "When both --worktree and --staged are specified, git restore resets the file in both the staging area and the working tree to match the specified source (default: HEAD)."
+}

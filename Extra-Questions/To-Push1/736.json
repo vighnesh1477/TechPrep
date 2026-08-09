@@ -1,0 +1,14 @@
+{
+  "id": "placement-736",
+  "topic": "ip",
+  "difficulty": "Easy",
+  "question": "How do you bring up a network interface eth0?",
+  "options": [
+    "ip link set eth0 up",
+    "ip up eth0",
+    "ip interface eth0 start",
+    "ip enable eth0"
+  ],
+  "answer": 0,
+  "explanation": "ip link set eth0 up activates (brings up) the network interface eth0. Use 'ip link set eth0 down' to deactivate it."
+}

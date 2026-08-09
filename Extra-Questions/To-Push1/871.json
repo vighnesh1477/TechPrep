@@ -1,0 +1,14 @@
+{
+  "id": "placement-871",
+  "topic": "C++",
+  "difficulty": "Easy",
+  "question": "What does `cout` represent in C++?",
+  "options": [
+    "An object",
+    "A class",
+    "A function",
+    "A variable"
+  ],
+  "answer": 0,
+  "explanation": "cout is an object of the ostream class."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-822",
+  "topic": "cut",
+  "difficulty": "Medium",
+  "question": "What is the default delimiter for cut?",
+  "options": [
+    "Space",
+    "Colon",
+    "Tab",
+    "Comma"
+  ],
+  "answer": 2,
+  "explanation": "The default delimiter for cut is tab. You must use -d to specify a different delimiter like colon, comma, or space."
+}

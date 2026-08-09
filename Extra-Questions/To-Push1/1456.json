@@ -1,0 +1,14 @@
+{
+  "id": "placement-1456",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is the primary function of the Control Unit (CU)?",
+  "options": [
+    "Performing mathematical calculations",
+    "Directing the operation of the processor by controlling data flow",
+    "Storing data permanently",
+    "Managing network connections"
+  ],
+  "answer": 1,
+  "explanation": "The Control Unit (CU) extracts instructions from memory, decodes them, and coordinates the activities of the other components (ALU, memory, I/O) to execute them."
+}

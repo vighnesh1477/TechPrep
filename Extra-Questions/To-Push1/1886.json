@@ -1,0 +1,14 @@
+{
+  "id": "placement-1886",
+  "topic": "Percentages",
+  "difficulty": "Medium",
+  "question": "A's income is 60% of B's. By what % is B's income more than A's?",
+  "options": [
+    "40%",
+    "50%",
+    "60%",
+    "66.67%"
+  ],
+  "answer": 3,
+  "explanation": "A=60, B=100. Diff=40. 40/60 * 100 = 66.67%."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-915",
+  "topic": "Data Structures",
+  "difficulty": "Easy",
+  "question": "Which of the following is NOT a linear data structure?",
+  "options": [
+    "Array",
+    "Stack",
+    "Tree",
+    "Queue"
+  ],
+  "answer": 2,
+  "explanation": "Trees are hierarchical, non-linear data structures."
+}

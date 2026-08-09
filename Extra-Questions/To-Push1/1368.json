@@ -1,0 +1,14 @@
+{
+  "id": "placement-1368",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Easy",
+  "question": "What does the acronym ACID stand for in database transactions?",
+  "options": [
+    "Atomicity, Consistency, Isolation, Durability",
+    "Atomicity, Concurrency, Isolation, Durability",
+    "Addition, Consistency, Isolation, Deletion",
+    "Atomicity, Consistency, Integration, Durability"
+  ],
+  "answer": 0,
+  "explanation": "ACID properties ensure reliable database transactions: Atomicity (all or nothing), Consistency (valid state to valid state), Isolation (concurrent transactions don't interfere), Durability (saved permanently)."
+}

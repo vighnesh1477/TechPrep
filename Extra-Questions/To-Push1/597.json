@@ -1,0 +1,14 @@
+{
+  "id": "placement-597",
+  "topic": "cat",
+  "difficulty": "Easy",
+  "question": "Which option shows non-printing characters with cat?",
+  "options": [
+    "cat -a",
+    "cat -v",
+    "cat -np",
+    "cat -x"
+  ],
+  "answer": 1,
+  "explanation": "cat -v shows non-printing characters using ^ and M- notation. cat -A is equivalent to -vET, showing all non-printing chars, end-of-line $, and tabs as ^I."
+}

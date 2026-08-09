@@ -1,0 +1,14 @@
+{
+  "id": "placement-910",
+  "topic": "Python",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of checking if an item exists in a set?",
+  "options": [
+    "O(N)",
+    "O(1) average",
+    "O(N log N)",
+    "O(log N)"
+  ],
+  "answer": 1,
+  "explanation": "Sets are implemented as hash tables, providing average O(1) lookups."
+}

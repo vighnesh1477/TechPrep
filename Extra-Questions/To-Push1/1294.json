@@ -1,0 +1,14 @@
+{
+  "id": "placement-1294",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "What is the output of `System.out.println(new String(\"abc\") == new String(\"abc\"));`?",
+  "options": [
+    "true",
+    "false",
+    "Compilation error",
+    "NullPointerException"
+  ],
+  "answer": 1,
+  "explanation": "`new` creates distinct objects in the heap. == compares references, which are different, even if the content is identical."
+}

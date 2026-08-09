@@ -1,0 +1,14 @@
+{
+  "id": "placement-1676",
+  "topic": "Control Flow",
+  "difficulty": "Hard",
+  "question": "What is the output?\n`int x = 0, y = 0;`\n`for (int i = 0; i < 3; i++) {`\n`    for (int j = 0; j < 3; j++) {`\n`        if (i == j) continue;`\n`        x++;`\n`    }`\n`    y++;`\n`}`\n`printf(\"%d %d\", x, y);`",
+  "options": [
+    "9 3",
+    "6 3",
+    "6 9",
+    "3 3"
+  ],
+  "answer": 1,
+  "explanation": "The inner loop runs 3 times, but `continue` skips 1 iteration (when i==j). So `x` increments 2 times per outer loop (2 * 3 = 6). `y` increments once per outer loop (3)."
+}

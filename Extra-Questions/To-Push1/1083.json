@@ -1,0 +1,14 @@
+{
+  "id": "placement-1083",
+  "topic": "Cyber Security Basics",
+  "difficulty": "Medium",
+  "question": "What is Cross-Site Scripting (XSS)?",
+  "options": [
+    "Stealing database data",
+    "Injecting malicious client-side scripts into web pages viewed by other users",
+    "Crashing the router",
+    "A type of DDoS attack"
+  ],
+  "answer": 1,
+  "explanation": "XSS allows attackers to execute scripts in the victim's browser, potentially stealing cookies or session tokens."
+}

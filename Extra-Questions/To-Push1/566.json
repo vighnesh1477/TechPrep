@@ -1,0 +1,14 @@
+{
+  "id": "placement-566",
+  "topic": "cp",
+  "difficulty": "Easy",
+  "question": "Which flag forces cp to overwrite without prompting?",
+  "options": [
+    "cp -o",
+    "cp -f",
+    "cp -w",
+    "cp -y"
+  ],
+  "answer": 1,
+  "explanation": "cp -f forces the copy operation, removing existing destination files if needed without prompting."
+}

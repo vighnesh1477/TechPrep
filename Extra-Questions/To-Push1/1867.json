@@ -1,0 +1,14 @@
+{
+  "id": "placement-1867",
+  "topic": "Number Systems",
+  "difficulty": "Easy",
+  "question": "What is the sum of the first 10 prime numbers?",
+  "options": [
+    "100",
+    "129",
+    "120",
+    "110"
+  ],
+  "answer": 1,
+  "explanation": "2+3+5+7+11+13+17+19+23+29 = 129."
+}

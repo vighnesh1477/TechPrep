@@ -1,0 +1,14 @@
+{
+  "id": "placement-1224",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What is a union in C?",
+  "options": [
+    "A group of classes",
+    "A data structure that stores different data types in the same memory location",
+    "A type of array",
+    "A function pointer"
+  ],
+  "answer": 1,
+  "explanation": "A union allows storing different data types at the same memory address, with the size equal to the largest member."
+}

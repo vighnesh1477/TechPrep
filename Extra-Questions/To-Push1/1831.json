@@ -1,0 +1,14 @@
+{
+  "id": "placement-1831",
+  "topic": "Basic Algorithms",
+  "difficulty": "Hard",
+  "question": "How many swaps are performed in the first pass of Bubble Sort on `[3, 2, 1]`?",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "0"
+  ],
+  "answer": 1,
+  "explanation": "Compare 3 and 2: swap (1). Array: [2, 3, 1]. Compare 3 and 1: swap (2). Array: [2, 1, 3]. Total swaps = 2."
+}

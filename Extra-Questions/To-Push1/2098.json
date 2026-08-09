@@ -1,0 +1,14 @@
+{
+  "id": "placement-2098",
+  "topic": "Number Series",
+  "difficulty": "Hard",
+  "question": "Find next: 7, 11, 19, 35, 67, ?",
+  "options": [
+    "99",
+    "119",
+    "131",
+    "143"
+  ],
+  "answer": 2,
+  "explanation": "Differences: 4, 8, 16, 32, 64. 67+64=131."
+}

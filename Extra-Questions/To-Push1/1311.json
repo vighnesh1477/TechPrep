@@ -1,0 +1,14 @@
+{
+  "id": "placement-1311",
+  "topic": "Java",
+  "difficulty": "Medium",
+  "question": "What does the `volatile` keyword do in Java?",
+  "options": [
+    "Makes a variable constant",
+    "Ensures changes to a variable are immediately visible to other threads, preventing caching in CPU registers",
+    "Makes a variable thread-safe for all operations",
+    "Deletes a variable after use"
+  ],
+  "answer": 1,
+  "explanation": "volatile guarantees visibility across threads but does not guarantee atomicity for compound operations like i++."
+}

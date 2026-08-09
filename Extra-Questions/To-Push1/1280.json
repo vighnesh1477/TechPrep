@@ -1,0 +1,14 @@
+{
+  "id": "placement-1280",
+  "topic": "Algorithms",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of Heap Sort?",
+  "options": [
+    "O(N)",
+    "O(N log N)",
+    "O(N^2)",
+    "O(log N)"
+  ],
+  "answer": 1,
+  "explanation": "Heap Sort builds a heap in O(N) and extracts elements in O(log N) per element, resulting in O(N log N) total."
+}

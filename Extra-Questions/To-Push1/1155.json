@@ -1,0 +1,14 @@
+{
+  "id": "placement-1155",
+  "topic": "Python",
+  "difficulty": "Medium",
+  "question": "What is the difference between `==` and `is`?",
+  "options": [
+    "No difference",
+    "== checks value equality, `is` checks object identity (memory address)",
+    "`is` checks value, == checks identity",
+    "`is` is used for strings only"
+  ],
+  "answer": 1,
+  "explanation": "`is` returns True only if both variables point to the exact same object in memory."
+}

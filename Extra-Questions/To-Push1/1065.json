@@ -1,0 +1,14 @@
+{
+  "id": "placement-1065",
+  "topic": "Linux",
+  "difficulty": "Easy",
+  "question": "What does `mkdir` do?",
+  "options": [
+    "Removes a directory",
+    "Creates a new directory",
+    "Moves a directory",
+    "Renames a directory"
+  ],
+  "answer": 1,
+  "explanation": "mkdir (make directory) creates a new directory."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1025",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "Can a constructor be virtual in C++?",
+  "options": [
+    "Yes",
+    "No, because the object is not fully constructed yet for vtable lookup",
+    "Only in Java",
+    "Yes, if it is pure virtual"
+  ],
+  "answer": 1,
+  "explanation": "Virtual functions rely on the vtable of the object, which is not fully set up until the constructor finishes."
+}

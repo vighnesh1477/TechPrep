@@ -1,0 +1,14 @@
+{
+  "id": "placement-1125",
+  "topic": "C Programming",
+  "difficulty": "Medium",
+  "question": "What is the return type of `sizeof` operator?",
+  "options": [
+    "int",
+    "float",
+    "size_t",
+    "void"
+  ],
+  "answer": 2,
+  "explanation": "sizeof returns size_t, an unsigned integer type used to represent sizes."
+}

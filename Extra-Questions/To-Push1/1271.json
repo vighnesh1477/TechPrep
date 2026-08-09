@@ -1,0 +1,14 @@
+{
+  "id": "placement-1271",
+  "topic": "Linux",
+  "difficulty": "Easy",
+  "question": "Which command is used to create a new file?",
+  "options": [
+    "create",
+    "touch",
+    "make",
+    "new"
+  ],
+  "answer": 1,
+  "explanation": "touch updates the timestamp of a file; if the file doesn't exist, it creates an empty one."
+}

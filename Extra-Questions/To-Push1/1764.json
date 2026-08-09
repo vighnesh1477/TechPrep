@@ -1,0 +1,14 @@
+{
+  "id": "placement-1764",
+  "topic": "Strings",
+  "difficulty": "Easy",
+  "question": "Which header file is required for string manipulation functions in C?",
+  "options": [
+    "<stdio.h>",
+    "<stdlib.h>",
+    "<string.h>",
+    "<math.h>"
+  ],
+  "answer": 2,
+  "explanation": "`<string.h>` contains the prototypes for standard string manipulation functions like `strlen`, `strcpy`, `strcmp`, and `strcat`."
+}

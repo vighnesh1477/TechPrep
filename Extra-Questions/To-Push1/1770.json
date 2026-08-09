@@ -1,0 +1,14 @@
+{
+  "id": "placement-1770",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What is the size of a pointer in a 64-bit system?",
+  "options": [
+    "4 bytes",
+    "8 bytes",
+    "16 bytes",
+    "2 bytes"
+  ],
+  "answer": 1,
+  "explanation": "On a 64-bit system, memory addresses are 64 bits (8 bytes) long. Therefore, a pointer, which stores a memory address, occupies 8 bytes."
+}

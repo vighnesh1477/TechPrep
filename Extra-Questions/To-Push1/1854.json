@@ -1,0 +1,14 @@
+{
+  "id": "placement-1854",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "question": "What is the output of this Python code?\n`arr = [1, 2, 3, 4]\narr.insert(2, 99)\nprint(arr)`",
+  "options": [
+    "[1, 2, 99, 3, 4]",
+    "[1, 99, 2, 3, 4]",
+    "[99, 1, 2, 3, 4]",
+    "[1, 2, 3, 99, 4]"
+  ],
+  "answer": 0,
+  "explanation": "`insert(index, value)` inserts the value before the specified index. Inserting 99 at index 2 shifts the existing elements from index 2 onwards to the right."
+}

@@ -29,17 +29,17 @@ function Footer() {
             <h4 className="footer-heading">Connect</h4>
             <ul className="footer-links">
               <li>
-                <a href="https://github.com/vighnesh" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/vighnesh1477/" target="_blank" rel="noopener noreferrer">
                   GitHub
                 </a>
               </li>
               <li>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/vighnesh-poojary-006b65329/" target="_blank" rel="noopener noreferrer">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="mailto:Vighneshpoojary49@gmail.com">
                   Email
                 </a>
               </li>
@@ -50,12 +50,12 @@ function Footer() {
             <h4 className="footer-heading">Project</h4>
             <ul className="footer-links">
               <li>
-                <a href="https://github.com/vighnesh" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/vighnesh1477/TechPrep" target="_blank" rel="noopener noreferrer">
                   Contribute
                 </a>
               </li>
               <li>
-                <a href="https://github.com/vighnesh" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/vighnesh1477/TechPrep" target="_blank" rel="noopener noreferrer">
                   Report an Issue
                 </a>
               </li>

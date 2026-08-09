@@ -1,0 +1,14 @@
+{
+  "id": "placement-2172",
+  "topic": "Statements and Conclusions",
+  "difficulty": "Hard",
+  "question": "Statement: Only graduates are eligible. He is eligible. Conclusion: He is a graduate.",
+  "options": [
+    "Follows",
+    "Does not follow",
+    "Partially follows",
+    "Contradiction"
+  ],
+  "answer": 0,
+  "explanation": "'Only graduates' means if eligible, then graduate. He is eligible, so he is a graduate."
+}

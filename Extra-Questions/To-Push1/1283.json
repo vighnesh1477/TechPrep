@@ -1,0 +1,14 @@
+{
+  "id": "placement-1283",
+  "topic": "Operating Systems",
+  "difficulty": "Medium",
+  "question": "What is a zombie process?",
+  "options": [
+    "A dead process",
+    "A child process that has finished execution but still has an entry in the process table because its parent hasn't read its exit status",
+    "A sleeping process",
+    "A virus"
+  ],
+  "answer": 1,
+  "explanation": "Zombies do not consume CPU or memory, but they occupy process IDs, which can eventually exhaust the PID table."
+}

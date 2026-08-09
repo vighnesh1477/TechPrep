@@ -1,0 +1,14 @@
+{
+  "id": "placement-1783",
+  "topic": "Pointers and Memory",
+  "difficulty": "Medium",
+  "question": "What is a memory leak?",
+  "options": [
+    "Accessing an array out of bounds",
+    "Losing the pointer to dynamically allocated memory without freeing it",
+    "Stack overflow due to deep recursion",
+    "Using a dangling pointer"
+  ],
+  "answer": 1,
+  "explanation": "A memory leak occurs when you allocate memory dynamically (e.g., with `malloc`) but lose the pointer to it or fail to `free` it, making that memory unusable for the rest of the program."
+}

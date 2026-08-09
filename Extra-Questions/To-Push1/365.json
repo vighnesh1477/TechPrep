@@ -1,0 +1,14 @@
+{
+  "id": "placement-365",
+  "topic": "Git Basics",
+  "difficulty": "Easy",
+  "question": "Which of the following is NOT a distributed version control system?",
+  "options": [
+    "Git",
+    "Mercurial",
+    "SVN",
+    "Bazaar"
+  ],
+  "answer": 2,
+  "explanation": "SVN (Subversion) is a centralized version control system, unlike Git, Mercurial, and Bazaar which are distributed systems."
+}

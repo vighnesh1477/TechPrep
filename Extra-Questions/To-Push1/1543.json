@@ -1,0 +1,14 @@
+{
+  "id": "placement-1543",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is 'Strength Reduction'?",
+  "options": [
+    "Reducing the size of the code",
+    "Replacing an expensive operation (like multiplication) with a cheaper one (like shifts or additions) that produces the same result",
+    "Reducing the number of variables",
+    "Making the code harder to read"
+  ],
+  "answer": 1,
+  "explanation": "Example: Replacing `x * 2` with `x << 1` (left shift) or `x + x`. Bitwise shifts and additions are generally faster than multiplications on many architectures."
+}

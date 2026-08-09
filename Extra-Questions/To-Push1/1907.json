@@ -1,0 +1,14 @@
+{
+  "id": "placement-1907",
+  "topic": "Profit and Loss",
+  "difficulty": "Hard",
+  "question": "A shopkeeper sells goods at 10% profit but uses 20% less weight. Net profit %?",
+  "options": [
+    "30%",
+    "35%",
+    "37.5%",
+    "40%"
+  ],
+  "answer": 2,
+  "explanation": "CP for 800g. SP for 1000g at 10% profit = 1100. Profit = 300/800 = 37.5%."
+}

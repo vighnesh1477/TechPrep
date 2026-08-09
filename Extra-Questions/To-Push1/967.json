@@ -1,0 +1,14 @@
+{
+  "id": "placement-967",
+  "topic": "SQL",
+  "difficulty": "Easy",
+  "question": "Which SQL keyword is used to retrieve unique values?",
+  "options": [
+    "ONLY",
+    "UNIQUE",
+    "DISTINCT",
+    "SINGLE"
+  ],
+  "answer": 2,
+  "explanation": "DISTINCT eliminates duplicate rows from the result set."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1855",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What does `\"Hello World\".split()` return in Python?",
+  "options": [
+    "[\"Hello\", \"World\"]",
+    "[\"Hello World\"]",
+    "(\"Hello\", \"World\")",
+    "Error"
+  ],
+  "answer": 0,
+  "explanation": "Calling `split()` without arguments splits the string at any sequence of whitespace characters and returns a list of the non-whitespace parts."
+}

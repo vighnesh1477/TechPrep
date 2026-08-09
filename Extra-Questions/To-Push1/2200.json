@@ -1,0 +1,14 @@
+{
+  "id": "placement-2200",
+  "topic": "Puzzles",
+  "difficulty": "Medium",
+  "question": "A, B, C, D are cities. A is North of B. C is South of D. B is West of D. Direction of A relative to C?",
+  "options": [
+    "North-East",
+    "North-West",
+    "South-East",
+    "South-West"
+  ],
+  "answer": 0,
+  "explanation": "D is top right. B is bottom left of D. A is top left. C is bottom right. A is North-West of C."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1724",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "question": "How do you declare an array of 10 integers in C?",
+  "options": [
+    "int array(10);",
+    "array int[10];",
+    "int array[10];",
+    "int[10] array;"
+  ],
+  "answer": 2,
+  "explanation": "In C, the standard syntax for declaring an array is `data_type array_name[size];`. Thus, `int array[10];` is correct."
+}

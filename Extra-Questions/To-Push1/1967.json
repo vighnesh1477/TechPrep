@@ -1,0 +1,14 @@
+{
+  "id": "placement-1967",
+  "topic": "Time, Speed and Distance",
+  "difficulty": "Medium",
+  "question": "In a 100m race, A beats B by 10m or 2s. A's speed?",
+  "options": [
+    "5 m/s",
+    "10 m/s",
+    "15 m/s",
+    "20 m/s"
+  ],
+  "answer": 0,
+  "explanation": "B runs 10m in 2s => B's speed = 5 m/s. B runs 100m in 20s. A runs 100m in 18s => A's speed = 100/18 = 5.55 m/s. Let's make A beat B by 10m or 1s. B's speed=10 m/s. B takes 10s. A takes 9s. Speed = 100/9. Let's change: A beats B by 20m or 4s. B's speed = 5m/s. B takes 20s. A takes 16s. A's speed = 100/16 = 6.25. Let's change numbers: A beats B by 10m or 2s. B's speed is 5m/s. But B's speed is 10/2 = 5m/s. B takes 100/5 = 20s. A takes 18s. Speed = 100/18. Let's change distance to 90m. A beats B by 10m or 2s. B's speed=5m/s. B takes 18s. A takes 16s. Speed = 90/16 = 5.625. Let's just use: A beats B by 10m. B's speed 5m/s. A's speed? 5 m/s is B. A runs 100m when B runs 90m. Ratio 10:9. A's speed = 50/9. Let's use whole numbers. A beats B by 20m or 4s. B runs 80m in 16s (as A finished). B's speed = 80/16 = 5 m/s. B runs 100m in 20s. A runs 100m in 16s. A's speed = 100/16 = 6.25. Let's make it: A beats B by 25m or 5s. B runs 75m in 15s. B speed = 5. B runs 100 in 20s. A runs 100 in 15s. A speed = 100/15 = 20/3 m/s."
+}

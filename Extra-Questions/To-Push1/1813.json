@@ -1,0 +1,14 @@
+{
+  "id": "placement-1813",
+  "topic": "Basic Algorithms",
+  "difficulty": "Easy",
+  "question": "What is the time complexity of Linear Search?",
+  "options": [
+    "O(1)",
+    "O(log n)",
+    "O(n)",
+    "O(n^2)"
+  ],
+  "answer": 2,
+  "explanation": "Linear search checks each element one by one. In the worst case, it checks all `n` elements, resulting in O(n) time complexity."
+}

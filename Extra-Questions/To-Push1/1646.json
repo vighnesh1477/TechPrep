@@ -1,0 +1,14 @@
+{
+  "id": "placement-1646",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "Which loop is guaranteed to execute at least once?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "A `do-while` loop checks its condition at the bottom of the loop body after the first iteration, ensuring the loop body runs at least once."
+}

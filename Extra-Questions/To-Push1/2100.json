@@ -1,0 +1,14 @@
+{
+  "id": "placement-2100",
+  "topic": "Number Series",
+  "difficulty": "Hard",
+  "question": "Find next: 3, 5, 9, 17, 33, ?",
+  "options": [
+    "49",
+    "57",
+    "65",
+    "73"
+  ],
+  "answer": 2,
+  "explanation": "3*2-1=5, 5*2-1=9, 9*2-1=17, 17*2-1=33, 33*2-1=65."
+}

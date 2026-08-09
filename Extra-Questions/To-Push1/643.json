@@ -1,0 +1,14 @@
+{
+  "id": "placement-643",
+  "topic": "File Permissions",
+  "difficulty": "Easy",
+  "question": "What does the permission string 'rwxr-xr--' represent?",
+  "options": [
+    "Owner: read, write, execute; Group: read, execute; Others: read",
+    "Owner: read, write, execute; Group: read, write, execute; Others: read",
+    "Owner: read, write; Group: read, execute; Others: read, execute",
+    "Owner: read, write, execute; Group: read; Others: read, execute"
+  ],
+  "answer": 0,
+  "explanation": "rwxr-xr-- breaks down as: owner (rwx=7), group (r-x=5), others (r--=4). This is the octal 754."
+}

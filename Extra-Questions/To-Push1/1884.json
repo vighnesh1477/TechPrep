@@ -1,0 +1,14 @@
+{
+  "id": "placement-1884",
+  "topic": "Percentages",
+  "difficulty": "Medium",
+  "question": "Price increased by 25%. By what % must consumption reduce to keep expense same?",
+  "options": [
+    "15%",
+    "20%",
+    "25%",
+    "10%"
+  ],
+  "answer": 1,
+  "explanation": "Reduction % = (25/125) * 100 = 20%."
+}

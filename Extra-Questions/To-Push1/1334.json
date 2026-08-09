@@ -1,0 +1,14 @@
+{
+  "id": "placement-1334",
+  "topic": "Operating Systems Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is a mutex?",
+  "options": [
+    "A type of memory",
+    "A binary semaphore used for mutual exclusion",
+    "A scheduling algorithm",
+    "A file locking mechanism"
+  ],
+  "answer": 1,
+  "explanation": "A mutex (mutual exclusion object) is essentially a binary semaphore that is locked by one thread at a time to prevent other threads from entering a critical section simultaneously."
+}

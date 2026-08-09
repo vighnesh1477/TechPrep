@@ -1,0 +1,14 @@
+{
+  "id": "placement-297",
+  "topic": "Remote Repository",
+  "difficulty": "Easy",
+  "question": "What is a remote in Git?",
+  "options": [
+    "A local backup directory",
+    "A reference to another copy of the repository, typically on a server",
+    "A separate branch",
+    "A configuration file"
+  ],
+  "answer": 1,
+  "explanation": "A remote is a bookmark pointing to another version of the same repository, usually hosted on a server like GitHub, GitLab, or Bitbucket."
+}

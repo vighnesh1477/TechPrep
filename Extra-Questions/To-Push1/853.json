@@ -1,0 +1,14 @@
+{
+  "id": "placement-853",
+  "topic": "C Programming",
+  "difficulty": "Easy",
+  "question": "What does `sizeof(arr)` return if `arr` is an integer array of 5 elements?",
+  "options": [
+    "5",
+    "10",
+    "20",
+    "Compiler error"
+  ],
+  "answer": 2,
+  "explanation": "5 elements * 4 bytes each = 20 bytes."
+}

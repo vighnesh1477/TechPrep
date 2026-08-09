@@ -1,0 +1,14 @@
+{
+  "id": "placement-1644",
+  "topic": "Control Flow",
+  "difficulty": "Easy",
+  "question": "What keyword is used to exit a loop prematurely in C, C++, and Java?",
+  "options": [
+    "exit",
+    "return",
+    "break",
+    "continue"
+  ],
+  "answer": 2,
+  "explanation": "The `break` statement immediately terminates the innermost loop or switch statement and transfers control to the statement following the loop."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-265",
+  "topic": "Staging Area",
+  "difficulty": "Easy",
+  "question": "Which command stages all changes in the current directory for commit?",
+  "options": [
+    "git add .",
+    "git add --all",
+    "git stage --all",
+    "git commit --all"
+  ],
+  "answer": 0,
+  "explanation": "git add . stages all new, modified, and deleted files in the current directory and its subdirectories for the next commit."
+}

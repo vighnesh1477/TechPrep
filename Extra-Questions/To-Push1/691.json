@@ -1,0 +1,14 @@
+{
+  "id": "placement-691",
+  "topic": "htop",
+  "difficulty": "Easy",
+  "question": "How do you filter processes by name in htop?",
+  "options": [
+    "Press F4",
+    "Press /",
+    "Press f",
+    "Press F3"
+  ],
+  "answer": 0,
+  "explanation": "F4 in htop opens the filter prompt where you can type a filter string. Only processes matching the filter will be displayed."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-787",
+  "topic": "Linux Architecture",
+  "difficulty": "Medium",
+  "question": "What is the difference between kernel space and user space?",
+  "options": [
+    "Kernel space is on disk, user space is in RAM",
+    "Kernel space has full hardware access and runs in privileged mode; user space is restricted and runs in unprivileged mode",
+    "User space has higher priority than kernel space",
+    "They share the same memory protection level"
+  ],
+  "answer": 1,
+  "explanation": "Kernel space runs in ring 0 (privileged mode) with full hardware access. User space runs in ring 3 (unprivileged mode) and must use system calls to request kernel services."
+}

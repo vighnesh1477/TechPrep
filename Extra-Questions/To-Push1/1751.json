@@ -1,0 +1,14 @@
+{
+  "id": "placement-1751",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What is the output of `\"abc\" + \"def\"` in Python?",
+  "options": [
+    "Error",
+    "abcdef",
+    "abc def",
+    "abc+def"
+  ],
+  "answer": 1,
+  "explanation": "In Python, the `+` operator is overloaded for strings to perform concatenation, joining the two strings together without any spaces."
+}

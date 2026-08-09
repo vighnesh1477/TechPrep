@@ -1,0 +1,14 @@
+{
+  "id": "placement-1625",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Easy",
+  "question": "Which operator is used to assign a memory address to a pointer in C?",
+  "options": [
+    "*",
+    "&",
+    "->",
+    "="
+  ],
+  "answer": 3,
+  "explanation": "While `&` fetches the address, the standard assignment operator `=` is used to assign that address to the pointer (e.g., `ptr = &var;`)."
+}

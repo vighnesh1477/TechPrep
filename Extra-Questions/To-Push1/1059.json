@@ -1,0 +1,14 @@
+{
+  "id": "placement-1059",
+  "topic": "Git",
+  "difficulty": "Hard",
+  "question": "What is a detached HEAD state?",
+  "options": [
+    "The repository is corrupted",
+    "You have checked out a specific commit instead of a branch, meaning commits won't belong to any branch",
+    "The remote is disconnected",
+    "A branch is deleted"
+  ],
+  "answer": 1,
+  "explanation": "HEAD points to a commit, not a branch. If you commit here, the commits become 'dangling' when you switch branches."
+}

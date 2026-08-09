@@ -1,0 +1,14 @@
+{
+  "id": "placement-1534",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is 'Loop Unrolling'?",
+  "options": [
+    "Deleting all loops from the code",
+    "An optimization that reduces the overhead of loop control by duplicating the body of the loop multiple times",
+    "Converting a for loop into a while loop",
+    "Executing loops in parallel"
+  ],
+  "answer": 1,
+  "explanation": "Loop unrolling reduces the number of branches (jump instructions) by executing the loop body multiple times per iteration. This trades code size for execution speed."
+}

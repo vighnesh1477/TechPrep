@@ -1,0 +1,14 @@
+{
+  "id": "placement-528",
+  "topic": "Rebase",
+  "difficulty": "Medium",
+  "question": "Why should you avoid rebasing shared (public) branches?",
+  "options": [
+    "It is too slow",
+    "It rewrites commit history, causing problems for collaborators who have already pulled those commits",
+    "It creates merge conflicts",
+    "It deletes the branch"
+  ],
+  "answer": 1,
+  "explanation": "Rebasing rewrites commit hashes, so anyone who already has the original commits will have diverged history, leading to duplicated commits and confusion."
+}

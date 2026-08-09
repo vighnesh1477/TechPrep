@@ -1,0 +1,14 @@
+{
+  "id": "placement-563",
+  "topic": "cp",
+  "difficulty": "Easy",
+  "question": "Which command copies a file preserving its attributes?",
+  "options": [
+    "cp file1 file2",
+    "cp -p file1 file2",
+    "cp -r file1 file2",
+    "cp -a file1 file2"
+  ],
+  "answer": 1,
+  "explanation": "cp -p preserves the file's mode, ownership, and timestamps. cp -a is an archive option that also preserves attributes and works recursively."
+}

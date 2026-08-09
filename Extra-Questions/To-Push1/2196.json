@@ -1,0 +1,14 @@
+{
+  "id": "placement-2196",
+  "topic": "Puzzles",
+  "difficulty": "Easy",
+  "question": "A box contains 3 red, 2 blue balls. One drawn. It is not blue. What color is it?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "If it's not blue, and only red/blue are there, it must be red."
+}

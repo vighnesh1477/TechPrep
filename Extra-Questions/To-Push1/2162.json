@@ -1,0 +1,14 @@
+{
+  "id": "placement-2162",
+  "topic": "Syllogisms",
+  "difficulty": "Hard",
+  "question": "All A are B. All C are B. Conclusion: All A are C.",
+  "options": [
+    "True",
+    "False",
+    "Probable",
+    "Cannot determine"
+  ],
+  "answer": 1,
+  "explanation": "Middle term B is not distributed in either premise. Fallacy of the undistributed middle."
+}

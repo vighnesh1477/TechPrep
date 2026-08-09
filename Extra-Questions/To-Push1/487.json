@@ -1,0 +1,14 @@
+{
+  "id": "placement-487",
+  "topic": "Squash",
+  "difficulty": "Medium",
+  "question": "What does git merge --squash feature do?",
+  "options": [
+    "Deletes the feature branch",
+    "Combines all feature branch commits into the staging area as uncommitted changes",
+    "Creates a squashed commit automatically",
+    "Rebases the feature branch into a single commit"
+  ],
+  "answer": 1,
+  "explanation": "git merge --squash takes all changes from the feature branch and stages them as a single unit of changes without creating a commit, letting you commit them as one."
+}

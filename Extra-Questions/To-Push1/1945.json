@@ -1,0 +1,14 @@
+{
+  "id": "placement-1945",
+  "topic": "Time and Work",
+  "difficulty": "Medium",
+  "question": "A pipe fills in 6 hrs, another empties in 8 hrs. If both open, time to fill?",
+  "options": [
+    "24 hrs",
+    "12 hrs",
+    "48 hrs",
+    "16 hrs"
+  ],
+  "answer": 0,
+  "explanation": "Net rate = 1/6 - 1/8 = (4-3)/24 = 1/24. Takes 24 hrs."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1423",
+  "topic": "SQL Fundamentals",
+  "difficulty": "Hard",
+  "question": "What is the difference between RANK() and DENSE_RANK() window functions?",
+  "options": [
+    "RANK() does not skip numbers on ties; DENSE_RANK() does",
+    "DENSE_RANK() does not skip numbers on ties; RANK() does (e.g., 1, 2, 2, 4 vs 1, 2, 2, 3)",
+    "There is no difference",
+    "RANK() is used for numbers only, DENSE_RANK() for strings"
+  ],
+  "answer": 1,
+  "explanation": "If two values tie for rank 1, RANK() assigns the next rank as 3 (skipping 2). DENSE_RANK() assigns the next rank as 2 (not skipping)."
+}

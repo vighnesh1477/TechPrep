@@ -1,0 +1,14 @@
+{
+  "id": "placement-1257",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "What is branch prediction?",
+  "options": [
+    "Writing assembly code",
+    "A technique where the CPU guesses the outcome of a conditional branch to keep the pipeline full",
+    "Merging two CPU cores",
+    "Deleting unused branches"
+  ],
+  "answer": 1,
+  "explanation": "Branch predictors guess if a jump will be taken, speculatively executing instructions to avoid pipeline stalls."
+}

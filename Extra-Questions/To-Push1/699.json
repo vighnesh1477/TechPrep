@@ -1,0 +1,14 @@
+{
+  "id": "placement-699",
+  "topic": "nice",
+  "difficulty": "Easy",
+  "question": "How do you run a command with a nice value of 10?",
+  "options": [
+    "nice -10 command",
+    "nice 10 command",
+    "Both A and B",
+    "nice --value=10 command"
+  ],
+  "answer": 2,
+  "explanation": "Both 'nice -10 command' and 'nice 10 command' work. The nice command accepts the value with or without the dash prefix."
+}

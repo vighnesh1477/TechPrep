@@ -1,0 +1,14 @@
+{
+  "id": "placement-1383",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Medium",
+  "question": "Which normal form addresses Multi-Valued Dependencies?",
+  "options": [
+    "3NF",
+    "BCNF",
+    "4NF",
+    "5NF"
+  ],
+  "answer": 2,
+  "explanation": "Fourth Normal Form (4NF) requires a relation to be in BCNF and have no non-trivial multi-valued dependencies. It eliminates independent multi-valued attributes from the same table."
+}

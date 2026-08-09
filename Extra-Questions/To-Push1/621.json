@@ -1,0 +1,14 @@
+{
+  "id": "placement-621",
+  "topic": "grep",
+  "difficulty": "Easy",
+  "question": "What does grep -n display?",
+  "options": [
+    "Only the count of matches",
+    "Line numbers along with matching lines",
+    "The next line after each match",
+    "File names only"
+  ],
+  "answer": 1,
+  "explanation": "grep -n prefixes each matching line with its line number in the file, making it easy to locate the match."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-616",
+  "topic": "tail",
+  "difficulty": "Easy",
+  "question": "What is the difference between tail -f and tail -F?",
+  "options": [
+    "There is no difference",
+    "tail -F follows even if the file is rotated or recreated",
+    "tail -F is faster than tail -f",
+    "tail -F shows file metadata"
+  ],
+  "answer": 1,
+  "explanation": "tail -F follows the file by name, so if the file is rotated (deleted and recreated, common with log rotation), tail -F continues following the new file."
+}

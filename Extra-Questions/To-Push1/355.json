@@ -1,0 +1,14 @@
+{
+  "id": "placement-355",
+  "topic": "Clone",
+  "difficulty": "Easy",
+  "question": "How do you clone a repository into a directory with a custom name?",
+  "options": [
+    "git clone https://repo.com/project.git --name my-folder",
+    "git clone https://repo.com/project.git my-folder",
+    "git clone https://repo.com/project.git -o my-folder",
+    "git clone --into my-folder https://repo.com/project.git"
+  ],
+  "answer": 1,
+  "explanation": "Appending a directory name to the git clone command creates the repository in a folder with that custom name instead of using the repository's default name."
+}

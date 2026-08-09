@@ -1,0 +1,14 @@
+{
+  "id": "placement-575",
+  "topic": "rm",
+  "difficulty": "Easy",
+  "question": "Why is 'rm -rf /' dangerous?",
+  "options": [
+    "It only removes root's home directory",
+    "It recursively and forcefully deletes all files on the system",
+    "It removes only temporary files",
+    "It formats the disk"
+  ],
+  "answer": 1,
+  "explanation": "rm -rf / recursively and forcefully deletes every file and directory starting from the root, effectively destroying the entire file system."
+}

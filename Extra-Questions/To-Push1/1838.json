@@ -1,0 +1,14 @@
+{
+  "id": "placement-1838",
+  "topic": "Complexity",
+  "difficulty": "Medium",
+  "question": "What is the time complexity of a nested loop where the outer loop runs `n` times and the inner loop runs `n` times?",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(2^n)",
+    "O(log n)"
+  ],
+  "answer": 1,
+  "explanation": "For each of the `n` iterations of the outer loop, the inner loop executes `n` times. The total operations are `n * n = n^2`, resulting in O(n^2)."
+}

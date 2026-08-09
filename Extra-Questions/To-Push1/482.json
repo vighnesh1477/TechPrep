@@ -1,0 +1,14 @@
+{
+  "id": "placement-482",
+  "topic": "Fork",
+  "difficulty": "Medium",
+  "question": "How do you sync your fork's main branch with the upstream repository?",
+  "options": [
+    "git fork --sync upstream",
+    "git fetch upstream && git merge upstream/main",
+    "git pull --fork-sync",
+    "git sync-fork upstream/main"
+  ],
+  "answer": 1,
+  "explanation": "The standard way to sync a fork is to fetch from upstream and then merge upstream/main into your local main, then push to your fork."
+}

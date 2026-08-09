@@ -1,0 +1,14 @@
+{
+  "id": "placement-929",
+  "topic": "Data Structures",
+  "difficulty": "Hard",
+  "question": "In a B-Tree of order m, what is the maximum number of children a node can have?",
+  "options": [
+    "m",
+    "m-1",
+    "m/2",
+    "2m"
+  ],
+  "answer": 0,
+  "explanation": "The order m defines the maximum number of children a node can have."
+}

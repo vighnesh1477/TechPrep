@@ -1,0 +1,14 @@
+{
+  "id": "placement-1023",
+  "topic": "OOP",
+  "difficulty": "Medium",
+  "question": "What is method overriding?",
+  "options": [
+    "Having multiple methods in one class",
+    "Redefining a base class method in a derived class with the same signature",
+    "Calling a method recursively",
+    "Overloading a constructor"
+  ],
+  "answer": 1,
+  "explanation": "Overriding is runtime polymorphism where a subclass provides a specific implementation of a method defined in its parent."
+}

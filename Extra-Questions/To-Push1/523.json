@@ -1,0 +1,14 @@
+{
+  "id": "placement-523",
+  "topic": "Troubleshooting",
+  "difficulty": "Medium",
+  "question": "What should you do if git push is rejected with 'non-fast-forward' error?",
+  "options": [
+    "Always use git push --force",
+    "Pull or fetch first to integrate remote changes, then push",
+    "Delete the remote branch and push again",
+    "Reinstall Git"
+  ],
+  "answer": 1,
+  "explanation": "A non-fast-forward rejection means the remote has commits you don't have locally. You should pull/rebase first to integrate those changes, then push."
+}

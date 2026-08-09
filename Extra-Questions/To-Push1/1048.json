@@ -1,0 +1,14 @@
+{
+  "id": "placement-1048",
+  "topic": "Git",
+  "difficulty": "Easy",
+  "question": "Which command stages all modified files for the next commit?",
+  "options": [
+    "git add .",
+    "git commit",
+    "git push",
+    "git status"
+  ],
+  "answer": 0,
+  "explanation": "git add . stages all current directory changes to the index."
+}

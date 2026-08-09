@@ -1,0 +1,14 @@
+{
+  "id": "placement-1928",
+  "topic": "Averages",
+  "difficulty": "Medium",
+  "question": "Average of 20 numbers is 15. If 5 is added to each, new average?",
+  "options": [
+    "15",
+    "16",
+    "20",
+    "25"
+  ],
+  "answer": 2,
+  "explanation": "Adding a constant to all numbers adds the same constant to the average. 15+5=20."
+}

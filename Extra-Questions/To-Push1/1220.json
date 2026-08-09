@@ -1,0 +1,14 @@
+{
+  "id": "placement-1220",
+  "topic": "Linux",
+  "difficulty": "Hard",
+  "question": "What is an inode?",
+  "options": [
+    "A type of file",
+    "A data structure describing a file-system object (like a file or directory) but not its name or data",
+    "An internet node",
+    "An input device"
+  ],
+  "answer": 1,
+  "explanation": "An inode stores metadata (permissions, size, timestamps) and block pointers, while the file name is stored in the directory."
+}

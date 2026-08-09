@@ -1,0 +1,14 @@
+{
+  "id": "placement-653",
+  "topic": "chown",
+  "difficulty": "Easy",
+  "question": "What does chown do?",
+  "options": [
+    "Changes file permissions",
+    "Changes file ownership",
+    "Changes file group",
+    "Changes file creation time"
+  ],
+  "answer": 1,
+  "explanation": "chown (change owner) changes the user and/or group ownership of files. Only root can change the owner of a file."
+}

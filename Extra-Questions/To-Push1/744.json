@@ -1,0 +1,14 @@
+{
+  "id": "placement-744",
+  "topic": "rpm",
+  "difficulty": "Easy",
+  "question": "What does 'rpm -qa' do?",
+  "options": [
+    "Queries all installed packages",
+    "Queries the author of a package",
+    "Quits the rpm program",
+    "Runs a quick audit"
+  ],
+  "answer": 0,
+  "explanation": "rpm -qa queries all installed RPM packages, listing every package currently installed on the system."
+}

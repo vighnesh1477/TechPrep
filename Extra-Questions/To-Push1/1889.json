@@ -1,0 +1,14 @@
+{
+  "id": "placement-1889",
+  "topic": "Percentages",
+  "difficulty": "Medium",
+  "question": "A is 25% of B. Sum of A and B is 125. Find B.",
+  "options": [
+    "75",
+    "100",
+    "25",
+    "50"
+  ],
+  "answer": 1,
+  "explanation": "A = 0.25B. 0.25B + B = 125 => 1.25B = 125 => B=100."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1911",
+  "topic": "Ratio and Proportion",
+  "difficulty": "Easy",
+  "question": "A:B:C = 1:2:3. Sum is 600. C is?",
+  "options": [
+    "100",
+    "200",
+    "300",
+    "400"
+  ],
+  "answer": 2,
+  "explanation": "Sum of ratios=6. C=3/6 * 600 = 300."
+}

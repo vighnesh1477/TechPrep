@@ -1,0 +1,14 @@
+{
+  "id": "placement-879",
+  "topic": "C++",
+  "difficulty": "Hard",
+  "question": "What is the diamond problem in C++?",
+  "options": [
+    "Memory leak in interfaces",
+    "Ambiguity in multiple inheritance",
+    "Diamond shape of class diagrams",
+    "Syntax error in virtual functions"
+  ],
+  "answer": 1,
+  "explanation": "Multiple inheritance from two base classes that share a common base causes ambiguity, solved by virtual inheritance."
+}

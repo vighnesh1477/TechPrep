@@ -1,0 +1,14 @@
+{
+  "id": "placement-987",
+  "topic": "Operating Systems",
+  "difficulty": "Easy",
+  "question": "What is the main function of the dispatcher?",
+  "options": [
+    "Creating processes",
+    "Context switching",
+    "Killing processes",
+    "Allocating memory"
+  ],
+  "answer": 1,
+  "explanation": "The dispatcher gives control of the CPU to the process selected by the scheduler."
+}

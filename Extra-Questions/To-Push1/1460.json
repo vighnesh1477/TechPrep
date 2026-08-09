@@ -1,0 +1,14 @@
+{
+  "id": "placement-1460",
+  "topic": "Computer Architecture",
+  "difficulty": "Easy",
+  "question": "What is the purpose of Cache memory?",
+  "options": [
+    "To permanently store user files",
+    "To store frequently accessed data to reduce the average time to access data from the main memory",
+    "To replace the hard drive",
+    "To increase the clock speed of the CPU"
+  ],
+  "answer": 1,
+  "explanation": "Cache memory is a small, fast memory located between the CPU and main memory (RAM). It stores copies of frequently accessed data so that future requests can be served faster."
+}

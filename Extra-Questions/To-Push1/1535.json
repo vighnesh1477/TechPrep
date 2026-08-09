@@ -1,0 +1,14 @@
+{
+  "id": "placement-1535",
+  "topic": "Compiler Fundamentals",
+  "difficulty": "Hard",
+  "question": "In an LR parser, what do the 'L' and 'R' stand for?",
+  "options": [
+    "Left-to-right scanning, Rightmost derivation in reverse",
+    "Left-to-right scanning, Leftmost derivation",
+    "Logical parsing, Recursive descent",
+    "Lexical analysis, Right recursion"
+  ],
+  "answer": 0,
+  "explanation": "LR parsers scan the input from Left to right and produce a Rightmost derivation (but they construct it in reverse, bottom-up). It is a powerful class of bottom-up parsers."
+}

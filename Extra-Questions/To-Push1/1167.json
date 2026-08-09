@@ -1,0 +1,14 @@
+{
+  "id": "placement-1167",
+  "topic": "Data Structures",
+  "difficulty": "Medium",
+  "question": "In a Min-Heap, where is the smallest element located?",
+  "options": [
+    "Any leaf",
+    "Root",
+    "Leftmost node",
+    "Rightmost node"
+  ],
+  "answer": 1,
+  "explanation": "A Min-Heap ensures the parent node is always smaller than its children, so the minimum is at the root."
+}

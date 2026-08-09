@@ -1,0 +1,14 @@
+{
+  "id": "placement-2212",
+  "topic": "Puzzles",
+  "difficulty": "Hard",
+  "question": "If North becomes South, South becomes East, East becomes West, what does West become?",
+  "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+  ],
+  "answer": 0,
+  "explanation": "The directions follow the sequence North → South → East → West → North. Therefore, West becomes North."
+}

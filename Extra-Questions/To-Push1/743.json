@@ -1,0 +1,14 @@
+{
+  "id": "placement-743",
+  "topic": "dnf",
+  "difficulty": "Easy",
+  "question": "What is dnf?",
+  "options": [
+    "A Debian package manager",
+    "The next-generation version of yum for RPM-based distributions",
+    "A network diagnostic tool",
+    "A disk formatting utility"
+  ],
+  "answer": 1,
+  "explanation": "dnf (Dandified YUM) is the successor to yum, used in modern Fedora, RHEL 8+, and CentOS Stream. It offers better performance and dependency resolution."
+}

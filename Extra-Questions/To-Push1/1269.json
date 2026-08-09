@@ -1,0 +1,14 @@
+{
+  "id": "placement-1269",
+  "topic": "Software Engineering",
+  "difficulty": "Easy",
+  "question": "What is a bug?",
+  "options": [
+    "A feature",
+    "An error, flaw, or unintended behavior in a computer program",
+    "A type of virus",
+    "A backup file"
+  ],
+  "answer": 1,
+  "explanation": "A bug is a defect in software that causes it to produce incorrect or unexpected results."
+}

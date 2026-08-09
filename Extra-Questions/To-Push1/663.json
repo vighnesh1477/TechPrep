@@ -1,0 +1,14 @@
+{
+  "id": "placement-663",
+  "topic": "umask",
+  "difficulty": "Easy",
+  "question": "What does umask do?",
+  "options": [
+    "Sets the default file permissions",
+    "Defines the permissions to remove from default file permissions",
+    "Masks hidden files from listing",
+    "Sets the maximum permission level"
+  ],
+  "answer": 1,
+  "explanation": "umask defines which permission bits to remove (mask out) from the default permissions when creating new files (666) and directories (777)."
+}

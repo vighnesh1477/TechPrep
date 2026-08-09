@@ -1,0 +1,14 @@
+{
+  "id": "placement-678",
+  "topic": "Processes",
+  "difficulty": "Easy",
+  "question": "What is PID 1 in a Linux system?",
+  "options": [
+    "The kernel",
+    "The init process (systemd or SysVinit)",
+    "The first user process",
+    "The scheduler"
+  ],
+  "answer": 1,
+  "explanation": "PID 1 is the init process (typically systemd on modern systems), which is the first process started by the kernel and the ancestor of all other processes."
+}

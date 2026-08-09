@@ -1,0 +1,14 @@
+{
+  "id": "placement-833",
+  "topic": "wc",
+  "difficulty": "Medium",
+  "question": "What does 'wc -l file' show?",
+  "options": [
+    "The length of the longest line",
+    "The number of lines in the file",
+    "The last line of the file",
+    "Lines with only letters"
+  ],
+  "answer": 1,
+  "explanation": "wc -l counts and displays the number of newline characters, which equals the number of lines in the file."
+}

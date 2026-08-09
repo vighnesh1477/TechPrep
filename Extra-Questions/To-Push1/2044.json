@@ -1,0 +1,14 @@
+{
+  "id": "placement-2044",
+  "topic": "Algebra",
+  "difficulty": "Easy",
+  "question": "Solve: 2x - 4 = 0.",
+  "options": [
+    "0",
+    "2",
+    "4",
+    "-2"
+  ],
+  "answer": 1,
+  "explanation": "2x = 4 => x = 2."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1860",
+  "topic": "Programming Fundamentals",
+  "difficulty": "Medium",
+  "question": "What is the output of `print(0.1 + 0.2 == 0.3)` in Java?",
+  "options": [
+    "true",
+    "false",
+    "Error",
+    "null"
+  ],
+  "answer": 1,
+  "explanation": "Just like Python, Java uses IEEE 754 floating-point representation. `0.1 + 0.2` results in `0.30000000000000004`, which is not equal to `0.3`."
+}

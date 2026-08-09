@@ -1,0 +1,14 @@
+{
+  "id": "placement-2130",
+  "topic": "Coding-Decoding",
+  "difficulty": "Hard",
+  "question": "If A=Z, B=Y, C=X... what is 'HELLO'?",
+  "options": [
+    "SVOOL",
+    "SVOOM",
+    "SVOLL",
+    "UVOOL"
+  ],
+  "answer": 0,
+  "explanation": "H(8)->S(19), E(5)->V(22), L(12)->O(15), L(12)->O(15), O(15)->L(12). SVOOL."
+}

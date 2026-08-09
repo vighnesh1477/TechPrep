@@ -1,0 +1,14 @@
+{
+  "id": "placement-1570",
+  "topic": "Digital Logic Basics",
+  "difficulty": "Hard",
+  "question": "What is a 'Johnson Counter' (Twisted Ring Counter)?",
+  "options": [
+    "A counter where the last flip-flop's complemented output is fed back to the first flip-flop",
+    "A counter that counts Johnson numbers",
+    "A standard binary counter",
+    "A counter without a clock"
+  ],
+  "answer": 0,
+  "explanation": "Unlike a standard ring counter, a Johnson counter feeds the inverted output (Q') of the last stage back to the input of the first stage. This allows it to count 2n states with n flip-flops."
+}

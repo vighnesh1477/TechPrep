@@ -1,0 +1,14 @@
+{
+  "id": "placement-1746",
+  "topic": "Strings",
+  "difficulty": "Medium",
+  "question": "What is the output of `printf(\"%c\", \"Hello\"[1]);` in C?",
+  "options": [
+    "H",
+    "e",
+    "l",
+    "Compilation Error"
+  ],
+  "answer": 1,
+  "explanation": "String literals in C are arrays of characters. You can access individual characters using array indexing. Index 1 of \"Hello\" is 'e'."
+}

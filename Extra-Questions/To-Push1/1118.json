@@ -1,0 +1,14 @@
+{
+  "id": "placement-1118",
+  "topic": "Computer Architecture",
+  "difficulty": "Hard",
+  "question": "How does out-of-order execution improve performance?",
+  "options": [
+    "By executing instructions randomly",
+    "By executing instructions as soon as their operands are ready, bypassing stalls",
+    "By slowing down the clock",
+    "By using more RAM"
+  ],
+  "answer": 1,
+  "explanation": "Out-of-order execution allows the CPU to fill pipeline bubbles caused by data dependencies or cache misses."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "placement-1371",
+  "topic": "DBMS Fundamentals",
+  "difficulty": "Easy",
+  "question": "What is the purpose of an Index in a database?",
+  "options": [
+    "To delete duplicate rows",
+    "To speed up the retrieval of rows from a table",
+    "To enforce referential integrity",
+    "To encrypt data"
+  ],
+  "answer": 1,
+  "explanation": "An index is a data structure that improves the speed of data retrieval operations on a table at the cost of additional writes and storage space."
+}

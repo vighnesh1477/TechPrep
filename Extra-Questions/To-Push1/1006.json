@@ -1,0 +1,14 @@
+{
+  "id": "placement-1006",
+  "topic": "Computer Networks",
+  "difficulty": "Medium",
+  "question": "What is the difference between TCP and UDP?",
+  "options": [
+    "TCP is faster, UDP is slower",
+    "TCP is connection-oriented and reliable; UDP is connectionless and unreliable",
+    "TCP is for video, UDP is for web",
+    "There is no difference"
+  ],
+  "answer": 1,
+  "explanation": "TCP establishes a connection and guarantees delivery; UDP sends datagrams without guarantees."
+}

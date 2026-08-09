@@ -1,0 +1,14 @@
+{
+  "id": "placement-892",
+  "topic": "Java",
+  "difficulty": "Hard",
+  "question": "How does `HashMap` handle collisions in Java 8+?",
+  "options": [
+    "Linear probing",
+    "Separate chaining with linked lists converting to trees",
+    "Open addressing",
+    "Quadratic probing"
+  ],
+  "answer": 1,
+  "explanation": "Java 8 uses linked lists for buckets, converting to balanced trees if a bucket gets too large."
+}

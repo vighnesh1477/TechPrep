@@ -1,0 +1,14 @@
+{
+  "id": "placement-1030",
+  "topic": "OOP",
+  "difficulty": "Hard",
+  "question": "What is the difference between association and aggregation?",
+  "options": [
+    "No difference",
+    "Aggregation is a weak 'has-a' where parts can exist independently; association is a general relationship",
+    "Aggregation implies strong ownership",
+    "Association is only between classes"
+  ],
+  "answer": 1,
+  "explanation": "Aggregation is a specific type of association representing a whole/part relationship where parts can exist independently."
+}
