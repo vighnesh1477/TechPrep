@@ -6373,5 +6373,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git is a distributed version control system where every developer has a full copy of the repository, including its complete history."
+    },
+    {
+        "id": "pf-456",
+        "topic": "Git Installation",
+        "difficulty": "Easy",
+        "question": "Which command verifies that Git is installed and shows its version?",
+        "options": [
+            "git --check",
+            "git --version",
+            "git --verify",
+            "git --info"
+        ],
+        "answer": 1,
+        "explanation": "Running git --version displays the installed Git version number, confirming that Git is properly installed on the system."
     }
 ];
