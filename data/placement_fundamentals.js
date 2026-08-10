@@ -6387,5 +6387,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Running git --version displays the installed Git version number, confirming that Git is properly installed on the system."
+    },
+    {
+        "id": "pf-457",
+        "topic": "Git Installation",
+        "difficulty": "Easy",
+        "question": "On Ubuntu, which command installs Git using the package manager?",
+        "options": [
+            "yum install git",
+            "apt-get install git",
+            "brew install git",
+            "dnf install git"
+        ],
+        "answer": 1,
+        "explanation": "On Ubuntu and other Debian-based systems, apt-get install git is the standard command to install Git using the APT package manager."
     }
 ];
