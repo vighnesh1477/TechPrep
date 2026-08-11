@@ -6415,5 +6415,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git init creates a new .git subdirectory in the current folder, which contains all the necessary metadata for the repository."
+    },
+    {
+        "id": "pf-459",
+        "topic": "Repository Initialization",
+        "difficulty": "Easy",
+        "question": "What hidden directory is created when you run git init?",
+        "options": [
+            ".gitconfig",
+            ".git",
+            ".gitrepo",
+            ".gitdata"
+        ],
+        "answer": 1,
+        "explanation": "git init creates a .git directory that stores all version control metadata, including objects, refs, and configuration files."
     }
 ];
