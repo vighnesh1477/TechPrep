@@ -6401,5 +6401,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "On Ubuntu and other Debian-based systems, apt-get install git is the standard command to install Git using the APT package manager."
+    },
+    {
+        "id": "pf-458",
+        "topic": "Repository Initialization",
+        "difficulty": "Easy",
+        "question": "What command initializes a new Git repository in the current directory?",
+        "options": [
+            "git start",
+            "git init",
+            "git create",
+            "git new"
+        ],
+        "answer": 1,
+        "explanation": "git init creates a new .git subdirectory in the current folder, which contains all the necessary metadata for the repository."
     }
 ];
