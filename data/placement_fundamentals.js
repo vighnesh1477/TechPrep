@@ -6443,5 +6443,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "The --global flag sets the configuration at the user level, applying the name to all repositories on the system unless overridden locally."
+    },
+    {
+        "id": "pf-461",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Where are global Git configuration settings stored?",
+        "options": [
+            ".git/config in each repository",
+            "~/.gitconfig",
+            "/etc/gitconfig",
+            "~/.git/config"
+        ],
+        "answer": 1,
+        "explanation": "Global Git settings are stored in the ~/.gitconfig file in the user's home directory, applying across all repositories for that user."
     }
 ];
