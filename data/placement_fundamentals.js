@@ -6429,5 +6429,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git init creates a .git directory that stores all version control metadata, including objects, refs, and configuration files."
+    },
+    {
+        "id": "pf-460",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Which command sets your name globally for all Git repositories?",
+        "options": [
+            "git config --global user.name \"Your Name\"",
+            "git set --global user.name \"Your Name\"",
+            "git config --local user.name \"Your Name\"",
+            "git config user.name \"Your Name\""
+        ],
+        "answer": 0,
+        "explanation": "The --global flag sets the configuration at the user level, applying the name to all repositories on the system unless overridden locally."
     }
 ];
