@@ -6457,5 +6457,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Global Git settings are stored in the ~/.gitconfig file in the user's home directory, applying across all repositories for that user."
+    },
+    {
+        "id": "pf-462",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Which command displays all your current Git configuration settings?",
+        "options": [
+            "git config --show",
+            "git config --list",
+            "git config --display",
+            "git config --all"
+        ],
+        "answer": 1,
+        "explanation": "git config --list prints all Git configuration values from all config files (system, global, and local) in a consolidated view."
     }
 ];
