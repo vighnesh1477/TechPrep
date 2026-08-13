@@ -6471,5 +6471,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git config --list prints all Git configuration values from all config files (system, global, and local) in a consolidated view."
+    },
+    {
+        "id": "pf-463",
+        "topic": "Working Tree",
+        "difficulty": "Easy",
+        "question": "What is the working tree in Git?",
+        "options": [
+            "The .git directory",
+            "The directory containing your actual project files",
+            "The remote repository",
+            "The staging area"
+        ],
+        "answer": 1,
+        "explanation": "The working tree is the directory on your filesystem where you can see and edit your project files, separate from the .git metadata."
     }
 ];
