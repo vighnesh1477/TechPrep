@@ -6499,5 +6499,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A clean working tree indicates there are no modified, staged, or untracked files, meaning the working directory matches the last commit."
+    },
+    {
+        "id": "pf-465",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "What command stages a single file for the next commit?",
+        "options": [
+            "git add --file myfile.txt",
+            "git stage myfile.txt",
+            "git add myfile.txt",
+            "git prepare myfile.txt"
+        ],
+        "answer": 2,
+        "explanation": "git add myfile.txt moves the specified file from the working tree to the staging area, preparing it for inclusion in the next commit."
     }
 ];
