@@ -6485,5 +6485,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The working tree is the directory on your filesystem where you can see and edit your project files, separate from the .git metadata."
+    },
+    {
+        "id": "pf-464",
+        "topic": "Working Tree",
+        "difficulty": "Easy",
+        "question": "What does a clean working tree mean?",
+        "options": [
+            "All files are deleted",
+            "No uncommitted changes exist in the working directory",
+            "The .git folder is empty",
+            "The remote is up to date"
+        ],
+        "answer": 1,
+        "explanation": "A clean working tree indicates there are no modified, staged, or untracked files, meaning the working directory matches the last commit."
     }
 ];
