@@ -6513,5 +6513,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "git add myfile.txt moves the specified file from the working tree to the staging area, preparing it for inclusion in the next commit."
+    },
+    {
+        "id": "pf-466",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "What does the staging area represent in Git?",
+        "options": [
+            "The final commit history",
+            "A snapshot of changes to be included in the next commit",
+            "A backup of the working tree",
+            "The remote repository state"
+        ],
+        "answer": 1,
+        "explanation": "The staging area (also called the index) holds a snapshot of changes that will be included in the next commit, giving you control over what gets committed."
     }
 ];
