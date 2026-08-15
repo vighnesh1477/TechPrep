@@ -6527,5 +6527,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The staging area (also called the index) holds a snapshot of changes that will be included in the next commit, giving you control over what gets committed."
+    },
+    {
+        "id": "pf-467",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "Which command stages all changes in the current directory for commit?",
+        "options": [
+            "git add .",
+            "git add --all",
+            "git stage --all",
+            "git commit --all"
+        ],
+        "answer": 0,
+        "explanation": "git add . stages all new, modified, and deleted files in the current directory and its subdirectories for the next commit."
     }
 ];
