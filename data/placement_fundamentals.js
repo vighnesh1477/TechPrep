@@ -6555,5 +6555,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git commit -m creates a new commit with a message, permanently recording the staged snapshot in the repository history."
+    },
+    {
+        "id": "pf-469",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What is a commit hash in Git?",
+        "options": [
+            "A random number assigned to each file",
+            "A SHA-1 hash uniquely identifying a commit object",
+            "An encrypted password for the repository",
+            "A timestamp of when the commit was made"
+        ],
+        "answer": 1,
+        "explanation": "Each commit is identified by a 40-character SHA-1 hash, which is uniquely generated from the commit's contents, metadata, and parent references."
     }
 ];
