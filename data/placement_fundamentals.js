@@ -6541,5 +6541,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git add . stages all new, modified, and deleted files in the current directory and its subdirectories for the next commit."
+    },
+    {
+        "id": "pf-468",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What command creates a commit with the staged changes?",
+        "options": [
+            "git save -m \"message\"",
+            "git commit -m \"message\"",
+            "git push -m \"message\"",
+            "git store -m \"message\""
+        ],
+        "answer": 1,
+        "explanation": "git commit -m creates a new commit with a message, permanently recording the staged snapshot in the repository history."
     }
 ];
