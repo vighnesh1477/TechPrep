@@ -6569,5 +6569,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Each commit is identified by a 40-character SHA-1 hash, which is uniquely generated from the commit's contents, metadata, and parent references."
+    },
+    {
+        "id": "pf-470",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What does the -m flag do in a git commit command?",
+        "options": [
+            "Marks the commit as minor",
+            "Specifies the commit message directly on the command line",
+            "Merges the commit with the previous one",
+            "Moves the commit to a different branch"
+        ],
+        "answer": 1,
+        "explanation": "The -m flag allows you to provide the commit message inline, avoiding the opening of a text editor for message entry."
     }
 ];
