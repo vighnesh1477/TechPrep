@@ -6583,5 +6583,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The -m flag allows you to provide the commit message inline, avoiding the opening of a text editor for message entry."
+    },
+    {
+        "id": "pf-471",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What happens if you try to commit without staging any changes?",
+        "options": [
+            "Git creates an empty commit automatically",
+            "Git throws an error saying nothing to commit",
+            "Git stages all files and then commits",
+            "Git deletes the current branch"
+        ],
+        "answer": 1,
+        "explanation": "If no changes are staged, Git displays an error message indicating there is nothing to commit, unless you use the --allow-empty flag."
     }
 ];
