@@ -6611,5 +6611,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Without arguments, git show displays information about the most recent commit, including the commit metadata and the diff it introduced."
+    },
+    {
+        "id": "pf-473",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "What does git log display?",
+        "options": [
+            "Error messages from Git operations",
+            "The commit history of the current branch",
+            "A list of all files in the repository",
+            "Remote repository URLs"
+        ],
+        "answer": 1,
+        "explanation": "git log shows the commit history in reverse chronological order, including commit hashes, author information, dates, and commit messages."
     }
 ];
