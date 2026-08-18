@@ -6597,5 +6597,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "If no changes are staged, Git displays an error message indicating there is nothing to commit, unless you use the --allow-empty flag."
+    },
+    {
+        "id": "pf-472",
+        "topic": "Commit History",
+        "difficulty": "Easy",
+        "question": "What does git show display by default?",
+        "options": [
+            "The entire commit history",
+            "The most recent commit's details and diff",
+            "Only the commit messages",
+            "The branch structure"
+        ],
+        "answer": 1,
+        "explanation": "Without arguments, git show displays information about the most recent commit, including the commit metadata and the diff it introduced."
     }
 ];
