@@ -6625,5 +6625,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git log shows the commit history in reverse chronological order, including commit hashes, author information, dates, and commit messages."
+    },
+    {
+        "id": "pf-474",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "Which flag limits git log output to a specific number of commits?",
+        "options": [
+            "-n",
+            "-l",
+            "-c",
+            "-max"
+        ],
+        "answer": 0,
+        "explanation": "git log -n <number> or git log -<number> limits the output to the specified number of most recent commits."
     }
 ];
