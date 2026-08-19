@@ -6639,5 +6639,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log -n <number> or git log -<number> limits the output to the specified number of most recent commits."
+    },
+    {
+        "id": "pf-475",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "What does git log --oneline display?",
+        "options": [
+            "Only the first line of each commit message",
+            "A shortened single-line format with commit hash and message",
+            "Only the commit hashes without messages",
+            "The log in a single column"
+        ],
+        "answer": 1,
+        "explanation": "git log --oneline shows each commit on a single line with an abbreviated hash and the full commit message, making the log more compact."
     }
 ];
