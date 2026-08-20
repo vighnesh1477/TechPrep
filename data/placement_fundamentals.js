@@ -6667,5 +6667,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Without arguments, git diff shows the changes in the working tree that have not yet been staged, comparing the working directory to the staging area."
+    },
+    {
+        "id": "pf-477",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "Which command shows changes that are staged but not yet committed?",
+        "options": [
+            "git diff --staged",
+            "git diff --cached",
+            "git diff --commit",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both --staged and --cached are equivalent flags that show the differences between the staging area and the most recent commit."
     }
 ];
