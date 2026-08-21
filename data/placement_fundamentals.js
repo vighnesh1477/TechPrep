@@ -6681,5 +6681,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both --staged and --cached are equivalent flags that show the differences between the staging area and the most recent commit."
+    },
+    {
+        "id": "pf-478",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "What information does git status provide?",
+        "options": [
+            "Only the current branch name",
+            "The state of the working tree and staging area",
+            "Only untracked files",
+            "Only remote repository status"
+        ],
+        "answer": 1,
+        "explanation": "git status shows the branch name, whether it is in sync with remote, and which files are modified, staged, or untracked."
     }
 ];
