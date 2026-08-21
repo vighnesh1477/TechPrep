@@ -6695,5 +6695,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git status shows the branch name, whether it is in sync with remote, and which files are modified, staged, or untracked."
+    },
+    {
+        "id": "pf-479",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "What does 'Untracked files' mean in git status output?",
+        "options": [
+            "Files that have been deleted",
+            "Files that Git is not currently tracking in version control",
+            "Files that have been modified",
+            "Files that are in the staging area"
+        ],
+        "answer": 1,
+        "explanation": "Untracked files are those that exist in the working directory but have never been added to Git's version control tracking."
     }
 ];
