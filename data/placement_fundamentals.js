@@ -6709,5 +6709,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Untracked files are those that exist in the working directory but have never been added to Git's version control tracking."
+    },
+    {
+        "id": "pf-480",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "Which flag makes git status output more concise?",
+        "options": [
+            "-s",
+            "-c",
+            "-q",
+            "-b"
+        ],
+        "answer": 0,
+        "explanation": "git status -s or --short gives a compact output using two-character status codes (like M for modified, A for added, ?? for untracked) instead of full descriptions."
     }
 ];
