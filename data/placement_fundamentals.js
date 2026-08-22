@@ -6723,5 +6723,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git status -s or --short gives a compact output using two-character status codes (like M for modified, A for added, ?? for untracked) instead of full descriptions."
+    },
+    {
+        "id": "pf-481",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "What is a branch in Git?",
+        "options": [
+            "A copy of the entire repository",
+            "A lightweight movable pointer to a commit",
+            "A separate folder in the filesystem",
+            "A backup of the working tree"
+        ],
+        "answer": 1,
+        "explanation": "In Git, a branch is simply a lightweight pointer to a commit, making branch creation and switching extremely fast operations."
     }
 ];
