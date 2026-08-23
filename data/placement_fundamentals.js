@@ -6751,5 +6751,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git branch without any flags lists all local branches in the repository, marking the current branch with an asterisk."
+    },
+    {
+        "id": "pf-483",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "What is the default branch name in newly created Git repositories?",
+        "options": [
+            "master",
+            "main",
+            "It depends on the Git configuration",
+            "default"
+        ],
+        "answer": 2,
+        "explanation": "The default branch name depends on the Git version and configuration. Older versions default to 'master', while newer ones may use 'main' based on init.defaultBranch setting."
     }
 ];
