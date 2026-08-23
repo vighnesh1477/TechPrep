@@ -6737,5 +6737,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "In Git, a branch is simply a lightweight pointer to a commit, making branch creation and switching extremely fast operations."
+    },
+    {
+        "id": "pf-482",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "Which command lists all local branches?",
+        "options": [
+            "git branches",
+            "git branch",
+            "git show-branches",
+            "git list-branches"
+        ],
+        "answer": 1,
+        "explanation": "git branch without any flags lists all local branches in the repository, marking the current branch with an asterisk."
     }
 ];
