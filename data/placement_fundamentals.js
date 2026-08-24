@@ -6765,5 +6765,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "The default branch name depends on the Git version and configuration. Older versions default to 'master', while newer ones may use 'main' based on init.defaultBranch setting."
+    },
+    {
+        "id": "pf-484",
+        "topic": "Branch Creation",
+        "difficulty": "Easy",
+        "question": "Which command creates a new branch without switching to it?",
+        "options": [
+            "git new-branch feature",
+            "git branch feature",
+            "git create-branch feature",
+            "git switch --create-only feature"
+        ],
+        "answer": 1,
+        "explanation": "git branch <name> creates a new branch pointing to the current commit but does not switch your working tree to that branch."
     }
 ];
