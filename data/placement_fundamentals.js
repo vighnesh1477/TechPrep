@@ -6793,5 +6793,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git checkout -b <name> creates a new branch and immediately switches to it, combining branch creation and switching in a single command."
+    },
+    {
+        "id": "pf-486",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "What is the recommended modern command to switch branches?",
+        "options": [
+            "git change feature",
+            "git switch feature",
+            "git go feature",
+            "git move feature"
+        ],
+        "answer": 1,
+        "explanation": "git switch is the modern command introduced in Git 2.23 specifically for switching branches, making the intent clearer than the older git checkout."
     }
 ];
