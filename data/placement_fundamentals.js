@@ -6807,5 +6807,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git switch is the modern command introduced in Git 2.23 specifically for switching branches, making the intent clearer than the older git checkout."
+    },
+    {
+        "id": "pf-487",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "What happens if you switch branches with uncommitted changes?",
+        "options": [
+            "Git always discards the changes",
+            "Git may prevent switching if changes would be overwritten",
+            "Git automatically commits the changes",
+            "Git moves the changes to the new branch automatically"
+        ],
+        "answer": 1,
+        "explanation": "Git will refuse to switch branches if uncommitted changes would be overwritten by the switch, unless the changes are stashed or committed first."
     }
 ];
