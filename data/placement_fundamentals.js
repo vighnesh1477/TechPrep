@@ -6835,5 +6835,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git merge <branch> takes the specified branch's commits and integrates them into the current branch, creating a merge commit if needed."
+    },
+    {
+        "id": "pf-489",
+        "topic": "Merge",
+        "difficulty": "Easy",
+        "question": "What is a merge commit?",
+        "options": [
+            "A commit that deletes a branch",
+            "A commit with two or more parent commits that combines branch histories",
+            "A regular commit on the target branch",
+            "A commit that reverts a previous merge"
+        ],
+        "answer": 1,
+        "explanation": "A merge commit has multiple parent commits, representing the point where two separate branch histories were joined together."
     }
 ];
