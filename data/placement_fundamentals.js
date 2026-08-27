@@ -6863,5 +6863,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fast-forward merge happens when the current branch has no new commits since the divergence point, so Git simply moves the branch pointer forward."
+    },
+    {
+        "id": "pf-491",
+        "topic": "Fast Forward Merge",
+        "difficulty": "Easy",
+        "question": "Which flag prevents a fast-forward merge and forces a merge commit?",
+        "options": [
+            "--no-ff",
+            "--force-merge",
+            "--commit-merge",
+            "--no-fast"
+        ],
+        "answer": 0,
+        "explanation": "git merge --no-ff creates a merge commit even when a fast-forward is possible, preserving the branch history and making it clear a merge occurred."
     }
 ];
