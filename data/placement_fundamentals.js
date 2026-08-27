@@ -6849,5 +6849,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A merge commit has multiple parent commits, representing the point where two separate branch histories were joined together."
+    },
+    {
+        "id": "pf-490",
+        "topic": "Fast Forward Merge",
+        "difficulty": "Easy",
+        "question": "When does a fast-forward merge occur?",
+        "options": [
+            "When the target branch has commits not in the current branch",
+            "When the current branch has no new commits since the branch diverged",
+            "When both branches have new commits",
+            "When a merge conflict is detected"
+        ],
+        "answer": 1,
+        "explanation": "A fast-forward merge happens when the current branch has no new commits since the divergence point, so Git simply moves the branch pointer forward."
     }
 ];
