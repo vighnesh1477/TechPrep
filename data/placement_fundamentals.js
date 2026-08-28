@@ -6891,5 +6891,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "HEAD is a symbolic reference pointing to the current branch or commit you are working on, indicating where your working tree is based."
+    },
+    {
+        "id": "pf-493",
+        "topic": "HEAD",
+        "difficulty": "Easy",
+        "question": "What does HEAD~2 refer to?",
+        "options": [
+            "The second branch in the repository",
+            "The commit two parents before the current commit",
+            "The second file in the staging area",
+            "Two commits ahead of HEAD"
+        ],
+        "answer": 1,
+        "explanation": "HEAD~2 is a shorthand for the commit that is two generations before the current commit, following the first parent of each commit."
     }
 ];
