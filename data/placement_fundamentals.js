@@ -6919,5 +6919,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Checking out a specific commit hash puts Git in a detached HEAD state, where HEAD points directly to a commit rather than a branch reference."
+    },
+    {
+        "id": "pf-495",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "Which command discards uncommitted changes in a specific file?",
+        "options": [
+            "git checkout -- file.txt",
+            "git restore file.txt",
+            "Both A and B",
+            "git reset file.txt"
+        ],
+        "answer": 2,
+        "explanation": "Both git checkout -- file.txt (traditional) and git restore file.txt (modern) discard uncommitted working tree changes for the specified file."
     }
 ];
