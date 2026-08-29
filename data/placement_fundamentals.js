@@ -6905,5 +6905,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "HEAD~2 is a shorthand for the commit that is two generations before the current commit, following the first parent of each commit."
+    },
+    {
+        "id": "pf-494",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "What does git checkout <commit-hash> do?",
+        "options": [
+            "Deletes the commit",
+            "Puts you in a detached HEAD state at that commit",
+            "Merges the commit into the current branch",
+            "Creates a new branch from that commit"
+        ],
+        "answer": 1,
+        "explanation": "Checking out a specific commit hash puts Git in a detached HEAD state, where HEAD points directly to a commit rather than a branch reference."
     }
 ];
