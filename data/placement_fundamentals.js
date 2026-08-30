@@ -6947,5 +6947,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git checkout - switches to the branch you were on previously, acting as a quick toggle between two branches."
+    },
+    {
+        "id": "pf-497",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "What is the purpose of a tag in Git?",
+        "options": [
+            "To create a new branch",
+            "To mark a specific commit as important, like a release version",
+            "To delete old commits",
+            "To merge branches"
+        ],
+        "answer": 1,
+        "explanation": "Tags are used to mark specific commits as significant, typically for release versions (e.g., v1.0.0), making them easy to reference later."
     }
 ];
