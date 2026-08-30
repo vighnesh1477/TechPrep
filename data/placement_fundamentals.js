@@ -6933,5 +6933,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "Both git checkout -- file.txt (traditional) and git restore file.txt (modern) discard uncommitted working tree changes for the specified file."
+    },
+    {
+        "id": "pf-496",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "What does git checkout - do?",
+        "options": [
+            "Deletes the current branch",
+            "Switches to the previous branch",
+            "Creates a new branch",
+            "Checks out all files"
+        ],
+        "answer": 1,
+        "explanation": "git checkout - switches to the branch you were on previously, acting as a quick toggle between two branches."
     }
 ];
