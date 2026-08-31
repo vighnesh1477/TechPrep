@@ -6961,5 +6961,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Tags are used to mark specific commits as significant, typically for release versions (e.g., v1.0.0), making them easy to reference later."
+    },
+    {
+        "id": "pf-498",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "What is the difference between lightweight and annotated tags?",
+        "options": [
+            "Lightweight tags store more metadata",
+            "Annotated tags include author, date, and message; lightweight tags are just a pointer",
+            "There is no difference",
+            "Lightweight tags can be pushed but annotated tags cannot"
+        ],
+        "answer": 1,
+        "explanation": "Annotated tags (created with -a) store extra metadata like tagger name, email, date, and message, while lightweight tags are simply named pointers to a commit."
     }
 ];
