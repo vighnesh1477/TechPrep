@@ -6975,5 +6975,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Annotated tags (created with -a) store extra metadata like tagger name, email, date, and message, while lightweight tags are simply named pointers to a commit."
+    },
+    {
+        "id": "pf-499",
+        "topic": "Remote Repository",
+        "difficulty": "Easy",
+        "question": "What is a remote in Git?",
+        "options": [
+            "A local backup directory",
+            "A reference to another copy of the repository, typically on a server",
+            "A separate branch",
+            "A configuration file"
+        ],
+        "answer": 1,
+        "explanation": "A remote is a bookmark pointing to another version of the same repository, usually hosted on a server like GitHub, GitLab, or Bitbucket."
     }
 ];
