@@ -6989,5 +6989,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A remote is a bookmark pointing to another version of the same repository, usually hosted on a server like GitHub, GitLab, or Bitbucket."
+    },
+    {
+        "id": "pf-500",
+        "topic": "Remote Repository",
+        "difficulty": "Easy",
+        "question": "Which command lists all configured remotes?",
+        "options": [
+            "git remote list",
+            "git remote -v",
+            "git remotes",
+            "git show-remotes"
+        ],
+        "answer": 1,
+        "explanation": "git remote -v displays all configured remote repositories along with their fetch and push URLs, giving a complete view of remote connections."
     }
 ];
