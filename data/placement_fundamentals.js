@@ -7003,5 +7003,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git remote -v displays all configured remote repositories along with their fetch and push URLs, giving a complete view of remote connections."
+    },
+    {
+        "id": "pf-501",
+        "topic": "Origin",
+        "difficulty": "Easy",
+        "question": "What is 'origin' in Git?",
+        "options": [
+            "The default branch name",
+            "The default name Git gives to the primary remote repository",
+            "The first commit in a repository",
+            "A special Git configuration file"
+        ],
+        "answer": 1,
+        "explanation": "Origin is the conventional default name assigned by Git to the primary remote repository when you clone or add a remote to your local repository."
     }
 ];
