@@ -7017,5 +7017,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Origin is the conventional default name assigned by Git to the primary remote repository when you clone or add a remote to your local repository."
+    },
+    {
+        "id": "pf-502",
+        "topic": "Fetch",
+        "difficulty": "Easy",
+        "question": "What does git fetch do?",
+        "options": [
+            "Downloads remote changes and merges them automatically",
+            "Downloads remote changes without merging into local branches",
+            "Uploads local changes to the remote",
+            "Deletes remote branches"
+        ],
+        "answer": 1,
+        "explanation": "git fetch downloads objects and refs from a remote repository but does not modify your working tree or merge changes into your current branch."
     }
 ];
