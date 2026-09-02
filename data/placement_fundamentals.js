@@ -7031,5 +7031,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git fetch downloads objects and refs from a remote repository but does not modify your working tree or merge changes into your current branch."
+    },
+    {
+        "id": "pf-503",
+        "topic": "Pull",
+        "difficulty": "Easy",
+        "question": "What is git pull equivalent to?",
+        "options": [
+            "git fetch followed by git merge",
+            "git fetch followed by git rebase",
+            "git push followed by git fetch",
+            "git clone followed by git merge"
+        ],
+        "answer": 0,
+        "explanation": "By default, git pull is equivalent to git fetch followed by git merge, integrating remote changes into the current branch."
     }
 ];
