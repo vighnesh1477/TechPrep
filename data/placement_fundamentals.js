@@ -7045,5 +7045,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "By default, git pull is equivalent to git fetch followed by git merge, integrating remote changes into the current branch."
+    },
+    {
+        "id": "pf-504",
+        "topic": "Pull",
+        "difficulty": "Easy",
+        "question": "Which flag makes git pull use rebase instead of merge?",
+        "options": [
+            "--merge",
+            "--rebase",
+            "--no-merge",
+            "--fast-forward"
+        ],
+        "answer": 1,
+        "explanation": "git pull --rebase fetches remote changes and then rebases your local commits on top of the fetched changes instead of creating a merge commit."
     }
 ];
