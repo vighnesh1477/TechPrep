@@ -7087,5 +7087,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The -u (or --set-upstream) flag pushes the branch and sets the upstream tracking reference, so future git pull/push commands work without specifying the remote and branch."
+    },
+    {
+        "id": "pf-507",
+        "topic": "Clone",
+        "difficulty": "Easy",
+        "question": "What does git clone create?",
+        "options": [
+            "Only the working directory files",
+            "A full copy of the repository including history and remotes",
+            "A shallow copy without history",
+            "Only the main branch"
+        ],
+        "answer": 1,
+        "explanation": "git clone creates a complete copy of the remote repository, including all commit history, branches, and the remote configuration, in a new directory."
     }
 ];
