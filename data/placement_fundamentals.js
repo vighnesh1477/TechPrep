@@ -7073,5 +7073,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git push transfers local branch commits to a remote repository, updating the remote refs so others can see your changes."
+    },
+    {
+        "id": "pf-506",
+        "topic": "Push",
+        "difficulty": "Easy",
+        "question": "What does git push -u origin main do?",
+        "options": [
+            "Pushes and then deletes the local branch",
+            "Pushes and sets the upstream tracking reference",
+            "Pushes and undoes the last commit",
+            "Pushes and creates a new remote"
+        ],
+        "answer": 1,
+        "explanation": "The -u (or --set-upstream) flag pushes the branch and sets the upstream tracking reference, so future git pull/push commands work without specifying the remote and branch."
     }
 ];
