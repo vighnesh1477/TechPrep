@@ -7101,5 +7101,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git clone creates a complete copy of the remote repository, including all commit history, branches, and the remote configuration, in a new directory."
+    },
+    {
+        "id": "pf-508",
+        "topic": "Clone",
+        "difficulty": "Easy",
+        "question": "Which flag creates a shallow clone with limited commit history?",
+        "options": [
+            "--depth",
+            "--shallow",
+            "--limit",
+            "--history"
+        ],
+        "answer": 0,
+        "explanation": "git clone --depth=1 creates a shallow clone with only the latest commit, significantly reducing download time and disk space for large repositories."
     }
 ];
