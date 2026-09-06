@@ -7143,5 +7143,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The standard fork workflow involves cloning your fork locally, making changes, pushing to your fork, and then submitting a pull request to the upstream repository."
+    },
+    {
+        "id": "pf-511",
+        "topic": "Upstream",
+        "difficulty": "Easy",
+        "question": "What does 'upstream' typically refer to in Git?",
+        "options": [
+            "A downstream branch",
+            "The original repository from which a fork was created",
+            "The local .git directory",
+            "The most recent commit"
+        ],
+        "answer": 1,
+        "explanation": "Upstream generally refers to the primary or original repository, especially in the context of forks where it points to the source repository."
     }
 ];
