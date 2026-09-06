@@ -7129,5 +7129,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fork creates a personal copy of another user's repository under your own account, allowing you to make changes without affecting the original project."
+    },
+    {
+        "id": "pf-510",
+        "topic": "Fork",
+        "difficulty": "Easy",
+        "question": "What is the typical workflow after forking a repository?",
+        "options": [
+            "Push directly to the original repository",
+            "Clone your fork, make changes, and create a pull request to the original",
+            "Delete the original repository",
+            "Merge the fork back automatically"
+        ],
+        "answer": 1,
+        "explanation": "The standard fork workflow involves cloning your fork locally, making changes, pushing to your fork, and then submitting a pull request to the upstream repository."
     }
 ];
