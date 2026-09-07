@@ -7157,5 +7157,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Upstream generally refers to the primary or original repository, especially in the context of forks where it points to the source repository."
+    },
+    {
+        "id": "pf-512",
+        "topic": "Detached HEAD",
+        "difficulty": "Easy",
+        "question": "What does it mean to be in a detached HEAD state?",
+        "options": [
+            "The HEAD pointer is deleted",
+            "HEAD points directly to a commit instead of a branch reference",
+            "The repository has no commits",
+            "The branch has been deleted"
+        ],
+        "answer": 1,
+        "explanation": "In a detached HEAD state, HEAD points to a specific commit rather than a branch, meaning any new commits won't belong to any branch and could be lost."
     }
 ];
