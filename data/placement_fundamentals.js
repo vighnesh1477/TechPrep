@@ -7185,5 +7185,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "You can exit a detached HEAD state by switching to any branch using git switch <branch> or git checkout <branch>, which reattaches HEAD to a branch."
+    },
+    {
+        "id": "pf-514",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "What is the purpose of a .gitignore file?",
+        "options": [
+            "To delete files from the repository",
+            "To specify intentionally untracked files that Git should ignore",
+            "To encrypt sensitive files",
+            "To list all tracked files"
+        ],
+        "answer": 1,
+        "explanation": ".gitignore tells Git which files or patterns to ignore, preventing build artifacts, dependencies, and sensitive files from being tracked."
     }
 ];
