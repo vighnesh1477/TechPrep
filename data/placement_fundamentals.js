@@ -7199,5 +7199,19 @@ export default [
         ],
         "answer": 1,
         "explanation": ".gitignore tells Git which files or patterns to ignore, preventing build artifacts, dependencies, and sensitive files from being tracked."
+    },
+    {
+        "id": "pf-515",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "Which pattern in .gitignore ignores all .log files in any directory?",
+        "options": [
+            "*.log",
+            "/ *.log",
+            ".log",
+            "**.log"
+        ],
+        "answer": 0,
+        "explanation": "The *.log pattern matches any file ending with .log in any directory within the repository, effectively ignoring all log files."
     }
 ];
