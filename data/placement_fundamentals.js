@@ -7227,5 +7227,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A leading slash anchors the pattern to the root of the repository, so /config.json matches only at the root and not in subdirectories."
+    },
+    {
+        "id": "pf-517",
+        "topic": "Aliases",
+        "difficulty": "Easy",
+        "question": "How do you create a Git alias for 'git status' as 'git st'?",
+        "options": [
+            "git alias st = status",
+            "git config --global alias.st status",
+            "git set-alias st status",
+            "git alias --add st status"
+        ],
+        "answer": 1,
+        "explanation": "git config --global alias.st status creates a global alias so that running 'git st' executes 'git status', saving typing for frequently used commands."
     }
 ];
