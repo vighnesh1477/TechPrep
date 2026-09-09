@@ -7213,5 +7213,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "The *.log pattern matches any file ending with .log in any directory within the repository, effectively ignoring all log files."
+    },
+    {
+        "id": "pf-516",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "What does a leading slash in a .gitignore pattern do?",
+        "options": [
+            "Ignores files in subdirectories only",
+            "Anchors the pattern to the repository root",
+            "Comments out the line",
+            "Escapes special characters"
+        ],
+        "answer": 1,
+        "explanation": "A leading slash anchors the pattern to the root of the repository, so /config.json matches only at the root and not in subdirectories."
     }
 ];
