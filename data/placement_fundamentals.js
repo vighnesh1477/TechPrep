@@ -7241,5 +7241,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git config --global alias.st status creates a global alias so that running 'git st' executes 'git status', saving typing for frequently used commands."
+    },
+    {
+        "id": "pf-518",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "Who created Git?",
+        "options": [
+            "Linus Torvalds",
+            "Dennis Ritchie",
+            "Richard Stallman",
+            "Ken Thompson"
+        ],
+        "answer": 0,
+        "explanation": "Linus Torvalds created Git in 2005 for Linux kernel development after the previous version control system, BitKeeper, revoked its free license."
     }
 ];
