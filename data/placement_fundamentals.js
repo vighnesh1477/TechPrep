@@ -7255,5 +7255,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "Linus Torvalds created Git in 2005 for Linux kernel development after the previous version control system, BitKeeper, revoked its free license."
+    },
+    {
+        "id": "pf-519",
+        "topic": "Repository Initialization",
+        "difficulty": "Easy",
+        "question": "Which command creates a new Git repository in a specified directory?",
+        "options": [
+            "git init my-project",
+            "git new my-project",
+            "git create my-project",
+            "git start my-project"
+        ],
+        "answer": 0,
+        "explanation": "git init <directory> creates a new empty Git repository in the specified directory, creating the directory if it does not already exist."
     }
 ];
