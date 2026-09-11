@@ -7269,5 +7269,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git init <directory> creates a new empty Git repository in the specified directory, creating the directory if it does not already exist."
+    },
+    {
+        "id": "pf-520",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Which command sets the default editor for Git commits?",
+        "options": [
+            "git config --global core.editor \"vim\"",
+            "git set --global editor \"vim\"",
+            "git config --global editor \"vim\"",
+            "git config --global set.editor \"vim\""
+        ],
+        "answer": 0,
+        "explanation": "git config --global core.editor sets the text editor that Git will open when it needs you to type a message, such as during commits or merges."
     }
 ];
