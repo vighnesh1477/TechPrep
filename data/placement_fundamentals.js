@@ -7283,5 +7283,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git config --global core.editor sets the text editor that Git will open when it needs you to type a message, such as during commits or merges."
+    },
+    {
+        "id": "pf-521",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "What is the scope of git config --local?",
+        "options": [
+            "Applies to all users on the system",
+            "Applies only to the current repository",
+            "Applies to the current user across all repositories",
+            "Applies to the current branch only"
+        ],
+        "answer": 1,
+        "explanation": "The --local flag sets configuration specific to the current repository, stored in .git/config, overriding global and system settings."
     }
 ];
