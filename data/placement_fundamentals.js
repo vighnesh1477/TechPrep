@@ -7311,5 +7311,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git diff HEAD shows all differences between your working tree and the latest commit, including both staged and unstaged changes."
+    },
+    {
+        "id": "pf-523",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "How do you unstage a file that has been added to the staging area?",
+        "options": [
+            "git unstage file.txt",
+            "git restore --staged file.txt",
+            "git remove --staged file.txt",
+            "git reset --hard file.txt"
+        ],
+        "answer": 1,
+        "explanation": "git restore --staged file.txt (or git reset HEAD file.txt) removes the file from the staging area while keeping the changes in the working tree."
     }
 ];
