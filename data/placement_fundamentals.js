@@ -7325,5 +7325,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git restore --staged file.txt (or git reset HEAD file.txt) removes the file from the staging area while keeping the changes in the working tree."
+    },
+    {
+        "id": "pf-524",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "What does git add -p do?",
+        "options": [
+            "Adds all files with .p extension",
+            "Lets you interactively choose which hunks of changes to stage",
+            "Adds files in parallel",
+            "Adds only Python files"
+        ],
+        "answer": 1,
+        "explanation": "git add -p (patch mode) lets you review each change hunk and decide whether to include it in the staging area, giving fine-grained control over commits."
     }
 ];
