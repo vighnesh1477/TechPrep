@@ -7339,5 +7339,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git add -p (patch mode) lets you review each change hunk and decide whether to include it in the staging area, giving fine-grained control over commits."
+    },
+    {
+        "id": "pf-525",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What does git commit --amend do?",
+        "options": [
+            "Creates a new unrelated commit",
+            "Modifies the most recent commit by adding staged changes or changing the message",
+            "Deletes the last commit",
+            "Merges the last two commits"
+        ],
+        "answer": 1,
+        "explanation": "git commit --amend replaces the last commit with a new one that includes any newly staged changes and/or an updated commit message."
     }
 ];
