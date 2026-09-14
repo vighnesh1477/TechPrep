@@ -7367,5 +7367,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git commit --allow-empty creates a commit with no changes, which can be useful for triggering CI/CD pipelines or documenting workflow steps."
+    },
+    {
+        "id": "pf-527",
+        "topic": "Commit History",
+        "difficulty": "Easy",
+        "question": "What command shows the commit history as a graph with branch topology?",
+        "options": [
+            "git log --graph",
+            "git log --tree",
+            "git log --visual",
+            "git log --branch"
+        ],
+        "answer": 0,
+        "explanation": "git log --graph adds an ASCII-art representation of the branch and merge history on the left side, making the commit topology visually clear."
     }
 ];
