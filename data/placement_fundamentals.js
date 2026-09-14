@@ -7353,5 +7353,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git commit --amend replaces the last commit with a new one that includes any newly staged changes and/or an updated commit message."
+    },
+    {
+        "id": "pf-526",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "Which flag allows creating an empty commit?",
+        "options": [
+            "--empty",
+            "--allow-empty",
+            "--blank",
+            "--no-files"
+        ],
+        "answer": 1,
+        "explanation": "git commit --allow-empty creates a commit with no changes, which can be useful for triggering CI/CD pipelines or documenting workflow steps."
     }
 ];
