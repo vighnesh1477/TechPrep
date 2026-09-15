@@ -7395,5 +7395,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log --all displays commits from all branches and refs, not just the current branch, giving a complete view of repository history."
+    },
+    {
+        "id": "pf-529",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "How do you format git log output to show only commit hashes and messages?",
+        "options": [
+            "git log --format=\"%h %s\"",
+            "git log --only-hash-message",
+            "git log --simple",
+            "git log --compact"
+        ],
+        "answer": 0,
+        "explanation": "git log --format=\"%h %s\" uses format placeholders where %h is the abbreviated hash and %s is the subject (first line of the commit message)."
     }
 ];
