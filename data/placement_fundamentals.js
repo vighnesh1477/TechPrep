@@ -7381,5 +7381,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log --graph adds an ASCII-art representation of the branch and merge history on the left side, making the commit topology visually clear."
+    },
+    {
+        "id": "pf-528",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "Which git log flag shows commits from all branches?",
+        "options": [
+            "--all",
+            "--everywhere",
+            "--branches",
+            "--global"
+        ],
+        "answer": 0,
+        "explanation": "git log --all displays commits from all branches and refs, not just the current branch, giving a complete view of repository history."
     }
 ];
