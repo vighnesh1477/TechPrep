@@ -7409,5 +7409,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log --format=\"%h %s\" uses format placeholders where %h is the abbreviated hash and %s is the subject (first line of the commit message)."
+    },
+    {
+        "id": "pf-530",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "Which command shows the diff between two specific branches?",
+        "options": [
+            "git diff branch1..branch2",
+            "git diff --branches branch1 branch2",
+            "git compare branch1 branch2",
+            "git diff --between branch1 branch2"
+        ],
+        "answer": 0,
+        "explanation": "git diff branch1..branch2 shows the differences between the tips of the two branches, revealing what changes exist in branch2 that are not in branch1."
     }
 ];
