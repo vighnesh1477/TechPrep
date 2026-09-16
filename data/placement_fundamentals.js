@@ -7423,5 +7423,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git diff branch1..branch2 shows the differences between the tips of the two branches, revealing what changes exist in branch2 that are not in branch1."
+    },
+    {
+        "id": "pf-531",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "What does the --stat flag do with git diff?",
+        "options": [
+            "Shows detailed line-by-line differences",
+            "Shows a summary of which files changed and how many lines",
+            "Shows only file names",
+            "Shows statistics about the repository"
+        ],
+        "answer": 1,
+        "explanation": "git diff --stat provides a compact summary showing which files were modified and a count of insertions and deletions per file."
     }
 ];
