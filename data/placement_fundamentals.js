@@ -7451,5 +7451,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "In short status output, '??' indicates an untracked file that Git has not yet been told to track through git add."
+    },
+    {
+        "id": "pf-533",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "What does 'M ' (M followed by a space) mean in git status --short?",
+        "options": [
+            "File is modified in the working tree but not staged",
+            "File is staged with modifications",
+            "File has merge conflicts",
+            "File was renamed"
+        ],
+        "answer": 1,
+        "explanation": "In the short format, the first character represents the staging area status and the second represents the working tree status, so 'M ' means staged modifications."
     }
 ];
