@@ -7437,5 +7437,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git diff --stat provides a compact summary showing which files were modified and a count of insertions and deletions per file."
+    },
+    {
+        "id": "pf-532",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "What does the status code '??' indicate in git status --short output?",
+        "options": [
+            "Modified file",
+            "Deleted file",
+            "Untracked file",
+            "Staged file"
+        ],
+        "answer": 2,
+        "explanation": "In short status output, '??' indicates an untracked file that Git has not yet been told to track through git add."
     }
 ];
