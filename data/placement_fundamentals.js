@@ -7479,5 +7479,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git branch --delete and git branch -d delete a local branch, but only if it has been fully merged into its upstream branch to prevent data loss."
+    },
+    {
+        "id": "pf-535",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "Which command lists all remote-tracking branches?",
+        "options": [
+            "git branch -r",
+            "git branch --remote",
+            "git remote branches",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git branch -r and git branch --remote list remote-tracking branches, showing branches that represent the state of remote repositories."
     }
 ];
