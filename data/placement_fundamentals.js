@@ -7465,5 +7465,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "In the short format, the first character represents the staging area status and the second represents the working tree status, so 'M ' means staged modifications."
+    },
+    {
+        "id": "pf-534",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "Which command deletes a local branch that has been fully merged?",
+        "options": [
+            "git branch --delete feature",
+            "git branch -d feature",
+            "git remove-branch feature",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git branch --delete and git branch -d delete a local branch, but only if it has been fully merged into its upstream branch to prevent data loss."
     }
 ];
