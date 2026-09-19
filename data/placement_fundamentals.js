@@ -7507,5 +7507,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git branch <name> <commit> creates a new branch pointing to the specified commit, allowing you to branch off from any point in history."
+    },
+    {
+        "id": "pf-537",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "What does git switch -c feature do?",
+        "options": [
+            "Closes the current branch",
+            "Creates and switches to a new branch named feature",
+            "Copies the current branch",
+            "Checks out a remote branch"
+        ],
+        "answer": 1,
+        "explanation": "git switch -c <name> (short for --create) creates a new branch and switches to it in one step, similar to git checkout -b."
     }
 ];
