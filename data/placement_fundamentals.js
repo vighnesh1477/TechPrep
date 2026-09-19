@@ -7493,5 +7493,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git branch -r and git branch --remote list remote-tracking branches, showing branches that represent the state of remote repositories."
+    },
+    {
+        "id": "pf-536",
+        "topic": "Branch Creation",
+        "difficulty": "Easy",
+        "question": "How do you create a new branch based on a specific commit?",
+        "options": [
+            "git branch feature abc123",
+            "git branch feature --from abc123",
+            "git create-branch feature abc123",
+            "git new-branch feature at abc123"
+        ],
+        "answer": 0,
+        "explanation": "git branch <name> <commit> creates a new branch pointing to the specified commit, allowing you to branch off from any point in history."
     }
 ];
