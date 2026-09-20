@@ -7521,5 +7521,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git switch -c <name> (short for --create) creates a new branch and switches to it in one step, similar to git checkout -b."
+    },
+    {
+        "id": "pf-538",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "How do you switch to a remote branch that exists on origin but not locally?",
+        "options": [
+            "git switch origin/feature",
+            "git switch feature (after fetching)",
+            "git switch --remote feature",
+            "Both A and B"
+        ],
+        "answer": 1,
+        "explanation": "After running git fetch, you can switch to a remote-tracking branch using git switch <branch-name>, and Git will automatically create a local branch that tracks the remote."
     }
 ];
