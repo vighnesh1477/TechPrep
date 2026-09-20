@@ -7535,5 +7535,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "After running git fetch, you can switch to a remote-tracking branch using git switch <branch-name>, and Git will automatically create a local branch that tracks the remote."
+    },
+    {
+        "id": "pf-539",
+        "topic": "Merge",
+        "difficulty": "Easy",
+        "question": "What does git merge --abort do?",
+        "options": [
+            "Deletes the current branch",
+            "Cancels the merge process and returns to the pre-merge state",
+            "Completes the merge automatically",
+            "Reverts the last merge commit"
+        ],
+        "answer": 1,
+        "explanation": "git merge --abort cancels a conflicted merge and attempts to restore the working tree to the state before the merge began."
     }
 ];
