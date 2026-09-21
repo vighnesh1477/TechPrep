@@ -7563,5 +7563,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git merge --squash takes all the changes from the feature branch and stages them as a single set of changes without creating a merge commit."
+    },
+    {
+        "id": "pf-541",
+        "topic": "Fast Forward Merge",
+        "difficulty": "Easy",
+        "question": "In a fast-forward merge, what happens to the branch pointer?",
+        "options": [
+            "It stays at the same commit",
+            "It moves forward to point to the merged branch's latest commit",
+            "It moves backward to a previous commit",
+            "It is deleted"
+        ],
+        "answer": 1,
+        "explanation": "During a fast-forward merge, the current branch pointer simply moves forward to point at the same commit as the branch being merged, with no new merge commit created."
     }
 ];
