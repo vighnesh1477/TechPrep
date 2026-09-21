@@ -7549,5 +7549,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git merge --abort cancels a conflicted merge and attempts to restore the working tree to the state before the merge began."
+    },
+    {
+        "id": "pf-540",
+        "topic": "Merge",
+        "difficulty": "Easy",
+        "question": "What does git merge --squash feature do?",
+        "options": [
+            "Deletes the feature branch after merging",
+            "Combines all feature branch changes into the staging area without committing",
+            "Performs a fast-forward merge",
+            "Creates multiple merge commits"
+        ],
+        "answer": 1,
+        "explanation": "git merge --squash takes all the changes from the feature branch and stages them as a single set of changes without creating a merge commit."
     }
 ];
