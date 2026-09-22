@@ -7577,5 +7577,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "During a fast-forward merge, the current branch pointer simply moves forward to point at the same commit as the branch being merged, with no new merge commit created."
+    },
+    {
+        "id": "pf-542",
+        "topic": "HEAD",
+        "difficulty": "Easy",
+        "question": "What is the difference between HEAD and HEAD^?",
+        "options": [
+            "They refer to the same commit",
+            "HEAD^ refers to the parent of the current commit",
+            "HEAD^ refers to the child of the current commit",
+            "HEAD^ refers to the next branch"
+        ],
+        "answer": 1,
+        "explanation": "HEAD^ is a shorthand for the first parent of the commit that HEAD points to, allowing you to reference the previous commit in the history."
     }
 ];
