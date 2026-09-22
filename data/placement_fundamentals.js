@@ -7591,5 +7591,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "HEAD^ is a shorthand for the first parent of the commit that HEAD points to, allowing you to reference the previous commit in the history."
+    },
+    {
+        "id": "pf-543",
+        "topic": "HEAD",
+        "difficulty": "11",
+        "question": "What does HEAD@{2} represent in the reflog?",
+        "options": [
+            "The second parent of HEAD",
+            "The state of HEAD two operations ago in the reflog",
+            "The second commit in the repository",
+            "The second branch"
+        ],
+        "answer": 1,
+        "explanation": "HEAD@{n} uses the reflog to reference where HEAD was n operations ago, which is different from HEAD~n that follows the commit parent chain."
     }
 ];
