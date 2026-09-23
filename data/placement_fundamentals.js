@@ -7605,5 +7605,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "HEAD@{n} uses the reflog to reference where HEAD was n operations ago, which is different from HEAD~n that follows the commit parent chain."
+    },
+    {
+        "id": "pf-544",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "Which command restores a specific file from the staging area to the working tree?",
+        "options": [
+            "git checkout HEAD -- file.txt",
+            "git restore file.txt",
+            "git revert file.txt",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git checkout HEAD -- file.txt (traditional) and git restore file.txt (modern) restore a file in the working tree to match the staging area or HEAD."
     }
 ];
