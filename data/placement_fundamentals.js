@@ -7619,5 +7619,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git checkout HEAD -- file.txt (traditional) and git restore file.txt (modern) restore a file in the working tree to match the staging area or HEAD."
+    },
+    {
+        "id": "pf-545",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "What does git checkout -b feature origin/feature do?",
+        "options": [
+            "Deletes the remote branch and creates a local one",
+            "Creates a local branch 'feature' that tracks 'origin/feature'",
+            "Checks out the remote branch directly",
+            "Merges the remote branch into the current branch"
+        ],
+        "answer": 1,
+        "explanation": "This command creates a new local branch 'feature' based on 'origin/feature' and sets up tracking, all in a single step."
     }
 ];
