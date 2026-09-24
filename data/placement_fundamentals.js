@@ -7633,5 +7633,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "This command creates a new local branch 'feature' based on 'origin/feature' and sets up tracking, all in a single step."
+    },
+    {
+        "id": "pf-546",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "Which command creates an annotated tag?",
+        "options": [
+            "git tag v1.0",
+            "git tag -a v1.0 -m \"Version 1.0\"",
+            "git tag --annotate v1.0",
+            "git create-tag v1.0"
+        ],
+        "answer": 1,
+        "explanation": "git tag -a v1.0 -m creates an annotated tag with a message, which stores additional metadata like the tagger's name, email, and date."
     }
 ];
