@@ -7647,5 +7647,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git tag -a v1.0 -m creates an annotated tag with a message, which stores additional metadata like the tagger's name, email, and date."
+    },
+    {
+        "id": "pf-547",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "Which command lists all tags in the repository?",
+        "options": [
+            "git tags",
+            "git tag",
+            "git tag --list",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Both git tag and git tag --list display all tags in the repository. The --list flag is explicit but both produce the same output when no pattern is given."
     }
 ];
