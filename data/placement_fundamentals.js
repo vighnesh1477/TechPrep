@@ -7661,5 +7661,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git tag and git tag --list display all tags in the repository. The --list flag is explicit but both produce the same output when no pattern is given."
+    },
+    {
+        "id": "pf-548",
+        "topic": "Remote Repository",
+        "difficulty": "Easy",
+        "question": "How do you add a new remote named 'upstream'?",
+        "options": [
+            "git remote add upstream https://example.com/repo.git",
+            "git remote set upstream https://example.com/repo.git",
+            "git add remote upstream https://example.com/repo.git",
+            "git remote new upstream https://example.com/repo.git"
+        ],
+        "answer": 0,
+        "explanation": "git remote add <name> <url> adds a new remote with the specified name and URL, allowing you to interact with multiple remote repositories."
     }
 ];
