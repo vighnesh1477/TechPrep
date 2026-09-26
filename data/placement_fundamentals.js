@@ -7703,5 +7703,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Removing a remote only removes the connection reference. All local commits, branches, and history remain intact in your local repository."
+    },
+    {
+        "id": "pf-551",
+        "topic": "Fetch",
+        "difficulty": "Easy",
+        "question": "What does git fetch --all do?",
+        "options": [
+            "Fetches all branches and deletes local ones not on remote",
+            "Fetches from all configured remotes",
+            "Fetches all files including ignored ones",
+            "Fetches the entire repository history"
+        ],
+        "answer": 1,
+        "explanation": "git fetch --all downloads new objects and refs from all configured remotes, not just the default origin remote."
     }
 ];
