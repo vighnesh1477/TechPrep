@@ -7689,5 +7689,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git remote set-url updates the URL of an existing remote, which is useful when a repository has been moved or you need to switch between SSH and HTTPS."
+    },
+    {
+        "id": "pf-550",
+        "topic": "Origin",
+        "difficulty": "Easy",
+        "question": "What happens when you remove the origin remote?",
+        "options": [
+            "The local repository is deleted",
+            "You lose the connection to the remote but keep all local commits",
+            "All local branches are deleted",
+            "The .git directory is corrupted"
+        ],
+        "answer": 1,
+        "explanation": "Removing a remote only removes the connection reference. All local commits, branches, and history remain intact in your local repository."
     }
 ];
