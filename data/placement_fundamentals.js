@@ -7717,5 +7717,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git fetch --all downloads new objects and refs from all configured remotes, not just the default origin remote."
+    },
+    {
+        "id": "pf-552",
+        "topic": "Fetch",
+        "difficulty": "Easy",
+        "question": "After running git fetch, where are the downloaded commits stored?",
+        "options": [
+            "In the working tree",
+            "In the staging area",
+            "In remote-tracking branches like origin/main",
+            "In a temporary folder"
+        ],
+        "answer": 2,
+        "explanation": "git fetch stores downloaded commits in remote-tracking branches (e.g., origin/main), which are separate from your local branches until you merge or rebase."
     }
 ];
