@@ -7731,5 +7731,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "git fetch stores downloaded commits in remote-tracking branches (e.g., origin/main), which are separate from your local branches until you merge or rebase."
+    },
+    {
+        "id": "pf-553",
+        "topic": "Pull",
+        "difficulty": "Easy",
+        "question": "What happens if git pull encounters a merge conflict?",
+        "options": [
+            "Git automatically resolves the conflict",
+            "Git pauses and marks the conflicted files for manual resolution",
+            "Git cancels the pull operation entirely",
+            "Git overwrites local changes with remote changes"
+        ],
+        "answer": 1,
+        "explanation": "When a pull results in merge conflicts, Git marks the conflicted files and waits for you to resolve the conflicts manually before completing the merge."
     }
 ];
