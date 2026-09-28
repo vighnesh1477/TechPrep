@@ -7759,5 +7759,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git pull --ff-only only succeeds if the merge can be done as a fast-forward, providing a safe pull that avoids creating merge commits."
+    },
+    {
+        "id": "pf-555",
+        "topic": "Push",
+        "difficulty": "Easy",
+        "question": "What does git push --force do?",
+        "options": [
+            "Pushes all branches at once",
+            "Overwrites the remote branch history with local history",
+            "Pushes even when there are no changes",
+            "Forces Git to use a faster upload protocol"
+        ],
+        "answer": 1,
+        "explanation": "git push --force overwrites the remote branch with your local branch, which can discard commits on the remote that you don't have locally."
     }
 ];
