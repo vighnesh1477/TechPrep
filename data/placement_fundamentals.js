@@ -7787,5 +7787,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git push --force-with-lease is safer than --force because it first checks that no one else has pushed new commits to the remote branch before overwriting."
+    },
+    {
+        "id": "pf-557",
+        "topic": "Clone",
+        "difficulty": "Easy",
+        "question": "How do you clone a repository into a directory with a custom name?",
+        "options": [
+            "git clone https://repo.com/project.git --name my-folder",
+            "git clone https://repo.com/project.git my-folder",
+            "git clone https://repo.com/project.git -o my-folder",
+            "git clone --into my-folder https://repo.com/project.git"
+        ],
+        "answer": 1,
+        "explanation": "Appending a directory name to the git clone command creates the repository in a folder with that custom name instead of using the repository's default name."
     }
 ];
