@@ -7815,5 +7815,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The -b flag specifies which branch to check out after cloning, so the working tree starts on the feature branch instead of the default branch."
+    },
+    {
+        "id": "pf-559",
+        "topic": "Fork",
+        "difficulty": "Easy",
+        "question": "Can you push directly to the original repository from a fork?",
+        "options": [
+            "Yes, always",
+            "No, you typically need write permissions or must use a pull request",
+            "Only if the fork is on the same platform",
+            "Only during weekends"
+        ],
+        "answer": 1,
+        "explanation": "You generally cannot push directly to the original repository from a fork unless you have been granted write access. The standard practice is to submit a pull request."
     }
 ];
