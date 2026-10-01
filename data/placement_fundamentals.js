@@ -7843,5 +7843,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "After forking, you add the original repository as 'upstream' so you can fetch changes from it and keep your fork synchronized."
+    },
+    {
+        "id": "pf-561",
+        "topic": "Upstream",
+        "difficulty": "Easy",
+        "question": "What does git fetch upstream do in a fork workflow?",
+        "options": [
+            "Pushes your changes to the original repository",
+            "Downloads changes from the original repository into remote-tracking branches",
+            "Merges upstream changes into your branch",
+            "Deletes your fork"
+        ],
+        "answer": 1,
+        "explanation": "git fetch upstream downloads new commits and refs from the original repository into your local remote-tracking branches without modifying your working branches."
     }
 ];
