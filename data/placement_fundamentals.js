@@ -7829,5 +7829,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "You generally cannot push directly to the original repository from a fork unless you have been granted write access. The standard practice is to submit a pull request."
+    },
+    {
+        "id": "pf-560",
+        "topic": "Upstream",
+        "difficulty": "Easy",
+        "question": "How do you add the original repository as upstream after forking?",
+        "options": [
+            "git remote add upstream https://original-repo.com/project.git",
+            "git upstream set https://original-repo.com/project.git",
+            "git fork --add-upstream https://original-repo.com/project.git",
+            "git remote set-origin upstream https://original-repo.com/project.git"
+        ],
+        "answer": 0,
+        "explanation": "After forking, you add the original repository as 'upstream' so you can fetch changes from it and keep your fork synchronized."
     }
 ];
