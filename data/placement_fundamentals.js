@@ -7871,5 +7871,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Commits made in a detached HEAD state are not on any branch, so switching away may cause Git to eventually garbage collect them unless you create a branch first."
+    },
+    {
+        "id": "pf-563",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "How do you negate a pattern in .gitignore to track a previously ignored file?",
+        "options": [
+            "Using ! prefix, like !important.log",
+            "Using + prefix, like +important.log",
+            "Using # prefix, like #important.log",
+            "Using - prefix, like -important.log"
+        ],
+        "answer": 0,
+        "explanation": "A leading ! negates the pattern, so if *.log is ignored, !important.log would override that and track the important.log file."
     }
 ];
