@@ -7857,5 +7857,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git fetch upstream downloads new commits and refs from the original repository into your local remote-tracking branches without modifying your working branches."
+    },
+    {
+        "id": "pf-562",
+        "topic": "Detached HEAD",
+        "difficulty": "Easy",
+        "question": "If you make commits in a detached HEAD state, what happens when you switch branches?",
+        "options": [
+            "The commits are automatically saved to a new branch",
+            "The commits may be lost since they are not referenced by any branch",
+            "Git prevents you from making commits in detached HEAD",
+            "The commits are pushed to the remote automatically"
+        ],
+        "answer": 1,
+        "explanation": "Commits made in a detached HEAD state are not on any branch, so switching away may cause Git to eventually garbage collect them unless you create a branch first."
     }
 ];
