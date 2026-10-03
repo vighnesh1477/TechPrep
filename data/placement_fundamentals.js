@@ -7899,5 +7899,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The /** pattern matches everything inside a directory and all its subdirectories, providing a recursive ignore pattern."
+    },
+    {
+        "id": "pf-565",
+        "topic": "Aliases",
+        "difficulty": "Easy",
+        "question": "Which alias would let you run 'git co' instead of 'git checkout'?",
+        "options": [
+            "git config --global alias.co 'checkout'",
+            "git config --global alias.co checkout",
+            "git alias co = checkout",
+            "git set alias co checkout"
+        ],
+        "answer": 1,
+        "explanation": "git config --global alias.co checkout creates an alias where 'co' is the shortcut and 'checkout' is the Git command it expands to (no quotes needed for the value)."
     }
 ];
