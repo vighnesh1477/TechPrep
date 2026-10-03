@@ -7885,5 +7885,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "A leading ! negates the pattern, so if *.log is ignored, !important.log would override that and track the important.log file."
+    },
+    {
+        "id": "pf-564",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "What does a trailing /** in a .gitignore pattern match?",
+        "options": [
+            "Only files in the root directory",
+            "Everything inside the specified directory recursively",
+            "Only direct children of the directory",
+            "Hidden files only"
+        ],
+        "answer": 1,
+        "explanation": "The /** pattern matches everything inside a directory and all its subdirectories, providing a recursive ignore pattern."
     }
 ];
