@@ -79,12 +79,12 @@ function Donate() {
             <p className="contribute-note">Every contribution helps.</p>
             <a
               className="github-star-btn"
-              href="https://github.com/vighnesh153/Technical-Quiz"
+              href="https://github.com/vighnesh1477/TechPrep"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Star className="star-btn-icon" />
-              Star on GitHub
+              Star us on GitHub
             </a>
           </div>
         </div>

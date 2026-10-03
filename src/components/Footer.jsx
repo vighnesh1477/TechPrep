@@ -60,7 +60,13 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <span>MIT License</span>
+                <a
+                  href="https://github.com/vighnesh1477/TechPrep/blob/main/LICENSE"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  MIT License
+                </a>
               </li>
             </ul>
           </div>
