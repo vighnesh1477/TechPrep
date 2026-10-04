@@ -7927,5 +7927,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "VCS stands for Version Control System, which is software that helps manage changes to source code and other files over time."
+    },
+    {
+        "id": "pf-567",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "Which of the following is NOT a distributed version control system?",
+        "options": [
+            "Git",
+            "Mercurial",
+            "SVN",
+            "Bazaar"
+        ],
+        "answer": 2,
+        "explanation": "SVN (Subversion) is a centralized version control system, unlike Git, Mercurial, and Bazaar which are distributed systems."
     }
 ];
