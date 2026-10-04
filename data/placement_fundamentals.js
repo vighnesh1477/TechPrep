@@ -7913,5 +7913,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git config --global alias.co checkout creates an alias where 'co' is the shortcut and 'checkout' is the Git command it expands to (no quotes needed for the value)."
+    },
+    {
+        "id": "pf-566",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What does VCS stand for?",
+        "options": [
+            "Virtual Computing System",
+            "Version Control System",
+            "Variable Configuration System",
+            "Virtual Cloud Storage"
+        ],
+        "answer": 1,
+        "explanation": "VCS stands for Version Control System, which is software that helps manage changes to source code and other files over time."
     }
 ];
