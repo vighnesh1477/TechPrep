@@ -7941,5 +7941,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "SVN (Subversion) is a centralized version control system, unlike Git, Mercurial, and Bazaar which are distributed systems."
+    },
+    {
+        "id": "pf-568",
+        "topic": "Git Installation",
+        "difficulty": "Easy",
+        "question": "On macOS, which package manager can be used to install Git?",
+        "options": [
+            "apt-get",
+            "yum",
+            "Homebrew",
+            "pacman"
+        ],
+        "answer": 2,
+        "explanation": "Homebrew is the most popular package manager for macOS, and you can install Git using the command 'brew install git'."
     }
 ];
