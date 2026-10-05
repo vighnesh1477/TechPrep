@@ -7955,5 +7955,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "Homebrew is the most popular package manager for macOS, and you can install Git using the command 'brew install git'."
+    },
+    {
+        "id": "pf-569",
+        "topic": "Repository Initialization",
+        "difficulty": "Easy",
+        "question": "What does git init --bare create?",
+        "options": [
+            "An empty working directory",
+            "A bare repository with no working tree, used as a shared server repository",
+            "A repository with no .git folder",
+            "A minimal repository with only one branch"
+        ],
+        "answer": 1,
+        "explanation": "git init --bare creates a bare repository that contains only the Git version control data with no working tree, typically used on servers as a central repository."
     }
 ];
