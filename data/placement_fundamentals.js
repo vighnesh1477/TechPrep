@@ -7983,5 +7983,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "You can initialize Git in any existing directory. The files won't be automatically tracked until you explicitly add them with git add."
+    },
+    {
+        "id": "pf-571",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Where are system-level Git configurations stored?",
+        "options": [
+            "~/.gitconfig",
+            ".git/config",
+            "/etc/gitconfig",
+            "/usr/local/git/config"
+        ],
+        "answer": 2,
+        "explanation": "System-level configurations are stored in /etc/gitconfig (or the path specified by $XDG_CONFIG_HOME/git/config) and apply to all users and repositories on the system."
     }
 ];
