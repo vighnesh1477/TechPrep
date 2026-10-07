@@ -8011,5 +8011,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "If the uncommitted changes don't conflict with the target branch, Git carries them over, allowing you to continue working on the new branch with the same modifications."
+    },
+    {
+        "id": "pf-573",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "Which command stages all modified files but not new (untracked) files?",
+        "options": [
+            "git add .",
+            "git add -u",
+            "git add --all",
+            "git add --modified"
+        ],
+        "answer": 1,
+        "explanation": "git add -u (or --update) stages modifications and deletions of already-tracked files but does not add new untracked files to the staging area."
     }
 ];
