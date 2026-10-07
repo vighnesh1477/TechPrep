@@ -7997,5 +7997,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "System-level configurations are stored in /etc/gitconfig (or the path specified by $XDG_CONFIG_HOME/git/config) and apply to all users and repositories on the system."
+    },
+    {
+        "id": "pf-572",
+        "topic": "Working Tree",
+        "difficulty": "Easy",
+        "question": "What happens to uncommitted changes when you switch branches if there are no conflicts?",
+        "options": [
+            "They are always discarded",
+            "They are carried over to the new branch",
+            "They are automatically committed",
+            "Git prevents the branch switch"
+        ],
+        "answer": 1,
+        "explanation": "If the uncommitted changes don't conflict with the target branch, Git carries them over, allowing you to continue working on the new branch with the same modifications."
     }
 ];
