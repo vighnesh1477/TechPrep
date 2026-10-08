@@ -8039,5 +8039,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git add -A (or --all) stages all changes across the entire repository: new files, modifications, and deletions, regardless of the current directory."
+    },
+    {
+        "id": "pf-575",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What information is stored in a Git commit object?",
+        "options": [
+            "Only the file contents",
+            "Author, committer, message, parent references, and tree object",
+            "Only the commit message and author",
+            "Only the changed files"
+        ],
+        "answer": 1,
+        "explanation": "A commit object contains the tree object (snapshot), parent commit references, author and committer information, and the commit message."
     }
 ];
