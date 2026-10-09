@@ -8053,5 +8053,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A commit object contains the tree object (snapshot), parent commit references, author and committer information, and the commit message."
+    },
+    {
+        "id": "pf-576",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What command skips the pre-commit hooks during a commit?",
+        "options": [
+            "git commit --no-hooks",
+            "git commit --no-verify",
+            "git commit --skip-hooks",
+            "git commit --bypass"
+        ],
+        "answer": 1,
+        "explanation": "git commit --no-verify bypasses both the pre-commit and commit-msg hooks, useful when you need to commit quickly despite hook failures."
     }
 ];
