@@ -8067,5 +8067,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git commit --no-verify bypasses both the pre-commit and commit-msg hooks, useful when you need to commit quickly despite hook failures."
+    },
+    {
+        "id": "pf-577",
+        "topic": "Commit History",
+        "difficulty": "Easy",
+        "question": "How many parent commits can a regular (non-merge) commit have?",
+        "options": [
+            "Zero",
+            "One",
+            "Two",
+            "Unlimited"
+        ],
+        "answer": 1,
+        "explanation": "A regular commit has exactly one parent commit, representing the state of the repository before this commit was made."
     }
 ];
