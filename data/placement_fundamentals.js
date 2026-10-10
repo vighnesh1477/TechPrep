@@ -8081,5 +8081,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A regular commit has exactly one parent commit, representing the state of the repository before this commit was made."
+    },
+    {
+        "id": "pf-578",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "Which flag filters git log to show commits by a specific author?",
+        "options": [
+            "--author",
+            "--by",
+            "--user",
+            "--person"
+        ],
+        "answer": 0,
+        "explanation": "git log --author=\"name\" filters the log to show only commits authored by the specified person, supporting pattern matching."
     }
 ];
