@@ -8095,5 +8095,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log --author=\"name\" filters the log to show only commits authored by the specified person, supporting pattern matching."
+    },
+    {
+        "id": "pf-579",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "Which flag filters git log to show commits since a specific date?",
+        "options": [
+            "--since",
+            "--after",
+            "--from-date",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both --since and --after filter commits to show only those made after the specified date, accepting various date formats."
     }
 ];
