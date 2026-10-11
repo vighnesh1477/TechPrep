@@ -8109,5 +8109,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both --since and --after filter commits to show only those made after the specified date, accepting various date formats."
+    },
+    {
+        "id": "pf-580",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "What does git diff --name-only show?",
+        "options": [
+            "Full file contents that changed",
+            "Only the names of files that differ",
+            "Only the line numbers that changed",
+            "Only the commit hashes"
+        ],
+        "answer": 1,
+        "explanation": "git diff --name-only displays just the file names that have changes, without showing the actual diff content, useful for a quick summary."
     }
 ];
