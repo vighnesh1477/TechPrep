@@ -8123,5 +8123,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git diff --name-only displays just the file names that have changes, without showing the actual diff content, useful for a quick summary."
+    },
+    {
+        "id": "pf-581",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "Which flag makes git diff show word-level changes instead of line-level?",
+        "options": [
+            "--word",
+            "--word-diff",
+            "--words",
+            "--granular"
+        ],
+        "answer": 1,
+        "explanation": "git diff --word-diff shows changes at the word level within lines, highlighting exactly which words were added or removed."
     }
 ];
