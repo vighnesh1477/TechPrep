@@ -8151,5 +8151,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "'D ' in the short format means the file deletion has been staged (first character is D), but there are no additional unstaged changes (second character is space)."
+    },
+    {
+        "id": "pf-583",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "Which flag in git status hides untracked files from the output?",
+        "options": [
+            "--no-untracked",
+            "--hide-untracked",
+            "-u no",
+            "--untracked-files=no"
+        ],
+        "answer": 3,
+        "explanation": "git status --untracked-files=no hides untracked files from the output, letting you focus on tracked files that have been modified or staged."
     }
 ];
