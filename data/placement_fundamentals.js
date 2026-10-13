@@ -8165,5 +8165,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "git status --untracked-files=no hides untracked files from the output, letting you focus on tracked files that have been modified or staged."
+    },
+    {
+        "id": "pf-584",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "Which command renames the current branch?",
+        "options": [
+            "git branch --rename new-name",
+            "git branch -m new-name",
+            "git rename-branch new-name",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git branch --rename and git branch -m rename the current branch to the specified new name."
     }
 ];
