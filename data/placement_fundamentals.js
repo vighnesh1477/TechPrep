@@ -8179,5 +8179,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git branch --rename and git branch -m rename the current branch to the specified new name."
+    },
+    {
+        "id": "pf-585",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "What does git branch -a show?",
+        "options": [
+            "Only local branches",
+            "Only remote branches",
+            "Both local and remote-tracking branches",
+            "All commits in all branches"
+        ],
+        "answer": 2,
+        "explanation": "git branch -a lists all branches including local branches and remote-tracking branches from all configured remotes."
     }
 ];
