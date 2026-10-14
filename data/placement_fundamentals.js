@@ -8207,5 +8207,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git prevents branch name collisions and displays a fatal error indicating that a branch with that name already exists."
+    },
+    {
+        "id": "pf-587",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "What does git switch --discard-changes feature do?",
+        "options": [
+            "Switches and keeps changes",
+            "Switches and discards all uncommitted changes",
+            "Switches and stashes changes",
+            "Switches and commits changes"
+        ],
+        "answer": 1,
+        "explanation": "git switch --discard-changes forces the switch to the specified branch, discarding any uncommitted changes in the working tree and staging area."
     }
 ];
