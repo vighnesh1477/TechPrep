@@ -8193,5 +8193,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "git branch -a lists all branches including local branches and remote-tracking branches from all configured remotes."
+    },
+    {
+        "id": "pf-586",
+        "topic": "Branch Creation",
+        "difficulty": "Easy",
+        "question": "What happens if you create a branch with a name that already exists?",
+        "options": [
+            "Git overwrites the existing branch",
+            "Git shows a fatal error about the branch already existing",
+            "Git creates a duplicate branch",
+            "Git silently does nothing"
+        ],
+        "answer": 1,
+        "explanation": "Git prevents branch name collisions and displays a fatal error indicating that a branch with that name already exists."
     }
 ];
