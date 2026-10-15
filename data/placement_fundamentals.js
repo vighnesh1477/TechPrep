@@ -8221,5 +8221,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git switch --discard-changes forces the switch to the specified branch, discarding any uncommitted changes in the working tree and staging area."
+    },
+    {
+        "id": "pf-588",
+        "topic": "Merge",
+        "difficulty": "Easy",
+        "question": "Which flag makes git merge produce a merge commit even when fast-forward is possible?",
+        "options": [
+            "--no-ff",
+            "--force-commit",
+            "--always-merge",
+            "--no-fast-forward"
+        ],
+        "answer": 0,
+        "explanation": "git merge --no-ff ensures a merge commit is always created, preserving the feature branch in the history even when a fast-forward would be possible."
     }
 ];
