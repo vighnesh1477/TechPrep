@@ -8235,5 +8235,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git merge --no-ff ensures a merge commit is always created, preserving the feature branch in the history even when a fast-forward would be possible."
+    },
+    {
+        "id": "pf-589",
+        "topic": "Merge",
+        "difficulty": "Easy",
+        "question": "What does git merge --edit do?",
+        "options": [
+            "Opens an editor to modify the merge commit message",
+            "Opens the conflicted files for editing",
+            "Edits the branch names",
+            "Opens the .git directory for editing"
+        ],
+        "answer": 0,
+        "explanation": "git merge --edit opens the default editor to let you modify the default merge commit message before completing the merge."
     }
 ];
