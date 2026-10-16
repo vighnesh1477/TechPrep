@@ -8249,5 +8249,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git merge --edit opens the default editor to let you modify the default merge commit message before completing the merge."
+    },
+    {
+        "id": "pf-590",
+        "topic": "Fast Forward Merge",
+        "difficulty": "Easy",
+        "question": "Does a fast-forward merge create a new commit object?",
+        "options": [
+            "Yes, it creates a merge commit",
+            "No, it only moves the branch pointer",
+            "Yes, it creates a regular commit",
+            "It depends on the file changes"
+        ],
+        "answer": 1,
+        "explanation": "A fast-forward merge does not create any new commit object; it simply moves the branch pointer forward to match the merged branch's tip commit."
     }
 ];
