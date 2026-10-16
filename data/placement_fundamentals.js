@@ -8263,5 +8263,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fast-forward merge does not create any new commit object; it simply moves the branch pointer forward to match the merged branch's tip commit."
+    },
+    {
+        "id": "pf-591",
+        "topic": "HEAD",
+        "difficulty": "Easy",
+        "question": "What file does HEAD typically point to in a repository?",
+        "options": [
+            "A specific commit hash directly",
+            "A reference file in .git/refs/heads/ for the current branch",
+            "The .gitconfig file",
+            "The .gitignore file"
+        ],
+        "answer": 1,
+        "explanation": "Normally, HEAD contains a reference to a file in .git/refs/heads/ that in turn contains the commit hash of the current branch tip."
     }
 ];
