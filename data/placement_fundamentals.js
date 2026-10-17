@@ -8291,5 +8291,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "Both git checkout abc123 -- file.txt and git checkout abc123 file.txt restore the file to its state at commit abc123."
+    },
+    {
+        "id": "pf-593",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "What does git checkout . do?",
+        "options": [
+            "Checks out the root directory",
+            "Discards all uncommitted changes in the working tree",
+            "Creates a new branch named dot",
+            "Shows the diff of all files"
+        ],
+        "answer": 1,
+        "explanation": "git checkout . discards all uncommitted changes in the current directory and subdirectories, restoring all files to the staged or committed state."
     }
 ];
