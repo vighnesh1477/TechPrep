@@ -8277,5 +8277,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Normally, HEAD contains a reference to a file in .git/refs/heads/ that in turn contains the commit hash of the current branch tip."
+    },
+    {
+        "id": "pf-592",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "Which command checks out a file from a specific commit?",
+        "options": [
+            "git checkout abc123 -- file.txt",
+            "git checkout abc123 file.txt",
+            "Both A and B",
+            "git restore --from abc123 file.txt"
+        ],
+        "answer": 2,
+        "explanation": "Both git checkout abc123 -- file.txt and git checkout abc123 file.txt restore the file to its state at commit abc123."
     }
 ];
