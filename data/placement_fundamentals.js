@@ -8319,5 +8319,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "All three commands push tags to the remote. git push --tags and git push --all-tags push to the default remote, while git push origin --tags specifies the remote."
+    },
+    {
+        "id": "pf-595",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "How do you delete a local tag named 'v1.0'?",
+        "options": [
+            "git tag --delete v1.0",
+            "git tag -d v1.0",
+            "git remove-tag v1.0",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git tag --delete and git tag -d delete a local tag. The -d flag is the short form of --delete."
     }
 ];
