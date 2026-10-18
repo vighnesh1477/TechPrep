@@ -8305,5 +8305,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git checkout . discards all uncommitted changes in the current directory and subdirectories, restoring all files to the staged or committed state."
+    },
+    {
+        "id": "pf-594",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "How do you push all tags to a remote repository?",
+        "options": [
+            "git push --tags",
+            "git push origin --tags",
+            "git push --all-tags",
+            "All of the above work"
+        ],
+        "answer": 3,
+        "explanation": "All three commands push tags to the remote. git push --tags and git push --all-tags push to the default remote, while git push origin --tags specifies the remote."
     }
 ];
