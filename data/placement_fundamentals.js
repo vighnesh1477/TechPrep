@@ -8333,5 +8333,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git tag --delete and git tag -d delete a local tag. The -d flag is the short form of --delete."
+    },
+    {
+        "id": "pf-596",
+        "topic": "Remote Repository",
+        "difficulty": "Easy",
+        "question": "How do you remove a remote named 'upstream'?",
+        "options": [
+            "git remote remove upstream",
+            "git remote rm upstream",
+            "git remote delete upstream",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Both git remote remove and git remote rm remove the specified remote and its configuration from the repository."
     }
 ];
