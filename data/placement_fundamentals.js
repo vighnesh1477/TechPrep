@@ -8347,5 +8347,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git remote remove and git remote rm remove the specified remote and its configuration from the repository."
+    },
+    {
+        "id": "pf-597",
+        "topic": "Origin",
+        "difficulty": "Easy",
+        "question": "What does 'git remote show origin' display?",
+        "options": [
+            "Only the URL of origin",
+            "Detailed information about the origin remote including tracked branches and URLs",
+            "The contents of the origin repository",
+            "Only the branch names on origin"
+        ],
+        "answer": 1,
+        "explanation": "git remote show origin provides detailed information including the remote URLs, tracked branches, local branches that track remote branches, and stale references."
     }
 ];
