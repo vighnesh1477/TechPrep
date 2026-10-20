@@ -8375,5 +8375,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git fetch --prune (or git fetch -p) removes remote-tracking references for branches that have been deleted on the remote, keeping your remote refs clean."
+    },
+    {
+        "id": "pf-599",
+        "topic": "Pull",
+        "difficulty": "Easy",
+        "question": "What is the default merge strategy used by git pull?",
+        "options": [
+            "recursive",
+            "octopus",
+            "ours",
+            "resolve"
+        ],
+        "answer": 0,
+        "explanation": "The 'recursive' strategy is the default merge strategy for git pull when merging a single branch, capable of handling renames and detecting criss-cross merges."
     }
 ];
