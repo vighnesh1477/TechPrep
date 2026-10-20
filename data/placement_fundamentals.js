@@ -8361,5 +8361,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git remote show origin provides detailed information including the remote URLs, tracked branches, local branches that track remote branches, and stale references."
+    },
+    {
+        "id": "pf-598",
+        "topic": "Fetch",
+        "difficulty": "Easy",
+        "question": "What does git fetch --prune do?",
+        "options": [
+            "Deletes local branches",
+            "Removes remote-tracking branches that no longer exist on the remote",
+            "Prunes untracked files",
+            "Deletes old commit objects"
+        ],
+        "answer": 1,
+        "explanation": "git fetch --prune (or git fetch -p) removes remote-tracking references for branches that have been deleted on the remote, keeping your remote refs clean."
     }
 ];
