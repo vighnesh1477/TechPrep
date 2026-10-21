@@ -8389,5 +8389,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "The 'recursive' strategy is the default merge strategy for git pull when merging a single branch, capable of handling renames and detecting criss-cross merges."
+    },
+    {
+        "id": "pf-600",
+        "topic": "Push",
+        "difficulty": "Easy",
+        "question": "How do you push a specific tag to the remote?",
+        "options": [
+            "git push origin v1.0",
+            "git push --tag v1.0",
+            "git push v1.0",
+            "git tag --push v1.0"
+        ],
+        "answer": 0,
+        "explanation": "git push origin v1.0 pushes the specific tag named v1.0 to the origin remote, rather than pushing all tags."
     }
 ];
