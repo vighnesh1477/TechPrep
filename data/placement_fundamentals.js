@@ -8403,5 +8403,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git push origin v1.0 pushes the specific tag named v1.0 to the origin remote, rather than pushing all tags."
+    },
+    {
+        "id": "pf-601",
+        "topic": "Push",
+        "difficulty": "Easy",
+        "question": "What does git push --delete origin feature do?",
+        "options": [
+            "Deletes the local branch",
+            "Deletes the remote branch 'feature' on origin",
+            "Deletes the origin remote",
+            "Deletes all branches on origin"
+        ],
+        "answer": 1,
+        "explanation": "git push --delete origin feature deletes the branch named 'feature' from the remote repository 'origin'."
     }
 ];
