@@ -8431,5 +8431,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git clone --mirror creates a bare repository that mirrors all refs from the source, including remote-tracking branches, suitable for backup purposes."
+    },
+    {
+        "id": "pf-603",
+        "topic": "Fork",
+        "difficulty": "Easy",
+        "question": "Where does a fork live on GitHub?",
+        "options": [
+            "In the same organization as the original",
+            "In your personal account or organization",
+            "In a special fork directory",
+            "In the original repository"
+        ],
+        "answer": 1,
+        "explanation": "A fork on GitHub is created under your personal account or an organization you own, as a separate repository from the original."
     }
 ];
