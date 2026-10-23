@@ -8459,5 +8459,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git merge upstream/main merges the changes from the upstream's main branch into your current local branch, keeping your fork up to date."
+    },
+    {
+        "id": "pf-605",
+        "topic": "Detached HEAD",
+        "difficulty": "Easy",
+        "question": "How do you save work done in a detached HEAD state?",
+        "options": [
+            "git save HEAD",
+            "git branch <new-branch-name> to create a branch at the current commit",
+            "git attach HEAD",
+            "git commit --detach-save"
+        ],
+        "answer": 1,
+        "explanation": "Running git branch <name> while in a detached HEAD state creates a new branch at the current commit, preserving any commits you've made."
     }
 ];
