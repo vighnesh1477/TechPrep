@@ -8445,5 +8445,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fork on GitHub is created under your personal account or an organization you own, as a separate repository from the original."
+    },
+    {
+        "id": "pf-604",
+        "topic": "Upstream",
+        "difficulty": "Easy",
+        "question": "After fetching from upstream, how do you merge upstream changes into your local main branch?",
+        "options": [
+            "git merge upstream/main",
+            "git merge upstream",
+            "git pull upstream",
+            "Both A and B could work depending on context"
+        ],
+        "answer": 0,
+        "explanation": "git merge upstream/main merges the changes from the upstream's main branch into your current local branch, keeping your fork up to date."
     }
 ];
