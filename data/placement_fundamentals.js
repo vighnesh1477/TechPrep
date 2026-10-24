@@ -8473,5 +8473,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Running git branch <name> while in a detached HEAD state creates a new branch at the current commit, preserving any commits you've made."
+    },
+    {
+        "id": "pf-606",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "What does the # character do in a .gitignore file?",
+        "options": [
+            "Ignores hidden files",
+            "Marks a comment line that Git ignores",
+            "Specifies a numerical pattern",
+            "Escapes the next character"
+        ],
+        "answer": 1,
+        "explanation": "Lines beginning with # in .gitignore are treated as comments and are ignored by Git when processing ignore patterns."
     }
 ];
