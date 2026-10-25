@@ -8501,5 +8501,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A single * matches any number of characters except a slash, so it operates within a single directory level rather than recursively."
+    },
+    {
+        "id": "pf-608",
+        "topic": "Aliases",
+        "difficulty": "Easy",
+        "question": "Can a Git alias include flags?",
+        "options": [
+            "No, aliases can only reference command names",
+            "Yes, you can include flags in the alias value",
+            "Only in the system config",
+            "Only with the --allow-flags option"
+        ],
+        "answer": 1,
+        "explanation": "Git aliases can include full command strings with flags, such as alias.lg = 'log --oneline --graph --decorate', which runs all those flags together."
     }
 ];
