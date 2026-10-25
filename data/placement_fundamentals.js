@@ -8515,5 +8515,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git aliases can include full command strings with flags, such as alias.lg = 'log --oneline --graph --decorate', which runs all those flags together."
+    },
+    {
+        "id": "pf-609",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What does Git use to identify the content of files?",
+        "options": [
+            "File names and timestamps",
+            "SHA-1 hashes of the file contents (blobs)",
+            "File sizes",
+            "File permissions"
+        ],
+        "answer": 1,
+        "explanation": "Git computes a SHA-1 hash of the file content to create a blob object, ensuring that identical content produces the same hash regardless of file name or location."
     }
 ];
