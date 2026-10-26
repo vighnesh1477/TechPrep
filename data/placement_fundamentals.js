@@ -8543,5 +8543,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git is fully functional as a local version control system. Remotes are only needed for collaboration and backup, not for core Git operations."
+    },
+    {
+        "id": "pf-611",
+        "topic": "Git Installation",
+        "difficulty": "Easy",
+        "question": "What is the minimum recommended Git version for modern workflows?",
+        "options": [
+            "1.5.x",
+            "2.0.x",
+            "2.30 or later",
+            "1.9.x"
+        ],
+        "answer": 2,
+        "explanation": "Git 2.30 or later is recommended for modern workflows as it includes features like git switch, git restore, improved security, and performance enhancements."
     }
 ];
