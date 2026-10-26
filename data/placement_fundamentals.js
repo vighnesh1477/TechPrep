@@ -8529,5 +8529,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git computes a SHA-1 hash of the file content to create a blob object, ensuring that identical content produces the same hash regardless of file name or location."
+    },
+    {
+        "id": "pf-610",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "Is it possible to use Git without a remote repository?",
+        "options": [
+            "No, Git requires a remote to function",
+            "Yes, Git works entirely locally as a version control system",
+            "Only for the first commit",
+            "Only with a special license"
+        ],
+        "answer": 1,
+        "explanation": "Git is fully functional as a local version control system. Remotes are only needed for collaboration and backup, not for core Git operations."
     }
 ];
