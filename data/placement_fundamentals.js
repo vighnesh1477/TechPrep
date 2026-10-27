@@ -8571,5 +8571,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "The default branch name depends on the init.defaultBranch configuration. Git 2.28+ can be configured to use 'main', while older versions default to 'master'."
+    },
+    {
+        "id": "pf-613",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Which command unsets a configuration value?",
+        "options": [
+            "git config --unset core.editor",
+            "git config --remove core.editor",
+            "git config --delete core.editor",
+            "git config --clear core.editor"
+        ],
+        "answer": 0,
+        "explanation": "git config --unset <key> removes the specified configuration variable from the config file, reverting to a lower-priority config or the default value."
     }
 ];
