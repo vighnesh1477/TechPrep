@@ -8585,5 +8585,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git config --unset <key> removes the specified configuration variable from the config file, reverting to a lower-priority config or the default value."
+    },
+    {
+        "id": "pf-614",
+        "topic": "Working Tree",
+        "difficulty": "Easy",
+        "question": "Which command shows a concise summary of the working tree state?",
+        "options": [
+            "git status -s",
+            "git state",
+            "git info",
+            "git summary"
+        ],
+        "answer": 0,
+        "explanation": "git status -s provides a short, concise summary of the working tree and staging area status using two-character status codes."
     }
 ];
