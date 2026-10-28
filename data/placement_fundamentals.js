@@ -8599,5 +8599,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git status -s provides a short, concise summary of the working tree and staging area status using two-character status codes."
+    },
+    {
+        "id": "pf-615",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "What is another name for the staging area in Git?",
+        "options": [
+            "Cache",
+            "Index",
+            "Buffer",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "The staging area is also called the 'index' or 'cache' in Git documentation and commands (e.g., git diff --cached)."
     }
 ];
