@@ -8613,5 +8613,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "The staging area is also called the 'index' or 'cache' in Git documentation and commands (e.g., git diff --cached)."
+    },
+    {
+        "id": "pf-616",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "What is the minimum required information for a commit?",
+        "options": [
+            "Author email and file contents only",
+            "A tree object and a commit message",
+            "Only the file contents",
+            "Author, date, and file contents"
+        ],
+        "answer": 1,
+        "explanation": "A commit requires at minimum a tree object (the snapshot) and a commit message. Author and committer information are also typically included but have defaults."
     }
 ];
