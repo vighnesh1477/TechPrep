@@ -8641,5 +8641,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A full SHA-1 hash in Git is 40 hexadecimal characters long, representing 160 bits of hash output."
+    },
+    {
+        "id": "pf-618",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "What does git log --decorate show?",
+        "options": [
+            "Colored output",
+            "Reference names (branches, tags) next to commits",
+            "Author avatars",
+            "Commit file sizes"
+        ],
+        "answer": 1,
+        "explanation": "git log --decorate adds reference names like branch and tag names next to the commit hashes, showing which refs point to which commits."
     }
 ];
