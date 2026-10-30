@@ -8655,5 +8655,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git log --decorate adds reference names like branch and tag names next to the commit hashes, showing which refs point to which commits."
+    },
+    {
+        "id": "pf-619",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "Which flag reverses the order of git log output?",
+        "options": [
+            "--reverse",
+            "--backwards",
+            "--oldest-first",
+            "--ascending"
+        ],
+        "answer": 0,
+        "explanation": "git log --reverse shows commits in chronological order from oldest to newest, reversing the default newest-first ordering."
     }
 ];
