@@ -8683,5 +8683,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "By default, git diff shows added lines in green and removed lines in red when color output is enabled."
+    },
+    {
+        "id": "pf-621",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "How do you disable color output in git diff?",
+        "options": [
+            "git diff --no-color",
+            "git diff --color=never",
+            "Both A and B",
+            "git diff --monochrome"
+        ],
+        "answer": 2,
+        "explanation": "Both --no-color and --color=never disable color output in git diff, producing plain text output without ANSI color codes."
     }
 ];
