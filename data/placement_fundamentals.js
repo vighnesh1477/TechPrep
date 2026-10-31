@@ -8669,5 +8669,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git log --reverse shows commits in chronological order from oldest to newest, reversing the default newest-first ordering."
+    },
+    {
+        "id": "pf-620",
+        "topic": "Git Diff",
+        "difficulty": "Easy",
+        "question": "What color coding does git diff use by default for added lines?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": 1,
+        "explanation": "By default, git diff shows added lines in green and removed lines in red when color output is enabled."
     }
 ];
