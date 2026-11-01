@@ -8711,5 +8711,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "'UU' indicates that both sides (ours and theirs) modified the same part of the file, resulting in a merge conflict that needs manual resolution."
+    },
+    {
+        "id": "pf-623",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "How many branches can a Git repository have?",
+        "options": [
+            "Maximum 100",
+            "Maximum 1000",
+            "There is no practical limit",
+            "Maximum 256"
+        ],
+        "answer": 2,
+        "explanation": "Git has no practical limit on the number of branches. Each branch is just a small file containing a commit hash, so they are very lightweight."
     }
 ];
