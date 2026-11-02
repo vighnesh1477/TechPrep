@@ -8725,5 +8725,19 @@ export default [
         ],
         "answer": 2,
         "explanation": "Git has no practical limit on the number of branches. Each branch is just a small file containing a commit hash, so they are very lightweight."
+    },
+    {
+        "id": "pf-624",
+        "topic": "Branch Creation",
+        "difficulty": "Easy",
+        "question": "Can you create a branch from another branch that is not the current branch?",
+        "options": [
+            "No, you must be on the branch you want to branch from",
+            "Yes, by specifying the source branch: git branch new-branch existing-branch",
+            "Only if the source branch is main",
+            "Only using git checkout"
+        ],
+        "answer": 1,
+        "explanation": "git branch <new> <existing> creates a new branch from the tip of an existing branch, regardless of which branch you currently have checked out."
     }
 ];
