@@ -8739,5 +8739,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git branch <new> <existing> creates a new branch from the tip of an existing branch, regardless of which branch you currently have checked out."
+    },
+    {
+        "id": "pf-625",
+        "topic": "Branch Switching",
+        "difficulty": "Easy",
+        "question": "What does git switch - do?",
+        "options": [
+            "Deletes the current branch",
+            "Switches to the previous branch",
+            "Switches to the default branch",
+            "Shows branch information"
+        ],
+        "answer": 1,
+        "explanation": "git switch - switches to the branch you were on previously, providing a quick way to toggle between two branches."
     }
 ];
