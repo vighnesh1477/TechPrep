@@ -8767,5 +8767,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Merging a branch into itself results in Git reporting 'Already up to date' since the branch tip is the same as the merge target."
+    },
+    {
+        "id": "pf-627",
+        "topic": "Fast Forward Merge",
+        "difficulty": "Easy",
+        "question": "How can you tell if a merge was a fast-forward?",
+        "options": [
+            "A new merge commit is created",
+            "No new merge commit is created and the branch pointer moves forward",
+            "Git displays a special message",
+            "The branch name changes"
+        ],
+        "answer": 1,
+        "explanation": "A fast-forward merge is identifiable by the absence of a new merge commit; the branch pointer simply moves forward to the target commit."
     }
 ];
