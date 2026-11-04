@@ -8795,5 +8795,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "The HEAD reference is stored in the file .git/HEAD, which typically contains a reference to the current branch file in .git/refs/heads/."
+    },
+    {
+        "id": "pf-629",
+        "topic": "Checkout",
+        "difficulty": "Easy",
+        "question": "Why is git checkout considered confusing by many developers?",
+        "options": [
+            "It is too slow",
+            "It has multiple unrelated purposes: switching branches and restoring files",
+            "It requires a password",
+            "It only works on Windows"
+        ],
+        "answer": 1,
+        "explanation": "git checkout is confusing because it serves two very different purposes: switching branches and restoring files, which is why git switch and git restore were introduced."
     }
 ];
