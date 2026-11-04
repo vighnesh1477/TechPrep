@@ -8781,5 +8781,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fast-forward merge is identifiable by the absence of a new merge commit; the branch pointer simply moves forward to the target commit."
+    },
+    {
+        "id": "pf-628",
+        "topic": "HEAD",
+        "difficulty": "Easy",
+        "question": "Where is the HEAD reference stored in a Git repository?",
+        "options": [
+            ".git/HEAD",
+            ".git/refs/HEAD",
+            ".git/config",
+            ".git/heads/HEAD"
+        ],
+        "answer": 0,
+        "explanation": "The HEAD reference is stored in the file .git/HEAD, which typically contains a reference to the current branch file in .git/refs/heads/."
     }
 ];
