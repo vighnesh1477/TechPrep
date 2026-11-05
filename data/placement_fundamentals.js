@@ -8823,5 +8823,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "In Git, tags always point to commit objects (or occasionally other objects like blobs or trees), but not to other tags directly."
+    },
+    {
+        "id": "pf-631",
+        "topic": "Remote Repository",
+        "difficulty": "Easy",
+        "question": "Can a repository have multiple remotes?",
+        "options": [
+            "No, only one remote is allowed",
+            "Yes, a repository can have any number of remotes",
+            "Maximum of two remotes",
+            "Only if they use different protocols"
+        ],
+        "answer": 1,
+        "explanation": "A Git repository can have any number of remotes, each with a unique name, allowing interaction with multiple servers or repositories."
     }
 ];
