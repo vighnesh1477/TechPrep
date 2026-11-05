@@ -8809,5 +8809,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git checkout is confusing because it serves two very different purposes: switching branches and restoring files, which is why git switch and git restore were introduced."
+    },
+    {
+        "id": "pf-630",
+        "topic": "Tags",
+        "difficulty": "Easy",
+        "question": "Can a tag point to a different tag?",
+        "options": [
+            "Yes, tags can point to other tags",
+            "No, tags point to commits, not other tags",
+            "Only annotated tags can point to other tags",
+            "Only lightweight tags can point to other tags"
+        ],
+        "answer": 1,
+        "explanation": "In Git, tags always point to commit objects (or occasionally other objects like blobs or trees), but not to other tags directly."
     }
 ];
