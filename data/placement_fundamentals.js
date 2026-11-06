@@ -8837,5 +8837,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A Git repository can have any number of remotes, each with a unique name, allowing interaction with multiple servers or repositories."
+    },
+    {
+        "id": "pf-632",
+        "topic": "Origin",
+        "difficulty": "Easy",
+        "question": "Is 'origin' a reserved name that Git treats specially?",
+        "options": [
+            "Yes, 'origin' has special built-in behavior",
+            "No, it is just a convention, not a reserved name",
+            "Yes, but only for the main branch",
+            "No, Git requires remotes to be named 'origin'"
+        ],
+        "answer": 1,
+        "explanation": "'origin' is simply a convention used as the default remote name when cloning. Git treats it like any other remote name and does not give it special behavior."
     }
 ];
