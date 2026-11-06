@@ -8851,5 +8851,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "'origin' is simply a convention used as the default remote name when cloning. Git treats it like any other remote name and does not give it special behavior."
+    },
+    {
+        "id": "pf-633",
+        "topic": "Fetch",
+        "difficulty": "Easy",
+        "question": "Does git fetch modify your working directory?",
+        "options": [
+            "Yes, it updates all files",
+            "No, it only downloads data without changing the working tree",
+            "Yes, but only staged files",
+            "It depends on the fetch flags"
+        ],
+        "answer": 1,
+        "explanation": "git fetch only downloads new data and updates remote-tracking references; it never modifies your working directory, staging area, or current branch."
     }
 ];
