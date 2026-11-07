@@ -8865,5 +8865,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git fetch only downloads new data and updates remote-tracking references; it never modifies your working directory, staging area, or current branch."
+    },
+    {
+        "id": "pf-634",
+        "topic": "Pull",
+        "difficulty": "Easy",
+        "question": "What is the main risk of using git pull without reviewing changes first?",
+        "options": [
+            "It might delete the remote repository",
+            "It might introduce merge conflicts or unexpected changes into your working tree",
+            "It might change your Git configuration",
+            "It might create a new remote"
+        ],
+        "answer": 1,
+        "explanation": "git pull automatically merges remote changes, which can introduce unexpected changes or create merge conflicts in your working tree without giving you a chance to review first."
     }
 ];
