@@ -8907,5 +8907,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git clone automatically creates an 'origin' remote pointing to the URL you cloned from, so you can immediately use git fetch, pull, and push."
+    },
+    {
+        "id": "pf-637",
+        "topic": "Fork",
+        "difficulty": "Easy",
+        "question": "What happens to your fork when the original repository is deleted?",
+        "options": [
+            "Your fork is also deleted",
+            "Your fork remains intact as an independent repository",
+            "Your fork becomes read-only",
+            "Your fork is automatically converted to a regular repository"
+        ],
+        "answer": 1,
+        "explanation": "A fork is an independent copy of the repository at the time of forking. Deleting the original does not affect your fork."
     }
 ];
