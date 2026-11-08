@@ -8893,5 +8893,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "When pushing a new branch for the first time, you must either use -u to set the upstream or explicitly specify the remote and branch name in the push command."
+    },
+    {
+        "id": "pf-636",
+        "topic": "Clone",
+        "difficulty": "Easy",
+        "question": "Does git clone automatically set up the origin remote?",
+        "options": [
+            "No, you must add it manually",
+            "Yes, it sets origin to the URL you cloned from",
+            "Only if you use the --origin flag",
+            "Only for HTTPS URLs"
+        ],
+        "answer": 1,
+        "explanation": "git clone automatically creates an 'origin' remote pointing to the URL you cloned from, so you can immediately use git fetch, pull, and push."
     }
 ];
