@@ -8935,5 +8935,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git push upstream main pushes to a remote named 'upstream', which in a fork workflow typically points to the original repository."
+    },
+    {
+        "id": "pf-639",
+        "topic": "Detached HEAD",
+        "difficulty": "Easy",
+        "question": "Can you still use git log, git diff, and git status in a detached HEAD state?",
+        "options": [
+            "No, most Git commands are disabled",
+            "Yes, most read-only commands work normally",
+            "Only git log works",
+            "Only git status works"
+        ],
+        "answer": 1,
+        "explanation": "Most Git commands that don't modify the repository work fine in a detached HEAD state, including log, diff, status, show, and blame."
     }
 ];
