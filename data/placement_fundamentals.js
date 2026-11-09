@@ -8921,5 +8921,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A fork is an independent copy of the repository at the time of forking. Deleting the original does not affect your fork."
+    },
+    {
+        "id": "pf-638",
+        "topic": "Upstream",
+        "difficulty": "Easy",
+        "question": "What does 'git push upstream main' do in a fork workflow?",
+        "options": [
+            "Pushes to the original repository (if you have write access)",
+            "Pushes to a remote named 'upstream'",
+            "Pushes to the default remote",
+            "Creates a new upstream remote"
+        ],
+        "answer": 1,
+        "explanation": "git push upstream main pushes to a remote named 'upstream', which in a fork workflow typically points to the original repository."
     }
 ];
