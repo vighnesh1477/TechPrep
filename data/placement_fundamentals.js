@@ -8949,5 +8949,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Most Git commands that don't modify the repository work fine in a detached HEAD state, including log, diff, status, show, and blame."
+    },
+    {
+        "id": "pf-640",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "If a file is already tracked by Git, will adding it to .gitignore stop tracking it?",
+        "options": [
+            "Yes, immediately",
+            "No, you must unstage and remove it from tracking first",
+            "Yes, after the next commit",
+            "No, .gitignore cannot affect already-tracked files"
+        ],
+        "answer": 1,
+        "explanation": ".gitignore only prevents untracked files from being added. To stop tracking a file, you must first remove it from the index with git rm --cached."
     }
 ];
