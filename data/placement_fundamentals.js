@@ -8963,5 +8963,19 @@ export default [
         ],
         "answer": 1,
         "explanation": ".gitignore only prevents untracked files from being added. To stop tracking a file, you must first remove it from the index with git rm --cached."
+    },
+    {
+        "id": "pf-641",
+        "topic": "Ignore (.gitignore)",
+        "difficulty": "Easy",
+        "question": "Where should you place a .gitignore file for it to apply to the entire repository?",
+        "options": [
+            "In the .git directory",
+            "In the repository root",
+            "In your home directory",
+            "In any subdirectory"
+        ],
+        "answer": 1,
+        "explanation": "A .gitignore file in the repository root applies to all files and directories in the repository, though patterns can be overridden by .gitignore files in subdirectories."
     }
 ];
