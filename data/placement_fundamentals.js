@@ -8991,5 +8991,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git config --unset alias.<name> removes the specified alias from the configuration, restoring the original command behavior."
+    },
+    {
+        "id": "pf-643",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What programming language is Git primarily written in?",
+        "options": [
+            "Python",
+            "C",
+            "Java",
+            "Rust"
+        ],
+        "answer": 1,
+        "explanation": "Git is primarily written in C, with some parts in shell scripting and Perl. This contributes to its speed and efficiency."
     }
 ];
