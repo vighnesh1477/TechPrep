@@ -8977,5 +8977,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "A .gitignore file in the repository root applies to all files and directories in the repository, though patterns can be overridden by .gitignore files in subdirectories."
+    },
+    {
+        "id": "pf-642",
+        "topic": "Aliases",
+        "difficulty": "Easy",
+        "question": "How do you remove a Git alias?",
+        "options": [
+            "git config --unset alias.<name>",
+            "git alias --remove <name>",
+            "git unalias <name>",
+            "git config --delete-alias <name>"
+        ],
+        "answer": 0,
+        "explanation": "git config --unset alias.<name> removes the specified alias from the configuration, restoring the original command behavior."
     }
 ];
