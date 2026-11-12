@@ -9005,5 +9005,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git is primarily written in C, with some parts in shell scripting and Perl. This contributes to its speed and efficiency."
+    },
+    {
+        "id": "pf-644",
+        "topic": "Git Basics",
+        "difficulty": "Easy",
+        "question": "What does Git store in its object database?",
+        "options": [
+            "Only file contents",
+            "Blobs, trees, and commits",
+            "Only commit messages",
+            "Only branch names"
+        ],
+        "answer": 1,
+        "explanation": "Git's object database stores three types of objects: blobs (file contents), trees (directory structures), and commits (snapshots with metadata)."
     }
 ];
