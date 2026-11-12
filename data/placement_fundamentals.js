@@ -9019,5 +9019,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git's object database stores three types of objects: blobs (file contents), trees (directory structures), and commits (snapshots with metadata)."
+    },
+    {
+        "id": "pf-645",
+        "topic": "Repository Initialization",
+        "difficulty": "Easy",
+        "question": "What is the first commit in a repository often called?",
+        "options": [
+            "Root commit",
+            "Initial commit",
+            "Base commit",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "The first commit in a repository is commonly referred to as the root commit or initial commit, as it has no parent commits."
     }
 ];
