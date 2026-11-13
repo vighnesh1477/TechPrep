@@ -9033,5 +9033,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "The first commit in a repository is commonly referred to as the root commit or initial commit, as it has no parent commits."
+    },
+    {
+        "id": "pf-646",
+        "topic": "Git Config",
+        "difficulty": "Easy",
+        "question": "Which priority order does Git use for configuration files?",
+        "options": [
+            "Local > Global > System",
+            "System > Global > Local",
+            "Global > Local > System",
+            "All have equal priority"
+        ],
+        "answer": 0,
+        "explanation": "Local repository config (.git/config) has the highest priority, overriding global (~/.gitconfig), which overrides system (/etc/gitconfig) settings."
     }
 ];
