@@ -9047,5 +9047,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "Local repository config (.git/config) has the highest priority, overriding global (~/.gitconfig), which overrides system (/etc/gitconfig) settings."
+    },
+    {
+        "id": "pf-647",
+        "topic": "Working Tree",
+        "difficulty": "Easy",
+        "question": "What command shows all untracked files explicitly?",
+        "options": [
+            "git ls-files --others",
+            "git status --untracked",
+            "git list untracked",
+            "git show-untracked"
+        ],
+        "answer": 0,
+        "explanation": "git ls-files --others lists all untracked files in the repository, which can be useful for scripting or detailed analysis."
     }
 ];
