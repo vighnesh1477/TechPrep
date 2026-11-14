@@ -9061,5 +9061,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git ls-files --others lists all untracked files in the repository, which can be useful for scripting or detailed analysis."
+    },
+    {
+        "id": "pf-648",
+        "topic": "Staging Area",
+        "difficulty": "Easy",
+        "question": "What does git diff --cached show compared to git diff --staged?",
+        "options": [
+            "They show different things",
+            "They are identical, --cached and --staged are synonyms",
+            "--cached shows more detail",
+            "--staged is deprecated"
+        ],
+        "answer": 1,
+        "explanation": "--cached and --staged are exact synonyms in git diff, both showing the difference between the staging area and the most recent commit."
     }
 ];
