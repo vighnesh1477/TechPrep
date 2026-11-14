@@ -9075,5 +9075,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "--cached and --staged are exact synonyms in git diff, both showing the difference between the staging area and the most recent commit."
+    },
+    {
+        "id": "pf-649",
+        "topic": "Commits",
+        "difficulty": "Easy",
+        "question": "Can a commit have zero parents?",
+        "options": [
+            "No, every commit must have at least one parent",
+            "Yes, the initial (root) commit has no parents",
+            "Only in bare repositories",
+            "Only when using --allow-empty"
+        ],
+        "answer": 1,
+        "explanation": "The root commit (first commit) in a repository has zero parents, as there is no previous commit to reference."
     }
 ];
