@@ -9089,5 +9089,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "The root commit (first commit) in a repository has zero parents, as there is no previous commit to reference."
+    },
+    {
+        "id": "pf-650",
+        "topic": "Git Log",
+        "difficulty": "Easy",
+        "question": "What does git log --grep=\"bugfix\" filter for?",
+        "options": [
+            "Files containing 'bugfix'",
+            "Commits with 'bugfix' in the commit message",
+            "Branches with 'bugfix' in the name",
+            "Authors named 'bugfix'"
+        ],
+        "answer": 1,
+        "explanation": "git log --grep filters commits by searching for the specified pattern in the commit message, not in file contents or author names."
     }
 ];
