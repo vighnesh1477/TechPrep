@@ -9131,5 +9131,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "'A ' indicates that a file has been newly added to the staging area and will be included in the next commit."
+    },
+    {
+        "id": "pf-653",
+        "topic": "Branches",
+        "difficulty": "Easy",
+        "question": "Which command forcefully deletes a local branch regardless of merge status?",
+        "options": [
+            "git branch -d feature",
+            "git branch -D feature",
+            "git branch --force-delete feature",
+            "git delete-branch --force feature"
+        ],
+        "answer": 1,
+        "explanation": "git branch -D (capital D, short for --delete --force) deletes a branch even if it hasn't been merged, which can result in losing unmerged commits."
     }
 ];
