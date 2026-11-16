@@ -9117,5 +9117,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "Specifying a file path at the end limits the diff output to changes in that specific file between the two commits."
+    },
+    {
+        "id": "pf-652",
+        "topic": "Git Status",
+        "difficulty": "Easy",
+        "question": "What does 'A ' mean in git status --short?",
+        "options": [
+            "A file was amended",
+            "A new file has been added to the staging area",
+            "A file was archived",
+            "A file was approved"
+        ],
+        "answer": 1,
+        "explanation": "'A ' indicates that a file has been newly added to the staging area and will be included in the next commit."
     }
 ];
