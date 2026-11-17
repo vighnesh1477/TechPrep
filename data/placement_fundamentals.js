@@ -9159,5 +9159,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git uses <<<<<<< HEAD to mark the start of the conflict, ======= to separate the two versions, and >>>>>>> branch-name to mark the end."
+    },
+    {
+        "id": "pf-655",
+        "topic": "Merge Conflicts",
+        "difficulty": "Medium",
+        "question": "What does git diff --check do during conflict resolution?",
+        "options": [
+            "Checks if all conflicts are resolved",
+            "Detects leftover whitespace errors and conflict markers",
+            "Checks the diff for syntax errors",
+            "Verifies the merge commit message"
+        ],
+        "answer": 1,
+        "explanation": "git diff --check detects whitespace errors and leftover conflict markers, helping you catch unresolved conflicts before committing."
     }
 ];
