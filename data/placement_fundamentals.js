@@ -9145,5 +9145,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git branch -D (capital D, short for --delete --force) deletes a branch even if it hasn't been merged, which can result in losing unmerged commits."
+    },
+    {
+        "id": "pf-654",
+        "topic": "Merge Conflicts",
+        "difficulty": "Medium",
+        "question": "What do conflict markers in a file look like?",
+        "options": [
+            "<!-- conflict --> and <!-- end -->",
+            "<<<<<<< HEAD and >>>>>>> branch-name with ======= in between",
+            "# CONFLICT START and # CONFLICT END",
+            "[CONFLICT] and [/CONFLICT]"
+        ],
+        "answer": 1,
+        "explanation": "Git uses <<<<<<< HEAD to mark the start of the conflict, ======= to separate the two versions, and >>>>>>> branch-name to mark the end."
     }
 ];
