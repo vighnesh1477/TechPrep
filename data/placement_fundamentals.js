@@ -9187,5 +9187,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Git blocks the commit if any files still contain conflict markers, requiring you to resolve all conflicts and stage the resolved files first."
+    },
+    {
+        "id": "pf-657",
+        "topic": "Rebase",
+        "difficulty": "Medium",
+        "question": "What does git rebase main do when on a feature branch?",
+        "options": [
+            "Moves the main branch to point at the feature branch",
+            "Reapplies feature branch commits on top of the latest main branch",
+            "Deletes the main branch",
+            "Merges main into the feature branch"
+        ],
+        "answer": 1,
+        "explanation": "git rebase main takes your feature branch commits, temporarily removes them, updates the branch to match main, then replays your commits on top."
     }
 ];
