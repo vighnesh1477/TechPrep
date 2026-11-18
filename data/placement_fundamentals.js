@@ -9173,5 +9173,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git diff --check detects whitespace errors and leftover conflict markers, helping you catch unresolved conflicts before committing."
+    },
+    {
+        "id": "pf-656",
+        "topic": "Merge Conflicts",
+        "difficulty": "Medium",
+        "question": "What happens if you try to commit while merge conflicts are unresolved?",
+        "options": [
+            "Git commits the files with conflict markers",
+            "Git prevents the commit with an error about unresolved conflicts",
+            "Git automatically resolves conflicts",
+            "Git creates a partial commit"
+        ],
+        "answer": 1,
+        "explanation": "Git blocks the commit if any files still contain conflict markers, requiring you to resolve all conflicts and stage the resolved files first."
     }
 ];
