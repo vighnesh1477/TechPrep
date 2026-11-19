@@ -9201,5 +9201,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git rebase main takes your feature branch commits, temporarily removes them, updates the branch to match main, then replays your commits on top."
+    },
+    {
+        "id": "pf-658",
+        "topic": "Rebase",
+        "difficulty": "Medium",
+        "question": "What is the main advantage of rebasing over merging?",
+        "options": [
+            "It is always faster",
+            "It produces a linear, cleaner commit history",
+            "It preserves the original branch structure",
+            "It automatically resolves all conflicts"
+        ],
+        "answer": 1,
+        "explanation": "Rebasing creates a linear project history without merge commits, making it easier to read and follow the progression of changes."
     }
 ];
