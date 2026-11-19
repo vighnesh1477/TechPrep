@@ -9215,5 +9215,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Rebasing creates a linear project history without merge commits, making it easier to read and follow the progression of changes."
+    },
+    {
+        "id": "pf-659",
+        "topic": "Rebase",
+        "difficulty": "Medium",
+        "question": "What does git rebase --abort do?",
+        "options": [
+            "Deletes the current branch",
+            "Cancels the rebase and returns the branch to its original state",
+            "Completes the rebase automatically",
+            "Skips the current conflicting commit"
+        ],
+        "answer": 1,
+        "explanation": "git rebase --abort stops the rebase process and restores the branch to its state before the rebase began, useful when conflicts become too complex."
     }
 ];
