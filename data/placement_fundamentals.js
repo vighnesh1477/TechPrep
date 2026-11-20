@@ -9229,5 +9229,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git rebase --abort stops the rebase process and restores the branch to its state before the rebase began, useful when conflicts become too complex."
+    },
+    {
+        "id": "pf-660",
+        "topic": "Cherry Pick",
+        "difficulty": "Medium",
+        "question": "What does git cherry-pick abc123 do?",
+        "options": [
+            "Deletes commit abc123",
+            "Applies the changes from commit abc123 to the current branch",
+            "Moves commit abc123 to a different branch",
+            "Reverts the changes from commit abc123"
+        ],
+        "answer": 1,
+        "explanation": "git cherry-pick takes the changes introduced by the specified commit and applies them as a new commit on the current branch."
     }
 ];
