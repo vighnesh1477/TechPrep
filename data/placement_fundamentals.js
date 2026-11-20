@@ -9243,5 +9243,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git cherry-pick takes the changes introduced by the specified commit and applies them as a new commit on the current branch."
+    },
+    {
+        "id": "pf-661",
+        "topic": "Cherry Pick",
+        "difficulty": "Medium",
+        "question": "How do you cherry-pick multiple commits?",
+        "options": [
+            "git cherry-pick abc123 def456",
+            "git cherry-pick abc123..def456 (exclusive range) or git cherry-pick abc123^..def456 (inclusive)",
+            "git cherry-pick --multiple abc123 def456",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "You can cherry-pick individual commits by listing them or use a range. The A..B range is exclusive of A, so prepend ^ to include it."
     }
 ];
