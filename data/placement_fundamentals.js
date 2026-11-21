@@ -9257,5 +9257,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "You can cherry-pick individual commits by listing them or use a range. The A..B range is exclusive of A, so prepend ^ to include it."
+    },
+    {
+        "id": "pf-662",
+        "topic": "Cherry Pick",
+        "difficulty": "Medium",
+        "question": "What does the -x flag do in git cherry-pick?",
+        "options": [
+            "Deletes the original commit after cherry-picking",
+            "Appends the original commit hash to the cherry-picked commit message",
+            "Creates a merge instead of a cherry-pick",
+            "Excludes the commit from history"
+        ],
+        "answer": 1,
+        "explanation": "git cherry-pick -x adds a line to the commit message showing the original commit hash, making it easier to trace where the change came from."
     }
 ];
