@@ -9271,5 +9271,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git cherry-pick -x adds a line to the commit message showing the original commit hash, making it easier to trace where the change came from."
+    },
+    {
+        "id": "pf-663",
+        "topic": "Reset",
+        "difficulty": "Medium",
+        "question": "What does git reset --soft HEAD~1 do?",
+        "options": [
+            "Discards the last commit and all its changes",
+            "Undoes the last commit but keeps changes in the staging area",
+            "Undoes the last commit and unstages the changes",
+            "Deletes the last commit permanently"
+        ],
+        "answer": 1,
+        "explanation": "git reset --soft moves the branch pointer back one commit but keeps all changes from the undone commit in the staging area, ready to be recommitted."
     }
 ];
