@@ -9285,5 +9285,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git reset --soft moves the branch pointer back one commit but keeps all changes from the undone commit in the staging area, ready to be recommitted."
+    },
+    {
+        "id": "pf-664",
+        "topic": "Reset",
+        "difficulty": "Medium",
+        "question": "What does git reset --mixed HEAD~1 do?",
+        "options": [
+            "Undoes the last commit and keeps changes staged",
+            "Undoes the last commit and unstages the changes but keeps them in the working tree",
+            "Discards the last commit and all its changes",
+            "Resets the working tree to a clean state"
+        ],
+        "answer": 1,
+        "explanation": "git reset --mixed (the default) moves the branch pointer back and unstages the changes, leaving them as modified files in the working tree."
     }
 ];
