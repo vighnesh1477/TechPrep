@@ -9313,5 +9313,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git reset --hard is destructive: it moves the branch pointer back and resets both the staging area and working tree to match, permanently discarding changes."
+    },
+    {
+        "id": "pf-666",
+        "topic": "Revert",
+        "difficulty": "Medium",
+        "question": "How does git revert differ from git reset?",
+        "options": [
+            "They are the same command",
+            "Revert creates a new commit that undoes changes; reset moves the branch pointer",
+            "Revert is destructive; reset is safe",
+            "Reset creates a new commit; revert moves the branch pointer"
+        ],
+        "answer": 1,
+        "explanation": "Revert creates a new commit that inversely applies the changes from a previous commit, while reset moves the branch pointer back, potentially discarding history."
     }
 ];
