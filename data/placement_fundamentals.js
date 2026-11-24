@@ -9341,5 +9341,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git revert --no-commit applies the inverse changes to the staging area but does not create a commit, allowing you to combine multiple reverts into one commit."
+    },
+    {
+        "id": "pf-668",
+        "topic": "Revert",
+        "difficulty": "Medium",
+        "question": "Can you revert a merge commit?",
+        "options": [
+            "No, merge commits cannot be reverted",
+            "Yes, but you should use -m flag to specify which parent to revert to",
+            "Yes, it works exactly like reverting a regular commit",
+            "Only if there were no conflicts in the merge"
+        ],
+        "answer": 1,
+        "explanation": "Reverting a merge commit requires the -m flag to specify which parent line to revert onto, because a merge has multiple parents and Git needs to know the target."
     }
 ];
