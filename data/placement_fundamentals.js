@@ -9355,5 +9355,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "Reverting a merge commit requires the -m flag to specify which parent line to revert onto, because a merge has multiple parents and Git needs to know the target."
+    },
+    {
+        "id": "pf-669",
+        "topic": "Restore",
+        "difficulty": "Medium",
+        "question": "What does git restore --staged file.txt do?",
+        "options": [
+            "Restores the file from the last commit to the working tree",
+            "Unstages the file, moving it from the staging area back to the working tree",
+            "Deletes the file",
+            "Restores a deleted file from the staging area"
+        ],
+        "answer": 1,
+        "explanation": "git restore --staged removes the file from the staging area while preserving its current content in the working tree, equivalent to git reset HEAD -- file.txt."
     }
 ];
