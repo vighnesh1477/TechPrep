@@ -9383,5 +9383,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both -s and --source specify the tree to restore from, so git restore -s abc123 file.txt and git restore --source abc123 file.txt are equivalent."
+    },
+    {
+        "id": "pf-671",
+        "topic": "Stash",
+        "difficulty": "Medium",
+        "question": "What does git stash do?",
+        "options": [
+            "Permanently deletes uncommitted changes",
+            "Temporarily saves uncommitted changes and reverts the working tree to the last commit",
+            "Commits all changes with a special message",
+            "Moves changes to a different branch"
+        ],
+        "answer": 1,
+        "explanation": "git stash saves your uncommitted changes (both staged and unstaged) to a stack and restores the working tree to match the last commit."
     }
 ];
