@@ -9369,5 +9369,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git restore --staged removes the file from the staging area while preserving its current content in the working tree, equivalent to git reset HEAD -- file.txt."
+    },
+    {
+        "id": "pf-670",
+        "topic": "Restore",
+        "difficulty": "Medium",
+        "question": "How do you restore a file to its state at a specific commit using git restore?",
+        "options": [
+            "git restore --from abc123 file.txt",
+            "git restore -s abc123 file.txt",
+            "git restore --source abc123 file.txt",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Both -s and --source specify the tree to restore from, so git restore -s abc123 file.txt and git restore --source abc123 file.txt are equivalent."
     }
 ];
