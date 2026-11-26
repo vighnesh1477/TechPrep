@@ -9397,5 +9397,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git stash saves your uncommitted changes (both staged and unstaged) to a stack and restores the working tree to match the last commit."
+    },
+    {
+        "id": "pf-672",
+        "topic": "Stash",
+        "difficulty": "Medium",
+        "question": "How do you apply the most recent stash without removing it from the stash list?",
+        "options": [
+            "git stash apply",
+            "git stash pop",
+            "git stash get",
+            "git stash restore"
+        ],
+        "answer": 0,
+        "explanation": "git stash apply applies the most recent stash to the working tree but keeps it in the stash list, unlike git stash pop which also removes it."
     }
 ];
