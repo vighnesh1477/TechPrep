@@ -9411,5 +9411,19 @@ export default [
         ],
         "answer": 0,
         "explanation": "git stash apply applies the most recent stash to the working tree but keeps it in the stash list, unlike git stash pop which also removes it."
+    },
+    {
+        "id": "pf-673",
+        "topic": "Stash",
+        "difficulty": "Medium",
+        "question": "What does git stash pop do?",
+        "options": [
+            "Shows the stash list",
+            "Applies the most recent stash and removes it from the stash list",
+            "Deletes the most recent stash without applying it",
+            "Applies the stash but keeps it in the list"
+        ],
+        "answer": 1,
+        "explanation": "git stash pop applies the most recent stash entries to the working tree and then removes them from the stash stack."
     }
 ];
