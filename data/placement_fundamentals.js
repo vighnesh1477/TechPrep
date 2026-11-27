@@ -9439,5 +9439,19 @@ export default [
         ],
         "answer": 3,
         "explanation": "Both git stash push -m and git stash save (though deprecated) allow you to attach a descriptive message to the stash entry for easier identification later."
+    },
+    {
+        "id": "pf-675",
+        "topic": "Tags",
+        "difficulty": "Medium",
+        "question": "How do you check out a specific tag to examine its state?",
+        "options": [
+            "git tag checkout v1.0",
+            "git checkout v1.0",
+            "git switch v1.0",
+            "git use-tag v1.0"
+        ],
+        "answer": 1,
+        "explanation": "git checkout v1.0 checks out the tag, putting you in a detached HEAD state at the commit the tag points to."
     }
 ];
