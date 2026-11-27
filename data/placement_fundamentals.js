@@ -9425,5 +9425,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git stash pop applies the most recent stash entries to the working tree and then removes them from the stash stack."
+    },
+    {
+        "id": "pf-674",
+        "topic": "Stash",
+        "difficulty": "Medium",
+        "question": "How do you create a stash with a custom message?",
+        "options": [
+            "git stash --message \"my work\"",
+            "git stash push -m \"my work\"",
+            "git stash save \"my work\"",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Both git stash push -m and git stash save (though deprecated) allow you to attach a descriptive message to the stash entry for easier identification later."
     }
 ];
