@@ -9453,5 +9453,19 @@ export default [
         ],
         "answer": 1,
         "explanation": "git checkout v1.0 checks out the tag, putting you in a detached HEAD state at the commit the tag points to."
+    },
+    {
+        "id": "pf-676",
+        "topic": "Tags",
+        "difficulty": "Medium",
+        "question": "How do you delete a remote tag?",
+        "options": [
+            "git push --delete origin v1.0",
+            "git push origin :refs/tags/v1.0",
+            "Both A and B",
+            "git remote remove-tag origin v1.0"
+        ],
+        "answer": 2,
+        "explanation": "Both git push --delete origin v1.0 (modern) and git push origin :refs/tags/v1.0 (traditional) delete the specified tag from the remote repository."
     }
 ];
